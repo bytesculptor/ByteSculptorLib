@@ -82,6 +82,7 @@
     <string name="more_licenses">più licenze</string>
     <string name="szMoreApps">Byte Sculptor Apps</string>
     <string name="szFaq">FAQ</string>
+    <string name="errorOpeningExternalLink">Errore durante l\'apertura del collegamento esterno</string>
 
 
 </resources>

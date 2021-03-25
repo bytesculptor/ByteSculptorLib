@@ -21,12 +21,28 @@
   <string name="szWebsite">ウェブサイト</string>
   <string name="szMoreApps">Byte Sculptor アプリ</string>
   <string name="szFaq">FAQ</string>
-  <string name="errorOnOpenPrivacyPolicyLink">Error. Check the app store for the privacy policy.</string>
-  <string name="szRateThisApp">このアプリを評価する</string>
   <string name="szOk">はい</string>
   <string name="app_theme">テーマ</string>
   <string name="app_theme_dark">ダーク</string>
   <string name="app_theme_system">システムのデフォルト</string>
   <string name="app_theme_light">ライト</string>
+
+  <!-- app rating -->
+  <string name="szRateThisApp">このアプリを評価する</string>
+  <string name="szLikeThisAppTitle">このアプリを楽しんでいますか？</string>
+  <string name="szLikeThisAppNo">そんなにない</string>
+  <string name="szLikeThisAppMessage">これまでの経験はいかがですか？あなたはこのアプリが好きですか？</string>
+  <string name="szAskFeedbackMessage">誠に申し訳ございません！アプリを改善するためにフィードバックを送信しますか？</string>
+  <string name="szRatingMessage">このアプリを評価していただけませんか？ご協力ありがとうございました！</string>
+  <string name="szRateNow">今すぐ評価</string>
+  <string name="szRemindMe">私に思い出させる</string>
+
+
+  <string name="errorOnOpenPrivacyPolicyLink">エラー。プライバシーポリシーについては、アプリストアを確認してください。</string>
+  <string name="errorOpeningExternalLink">外部リンクを開くときにエラーが発生しました</string>
+  <string name="szNotifications">通知</string>
+  <string name="notif_setting">通知設定</string>
+  <string name="notAvailable">お使いのシステムでは利用できません</string>
+  <string name="szNoCancel">いいえ、キャンセルします</string>
 
 </resources>
