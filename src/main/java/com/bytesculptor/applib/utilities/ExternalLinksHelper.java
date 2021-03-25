@@ -110,7 +110,7 @@ public class ExternalLinksHelper {
         } catch (
                 ActivityNotFoundException e) {
             context.startActivity(new Intent(Intent.ACTION_VIEW,
-                    Uri.parse("https://play.google.com/store/apps/dev?id=4913602895703268011")));
+                    Uri.parse("https://play.google.com/store/apps/dev?id=7643395524006358452")));
         }
     }
 
