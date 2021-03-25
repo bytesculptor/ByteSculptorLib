@@ -1,7 +1,7 @@
 /*
  * MIT License
  *
- * Copyright (c) 2017 - 2021  Byte Sculptor Software
+ * Copyright (c) 2020 Byte Sculptor Software
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -21,24 +21,22 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
+package com.bytesculptor.applib.ui.help
 
-package com.bytesculptor.applib.ui.help;
+import android.os.Bundle
+import android.view.LayoutInflater
+import android.view.View
+import android.view.ViewGroup
+import android.widget.TextView
+import androidx.fragment.app.Fragment
+import com.bytesculptor.applib.R
+import com.bytesculptor.applib.utilities.ExternalLinksHelper
 
-import android.os.Bundle;
-import android.view.LayoutInflater;
-import android.view.View;
-import android.view.ViewGroup;
-
-import androidx.fragment.app.Fragment;
-
-import com.bytesculptor.applib.R;
-
-
-public class OpenSourceFragment extends Fragment {
-
-
-    @Override
-    public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.fragment_open_source, container, false);
+class DisclaimerFragment : Fragment() {
+    override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
+        val view = inflater.inflate(R.layout.fragment_disclaimer, container, false)
+        val feedback = view.findViewById<TextView>(R.id.tvFeedbackMailLink)
+        feedback?.setOnClickListener { v: View? -> ExternalLinksHelper.sendFeedbackMail(requireContext(), "App") }
+        return view.rootView
     }
 }
