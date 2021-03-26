@@ -24,5 +24,9 @@
   <string name="errorOnOpenPrivacyPolicyLink">Error. Check the app store for the privacy policy.</string>
   <string name="szRateThisApp">このアプリを評価する</string>
   <string name="szOk">はい</string>
+  <string name="app_theme">テーマ</string>
+  <string name="app_theme_dark">ダーク</string>
+  <string name="app_theme_system">システムのデフォルト</string>
+  <string name="app_theme_light">ライト</string>
 
 </resources>
