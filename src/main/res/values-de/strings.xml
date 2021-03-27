@@ -80,5 +80,6 @@
     <string name="szMoreApps">Byte Sculptor Apps</string>
     <string name="szFaq">FAQ</string>
     <string name="errorOpeningExternalLink">Fehler beim Öffnen des externen Links</string>
+    <string name="szOk">OK</string>
 
 </resources>
