@@ -62,7 +62,7 @@
     <string name="app_theme_system">System Einstellung</string>
     <string name="szSave">Speichern</string>
     <string name="szDisclaimer">Haftungsausschluss</string>
-    <string name="szPrivacyPolicy">Datenschutz-Bestimmungen</string>
+    <string name="szPrivacyPolicy">Datenschutzerklärung</string>
     <string name="szDelete">Löschen</string>
     <string name="szVisitInPlayStore">App im Play Store</string>
     <string name="notAvailable">Auf Ihrem System nicht verfügbar</string>
@@ -80,5 +80,6 @@
     <string name="szMoreApps">Byte Sculptor Apps</string>
     <string name="szFaq">FAQ</string>
     <string name="errorOpeningExternalLink">Fehler beim Öffnen des externen Links</string>
+    <string name="szOk">OK</string>
 
 </resources>

@@ -55,5 +55,7 @@
   <string name="notif_setting">通知設定</string>
   <string name="notAvailable">お使いのシステムでは利用できません</string>
   <string name="szNoCancel">いいえ、キャンセルします</string>
+  <string name="szNo">いいえ</string>
+  <string name="szYes">はい</string>
 
 </resources>

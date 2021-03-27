@@ -49,5 +49,7 @@
     <string name="szSettings">Configurações</string>
     <string name="szSave">Salvar</string>
     <string name="szMoreApps">Byte Sculptor Apps</string>
+    <string name="szNo">Não</string>
+    <string name="szYes">sim</string>
 
 </resources>
