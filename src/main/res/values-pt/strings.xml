@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c)  2021  Byte Sculptor Software  - All Rights Reserved
+  ~
+  ~ All information contained herein is and remains the property of Byte Sculptor Software.
+  ~ Unauthorized copying of this file, via any medium, is strictly prohibited unless prior
+  ~ written permission is obtained from Byte Sculptor Software.
+  ~
+  ~ Romeo Rondinelli - bytesculptor@gmail.com
+  ~
+  -->
+
+<resources>
+    <string name="dev_email">bytesculptor@gmail.com</string>
+    <string name="szOk">OK</string>
+    <string name="szCancel">Cancelar</string>
+    <string name="share_app">Compartilhar este aplicativo</string>
+
+    <!-- app rating -->
+    <string name="szRateThisApp">Avaliar este aplicativo</string>
+    <string name="szLikeThisAppTitle">Está gostando deste aplicativo?</string>
+    <string name="szLikeThisAppNo">Não muito</string>
+    <string name="szLikeThisAppMessage">Como está sua experiência até agora? Você gosta deste aplicativo?</string>
+    <string name="szAskFeedbackMessage">Lamentamos muito! Gostaria de enviar feedback para que possamos melhorar o aplicativo?</string>
+    <string name="szRatingMessage">Poderia avaliar este aplicativo? Obrigado por seu apoio!</string>
+    <string name="szRateNow">Avaliar agora</string>
+    <string name="szRemindMe">Lembrar-me</string>
+    <string name="szNoThanks">Não, obrigado</string>
+
+    <!-- help -->
+    <string name="szHelp">Ajuda</string>
+    <string name="szIntroduction">Introdução</string>
+    <string name="szAbout">Sobre</string>
+    <string name="szFeedback">Enviar feedback</string>
+    <string name="szAppVersion">Versão do aplicativo</string>
+    <string name="szContact">Contato</string>
+    <string name="szFaq">Perguntas frequentes</string>
+    <string name="szContactIntro">Muitos usuários tentam entrar em contato comigo por meio do sistema de classificação do aplicativo na Google Play Store. Infelizmente, o espaço de resposta do desenvolvedor é limitado pelo Google. Para obter melhor suporte, escreva para:</string>
+    <string name="open_source_licenses">Licenças de código aberto</string>
+
+    <!-- licenses -->
+    <string name="szLicensesHeader">Este aplicativo usa atualmente o seguinte software de código aberto:</string>
+    <string name="errorOnOpenPrivacyPolicyLink">Erro. Verifique a app store para obter a política de privacidade.</string>
+    <string name="szDisclaimer">Isenção de responsabilidade</string>
+    <string name="szPrivacyPolicy">Política de Privacidade</string>
+    <string name="szVisitInPlayStore">App na Play Store</string>
+    <string name="errorOpeningExternalLink">Erro ao abrir link externo</string>
+    <string name="szWebsite">Local na rede Internet</string>
+    <string name="more_licenses">mais licenças</string>
+    <string name="szSettings">Configurações</string>
+    <string name="szSave">Salvar</string>
+    <string name="szMoreApps">Byte Sculptor Apps</string>
+
+</resources>
