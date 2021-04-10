@@ -27,4 +27,18 @@
     <string name="szHelp">Tolong</string>
     <string name="szWebsite">Situs web</string>
     <string name="szVisitInPlayStore">Aplikasi di Play Store</string>
+    <string name="szRateThisApp">Nilai aplikasi ini</string>
+    <string name="szLikeThisAppTitle">Menikmati aplikasi ini?</string>
+    <string name="szRateNow">Beri peringkat sekarang</string>
+    <string name="szNoThanks">Tidak, terima kasih</string>
+    <string name="szLikeThisAppNo">Tidak terlalu banyak</string>
+    <string name="szLikeThisAppMessage">Bagaimana pengalaman Anda sejauh ini? Apakah Anda menyukai aplikasi ini?</string>
+    <string name="szAskFeedbackMessage">Kami sangat menyesal! Apakah Anda ingin mengirim masukan agar kami meningkatkan aplikasi?</string>
+    <string name="szRatingMessage">Maukah Anda meluangkan waktu untuk menilai aplikasi ini? Terima kasih atas dukunganmu!</string>
+    <string name="szRemindMe">Mengingatkanku</string>
+    <string name="notAvailable">Tidak tersedia di sistem Anda</string>
+    <string name="szNo">tidak</string>
+    <string name="szYes">Iya</string>
+    <string name="errorOnOpenPrivacyPolicyLink">Kesalahan. Periksa app store untuk mengetahui kebijakan privasi.</string>
+    <string name="errorOpeningExternalLink">Kesalahan saat membuka tautan eksternal</string>
 </resources>

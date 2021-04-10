@@ -57,5 +57,6 @@
   <string name="szNoCancel">いいえ、キャンセルします</string>
   <string name="szNo">いいえ</string>
   <string name="szYes">はい</string>
+    <string name="szNoThanks">結構です</string>
 
 </resources>

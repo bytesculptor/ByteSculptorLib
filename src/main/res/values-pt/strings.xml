@@ -50,5 +50,6 @@
     <string name="szMoreApps">Byte Sculptor Apps</string>
     <string name="szNo">Não</string>
     <string name="szYes">sim</string>
+    <string name="notAvailable">Não disponível em seu sistema</string>
 
 </resources>
