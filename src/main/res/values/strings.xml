@@ -64,6 +64,7 @@
     <string name="szMerge" translatable="false">Merge</string>
     <string name="szAll" translatable="false">all</string>
     <string name="share_app">Share this app</string>
+    <string name="reset">reset</string>
 
 
     <!-- files -->
