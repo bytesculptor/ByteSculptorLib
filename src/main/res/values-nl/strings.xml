@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2021 Byte Sculptor Software - All Rights Reserved
+  ~
+  ~ All information contained herein is and remains the property of Byte Sculptor Software.
+  ~ Unauthorized copying of this file, via any medium, is strictly prohibited unless prior
+  ~ written permission is obtained from Byte Sculptor Software.
+  ~
+  ~ Romeo Rondinelli - bytesculptor@gmail.com
+  ~
+  -->
+
+<resources>
+    <string name="szOk">OK</string>
+    <string name="szCancel">annuleren</string>
+    <string name="share_app">Deel deze app</string>
+
+    <string name="szRateThisApp">Beoordeel deze app</string>
+    <string name="szLikeThisAppTitle">Geniet je van deze app?</string>
+    <string name="szLikeThisAppNo">Niet zo veel</string>
+    <string name="szLikeThisAppMessage">Hoe is uw ervaring tot nu toe? Vind je deze app leuk?</string>
+    <string name="szAskFeedbackMessage">Het spijt ons heel erg! Wil je feedback sturen zodat we de app kunnen verbeteren?</string>
+    <string name="szRatingMessage">Zou je even de tijd willen nemen om deze app te beoordelen? Bedankt voor je steun!</string>
+    <string name="szRateNow">Beoordeel nu</string>
+    <string name="szRemindMe">Herinner me</string>
+    <string name="szNoThanks">Nee, dank u wel</string>
+
+    <string name="szHelp">Helpen</string>
+    <string name="szIntroduction">Invoering</string>
+    <string name="szAbout">Over</string>
+    <string name="szFeedback">Feedback verzenden</string>
+    <string name="szAppVersion">App versie</string>
+    <string name="szContact">Contact</string>
+    <string name="szFaq">FAQ</string>
+    <string name="szContactIntro">Veel gebruikers proberen contact met mij op te nemen via het beoordelingssysteem van de app in Google Play Store. Helaas wordt de antwoordruimte van de ontwikkelaar beperkt door Google. Voor betere ondersteuning kunt u schrijven naar:</string>
+    <string name="open_source_licenses">Open source licenties</string>
+
+    <string name="szLicensesHeader">Deze app maakt momenteel gebruik van de volgende open source software:</string>
+
+    <string name="errorOnOpenPrivacyPolicyLink">Fout. Kijk in de app store voor het privacybeleid.</string>
+    <string name="szDisclaimer">Disclaimer</string>
+    <string name="szPrivacyPolicy">Privacybeleid</string>
+    <string name="szVisitInPlayStore">App in de Play Store</string>
+    <string name="errorOpeningExternalLink">Fout bij het openen van externe link</string>
+    <string name="szWebsite">Website</string>
+    <string name="more_licenses">meer licenties</string>
+
+</resources>

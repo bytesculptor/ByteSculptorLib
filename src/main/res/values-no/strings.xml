@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2021 Byte Sculptor Software - All Rights Reserved
+  ~
+  ~ All information contained herein is and remains the property of Byte Sculptor Software.
+  ~ Unauthorized copying of this file, via any medium, is strictly prohibited unless prior
+  ~ written permission is obtained from Byte Sculptor Software.
+  ~
+  ~ Romeo Rondinelli - bytesculptor@gmail.com
+  ~
+  -->
+
+<resources>
+    <string name="szOk">OK</string>
+    <string name="szCancel">Avbryt</string>
+    <string name="share_app">Del denne appen</string>
+
+    <string name="szRateThisApp">Bedøm denne appen</string>
+    <string name="szLikeThisAppTitle">Liker du denne appen?</string>
+    <string name="szLikeThisAppNo">Ikke så mye</string>
+    <string name="szLikeThisAppMessage">Hvordan er opplevelsen din så langt? Liker du denne appen?</string>
+    <string name="szAskFeedbackMessage">Vi er veldig lei oss! Vil du sende tilbakemelding slik at vi forbedrer appen?</string>
+    <string name="szRatingMessage">Vil du ta deg tid til å rangere denne appen? Takk for støtten!</string>
+    <string name="szRateNow">Ranger nå</string>
+    <string name="szRemindMe">Minn meg på</string>
+    <string name="szNoThanks">Nei takk</string>
+
+    <string name="szHelp">Hjelp</string>
+    <string name="szIntroduction">Introduksjon</string>
+    <string name="szAbout">Om</string>
+    <string name="szFeedback">Send tilbakemelding</string>
+    <string name="szAppVersion">Appversjon</string>
+    <string name="szContact">Ta kontakt med</string>
+    <string name="szFaq">FAQ</string>
+    <string name="szContactIntro">Mange brukere prøver å kontakte meg gjennom appens rangeringssystem i Google Play Store. Dessverre er utviklerens svarplass begrenset av Google. For bedre støtte, vennligst skriv til:</string>
+    <string name="open_source_licenses">Åpen kildekode lisenser</string>
+
+    <string name="szLicensesHeader">Denne appen bruker for øyeblikket følgende programvare med åpen kildekode:</string>
+
+    <string name="errorOnOpenPrivacyPolicyLink">Feil. Sjekk appbutikken for personvernregler.</string>
+    <string name="szDisclaimer">Ansvarsfraskrivelse</string>
+    <string name="szPrivacyPolicy">Personvernregler</string>
+    <string name="szVisitInPlayStore">App i Play-butikken</string>
+    <string name="errorOpeningExternalLink">Feil ved åpning av ekstern lenke</string>
+    <string name="szWebsite">Nettsted</string>
+    <string name="more_licenses">flere lisenser</string>
+</resources>

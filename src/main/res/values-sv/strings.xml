@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2021 Byte Sculptor Software - All Rights Reserved
+  ~
+  ~ All information contained herein is and remains the property of Byte Sculptor Software.
+  ~ Unauthorized copying of this file, via any medium, is strictly prohibited unless prior
+  ~ written permission is obtained from Byte Sculptor Software.
+  ~
+  ~ Romeo Rondinelli - bytesculptor@gmail.com
+  ~
+  -->
+
+<resources>
+    <string name="szOk">OK</string>
+    <string name="szCancel">Avbryt</string>
+    <string name="share_app">Dela denna appen</string>
+
+    <string name="szRateThisApp">Betygsätt denna app</string>
+    <string name="szLikeThisAppTitle">Gillar du den här appen?</string>
+    <string name="szLikeThisAppNo">Inte så mycket</string>
+    <string name="szLikeThisAppMessage">Hur är din upplevelse hittills? Gillar du den här appen?</string>
+    <string name="szAskFeedbackMessage">Vi är väldigt ledsna! Vill du skicka feedback så att vi förbättrar appen?</string>
+    <string name="szRatingMessage">Skulle du snälla ta en stund att betygsätta den här appen? Tack för ditt stöd!</string>
+    <string name="szRateNow">Betygsätt nu</string>
+    <string name="szRemindMe">Påminn mig</string>
+    <string name="szNoThanks">Nej tack</string>
+
+    <string name="szHelp">Hjälp</string>
+    <string name="szIntroduction">Introduktion</string>
+    <string name="szAbout">Handla om</string>
+    <string name="szFeedback">Skicka synpunkter</string>
+    <string name="szAppVersion">Appversion</string>
+    <string name="szContact">Kontakt</string>
+    <string name="szFaq">FAQ</string>
+    <string name="szContactIntro">Många användare försöker kontakta mig via appens betygssystem i Google Play Store. Tyvärr är utvecklarens svarutrymme begränsat av Google. För bättre support, skriv till:</string>
+    <string name="open_source_licenses">Öppen källkodslicenser</string>
+
+    <string name="szLicensesHeader">Den här appen använder för närvarande följande programvara med öppen källkod:</string>
+
+    <string name="errorOnOpenPrivacyPolicyLink">Fel. Kolla appbutiken för sekretesspolicy.</string>
+    <string name="szDisclaimer">varning</string>
+    <string name="szPrivacyPolicy">Integritetspolicy</string>
+    <string name="szVisitInPlayStore">App i Play Butik</string>
+    <string name="errorOpeningExternalLink">Fel vid öppning av extern länk</string>
+    <string name="szWebsite">Hemsida</string>
+    <string name="more_licenses">fler licenser</string>
+</resources>

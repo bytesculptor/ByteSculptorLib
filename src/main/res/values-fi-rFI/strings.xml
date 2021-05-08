@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2021 Byte Sculptor Software - All Rights Reserved
+  ~
+  ~ All information contained herein is and remains the property of Byte Sculptor Software.
+  ~ Unauthorized copying of this file, via any medium, is strictly prohibited unless prior
+  ~ written permission is obtained from Byte Sculptor Software.
+  ~
+  ~ Romeo Rondinelli - bytesculptor@gmail.com
+  ~
+  -->
+
+<resources>
+    <string name="szOk">OK</string>
+    <string name="szCancel">Peruuttaa</string>
+    <string name="share_app">Jaa tämä sovellus</string>
+
+    <string name="szRateThisApp">Arvostele tämä sovellus</string>
+    <string name="szLikeThisAppTitle">Nautitko tästä sovelluksesta?</string>
+    <string name="szLikeThisAppNo">Ei niin paljon</string>
+    <string name="szLikeThisAppMessage">Millainen kokemuksesi on tähän mennessä? Pidätkö tästä sovelluksesta?</string>
+    <string name="szAskFeedbackMessage">Olemme todella pahoillamme! Haluatko lähettää palautetta, jotta voimme parantaa sovellusta?</string>
+    <string name="szRatingMessage">Voisitko käyttää hetkeä tämän sovelluksen arvioimiseksi? Kiitos tuestasi!</string>
+    <string name="szRateNow">Arvostele nyt</string>
+    <string name="szRemindMe">Muistuta minua</string>
+    <string name="szNoThanks">Ei kiitos</string>
+
+    <string name="szHelp">auta</string>
+    <string name="szIntroduction">Johdanto</string>
+    <string name="szAbout">Noin</string>
+    <string name="szFeedback">Lähetä palautetta</string>
+    <string name="szAppVersion">Sovelluksen versio</string>
+    <string name="szContact">Ottaa yhteyttä</string>
+    <string name="szFaq">UKK</string>
+    <string name="szContactIntro">Monet käyttäjät yrittävät ottaa minuun yhteyttä Google Play -kaupan sovelluksen luokitusjärjestelmän kautta. Valitettavasti Google rajoittaa kehittäjän vastaustilaa. Parempaa tukea varten kirjoita:</string>
+    <string name="open_source_licenses">Avoimen lähdekoodin lisenssit</string>
+
+    <string name="szLicensesHeader">Tämä sovellus käyttää tällä hetkellä seuraavia avoimen lähdekoodin ohjelmistoja:</string>
+
+    <string name="errorOnOpenPrivacyPolicyLink">Virhe. Tarkista sovelluskaupasta tietosuojakäytäntö.</string>
+    <string name="szDisclaimer">Vastuuvapauslauseke</string>
+    <string name="szPrivacyPolicy">Tietosuojakäytäntö</string>
+    <string name="szVisitInPlayStore">Sovellus Play Kaupassa</string>
+    <string name="errorOpeningExternalLink">Virhe ulkoisen linkin avaamisessa</string>
+    <string name="szWebsite">Verkkosivusto</string>
+    <string name="more_licenses">lisää lisenssejä</string>
+</resources>
