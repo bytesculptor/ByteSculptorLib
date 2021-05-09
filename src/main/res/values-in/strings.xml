@@ -41,4 +41,5 @@
     <string name="szYes">Iya</string>
     <string name="errorOnOpenPrivacyPolicyLink">Kesalahan. Periksa app store untuk mengetahui kebijakan privasi.</string>
     <string name="errorOpeningExternalLink">Kesalahan saat membuka tautan eksternal</string>
+    <string name="szOk">baik</string>
 </resources>
