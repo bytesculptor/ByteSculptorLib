@@ -21,10 +21,9 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
+package com.bytesculptor.applib.utilities
 
-package com.bytesculptor.applib.utilities;
-
-public class ByteSculptorConstants {
-
-    public static final String FEEDBACK_EMAIL = "bytesculptor@gmail.com";
+object ByteSculptorConstants {
+    const val FEEDBACK_EMAIL = "bytesculptor@gmail.com"
+    const val DEVELOPER_STORE_ID = "7643395524006358452"
 }

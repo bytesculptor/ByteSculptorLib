@@ -28,9 +28,11 @@ import android.content.ActivityNotFoundException;
 import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
+import android.util.Log;
 import android.widget.Toast;
 
 import static android.content.Intent.FLAG_ACTIVITY_NEW_TASK;
+import static com.bytesculptor.applib.utilities.ByteSculptorConstants.DEVELOPER_STORE_ID;
 import static com.bytesculptor.applib.utilities.ByteSculptorConstants.FEEDBACK_EMAIL;
 
 
@@ -100,17 +102,17 @@ public class ExternalLinksHelper {
      * @param context
      */
     public static void showMoreByteSculptorApps(Context context) {
-        Uri uri = Uri.parse("market://apps/dev?id=4913602895703268011");
+        Uri uri = Uri.parse("market://apps/dev?id=" + DEVELOPER_STORE_ID);
         Intent goToAppStore = new Intent(Intent.ACTION_VIEW, uri);
         goToAppStore.addFlags(Intent.FLAG_ACTIVITY_NO_HISTORY |
                 Intent.FLAG_ACTIVITY_NEW_DOCUMENT |
                 Intent.FLAG_ACTIVITY_MULTIPLE_TASK);
         try {
             context.startActivity(goToAppStore);
-        } catch (
-                ActivityNotFoundException e) {
+        } catch (ActivityNotFoundException e) {
+            Log.d("BSS", "fail");
             context.startActivity(new Intent(Intent.ACTION_VIEW,
-                    Uri.parse("https://play.google.com/store/apps/dev?id=7643395524006358452")));
+                    Uri.parse("https://play.google.com/store/apps/dev?id=" + DEVELOPER_STORE_ID)));
         }
     }
 
