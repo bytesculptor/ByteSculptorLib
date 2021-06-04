@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2021 Byte Sculptor Software - All Rights Reserved
+  ~
+  ~ All information contained herein is and remains the property of Byte Sculptor Software.
+  ~ Unauthorized copying of this file, via any medium, is strictly prohibited unless prior
+  ~ written permission is obtained from Byte Sculptor Software.
+  ~
+  ~ Romeo Rondinelli - bytesculptor@gmail.com
+  ~
+  -->
+
+<resources>
+    <string name="szOk">OK</string>
+    <string name="szCancel">zrušení</string>
+    <string name="share_app">Sdílej tuto aplikaci</string>
+
+    <string name="szRateThisApp">Ohodnoťte tuto aplikaci</string>
+    <string name="szLikeThisAppTitle">Baví vás tato aplikace?</string>
+    <string name="szLikeThisAppNo">Ne tak moc</string>
+    <string name="szLikeThisAppMessage">Jaké jsou vaše dosavadní zkušenosti? Líbí se vám tato aplikace?</string>
+    <string name="szAskFeedbackMessage">Je nám to velmi líto! Chcete poslat zpětnou vazbu, abychom aplikaci vylepšili?</string>
+    <string name="szRatingMessage">Chtěli byste prosím ohodnotit tuto aplikaci? Děkuji za vaši podporu!</string>
+    <string name="szRateNow">Hodnotit teď</string>
+    <string name="szRemindMe">Připomeň mi</string>
+    <string name="szNoThanks">Ne, díky</string>
+
+    <string name="szHelp">Pomoc</string>
+    <string name="szIntroduction">Úvod</string>
+    <string name="szAbout">O</string>
+    <string name="szFeedback">Poslat zpětnou vazbu</string>
+    <string name="szAppVersion">Verze aplikace</string>
+    <string name="szContact">Kontakt</string>
+    <string name="szFaq">FAQ</string>
+    <string name="szContactIntro">Mnoho uživatelů se mě snaží kontaktovat prostřednictvím systému hodnocení aplikace v Obchodu Google Play. Prostor pro odpověď vývojáře je bohužel omezen společností Google. Pro lepší podporu prosím napište na:</string>
+    <string name="open_source_licenses">Licence open source</string>
+
+    <string name="szLicensesHeader">Tato aplikace aktuálně používá následující software s otevřeným zdrojovým kódem:</string>
+
+    <string name="errorOnOpenPrivacyPolicyLink">Chyba. Zásady ochrany osobních údajů najdete v obchodě s aplikacemi.</string>
+    <string name="szDisclaimer">Zřeknutí se odpovědnosti</string>
+    <string name="szPrivacyPolicy">Zásady ochrany osobních údajů</string>
+    <string name="szVisitInPlayStore">Aplikace v Obchodu Play</string>
+    <string name="errorOpeningExternalLink">Chyba při otevírání externího odkazu</string>
+    <string name="szWebsite">webová stránka</string>
+    <string name="more_licenses">více licencí</string>
+    <string name="szSave">zachránit</string>
+
+</resources>

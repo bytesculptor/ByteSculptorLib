@@ -42,4 +42,5 @@
     <string name="errorOnOpenPrivacyPolicyLink">Kesalahan. Periksa app store untuk mengetahui kebijakan privasi.</string>
     <string name="errorOpeningExternalLink">Kesalahan saat membuka tautan eksternal</string>
     <string name="szOk">baik</string>
+    <string name="szContactIntro">Banyak pengguna mencoba menghubungi saya melalui sistem peringkat aplikasi di Google Play Store. Sayangnya, ruang jawaban pengembang dibatasi oleh Google. Untuk dukungan yang lebih baik, silakan menulis ke:</string>
 </resources>

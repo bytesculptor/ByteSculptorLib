@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2021 Byte Sculptor Software - All Rights Reserved
+  ~
+  ~ All information contained herein is and remains the property of Byte Sculptor Software.
+  ~ Unauthorized copying of this file, via any medium, is strictly prohibited unless prior
+  ~ written permission is obtained from Byte Sculptor Software.
+  ~
+  ~ Romeo Rondinelli - bytesculptor@gmail.com
+  ~
+  -->
+
+<resources>
+
+    <string name="szOk">okey</string>
+    <string name="szCancel">Batal</string>
+    <string name="share_app">Kongsi aplikasi ini</string>
+
+    <string name="szRateThisApp">Nilai aplikasi ini</string>
+    <string name="szLikeThisAppTitle">Menikmati aplikasi ini?</string>
+    <string name="szLikeThisAppNo">Tidak begitu banyak</string>
+    <string name="szLikeThisAppMessage">Bagaimana pengalaman anda setakat ini? Adakah anda suka aplikasi ini?</string>
+    <string name="szAskFeedbackMessage">Kami sangat menyesal! Adakah anda ingin menghantar maklum balas supaya kami meningkatkan aplikasinya?</string>
+    <string name="szRatingMessage">Adakah anda meluangkan masa untuk menilai aplikasi ini? Terima kasih atas sokongan anda!</string>
+    <string name="szRateNow">Nilai sekarang</string>
+    <string name="szRemindMe">Ingatkan saya</string>
+    <string name="szNoThanks">Tidak, Terima kasih</string>
+
+    <string name="szHelp">Tolonglah</string>
+    <string name="szIntroduction">Pengenalan</string>
+    <string name="szAbout">Mengenai</string>
+    <string name="szFeedback">Hantar maklumbalas</string>
+    <string name="szAppVersion">Versi Aplikasi</string>
+    <string name="szContact">Hubungi</string>
+    <string name="szFaq">Soalan Lazim</string>
+    <string name="szContactIntro">Ramai pengguna cuba menghubungi saya melalui sistem penilaian aplikasi di Google Play Store. Malangnya, ruang jawapan pemaju dihadkan oleh Google. Untuk sokongan yang lebih baik, sila tulis ke:</string>
+    <string name="open_source_licenses">Lesen sumber terbuka</string>
+
+    <string name="szLicensesHeader">Aplikasi ini pada masa ini menggunakan perisian sumber terbuka berikut:</string>
+
+    <string name="errorOnOpenPrivacyPolicyLink">Ralat. Periksa kedai aplikasi untuk mengetahui dasar privasi.</string>
+    <string name="szDisclaimer">Penafian</string>
+    <string name="szPrivacyPolicy">Dasar Privasi</string>
+    <string name="szVisitInPlayStore">Aplikasi di Play Store</string>
+    <string name="errorOpeningExternalLink">Ralat semasa membuka pautan luaran</string>
+    <string name="szWebsite">Laman web</string>
+    <string name="more_licenses">lebih banyak lesen</string>
+    <string name="szSave">berjimat</string>
+
+</resources>
