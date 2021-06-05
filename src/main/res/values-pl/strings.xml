@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2021 Byte Sculptor Software - All Rights Reserved
+  ~
+  ~ All information contained herein is and remains the property of Byte Sculptor Software.
+  ~ Unauthorized copying of this file, via any medium, is strictly prohibited unless prior
+  ~ written permission is obtained from Byte Sculptor Software.
+  ~
+  ~ Romeo Rondinelli - bytesculptor@gmail.com
+  ~
+  -->
+
+<resources>
+
+    <string name="szOk">dobrze</string>
+    <string name="szCancel">Anuluj</string>
+    <string name="share_app">Udostępnij tą aplikację</string>
+
+    <string name="szRateThisApp">Oceń tę aplikację</string>
+    <string name="szLikeThisAppTitle">Podoba Ci się ta aplikacja?</string>
+    <string name="szLikeThisAppNo">Nie tak bardzo</string>
+    <string name="szLikeThisAppMessage">Jakie jest twoje dotychczasowe doświadczenie? Czy podoba Ci się ta aplikacja?</string>
+    <string name="szAskFeedbackMessage">Bardzo nam przykro! Czy chcesz przesłać opinię, abyśmy mogli ulepszyć aplikację?</string>
+    <string name="szRatingMessage">Poświęć chwilę, aby ocenić tę aplikację? Dziękuję za wsparcie!</string>
+    <string name="szRateNow">Oceń teraz</string>
+    <string name="szRemindMe">Przypomnij mi</string>
+    <string name="szNoThanks">Nie, dziękuję</string>
+
+    <string name="szHelp">Wsparcie</string>
+    <string name="szIntroduction">Wprowadzenie</string>
+    <string name="szAbout">O</string>
+    <string name="szFeedback">Wyślij opinię</string>
+    <string name="szAppVersion">Wersja aplikacji</string>
+    <string name="szContact">Kontakt</string>
+    <string name="szFaq">FAQ</string>
+    <string name="szContactIntro">Wielu użytkowników próbuje się ze mną skontaktować przez system ocen aplikacji w Sklepie Google Play. Niestety przestrzeń odpowiedzi programisty jest ograniczona przez Google. Aby uzyskać lepsze wsparcie, napisz do:</string>
+    <string name="open_source_licenses">Licencje open source</string>
+
+    <string name="szLicensesHeader">Ta aplikacja korzysta obecnie z następującego oprogramowania typu open source:</string>
+
+    <string name="errorOnOpenPrivacyPolicyLink">Błąd. Sprawdź w sklepie z aplikacjami politykę prywatności.</string>
+    <string name="szDisclaimer">Zrzeczenie się</string>
+    <string name="szPrivacyPolicy">Polityka prywatności</string>
+    <string name="szVisitInPlayStore">Aplikacja w Sklepie Play</string>
+    <string name="errorOpeningExternalLink">Błąd podczas otwierania zewnętrznego linku</string>
+    <string name="szWebsite">Stronie internetowej</string>
+    <string name="more_licenses">więcej licencji</string>
+    <string name="szSave">zapisać</string>
+
+</resources>
