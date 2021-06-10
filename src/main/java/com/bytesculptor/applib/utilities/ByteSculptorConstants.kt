@@ -21,9 +21,12 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
+
 package com.bytesculptor.applib.utilities
 
 object ByteSculptorConstants {
     const val FEEDBACK_EMAIL = "bytesculptor@gmail.com"
     const val DEVELOPER_STORE_ID = "7643395524006358452"
+    const val PRIVACY_URL = "https://bytesculptor.dev/privacy.html"
+    const val WEBSITE_URL = "https://bytesculptor.dev/index.html"
 }
