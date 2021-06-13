@@ -44,7 +44,7 @@
         stark modifiziert. Es ist möglich, dass diese App auf solchen Geräten nicht wie erwartet funktioniert.
 
         \n\nDurch die Verwendung dieser Software erklären Sie sich damit einverstanden, dass Byte Sculptor Software
-        nicht für Schäden an Ihrem Gerät verantwortlich ist. Sie nutzen diese App vollständig auf eigenes Risiko.         
+        nicht für Schäden an Ihrem Gerät verantwortlich ist. Sie nutzen diese App vollständig auf eigenes Risiko.
         \nWenn Sie auf Probleme stoßen, senden Sie uns bitte eine E-Mail mit Details zum Problem, Ihrem Gerätemodell und der Android-Version. Vielen Dank!</string>
     <string name="errorOnOpenPrivacyPolicyLink">Fehler. Besuchen Sie den App Store für die Datenschutzerklärung.</string>
     <string name="szLater">später</string>
@@ -80,5 +80,7 @@
     <string name="szFaq">FAQ</string>
     <string name="errorOpeningExternalLink">Fehler beim Öffnen des externen Links</string>
     <string name="szOk">OK</string>
+    <string name="szSaved">Gespeichert</string>
+    <string name="szEdit">Editieren</string>
 
 </resources>

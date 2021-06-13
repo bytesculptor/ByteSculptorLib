@@ -24,13 +24,13 @@
     <string name="szNotifications">Notifications</string>
     <string name="notif_setting">Notification settings</string>
     <string name="set_notif_settings">Set visibility, sound and vibration</string>
-    <string name="szStatistics" translatable="false">Statistics</string>
+    <string name="szStatistics">Statistics</string>
     <string name="szInfo" translatable="false">info</string>
-    <string name="szSearch" translatable="false">Search</string>
+    <string name="szSearch">Search</string>
     <string name="szHint">hint</string>
     <string name="szHistory">History</string>
     <string name="szTts" translatable="false">Text-to-speech</string>
-    <string name="btTtsOptions" translatable="false">Text-to-speech settings</string>
+    <string name="btTtsOptions">Text-to-speech settings</string>
     <string name="szWelcome">Welcome!</string>
     <string name="szGood">Good</string>
     <string name="app_theme">Theme</string>
@@ -52,17 +52,16 @@
     <!-- actions -->
     <string name="szClose">close</string>
     <string name="szCancel">Cancel</string>
-    <string name="szAbort" translatable="false">abort</string>
     <string name="szSave">Save</string>
-    <string name="szSaved" translatable="false">Saved</string>
-    <string name="szEdit" translatable="false">edit</string>
-    <string name="szPlay" translatable="false">Play</string>
-    <string name="szRename" translatable="false">rename</string>
-    <string name="szCreate" translatable="false">Create</string>
+    <string name="szSaved">Saved</string>
+    <string name="szEdit">edit</string>
+    <string name="szPlay">Play</string>
+    <string name="szRename">rename</string>
+    <string name="szCreate">Create</string>
     <string name="szDelete">delete</string>
-    <string name="szDeleted" translatable="false">deleted</string>
+    <string name="szDeleted">deleted</string>
     <string name="szMerge" translatable="false">Merge</string>
-    <string name="szAll" translatable="false">all</string>
+    <string name="szAll">all</string>
     <string name="share_app">Share this app</string>
     <string name="reset">reset</string>
 

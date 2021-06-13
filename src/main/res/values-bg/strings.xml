@@ -41,7 +41,6 @@
     <!-- actions -->
     <string name="szClose">Затвори</string>
     <string name="szCancel">Отмени</string>
-    <string name="szAbort">Стоп</string>
     <string name="szSave">Запази</string>
     <string name="szSaved" translatable="false">Запазено</string>
     <string name="szEdit" translatable="false">Редактирай</string>
