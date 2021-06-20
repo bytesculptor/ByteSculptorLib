@@ -82,14 +82,14 @@
 
 
     <!-- time -->
-    <string name="szOneWeek" translatable="false">1 week</string>
-    <string name="szToday" translatable="false">today</string>
-    <string name="szOneMonth" translatable="false">1 month</string>
-    <string name="szThreeMonth" translatable="false">3 month</string>
-    <string name="szSixMonth" translatable="false">6 month</string>
-    <string name="szOneYear" translatable="false">1 year</string>
+    <string name="szOneWeek">1 week</string>
+    <string name="szToday">today</string>
+    <string name="szOneMonth">1 month</string>
+    <string name="szThreeMonth">3 month</string>
+    <string name="szSixMonth">6 month</string>
+    <string name="szOneYear">1 year</string>
     <string name="szLater">later</string>
-    <string name="btNext" translatable="false">next</string>
+    <string name="btNext">next</string>
     <string name="Mon">Mon</string>
     <string name="Tue">Tue</string>
     <string name="Wed">Wed</string>
