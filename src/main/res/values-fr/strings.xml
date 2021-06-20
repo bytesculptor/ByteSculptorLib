@@ -73,6 +73,13 @@
     <string name="Fri">Ve</string>
     <string name="Sat">Sa</string>
     <string name="Sun">Di</string>
+    <string name="Monday">Lundi</string>
+    <string name="Tuesday">Mardi</string>
+    <string name="Wednesday">Mercredi</string>
+    <string name="Thursday">Jeudi</string>
+    <string name="Friday">Vendredi</string>
+    <string name="Saturday">Samedi</string>
+    <string name="Sunday">Dimanche</string>
     <string name="szWebsite">site Internet</string>
     <string name="szLicensesHeader">Cette application utilise actuellement le logiciel open source suivant:</string>
     <string name="open_source_licenses">Open source licenses</string>

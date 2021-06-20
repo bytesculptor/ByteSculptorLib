@@ -75,6 +75,13 @@
     <string name="Fri">Ven</string>
     <string name="Sat">Sab</string>
     <string name="Sun">Dom</string>
+    <string name="Monday">Lunedì</string>
+    <string name="Tuesday">Martedì</string>
+    <string name="Wednesday">Mercoledì</string>
+    <string name="Thursday">Giovedì</string>
+    <string name="Friday">Venerdì</string>
+    <string name="Saturday">Sabato</string>
+    <string name="Sunday">Domenica</string>
     <string name="szWebsite">sito web</string>
     <string name="szLicensesHeader">Questa app attualmente utilizza le seguente software open source:</string>
     <string name="open_source_licenses">Open source licenses</string>

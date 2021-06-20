@@ -73,6 +73,13 @@
     <string name="Fri">Vie</string>
     <string name="Sat">Sab</string>
     <string name="Sun">Dom</string>
+    <string name="Monday">Lunes</string>
+    <string name="Tuesday">Martes</string>
+    <string name="Wednesday">Miércoles</string>
+    <string name="Thursday">Jueves</string>
+    <string name="Friday">Viernes</string>
+    <string name="Saturday">Sábado</string>
+    <string name="Sunday">Domingo</string>
     <string name="szWebsite">sitio web</string>
     <string name="szLicensesHeader">Esta aplicación utiliza actualmente el siguiente software de código abierto:</string>
     <string name="more_licenses">más licencias</string>

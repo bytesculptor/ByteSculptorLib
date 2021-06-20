@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--
+<?xml version="1.0" encoding="UTF-8"?><!--
   ~ Copyright (c)  2021  Byte Sculptor Software  - All Rights Reserved
   ~
   ~ All information contained herein is and remains the property of Byte Sculptor Software.
@@ -12,51 +11,66 @@
 
 <resources>
 
-  <string name="szCancel">キャンセル</string>
-  <string name="szSave">セーブ</string>
-  <string name="szHelp">ヘルプ</string>
-  <string name="szContact">連絡先</string>
-  <string name="szContactIntro">多くのユーザーが、GooglePlay ストアのアプリの評価システムを介して私に連絡しようとします。残念ながら、開発者の回答スペースは Google によって制限されています。より良いサポートのために、以下に書いてください：</string>
-  <string name="szAbout">当社について</string>
-  <string name="szFeedback">フィードバックを送信する</string>
-  <string name="szVisitInPlayStore">Play ストアのアプリ</string>
-  <string name="share_app">このアプリを共有する</string>
-  <string name="szAppVersion">アプリバージョン</string>
-  <string name="open_source_licenses">オープンソースライセンス</string>
-  <string name="szLicensesHeader">このアプリは現在、次のオープンソースソフトウェアを使用しています。</string>
-  <string name="more_licenses">より多くのライセンス</string>
-  <string name="szPrivacyPolicy">個人情報保護方針</string>
-  <string name="szDisclaimer">免責事項</string>
-  <string name="szDisclaimer2">Byte Sculptor Software はこのアプリケーションの権利を所有しており、いつでも変更を加えることができます。このアプリは、バグ、エラー、安定性について、実際のデバイスとエミュレートされたデバイスで手動および自動でテストされています。ただし、これはソフトウェアにエラーがまったくないことを意味するものではありません。 Android OS はさまざまなデバイスで使用されており、多くの場合、デバイスの製造元によって大幅に変更されています。このようなデバイスでは、このアプリが期待どおりに実行されない可能性があります。このソフトウェアを使用することにより、Byte SculptorSoftware がデバイスに加えられたいかなる損害についても責任を負わないことに同意するものとします。あなたは完全にあなた自身の責任でこのアプリを使用します。問題が発生した場合は、問題の詳細、デバイスモデル、Android のバージョンをメールでお知らせください。ありがとうございました！</string>
-  <string name="szSettings">設定</string>
-  <string name="szWebsite">ウェブサイト</string>
-  <string name="szMoreApps">Byte Sculptor アプリ</string>
-  <string name="szFaq">FAQ</string>
-  <string name="szOk">はい</string>
-  <string name="app_theme">テーマ</string>
-  <string name="app_theme_dark">ダーク</string>
-  <string name="app_theme_system">システムのデフォルト</string>
-  <string name="app_theme_light">ライト</string>
+    <string name="szCancel">キャンセル</string>
+    <string name="szSave">セーブ</string>
+    <string name="szHelp">ヘルプ</string>
+    <string name="szContact">連絡先</string>
+    <string name="szContactIntro">多くのユーザーが、GooglePlay ストアのアプリの評価システムを介して私に連絡しようとします。残念ながら、開発者の回答スペースは Google によって制限されています。より良いサポートのために、以下に書いてください：</string>
+    <string name="szAbout">当社について</string>
+    <string name="szFeedback">フィードバックを送信する</string>
+    <string name="szVisitInPlayStore">Play ストアのアプリ</string>
+    <string name="share_app">このアプリを共有する</string>
+    <string name="szAppVersion">アプリバージョン</string>
+    <string name="open_source_licenses">オープンソースライセンス</string>
+    <string name="szLicensesHeader">このアプリは現在、次のオープンソースソフトウェアを使用しています。</string>
+    <string name="more_licenses">より多くのライセンス</string>
+    <string name="szPrivacyPolicy">個人情報保護方針</string>
+    <string name="szDisclaimer">免責事項</string>
+    <string name="szDisclaimer2">Byte Sculptor Software はこのアプリケーションの権利を所有しており、いつでも変更を加えることができます。このアプリは、バグ、エラー、安定性について、実際のデバイスとエミュレートされたデバイスで手動および自動でテストされています。ただし、これはソフトウェアにエラーがまったくないことを意味するものではありません。 Android OS はさまざまなデバイスで使用されており、多くの場合、デバイスの製造元によって大幅に変更されています。このようなデバイスでは、このアプリが期待どおりに実行されない可能性があります。このソフトウェアを使用することにより、Byte SculptorSoftware がデバイスに加えられたいかなる損害についても責任を負わないことに同意するものとします。あなたは完全にあなた自身の責任でこのアプリを使用します。問題が発生した場合は、問題の詳細、デバイスモデル、Android のバージョンをメールでお知らせください。ありがとうございました！</string>
+    <string name="szSettings">設定</string>
+    <string name="szWebsite">ウェブサイト</string>
+    <string name="szMoreApps">Byte Sculptor アプリ</string>
+    <string name="szFaq">FAQ</string>
+    <string name="szOk">はい</string>
+    <string name="app_theme">テーマ</string>
+    <string name="app_theme_dark">ダーク</string>
+    <string name="app_theme_system">システムのデフォルト</string>
+    <string name="app_theme_light">ライト</string>
 
-  <!-- app rating -->
-  <string name="szRateThisApp">このアプリを評価する</string>
-  <string name="szLikeThisAppTitle">このアプリを楽しんでいますか？</string>
-  <string name="szLikeThisAppNo">そんなにない</string>
-  <string name="szLikeThisAppMessage">これまでの経験はいかがですか？あなたはこのアプリが好きですか？</string>
-  <string name="szAskFeedbackMessage">誠に申し訳ございません！アプリを改善するためにフィードバックを送信しますか？</string>
-  <string name="szRatingMessage">このアプリを評価していただけませんか？ご協力ありがとうございました！</string>
-  <string name="szRateNow">今すぐ評価</string>
-  <string name="szRemindMe">私に思い出させる</string>
+    <!-- app rating -->
+    <string name="szRateThisApp">このアプリを評価する</string>
+    <string name="szLikeThisAppTitle">このアプリを楽しんでいますか？</string>
+    <string name="szLikeThisAppNo">そんなにない</string>
+    <string name="szLikeThisAppMessage">これまでの経験はいかがですか？あなたはこのアプリが好きですか？</string>
+    <string name="szAskFeedbackMessage">誠に申し訳ございません！アプリを改善するためにフィードバックを送信しますか？</string>
+    <string name="szRatingMessage">このアプリを評価していただけませんか？ご協力ありがとうございました！</string>
+    <string name="szRateNow">今すぐ評価</string>
+    <string name="szRemindMe">私に思い出させる</string>
 
 
-  <string name="errorOnOpenPrivacyPolicyLink">エラー。プライバシーポリシーについては、アプリストアを確認してください。</string>
-  <string name="errorOpeningExternalLink">外部リンクを開くときにエラーが発生しました</string>
-  <string name="szNotifications">通知</string>
-  <string name="notif_setting">通知設定</string>
-  <string name="notAvailable">お使いのシステムでは利用できません</string>
-  <string name="szNoCancel">いいえ、キャンセルします</string>
-  <string name="szNo">いいえ</string>
-  <string name="szYes">はい</string>
+    <string name="errorOnOpenPrivacyPolicyLink">エラー。プライバシーポリシーについては、アプリストアを確認してください。</string>
+    <string name="errorOpeningExternalLink">外部リンクを開くときにエラーが発生しました</string>
+    <string name="szNotifications">通知</string>
+    <string name="notif_setting">通知設定</string>
+    <string name="notAvailable">お使いのシステムでは利用できません</string>
+    <string name="szNoCancel">いいえ、キャンセルします</string>
+    <string name="szNo">いいえ</string>
+    <string name="szYes">はい</string>
     <string name="szNoThanks">結構です</string>
+
+    <string name="Mon">月</string>
+    <string name="Tue">火</string>
+    <string name="Wed">水</string>
+    <string name="Thu">木</string>
+    <string name="Fri">金</string>
+    <string name="Sat">土</string>
+    <string name="Sun">日</string>
+    <string name="Monday">月曜日</string>
+    <string name="Tuesday">火曜日</string>
+    <string name="Wednesday">水曜日</string>
+    <string name="Thursday">木曜日</string>
+    <string name="Friday">金曜日</string>
+    <string name="Saturday">土曜日</string>
+    <string name="Sunday">日曜日</string>
 
 </resources>
