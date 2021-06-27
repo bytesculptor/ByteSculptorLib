@@ -89,5 +89,6 @@
     <string name="szOk">OK</string>
     <string name="szSaved">Gespeichert</string>
     <string name="szEdit">Editieren</string>
+    <string name="szToday">heute</string>
 
 </resources>

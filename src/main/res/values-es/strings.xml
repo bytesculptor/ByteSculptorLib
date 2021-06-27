@@ -88,5 +88,6 @@
     <string name="open_source_licenses">Licencias de código abierto</string>
     <string name="errorOpeningExternalLink">Error al abrir el enlace externo</string>
     <string name="szOk">OK</string>
+    <string name="szToday">hoy</string>
 
 </resources>

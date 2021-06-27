@@ -55,29 +55,29 @@
 
 
     <!-- files -->
-    <string name="szFileName" translatable="false">Име на файла</string>
-    <string name="szOpenFile" translatable="false">Отвори файла</string>
-    <string name="szSaveFile" translatable="false">Затвори файла</string>
-    <string name="szImp" translatable="false">Импорт</string>
-    <string name="szExp" translatable="false">Експорт</string>
-    <string name="szDeleteAllData" translatable="false">Да, изтрий всички данни</string>
+    <string name="szFileName">Име на файла</string>
+    <string name="szOpenFile">Отвори файла</string>
+    <string name="szSaveFile">Затвори файла</string>
+    <string name="szImp">Импорт</string>
+    <string name="szExp">Експорт</string>
+    <string name="szDeleteAllData">Да, изтрий всички данни</string>
 
 
     <!-- sorting -->
-    <string name="szSort" translatable="false">Сортирай</string>
-    <string name="AZ" translatable="false">А..Я</string>
-    <string name="ZA" translatable="false">Я..А</string>
+    <string name="szSort">Сортирай</string>
+    <string name="AZ">А..Я</string>
+    <string name="ZA">Я..А</string>
 
 
     <!-- time -->
-    <string name="szOneWeek" translatable="false">1 Седмица</string>
-    <string name="szToday" translatable="false">Днес</string>
-    <string name="szOneMonth" translatable="false">1 Месец</string>
-    <string name="szThreeMonth" translatable="false">3 Месеца</string>
-    <string name="szSixMonth" translatable="false">6 Месеца</string>
-    <string name="szOneYear" translatable="false">1 Година</string>
+    <string name="szOneWeek">1 Седмица</string>
+    <string name="szToday">Днес</string>
+    <string name="szOneMonth">1 Месец</string>
+    <string name="szThreeMonth">3 Месеца</string>
+    <string name="szSixMonth">6 Месеца</string>
+    <string name="szOneYear">1 Година</string>
     <string name="szLater">По-късно</string>
-    <string name="btNext" translatable="false">Следващо</string>
+    <string name="btNext">Следващо</string>
     <string name="Mon">Пон</string>
     <string name="Tue">Вто</string>
     <string name="Wed">Сря</string>

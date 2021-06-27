@@ -59,11 +59,11 @@
     <string name="szContactIntro">Molti utenti provano a contattarmi tramite il sistema di valuta dell\'app nel Google Play Store.
         Sfortunatamente, lo spazio per una risposta è limitato da Google. Per un migliore aiuto, si prega di scrivere a:</string>
     <string name="app_theme">Tema</string>
-    <string name="app_theme_light">Tenue</string>
+    <string name="app_theme_light">Chiaro</string>
     <string name="app_theme_dark">Scuro</string>
-    <string name="app_theme_system">Predefinite di sistema</string>
+    <string name="app_theme_system">Predefinito di sistema</string>
     <string name="szSave">Salvare</string>
-    <string name="szDisclaimer">Disconoscimento</string>
+    <string name="szDisclaimer">Disclaimer</string>
     <string name="szPrivacyPolicy">Politica sulla riservatezza</string>
     <string name="szDelete">Elimina</string>
     <string name="szVisitInPlayStore">App nel Play Store</string>
@@ -84,12 +84,13 @@
     <string name="Sunday">Domenica</string>
     <string name="szWebsite">sito web</string>
     <string name="szLicensesHeader">Questa app attualmente utilizza le seguente software open source:</string>
-    <string name="open_source_licenses">Open source licenses</string>
+    <string name="open_source_licenses">Licenze open source</string>
     <string name="more_licenses">più licenze</string>
     <string name="szMoreApps">Byte Sculptor Apps</string>
     <string name="szFaq">FAQ</string>
     <string name="errorOpeningExternalLink">Errore durante l\'apertura del collegamento esterno</string>
     <string name="szOk">OK</string>
+    <string name="szToday">oggi</string>
 
 
 </resources>
