@@ -89,5 +89,6 @@
     <string name="errorOpeningExternalLink">Erreur lors de l\'ouverture du lien externe</string>
     <string name="szOk">OK</string>
     <string name="szToday">aujourd\'hui</string>
+    <string name="tutorial">Didacticiel</string>
 
 </resources>

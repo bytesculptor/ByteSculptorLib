@@ -91,6 +91,6 @@
     <string name="errorOpeningExternalLink">Errore durante l\'apertura del collegamento esterno</string>
     <string name="szOk">OK</string>
     <string name="szToday">oggi</string>
-
+    <string name="tutorial">Tutorial</string>
 
 </resources>

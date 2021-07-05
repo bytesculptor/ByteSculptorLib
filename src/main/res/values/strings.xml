@@ -165,5 +165,6 @@
     <string name="errorOpeningExternalLink">Error on opening external link</string>
     <string name="szWebsite">Website</string>
     <string name="more_licenses">more licenses</string>
+    <string name="tutorial">Tutorial</string>
 
 </resources>
