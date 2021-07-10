@@ -10,5 +10,38 @@
   -->
 
 <resources>
+    <string name="szOk">OK lang</string>
+    <string name="szCancel">Kanselahin</string>
+    <string name="share_app">Ibahagi ang app na ito</string>
+
+    <string name="szRateThisApp">I-rate ang app na ito</string>
+    <string name="szLikeThisAppTitle">Nag-e-enjoy sa app na ito?</string>
+    <string name="szLikeThisAppNo">Hindi gaanong</string>
+    <string name="szLikeThisAppMessage">Kumusta ang iyong karanasan sa ngayon? Gusto mo ba ang app na ito?</string>
+    <string name="szAskFeedbackMessage">Humihingi kami ng paumanhin! Nais mo bang magpadala ng puna upang mapahusay namin ang app?</string>
+    <string name="szRatingMessage">Maaari mo bang maglaan ng ilang sandali upang i-rate ang app na ito? Salamat sa iyong suporta!</string>
+    <string name="szRateNow">I-rate ngayon</string>
+    <string name="szRemindMe">Ipaalala mo sa akin</string>
+    <string name="szNoThanks">Salamat nalang</string>
+
+    <string name="szHelp">Tulong</string>
+    <string name="szIntroduction">Panimula</string>
+    <string name="szAbout">Tungkol sa</string>
+    <string name="szFeedback">Magbigay ng feedback</string>
+    <string name="szAppVersion">Bersyon ng App</string>
+    <string name="szContact">Makipag-ugnay</string>
+    <string name="szFaq">FAQ</string>
+    <string name="szContactIntro">Maraming mga gumagamit ang sumusubok na makipag-ugnay sa akin sa pamamagitan ng rating system ng app sa Google Play Store. Sa kasamaang palad, ang puwang ng sagot ng developer ay limitado ng Google. Para sa mas mahusay na suporta, mangyaring sumulat sa:</string>
+    <string name="open_source_licenses">Buksan ang mga lisensya ng mapagkukunan</string>
+
+    <string name="szLicensesHeader">Kasalukuyang gumagamit ang app na ito ng sumusunod na bukas na mapagkukunang software:</string>
+
+    <string name="errorOnOpenPrivacyPolicyLink">Error Suriin ang app store para sa patakaran sa privacy.</string>
+    <string name="szDisclaimer">Pagwawaksi</string>
+    <string name="szPrivacyPolicy">Patakaran sa Pagkapribado</string>
+    <string name="szVisitInPlayStore">App sa Play Store</string>
+    <string name="errorOpeningExternalLink">Error sa pagbubukas ng panlabas na link</string>
+    <string name="szWebsite">Website</string>
+    <string name="more_licenses">mas maraming lisensya</string>
     <string name="szSave">isalba</string>
 </resources>
