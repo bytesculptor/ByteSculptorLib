@@ -18,8 +18,6 @@
     <string name="set_notif_settings">Избор на видимост, звук и вибрация</string>
     <string name="szHint">Намек</string>
     <string name="szHistory">История</string>
-    <string name="szTts" translatable="false">Текст към реч</string>
-    <string name="btTtsOptions" translatable="false">Настройки на текст към реч</string>
     <string name="szWelcome">Добре дошли!</string>
     <string name="szGood">Добре</string>
     <string name="app_theme">Тема</string>
