@@ -42,29 +42,13 @@
     <string name="szSave">Запази</string>
     <string name="szSaved" translatable="false">Запазено</string>
     <string name="szEdit" translatable="false">Редактирай</string>
-    <string name="szPlay" translatable="false">Пусни</string>
-    <string name="szRename" translatable="false">Преименувай</string>
-    <string name="szCreate" translatable="false">Създай</string>
-    <string name="szDelete">Изтрий</string>
-    <string name="szDeleted" translatable="false">Изтрито</string>
-    <string name="szMerge" translatable="false">Сливане</string>
-    <string name="szAll" translatable="false">Всички</string>
     <string name="share_app">Сподели това приложение</string>
 
 
     <!-- files -->
-    <string name="szFileName">Име на файла</string>
-    <string name="szOpenFile">Отвори файла</string>
-    <string name="szSaveFile">Затвори файла</string>
-    <string name="szImp">Импорт</string>
-    <string name="szExp">Експорт</string>
-    <string name="szDeleteAllData">Да, изтрий всички данни</string>
 
 
     <!-- sorting -->
-    <string name="szSort">Сортирай</string>
-    <string name="AZ">А..Я</string>
-    <string name="ZA">Я..А</string>
 
 
     <!-- time -->

@@ -43,4 +43,5 @@
     <string name="errorOpeningExternalLink">외부 링크 열기 오류</string>
     <string name="szOk">확인</string>
     <string name="szContactIntro">많은 사용자가 Google Play 스토어의 앱 등급 시스템을 통해 저에게 연락하려고합니다. 안타깝게도 개발자의 답변 공간은 Google에 의해 제한됩니다. 더 나은 지원을 받으려면 다음 주소로 편지를 보내주십시오.</string>
+    <string name="szFaq">자주 묻는 질문</string>
 </resources>
