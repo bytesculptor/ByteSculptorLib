@@ -46,44 +46,17 @@
 
 
     <!-- actions -->
-    <string name="szClose">close</string>
+    <string name="szClose">Close</string>
     <string name="szCancel">Cancel</string>
     <string name="szSave">Save</string>
     <string name="szSaved">Saved</string>
-    <string name="szEdit">edit</string>
-    <string name="szPlay">Play</string>
-    <string name="szRename">rename</string>
-    <string name="szCreate">Create</string>
-    <string name="szDelete">delete</string>
-    <string name="szDeleted">deleted</string>
-    <string name="szMerge" translatable="false">Merge</string>
-    <string name="szAll">all</string>
+    <string name="szEdit">Edit</string>
     <string name="share_app">Share this app</string>
     <string name="reset">reset</string>
 
 
-    <!-- files -->
-    <string name="szFileName" translatable="false">file name</string>
-    <string name="szOpenFile" translatable="false">open file</string>
-    <string name="szSaveFile" translatable="false">save file</string>
-    <string name="szImp" translatable="false">import</string>
-    <string name="szExp" translatable="false">export</string>
-    <string name="szDeleteAllData" translatable="false">Yes, delete all data</string>
-
-
-    <!-- sorting -->
-    <string name="szSort" translatable="false">sort</string>
-    <string name="AZ" translatable="false">A..Z</string>
-    <string name="ZA" translatable="false">Z..A</string>
-
-
     <!-- time -->
-    <string name="szOneWeek">1 week</string>
     <string name="szToday">today</string>
-    <string name="szOneMonth">1 month</string>
-    <string name="szThreeMonth">3 month</string>
-    <string name="szSixMonth">6 month</string>
-    <string name="szOneYear">1 year</string>
     <string name="szLater">later</string>
     <string name="btNext">next</string>
     <string name="Mon">Mon</string>
@@ -148,19 +121,15 @@
     <string name="szCopyRightLic2" translatable="false">Copyright 2015 Philipp Jahoda</string>
     <string name="szTextLic1" translatable="false">&license_apache;</string>
     <string name="szTextLic2" translatable="false">&license_apache;</string>
+    <string name="more_licenses">more licenses</string>
 
-
-    <!-- navigation drawer -->
-    <string name="nav_header_desc" translatable="false">Navigation header</string>
-    <string name="navigation_drawer_open" translatable="false">open navigation drawer</string>
-    <string name="navigation_drawer_close" translatable="false">close navigation drawer</string>
+    <!-- Various -->
     <string name="errorOnOpenPrivacyPolicyLink">Error. Check the app store for the privacy policy.</string>
     <string name="szDisclaimer">Disclaimer</string>
     <string name="szPrivacyPolicy">Privacy Policy</string>
     <string name="szVisitInPlayStore">App in the Play Store</string>
     <string name="errorOpeningExternalLink">Error on opening external link</string>
     <string name="szWebsite">Website</string>
-    <string name="more_licenses">more licenses</string>
     <string name="tutorial">Tutorial</string>
 
 </resources>

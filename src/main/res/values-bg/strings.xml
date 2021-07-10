@@ -68,12 +68,7 @@
 
 
     <!-- time -->
-    <string name="szOneWeek">1 Седмица</string>
     <string name="szToday">Днес</string>
-    <string name="szOneMonth">1 Месец</string>
-    <string name="szThreeMonth">3 Месеца</string>
-    <string name="szSixMonth">6 Месеца</string>
-    <string name="szOneYear">1 Година</string>
     <string name="szLater">По-късно</string>
     <string name="btNext">Следващо</string>
     <string name="Mon">Пон</string>
