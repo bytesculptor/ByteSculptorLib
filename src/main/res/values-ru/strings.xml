@@ -59,5 +59,6 @@
     <string name="szSettings">настройки</string>
     <string name="notAvailable">Недоступно в вашей системе</string>
     <string name="errorOpeningExternalLink">Ошибка при открытии внешней ссылки</string>
+    <string name="tutorial">Руководство</string>
 
 </resources>

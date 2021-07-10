@@ -110,5 +110,6 @@
     <string name="errorOpeningExternalLink">Грешка при отварянето на външната препратка</string>
     <string name="szWebsite">Уебсайт</string>
     <string name="more_licenses">повече лицензи</string>
+    <string name="tutorial">Yрок</string>
 
 </resources>

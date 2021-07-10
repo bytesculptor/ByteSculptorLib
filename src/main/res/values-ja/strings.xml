@@ -72,5 +72,6 @@
     <string name="Friday">金曜日</string>
     <string name="Saturday">土曜日</string>
     <string name="Sunday">日曜日</string>
+    <string name="tutorial">チュートリアル</string>
 
 </resources>

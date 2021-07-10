@@ -44,4 +44,5 @@
     <string name="szWebsite">Verkkosivusto</string>
     <string name="more_licenses">lisää lisenssejä</string>
     <string name="szSave">pelastaa</string>
+    <string name="tutorial">Opetusohjelma</string>
 </resources>
