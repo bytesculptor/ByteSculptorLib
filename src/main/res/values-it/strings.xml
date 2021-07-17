@@ -91,5 +91,8 @@
     <string name="szOk">OK</string>
     <string name="szToday">oggi</string>
     <string name="tutorial">Tutorial</string>
+    <string name="error_connect_server">Errore durante la connessione al server</string>
+    <string name="loading">Caricando</string>
+    <string name="start_ad">Inizia pubblicità</string>
 
 </resources>

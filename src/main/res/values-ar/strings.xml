@@ -15,4 +15,21 @@
     <string name="szCancel">إلغاء</string>
     <string name="szSave">للحفظ</string>
     <string name="szOk">حسنا</string>
+    <string name="error_connect_server"> حدث خطأ أثناء الاتصال بالخادم </string>
+    <string name="loading"> تحميل </string>
+    <string name="start_ad"> بدء الإعلان </string>
+    <string name="szRateThisApp">قيم هذا التطبيق</string>
+    <string name="szLikeThisAppTitle">هل تستمتع بهذا التطبيق؟</string>
+    <string name="szLikeThisAppMessage">كيف هي تجربتك حتى الآن؟ هل مثل هذا التطبيق؟</string>
+    <string name="szAskFeedbackMessage">نحن اسفون جدا! هل ترغب في إرسال ملاحظات حتى نتمكن من تحسين التطبيق؟</string>
+    <string name="szLikeThisAppNo">ليس كثيرا</string>
+    <string name="szRatingMessage">هل تسمح من فضلك بتخصيص بعض الوقت لتقييم هذا التطبيق؟ شكرا لدعمك!</string>
+    <string name="szRateNow">قيم الآن</string>
+    <string name="szRemindMe">ذكرني</string>
+    <string name="szNoThanks">لا شكرا</string>
+    <string name="szAppVersion">نسخة التطبيق</string>
+    <string name="szVisitInPlayStore">التطبيق في متجر Play</string>
+    <string name="errorOpeningExternalLink">خطأ في فتح الرابط الخارجي</string>
+    <string name="szWebsite">موقع إلكتروني</string>
+    <string name="share_app">شارك هذا التطبيق</string>
 </resources>

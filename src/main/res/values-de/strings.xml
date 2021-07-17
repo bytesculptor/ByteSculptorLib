@@ -90,4 +90,7 @@
     <string name="szEdit">Editieren</string>
     <string name="szToday">heute</string>
     <string name="tutorial">Tutorial</string>
+    <string name="error_connect_server">Fehler beim Verbinden mit dem Server</string>
+    <string name="loading">Laden</string>
+    <string name="start_ad">Werbung starten</string>
 </resources>

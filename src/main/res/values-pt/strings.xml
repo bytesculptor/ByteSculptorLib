@@ -52,5 +52,8 @@
     <string name="szYes">sim</string>
     <string name="notAvailable">Não disponível em seu sistema</string>
     <string name="tutorial">Tutorial</string>
+    <string name="error_connect_server">Erro ao conectar ao servidor</string>
+    <string name="loading">Carregando</string>
+    <string name="start_ad">Iniciar anúncio</string>
 
 </resources>

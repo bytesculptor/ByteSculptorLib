@@ -45,4 +45,7 @@
     <string name="more_licenses">flere licenser</string>
     <string name="szSave">gemme</string>
     <string name="tutorial">Vejledning</string>
+    <string name="error_connect_server">Fejl under forbindelse til server</string>
+    <string name="loading">Indlæser</string>
+    <string name="start_ad">Start annonce</string>
 </resources>

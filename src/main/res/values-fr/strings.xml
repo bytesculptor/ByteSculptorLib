@@ -89,5 +89,8 @@
     <string name="szOk">OK</string>
     <string name="szToday">aujourd\'hui</string>
     <string name="tutorial">Didacticiel</string>
+    <string name="error_connect_server">Erreur lors de la connexion au serveur</string>
+    <string name="loading">Chargement</string>
+    <string name="start_ad">Démarrer l\'annonce</string>
 
 </resources>

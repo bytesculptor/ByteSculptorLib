@@ -45,4 +45,7 @@
     <string name="more_licenses">mas maraming lisensya</string>
     <string name="szSave">isalba</string>
     <string name="tutorial">Pagtuturo</string>
+    <string name="error_connect_server">Error habang kumokonekta sa server</string>
+    <string name="loading">Nilo-load</string>
+    <string name="start_ad">Start Ad</string>
 </resources>

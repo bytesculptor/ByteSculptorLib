@@ -45,5 +45,8 @@
     <string name="more_licenses">meer licenties</string>
     <string name="szSave">opslaan</string>
     <string name="tutorial">Zelfstudie</string>
+    <string name="error_connect_server">Fout bij verbinding maken met server</string>
+    <string name="loading">Bezig met laden</string>
+    <string name="start_ad">Advertentie starten</string>
 
 </resources>

@@ -46,5 +46,8 @@
     <string name="more_licenses">lebih banyak lesen</string>
     <string name="szSave">berjimat</string>
     <string name="tutorial">Tutorial</string>
+    <string name="error_connect_server">Ralat semasa menyambung ke pelayan</string>
+    <string name="loading">Memuatkan</string>
+    <string name="start_ad">Mulakan Iklan</string>
 
 </resources>

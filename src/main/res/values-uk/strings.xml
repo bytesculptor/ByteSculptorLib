@@ -45,5 +45,8 @@
     <string name="more_licenses">більше ліцензій</string>
     <string name="szSave">зберегти</string>
     <string name="tutorial">Підручник</string>
+    <string name="error_connect_server">Помилка під час підключення до сервера</string>
+    <string name="loading">Завантаження</string>
+    <string name="start_ad">Почати оголошення</string>
 
 </resources>

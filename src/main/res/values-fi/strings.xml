@@ -45,4 +45,7 @@
     <string name="more_licenses">lisää lisenssejä</string>
     <string name="szSave">pelastaa</string>
     <string name="tutorial">Opetusohjelma</string>
+    <string name="error_connect_server">Virhe muodostettaessa yhteyttä palvelimeen</string>
+    <string name="loading">Ladataan</string>
+    <string name="start_ad">Aloita mainos</string>
 </resources>
