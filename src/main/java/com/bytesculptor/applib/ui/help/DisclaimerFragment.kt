@@ -24,7 +24,12 @@ class DisclaimerFragment : Fragment() {
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
         val view = inflater.inflate(R.layout.fragment_disclaimer, container, false)
         val feedback = view.findViewById<TextView>(R.id.tvFeedbackMailLink)
-        feedback?.setOnClickListener { v: View? -> ExternalLinksHelper.sendFeedbackMail(requireContext(), "App") }
+        feedback?.setOnClickListener { _: View? ->
+            ExternalLinksHelper.sendFeedbackMail(
+                requireContext(),
+                "App"
+            )
+        }
         return view.rootView
     }
 }
