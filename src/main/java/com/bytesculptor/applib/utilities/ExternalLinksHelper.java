@@ -11,16 +11,16 @@
 
 package com.bytesculptor.applib.utilities;
 
+import static android.content.Intent.FLAG_ACTIVITY_NEW_TASK;
+import static com.bytesculptor.applib.utilities.ByteSculptorConstants.DEVELOPER_STORE_ID;
+import static com.bytesculptor.applib.utilities.ByteSculptorConstants.FEEDBACK_EMAIL;
+
 import android.content.ActivityNotFoundException;
 import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
 import android.util.Log;
 import android.widget.Toast;
-
-import static android.content.Intent.FLAG_ACTIVITY_NEW_TASK;
-import static com.bytesculptor.applib.utilities.ByteSculptorConstants.DEVELOPER_STORE_ID;
-import static com.bytesculptor.applib.utilities.ByteSculptorConstants.FEEDBACK_EMAIL;
 
 
 public class ExternalLinksHelper {
@@ -45,14 +45,14 @@ public class ExternalLinksHelper {
      *
      * @param context
      * @param url
-     * @param toastMessage
+     * @param toastMessageIfFails
      */
-    public static void openLinkInBrowser(Context context, String url, String toastMessage) {
+    public static void openLinkInBrowser(Context context, String url, String toastMessageIfFails) {
         try {
             context.startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(url)));
         } catch (Exception e) {
-            if (toastMessage.trim().length() > 0) {
-                Toast.makeText(context, toastMessage, Toast.LENGTH_LONG).show();
+            if (toastMessageIfFails.trim().length() > 0) {
+                Toast.makeText(context, toastMessageIfFails, Toast.LENGTH_LONG).show();
             }
         }
     }
@@ -105,18 +105,38 @@ public class ExternalLinksHelper {
 
 
     /**
-     * Opens a "share" to send the app store link
+     * Opens a "share" to send the Google Play Store link
      *
      * @param context
      * @param packageName
      * @param appName
      */
-    public static void shareApp(Context context, String packageName, String appName) {
+    public static void shareAppGooglePlayStore(Context context, String packageName, String appName) {
         try {
             Intent shareIntent = new Intent(Intent.ACTION_SEND);
             shareIntent.setType("text/plain");
             shareIntent.putExtra(Intent.EXTRA_SUBJECT, appName);
             String shareMessage = "https://play.google.com/store/apps/details?id=" + packageName + "\n\n";
+            shareIntent.putExtra(Intent.EXTRA_TEXT, shareMessage);
+            context.startActivity(Intent.createChooser(shareIntent, ""));
+        } catch (Exception e) {
+            //e.toString();
+        }
+    }
+
+    /**
+     * Opens a "share" to send the app store link for the browser
+     *
+     * @param context
+     * @param url
+     * @param appName
+     */
+    public static void shareAppLink(Context context, String url, String appName) {
+        try {
+            Intent shareIntent = new Intent(Intent.ACTION_SEND);
+            shareIntent.setType("text/plain");
+            shareIntent.putExtra(Intent.EXTRA_SUBJECT, appName);
+            String shareMessage = url + "\n\n";
             shareIntent.putExtra(Intent.EXTRA_TEXT, shareMessage);
             context.startActivity(Intent.createChooser(shareIntent, ""));
         } catch (Exception e) {
