@@ -10,7 +10,6 @@
   -->
 
 <resources>
-    <string name="dev_email">bytesculptor@gmail.com</string>
     <string name="szPrivacyPolicy">سياسة خاصة</string>
     <string name="szCancel">إلغاء</string>
     <string name="szSave">للحفظ</string>
@@ -32,4 +31,6 @@
     <string name="szWebsite">موقع إلكتروني</string>
     <string name="share_app">شارك هذا التطبيق</string>
     <string name="szVisitInPlayStore">التطبيق في المتجر</string>
+    <string name="tutorial">الدورة التعليمية</string>
+    <string name="szHelp">يساعد</string>
 </resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2021 Byte Sculptor Software - All Rights Reserved
+  ~
+  ~ All information contained herein is and remains the property of Byte Sculptor Software.
+  ~ Unauthorized copying of this file, via any medium, is strictly prohibited unless prior
+  ~ written permission is obtained from Byte Sculptor Software.
+  ~
+  ~ Romeo Rondinelli - bytesculptor@gmail.com
+  ~
+  -->
+
+<resources>
+    <string name="szOk">בסדר</string>
+    <string name="szCancel">לְבַטֵל</string>
+    <string name="szSave">להציל</string>
+    <string name="share_app">שתף את האפליקציה הזו</string>
+
+    <string name="szRateThisApp">דרג את האפליקציה הזו</string>
+    <string name="szLikeThisAppTitle">נהנה מאפליקציה זו?</string>
+    <string name="szLikeThisAppNo">לא כל כך</string>
+    <string name="szLikeThisAppMessage">איך החוויה שלך עד כה? האם אתה אוהב את האפליקציה הזו?</string>
+    <string name="szAskFeedbackMessage">אנו מצטערים מאוד! האם תרצה לשלוח משוב כדי שנוכל לשפר את האפליקציה?</string>
+    <string name="szRatingMessage">האם תוכל בבקשה להקדיש רגע לדרג את האפליקציה הזו? תודה על התמיכה שלך!</string>
+    <string name="szRateNow">דרג עכשיו</string>
+    <string name="szRemindMe">הזכר לי</string>
+    <string name="szNoThanks">לא תודה</string>
+
+    <string name="szHelp">עֶזרָה</string>
+    <string name="szIntroduction">מבוא</string>
+    <string name="szAbout">על אודות</string>
+    <string name="szFeedback">שלח משוב</string>
+    <string name="szAppVersion">גרסת האפליקציה</string>
+    <string name="szContact">איש קשר</string>
+    <string name="szFaq">שאלות נפוצות</string>
+    <string name="szContactIntro">משתמשים רבים מנסים ליצור איתי קשר באמצעות מערכת הדירוג של האפליקציה בחנות Google Play. לרוע המזל, שטח התשובות של המפתח מוגבל על ידי Google. לקבלת תמיכה טובה יותר, אנא כתוב אל:</string>
+    <string name="open_source_licenses">רישיונות קוד פתוח</string>
+
+    <string name="szLicensesHeader">אפליקציה זו משתמשת כיום בתוכנת הקוד הפתוח הבאה:</string>
+
+    <string name="errorOnOpenPrivacyPolicyLink">שְׁגִיאָה. בדוק בחנות האפליקציות את מדיניות הפרטיות.</string>
+    <string name="szDisclaimer">כתב ויתור</string>
+    <string name="szPrivacyPolicy">מדיניות פרטיות</string>
+    <string name="szVisitInPlayStore">אפליקציה בחנות</string>
+    <string name="errorOpeningExternalLink">שגיאה בפתיחת הקישור החיצוני</string>
+    <string name="szWebsite">אתר אינטרנט</string>
+    <string name="more_licenses">רישיונות נוספים</string>
+    <string name="tutorial">הדרכה</string>
+    <string name="start_ad">התחל מודעה</string>
+
+</resources>
