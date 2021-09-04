@@ -39,7 +39,6 @@
     <string name="errorOnOpenPrivacyPolicyLink">Virhe. Tarkista sovelluskaupasta tietosuojakäytäntö.</string>
     <string name="szDisclaimer">Vastuuvapauslauseke</string>
     <string name="szPrivacyPolicy">Tietosuojakäytäntö</string>
-    <string name="szVisitInPlayStore">Sovellus Play Kaupassa</string>
     <string name="errorOpeningExternalLink">Virhe ulkoisen linkin avaamisessa</string>
     <string name="szWebsite">Verkkosivusto</string>
     <string name="more_licenses">lisää lisenssejä</string>
@@ -48,4 +47,5 @@
     <string name="error_connect_server">Virhe muodostettaessa yhteyttä palvelimeen</string>
     <string name="loading">Ladataan</string>
     <string name="start_ad">Aloita mainos</string>
+    <string name="szVisitInPlayStore">Sovellus kaupassa</string>
 </resources>

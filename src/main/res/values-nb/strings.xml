@@ -39,7 +39,7 @@
     <string name="errorOnOpenPrivacyPolicyLink">Feil. Sjekk appbutikken for personvernregler.</string>
     <string name="szDisclaimer">Ansvarsfraskrivelse</string>
     <string name="szPrivacyPolicy">Personvernregler</string>
-    <string name="szVisitInPlayStore">App i Play-butikken</string>
+    <string name="szVisitInPlayStore">App i butikken</string>
     <string name="errorOpeningExternalLink">Feil ved åpning av ekstern lenke</string>
     <string name="szWebsite">Nettsted</string>
     <string name="more_licenses">flere lisenser</string>

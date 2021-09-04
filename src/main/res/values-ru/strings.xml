@@ -51,7 +51,7 @@
     <string name="errorOnOpenPrivacyPolicyLink">Ошибка. Ознакомьтесь с политикой конфиденциальности в магазине приложений.</string>
     <string name="szDisclaimer">Отказ от ответственности</string>
     <string name="szPrivacyPolicy">Конфиденциальность</string>
-    <string name="szVisitInPlayStore">Приложение в Play Store</string>
+    <string name="szVisitInPlayStore">Приложение в магазине</string>
     <string name="szWebsite">Веб-сайт</string>
     <string name="more_licenses">больше лицензий</string>
     <string name="szMoreApps">Byte Sculptor Apps</string>

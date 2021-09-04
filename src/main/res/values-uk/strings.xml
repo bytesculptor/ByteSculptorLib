@@ -39,7 +39,7 @@
     <string name="errorOnOpenPrivacyPolicyLink">Помилка. Перевірте магазин додатків щодо політики конфіденційності.</string>
     <string name="szDisclaimer">Застереження</string>
     <string name="szPrivacyPolicy">Політика конфіденційності</string>
-    <string name="szVisitInPlayStore">Додаток у магазині Play</string>
+    <string name="szVisitInPlayStore">Додаток у магазині</string>
     <string name="errorOpeningExternalLink">Помилка при відкритті зовнішнього посилання</string>
     <string name="szWebsite">Веб-сайт</string>
     <string name="more_licenses">більше ліцензій</string>

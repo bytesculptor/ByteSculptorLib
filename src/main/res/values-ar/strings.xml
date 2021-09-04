@@ -28,8 +28,8 @@
     <string name="szRemindMe">ذكرني</string>
     <string name="szNoThanks">لا شكرا</string>
     <string name="szAppVersion">نسخة التطبيق</string>
-    <string name="szVisitInPlayStore">التطبيق في متجر Play</string>
     <string name="errorOpeningExternalLink">خطأ في فتح الرابط الخارجي</string>
     <string name="szWebsite">موقع إلكتروني</string>
     <string name="share_app">شارك هذا التطبيق</string>
+    <string name="szVisitInPlayStore">التطبيق في المتجر</string>
 </resources>

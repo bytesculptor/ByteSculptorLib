@@ -39,7 +39,6 @@
     <string name="errorOnOpenPrivacyPolicyLink">Chyba. Zásady ochrany osobních údajů najdete v obchodě s aplikacemi.</string>
     <string name="szDisclaimer">Zřeknutí se odpovědnosti</string>
     <string name="szPrivacyPolicy">Zásady ochrany osobních údajů</string>
-    <string name="szVisitInPlayStore">Aplikace v Obchodu Play</string>
     <string name="errorOpeningExternalLink">Chyba při otevírání externího odkazu</string>
     <string name="szWebsite">webová stránka</string>
     <string name="more_licenses">více licencí</string>
@@ -48,5 +47,6 @@
     <string name="error_connect_server">Chyba při připojování k serveru</string>
     <string name="loading">Načítání</string>
     <string name="start_ad">Spustit reklamu</string>
+    <string name="szVisitInPlayStore">Aplikace v obchodě</string>
 
 </resources>

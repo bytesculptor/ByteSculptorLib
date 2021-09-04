@@ -39,7 +39,7 @@
     <string name="errorOnOpenPrivacyPolicyLink">Fel. Kolla appbutiken för sekretesspolicy.</string>
     <string name="szDisclaimer">varning</string>
     <string name="szPrivacyPolicy">Integritetspolicy</string>
-    <string name="szVisitInPlayStore">App i Play Butik</string>
+    <string name="szVisitInPlayStore">App i butiken</string>
     <string name="errorOpeningExternalLink">Fel vid öppning av extern länk</string>
     <string name="szWebsite">Hemsida</string>
     <string name="more_licenses">fler licenser</string>

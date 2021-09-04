@@ -41,7 +41,7 @@
     <string name="errorOnOpenPrivacyPolicyLink">Erro. Verifique a app store para obter a política de privacidade.</string>
     <string name="szDisclaimer">Isenção de responsabilidade</string>
     <string name="szPrivacyPolicy">Política de Privacidade</string>
-    <string name="szVisitInPlayStore">App na Play Store</string>
+    <string name="szVisitInPlayStore">App na loja</string>
     <string name="errorOpeningExternalLink">Erro ao abrir link externo</string>
     <string name="szWebsite">Local na rede Internet</string>
     <string name="more_licenses">mais licenças</string>

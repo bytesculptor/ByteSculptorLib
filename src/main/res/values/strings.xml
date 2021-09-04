@@ -127,7 +127,7 @@
     <string name="errorOnOpenPrivacyPolicyLink">Error. Check the app store for the privacy policy.</string>
     <string name="szDisclaimer">Disclaimer</string>
     <string name="szPrivacyPolicy">Privacy Policy</string>
-    <string name="szVisitInPlayStore">App in the Play Store</string>
+    <string name="szVisitInPlayStore">App in the Store</string>
     <string name="errorOpeningExternalLink">Error on opening external link</string>
     <string name="szWebsite">Website</string>
     <string name="tutorial">Tutorial</string>
