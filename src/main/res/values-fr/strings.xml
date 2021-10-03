@@ -93,4 +93,9 @@
     <string name="loading">Chargement</string>
     <string name="start_ad">Démarrer l\'annonce</string>
 
+    <!-- In App Purchases -->
+    <string name="in_app_purchases">Achats In-App</string>
+    <string name="buy">Acheter</string>
+    <string name="your_purchases">Vos achats</string>
+
 </resources>

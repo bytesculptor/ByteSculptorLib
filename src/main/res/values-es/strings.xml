@@ -92,4 +92,10 @@
     <string name="error_connect_server">Error al conectarse al servidor</string>
     <string name="loading">Cargando</string>
     <string name="start_ad">Iniciar anuncio</string>
+
+    <!-- In App Purchases -->
+    <string name="in_app_purchases">Compras en la aplicación</string>
+    <string name="buy">Comprar</string>
+    <string name="your_purchases">Tus compras</string>
+
 </resources>

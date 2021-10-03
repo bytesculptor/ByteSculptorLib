@@ -95,4 +95,9 @@
     <string name="loading">Caricando</string>
     <string name="start_ad">Inizia pubblicità</string>
 
+    <!-- In App Purchases -->
+    <string name="in_app_purchases">Acquisti in-app</string>
+    <string name="buy">Acquistare</string>
+    <string name="your_purchases">I vostri acquisti</string>
+
 </resources>

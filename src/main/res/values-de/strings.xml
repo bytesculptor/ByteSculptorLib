@@ -93,4 +93,10 @@
     <string name="error_connect_server">Fehler beim Verbinden mit dem Server</string>
     <string name="loading">Laden</string>
     <string name="start_ad">Werbung starten</string>
+
+    <!-- In App Purchases -->
+    <string name="in_app_purchases">In-App Käufe</string>
+    <string name="your_purchases">Ihre Einkäufe</string>
+    <string name="buy">Kaufen</string>
+
 </resources>
