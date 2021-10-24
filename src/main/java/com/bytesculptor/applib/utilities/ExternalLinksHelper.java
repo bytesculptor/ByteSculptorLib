@@ -71,7 +71,6 @@ public class ExternalLinksHelper {
         goToAppStore.addFlags(Intent.FLAG_ACTIVITY_NO_HISTORY |
                 Intent.FLAG_ACTIVITY_NEW_DOCUMENT |
                 Intent.FLAG_ACTIVITY_MULTIPLE_TASK | FLAG_ACTIVITY_NEW_TASK);
-        context.startActivity(goToAppStore);
         try {
             context.startActivity(goToAppStore);
         } catch (
