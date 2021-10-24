@@ -27,7 +27,8 @@ class DisclaimerFragment : Fragment() {
         feedback?.setOnClickListener { _: View? ->
             ExternalLinksHelper.sendFeedbackMail(
                 requireContext(),
-                "App"
+                "App",
+                getString(R.string.no_email_app_found)
             )
         }
         return view.rootView

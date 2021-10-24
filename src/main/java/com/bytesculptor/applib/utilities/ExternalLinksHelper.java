@@ -31,12 +31,18 @@ public class ExternalLinksHelper {
      *
      * @param subject email subject
      */
-    public static void sendFeedbackMail(Context context, String subject) {
+    public static void sendFeedbackMail(Context context, String subject, String toastMessageIfFails) {
         String uriText = "mailto:" + FEEDBACK_EMAIL + "?subject=" + subject;
         Uri mailUri = Uri.parse(uriText);
-        Intent intent = new Intent(Intent.ACTION_SENDTO, mailUri);
-        intent.addFlags(FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_REORDER_TO_FRONT);
-        context.startActivity(Intent.createChooser(intent, "sendEmail"));
+        try {
+            Intent intent = new Intent(Intent.ACTION_SENDTO, mailUri);
+            intent.addFlags(FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_REORDER_TO_FRONT);
+            context.startActivity(Intent.createChooser(intent, "sendEmail"));
+        } catch (Exception e) {
+            if (toastMessageIfFails.trim().length() > 0) {
+                Toast.makeText(context, toastMessageIfFails, Toast.LENGTH_LONG).show();
+            }
+        }
     }
 
 

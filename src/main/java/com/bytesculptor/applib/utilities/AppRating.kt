@@ -144,7 +144,10 @@ object AppRating {
             builder.setPositiveButton(getString(R.string.szYes)) { _: DialogInterface?, _: Int ->
                 setGaveFeedback()
                 resetCounterAndTimestamp()
-                ExternalLinksHelper.sendFeedbackMail(context, appName)
+                ExternalLinksHelper.sendFeedbackMail(
+                    context, appName,
+                    getString(R.string.no_email_app_found)
+                )
             }
             builder.setNegativeButton(getString(R.string.szNoThanks)) { _: DialogInterface?, _: Int -> setNeverAsk() }
             return builder.create()
