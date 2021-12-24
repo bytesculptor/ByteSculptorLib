@@ -39,4 +39,50 @@
     <string name="loading">Indlæser</string>
     <string name="start_ad">Start annonce</string>
     <string name="szVisitInPlayStore">App i butikken</string>
+
+    <string name="szSettings">Indstillinger</string>
+    <string name="szNotifications">Meddelelser</string>
+    <string name="notif_setting">Notifikationsindstillinger</string>
+    <string name="set_notif_settings">Indstil synlighed, lyd og vibration</string>
+    <string name="szStatistics">Statistikker</string>
+    <string name="szHint">antydning</string>
+    <string name="szHistory">Historie</string>
+    <string name="szWelcome">Velkommen!</string>
+    <string name="szGood">godt</string>
+    <string name="app_theme">Tema</string>
+    <string name="app_theme_light">Lys</string>
+    <string name="app_theme_dark">Mørk</string>
+    <string name="app_theme_system">System standard</string>
+
+    <string name="szYes">Ja</string>
+    <string name="szNo">ingen</string>
+    <string name="szNoCancel">Nej, annuller</string>
+    <string name="szOff">af</string>
+    <string name="szOn">på</string>
+    <string name="szShowMe">Vis mig</string>
+
+    <string name="szClose">Tæt</string>
+    <string name="szSaved">Gemt</string>
+    <string name="szEdit">Redigere</string>
+    <string name="delete">Slet</string>
+    <string name="reset">Nulstil</string>
+    <string name="sort">sortere</string>
+    <string name="sort_asc">stigende</string>
+    <string name="sort_desc">aftagende</string>
+
+    <string name="szToday">i dag</string>
+    <string name="szLater">senere</string>
+    <string name="btNext">Næste</string>
+    <string name="Monday">Mandag</string>
+    <string name="Tuesday">Tirsdag</string>
+    <string name="Wednesday">Onsdag</string>
+    <string name="Thursday">Torsdag</string>
+    <string name="Friday">Fredag</string>
+    <string name="Saturday">Lørdag</string>
+    <string name="Sunday">Søndag</string>
+
+    <string name="in_app_purchases">Indkøb i appen</string>
+    <string name="your_purchases">Dine indkøb</string>
+    <string name="buy">Købe</string>
+    <string name="notAvailable">Ikke tilgængelig på dit system</string>
 </resources>

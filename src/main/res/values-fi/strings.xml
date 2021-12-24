@@ -39,4 +39,50 @@
     <string name="loading">Ladataan</string>
     <string name="start_ad">Aloita mainos</string>
     <string name="szVisitInPlayStore">Sovellus kaupassa</string>
+    <string name="szSettings">asetukset</string>
+    <string name="szNotifications">Ilmoitukset</string>
+    <string name="notif_setting">Ilmoitusasetukset</string>
+    <string name="set_notif_settings">Aseta näkyvyys, ääni ja värinä</string>
+    <string name="szStatistics">Tilastot</string>
+    <string name="szHint">vihje</string>
+    <string name="szHistory">Historia</string>
+    <string name="szWelcome">Tervetuloa!</string>
+    <string name="szGood">Hyvä</string>
+    <string name="app_theme">Teema</string>
+    <string name="app_theme_light">Kevyt</string>
+    <string name="app_theme_dark">Tumma</string>
+    <string name="app_theme_system">Järjestelmän oletusarvo</string>
+
+    <string name="szYes">Joo</string>
+    <string name="szNo">Ei</string>
+    <string name="szNoCancel">Ei, peruuta</string>
+    <string name="szOff">vinossa</string>
+    <string name="szOn">päällä</string>
+    <string name="szShowMe">Näytä minulle</string>
+
+    <string name="szClose">kiinni</string>
+    <string name="szSaved">Tallennettu</string>
+    <string name="szEdit">Muokata</string>
+    <string name="delete">Poistaa</string>
+    <string name="reset">nollaa</string>
+    <string name="sort">järjestellä</string>
+    <string name="sort_asc">nouseva</string>
+    <string name="sort_desc">laskeva</string>
+
+    <string name="szToday">tänään</string>
+    <string name="szLater">myöhemmin</string>
+    <string name="btNext">Seuraava</string>
+    <string name="Monday">Maanantai</string>
+    <string name="Tuesday">Tiistai</string>
+    <string name="Wednesday">Keskiviikko</string>
+    <string name="Thursday">Torstai</string>
+    <string name="Friday">Perjantai</string>
+    <string name="Saturday">Lauantaina</string>
+    <string name="Sunday">Sunnuntai</string>
+
+    <string name="in_app_purchases">Sovelluksen sisäiset ostot</string>
+    <string name="your_purchases">Sinun ostoksesi</string>
+    <string name="buy">Ostaa</string>
+    <string name="notAvailable">Ei saatavilla järjestelmässäsi</string>
+
 </resources>

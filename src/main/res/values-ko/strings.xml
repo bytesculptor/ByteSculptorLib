@@ -27,7 +27,7 @@
     <string name="szRatingMessage">이 앱을 평가 해 주시겠습니까? 귀하의 지원에 감사드립니다!</string>
     <string name="szRemindMe">나에게 알림</string>
     <string name="notAvailable">시스템에서 사용할 수 없음</string>
-    <string name="szNo">아니</string>
+    <string name="szNo">아니요</string>
     <string name="szYes">예</string>
     <string name="errorOnOpenPrivacyPolicyLink">오류. 개인 정보 보호 정책은 앱 스토어를 확인하십시오.</string>
     <string name="errorOpeningExternalLink">외부 링크 열기 오류</string>
@@ -39,4 +39,48 @@
     <string name="loading">로드 중</string>
     <string name="start_ad">광고 시작</string>
     <string name="szVisitInPlayStore">스토어의 앱</string>
+
+    <string name="szNotifications">알림</string>
+    <string name="notif_setting">알림 설정</string>
+    <string name="set_notif_settings">가시성, 소리 및 진동 설정</string>
+    <string name="szStatistics">통계</string>
+    <string name="szHint">힌트</string>
+    <string name="szHistory">역사</string>
+    <string name="szWelcome">어서 오십시오!</string>
+    <string name="szGood">좋은</string>
+    <string name="app_theme">주제</string>
+    <string name="app_theme_light">빛</string>
+    <string name="app_theme_dark">어두운</string>
+    <string name="app_theme_system">시스템 기본값</string>
+
+    <string name="szNoCancel">아니요, 취소</string>
+    <string name="szOff">끄다</string>
+    <string name="szOn">켜짐</string>
+    <string name="szShowMe">보여줘</string>
+
+    <string name="szClose">닫다</string>
+    <string name="szSaved">저장됨</string>
+    <string name="szEdit">편집하다</string>
+    <string name="delete">삭제</string>
+    <string name="reset">초기화</string>
+    <string name="sort">종류</string>
+    <string name="sort_asc">오름차순</string>
+    <string name="sort_desc">내림차순</string>
+
+    <string name="szToday">오늘</string>
+    <string name="szLater">나중에</string>
+    <string name="btNext">다음</string>
+    <string name="Monday">월요일</string>
+    <string name="Tuesday">화요일</string>
+    <string name="Wednesday">수요일</string>
+    <string name="Thursday">목요일</string>
+    <string name="Friday">금요일</string>
+    <string name="Saturday">토요일</string>
+    <string name="Sunday">일요일</string>
+
+    <string name="in_app_purchases">인앱 구매</string>
+    <string name="your_purchases">구매</string>
+    <string name="buy">구입</string>
+    <string name="szIntroduction">소개</string>
+
 </resources>

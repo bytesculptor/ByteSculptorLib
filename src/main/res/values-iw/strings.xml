@@ -38,4 +38,52 @@
     <string name="tutorial">הדרכה</string>
     <string name="start_ad">התחל מודעה</string>
 
+    <string name="szSettings">הגדרות</string>
+    <string name="szNotifications">התראות</string>
+    <string name="notif_setting">הגדרות התראות</string>
+    <string name="set_notif_settings">הגדר נראות, צליל ורטט</string>
+    <string name="szStatistics">סטָטִיסטִיקָה</string>
+    <string name="szHint">רֶמֶז</string>
+    <string name="szHistory">הִיסטוֹרִיָה</string>
+    <string name="szWelcome">ברוך הבא!</string>
+    <string name="szGood">טוֹב</string>
+    <string name="app_theme">נושא</string>
+    <string name="app_theme_light">אוֹר</string>
+    <string name="app_theme_dark">אפל</string>
+    <string name="app_theme_system">ברירת מחדל של המערכת</string>
+
+    <string name="szYes">כן</string>
+    <string name="szNo">לא</string>
+    <string name="szNoCancel">לא, בטל</string>
+    <string name="szOff">כבוי</string>
+    <string name="szOn">עַל</string>
+    <string name="szShowMe">תראה לי</string>
+
+    <string name="szClose">סגור</string>
+    <string name="szSaved">שמור</string>
+    <string name="szEdit">לַעֲרוֹך</string>
+    <string name="delete">לִמְחוֹק</string>
+    <string name="reset">אִתחוּל</string>
+    <string name="sort">סוג</string>
+    <string name="sort_asc">עולה</string>
+    <string name="sort_desc">יורד</string>
+
+    <string name="szToday">היום</string>
+    <string name="szLater">יותר מאוחר</string>
+    <string name="btNext">הַבָּא</string>
+    <string name="Monday">יוֹם שֵׁנִי</string>
+    <string name="Tuesday">יוֹם שְׁלִישִׁי</string>
+    <string name="Wednesday">יום רביעי</string>
+    <string name="Thursday">יוֹם חֲמִישִׁי</string>
+    <string name="Friday">יוֹם שִׁישִׁי</string>
+    <string name="Saturday">יום שבת</string>
+    <string name="Sunday">יוֹם רִאשׁוֹן</string>
+
+    <string name="in_app_purchases">רכישות בתוך האפליקציה</string>
+    <string name="your_purchases">הרכישות שלך</string>
+    <string name="buy">לִקְנוֹת</string>
+    <string name="error_connect_server">שגיאה בעת התחברות לשרת</string>
+    <string name="loading">טעינה</string>
+    <string name="notAvailable">לא זמין במערכת שלך</string>
+
 </resources>

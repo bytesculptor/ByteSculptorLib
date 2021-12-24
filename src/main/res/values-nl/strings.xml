@@ -40,4 +40,50 @@
     <string name="loading">Bezig met laden</string>
     <string name="start_ad">Advertentie starten</string>
 
+    <string name="szSettings">Instellingen</string>
+    <string name="szNotifications">Meldingen</string>
+    <string name="notif_setting">Notificatie instellingen</string>
+    <string name="set_notif_settings">Zichtbaarheid, geluid en trillingen instellen</string>
+    <string name="szStatistics">Statistieken</string>
+    <string name="szHint">hint</string>
+    <string name="szHistory">Geschiedenis</string>
+    <string name="szWelcome">Welkom!</string>
+    <string name="szGood">Goed</string>
+    <string name="app_theme">Thema</string>
+    <string name="app_theme_light">Licht</string>
+    <string name="app_theme_dark">Donker</string>
+    <string name="app_theme_system">Systeemfout</string>
+
+    <string name="szYes">Ja</string>
+    <string name="szNo">Nee</string>
+    <string name="szNoCancel">Nee, annuleer</string>
+    <string name="szOff">uit</string>
+    <string name="szOn">Aan</string>
+    <string name="szShowMe">Laat het me zien</string>
+
+    <string name="szClose">Dichtbij</string>
+    <string name="szSaved">Opgeslagen</string>
+    <string name="szEdit">Bewerk</string>
+    <string name="delete">Verwijderen</string>
+    <string name="reset">resetten</string>
+    <string name="sort">soort</string>
+    <string name="sort_asc">oplopend</string>
+    <string name="sort_desc">aflopend</string>
+
+    <string name="szToday">vandaag</string>
+    <string name="szLater">later</string>
+    <string name="btNext">De volgende</string>
+    <string name="Monday">maandag</string>
+    <string name="Tuesday">dinsdag</string>
+    <string name="Wednesday">woensdag</string>
+    <string name="Thursday">Donderdag</string>
+    <string name="Friday">vrijdag</string>
+    <string name="Saturday">zaterdag</string>
+    <string name="Sunday">zondag</string>
+
+    <string name="in_app_purchases">In-app aankopen</string>
+    <string name="your_purchases">Uw aankopen</string>
+    <string name="buy">Kopen</string>
+    <string name="notAvailable">Niet beschikbaar op uw systeem</string>
+
 </resources>

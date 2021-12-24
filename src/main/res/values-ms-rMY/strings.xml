@@ -41,4 +41,50 @@
     <string name="loading">Memuatkan</string>
     <string name="start_ad">Mulakan Iklan</string>
 
+    <string name="szSettings">tetapan</string>
+    <string name="szNotifications">Pemberitahuan</string>
+    <string name="notif_setting">Tetapan pemberitahuan</string>
+    <string name="set_notif_settings">Tetapkan keterlihatan, bunyi dan getaran</string>
+    <string name="szStatistics">Perangkaan</string>
+    <string name="szHint">petunjuk</string>
+    <string name="szHistory">Sejarah</string>
+    <string name="szWelcome">Selamat datang!</string>
+    <string name="szGood">Baik</string>
+    <string name="app_theme">Tema</string>
+    <string name="app_theme_light">Cahaya</string>
+    <string name="app_theme_dark">Gelap</string>
+    <string name="app_theme_system">Sistem lalai</string>
+
+    <string name="szYes">ya</string>
+    <string name="szNo">tidak</string>
+    <string name="szNoCancel">Tidak, batalkan</string>
+    <string name="szOff">padam</string>
+    <string name="szOn">pada</string>
+    <string name="szShowMe">Tunjukkan kepada saya</string>
+
+    <string name="szClose">tutup</string>
+    <string name="szSaved">Disimpan</string>
+    <string name="szEdit">Sunting</string>
+    <string name="delete">Padam</string>
+    <string name="reset">set semula</string>
+    <string name="sort">menyusun</string>
+    <string name="sort_asc">menaik</string>
+    <string name="sort_desc">menurun</string>
+
+    <string name="szToday">hari ini</string>
+    <string name="szLater">nanti</string>
+    <string name="btNext">seterusnya</string>
+    <string name="Monday">Isnin</string>
+    <string name="Tuesday">Selasa</string>
+    <string name="Wednesday">Rabu</string>
+    <string name="Thursday">Khamis</string>
+    <string name="Friday">Jumaat</string>
+    <string name="Saturday">Sabtu</string>
+    <string name="Sunday">Ahad</string>
+
+    <string name="in_app_purchases">Pembelian Dalam Apl</string>
+    <string name="your_purchases">Pembelian anda</string>
+    <string name="buy">Beli</string>
+    <string name="notAvailable">Tidak tersedia pada sistem anda</string>
+
 </resources>

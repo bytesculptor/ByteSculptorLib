@@ -47,4 +47,46 @@
     <string name="loading">Carregando</string>
     <string name="start_ad">Iniciar anúncio</string>
 
+    <string name="szNotifications">Notificações</string>
+    <string name="notif_setting">Configurações de notificação</string>
+    <string name="set_notif_settings">Definir visibilidade, som e vibração</string>
+    <string name="szStatistics">Estatísticas</string>
+    <string name="szHint">dica</string>
+    <string name="szHistory">História</string>
+    <string name="szWelcome">Bem-vindo!</string>
+    <string name="szGood">Bom</string>
+    <string name="app_theme">Tema</string>
+    <string name="app_theme_light">Luz</string>
+    <string name="app_theme_dark">Escuro</string>
+    <string name="app_theme_system">Padrão do sistema</string>
+
+    <string name="szNoCancel">Não, cancelar</string>
+    <string name="szOff">desligado</string>
+    <string name="szOn">em</string>
+    <string name="szShowMe">Mostre-me</string>
+
+    <string name="szClose">Fechar</string>
+    <string name="szSaved">Salvo</string>
+    <string name="szEdit">Editar</string>
+    <string name="delete">Excluir</string>
+    <string name="reset">redefinir</string>
+    <string name="sort">sort</string>
+    <string name="sort_asc">crescente</string>
+    <string name="sort_desc">decrescente</string>
+
+    <string name="szToday">hoje</string>
+    <string name="szLater">mais tarde</string>
+    <string name="btNext">próximo</string>
+    <string name="Monday">Segunda-feira </string>
+    <string name="Tuesday">Terça</string>
+    <string name="Wednesday">Quarta</string>
+    <string name="Thursday">Quinta</string>
+    <string name="Friday">Sexta-feira </string>
+    <string name="Saturday">Sábado</string>
+    <string name="Sunday">Domingo</string>
+
+    <string name="in_app_purchases">Compras no aplicativo</string>
+    <string name="your_purchases">Suas compras</string>
+    <string name="buy">Compre</string>
+
 </resources>

@@ -41,4 +41,50 @@
     <string name="loading">Ładowanie</string>
     <string name="start_ad">Rozpocznij reklamę</string>
 
+    <string name="szSettings">Ustawienia</string>
+    <string name="szNotifications">Powiadomienia</string>
+    <string name="notif_setting">Ustawienia powiadomień</string>
+    <string name="set_notif_settings">Ustaw widoczność, dźwięk i wibracje</string>
+    <string name="szStatistics">Statystyka</string>
+    <string name="szHint">Wskazówka</string>
+    <string name="szHistory">Historia</string>
+    <string name="szWelcome">Witam!</string>
+    <string name="szGood">Dobry</string>
+    <string name="app_theme">Temat</string>
+    <string name="app_theme_light">Światło</string>
+    <string name="app_theme_dark">Ciemny</string>
+    <string name="app_theme_system">Domyślne ustawienie systemowe</string>
+
+    <string name="szYes">tak</string>
+    <string name="szNo">nie</string>
+    <string name="szNoCancel">Nie, anuluj</string>
+    <string name="szOff">wyłączony</string>
+    <string name="szOn">na</string>
+    <string name="szShowMe">Pokaż mi</string>
+
+    <string name="szClose">Blisko</string>
+    <string name="szSaved">Zapisane</string>
+    <string name="szEdit">Edytować</string>
+    <string name="delete">Kasować</string>
+    <string name="reset">Resetowanie</string>
+    <string name="sort">sortować</string>
+    <string name="sort_asc">rosnąco</string>
+    <string name="sort_desc">malejąco</string>
+
+    <string name="szToday">Dziś</string>
+    <string name="szLater">później</string>
+    <string name="btNext">Następny</string>
+    <string name="Monday">Poniedziałek</string>
+    <string name="Tuesday">wtorek</string>
+    <string name="Wednesday">Środa</string>
+    <string name="Thursday">Czwartek</string>
+    <string name="Friday">piątek</string>
+    <string name="Saturday">sobota</string>
+    <string name="Sunday">niedziela</string>
+
+    <string name="in_app_purchases">Zakupy w aplikacji</string>
+    <string name="your_purchases">Twoje zakupy</string>
+    <string name="buy">Kup</string>
+    <string name="notAvailable">Niedostępne w Twoim systemie</string>
+
 </resources>

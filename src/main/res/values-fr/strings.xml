@@ -84,9 +84,19 @@
     <string name="loading">Chargement</string>
     <string name="start_ad">Démarrer l\'annonce</string>
 
-    <!-- In App Purchases -->
     <string name="in_app_purchases">Achats In-App</string>
     <string name="buy">Acheter</string>
     <string name="your_purchases">Vos achats</string>
+
+    <string name="szGood">Bon</string>
+    <string name="szStatistics">Statistiques</string>
+    <string name="delete">effacer</string>
+    <string name="reset">réinitialiser</string>
+    <string name="sort">Trier</string>
+    <string name="sort_asc">ascendant</string>
+    <string name="sort_desc">descendant</string>
+    <string name="btNext">suivant</string>
+    <string name="szSaved">Enregistré</string>
+    <string name="szEdit">éditer</string>
 
 </resources>

@@ -40,4 +40,51 @@
     <string name="start_ad">Spustit reklamu</string>
     <string name="szVisitInPlayStore">Aplikace v obchodě</string>
 
+    <string name="szSettings">Nastavení</string>
+    <string name="szNotifications">Oznámení</string>
+    <string name="notif_setting">Nastavení upozornění</string>
+    <string name="set_notif_settings">Nastavte viditelnost, zvuk a vibrace</string>
+    <string name="szStatistics">Statistika</string>
+    <string name="szHint">náznak</string>
+    <string name="szHistory">Dějiny</string>
+    <string name="szWelcome">Vítejte!</string>
+    <string name="szGood">Dobrý</string>
+    <string name="app_theme">Téma</string>
+    <string name="app_theme_light">Světlo</string>
+    <string name="app_theme_dark">Temný</string>
+    <string name="app_theme_system">Výchozí nastavení systému</string>
+
+    <string name="szYes">Ano</string>
+    <string name="szNo">Ne</string>
+    <string name="szNoCancel">Ne, zrušit</string>
+    <string name="szOff">vypnuto</string>
+    <string name="szOn">na</string>
+    <string name="szShowMe">Ukaž mi</string>
+
+    <string name="szClose">Zavřít</string>
+    <string name="szSaved">Uložené</string>
+    <string name="szEdit">Upravit</string>
+    <string name="delete">Vymazat</string>
+    <string name="reset">resetovat</string>
+    <string name="sort">třídit</string>
+    <string name="sort_asc">vzestupně</string>
+    <string name="sort_desc">klesající</string>
+
+    <string name="szToday">dnes</string>
+    <string name="szLater">později</string>
+    <string name="btNext">další</string>
+
+    <string name="Monday">Pondělí</string>
+    <string name="Tuesday">úterý</string>
+    <string name="Wednesday">Středa</string>
+    <string name="Thursday">Čtvrtek</string>
+    <string name="Friday">Pátek</string>
+    <string name="Saturday">Sobota</string>
+    <string name="Sunday">Neděle</string>
+
+    <string name="in_app_purchases">Nákupy v aplikaci</string>
+    <string name="your_purchases">Vaše nákupy</string>
+    <string name="buy">Koupit</string>
+    <string name="notAvailable">Není k dispozici ve vašem systému</string>
+
 </resources>

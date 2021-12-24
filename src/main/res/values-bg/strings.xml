@@ -16,7 +16,6 @@
     <string name="app_theme_dark">Тъмна</string>
     <string name="app_theme_system">Като системната настройка</string>
 
-
     <!-- confirmation -->
     <string name="szOk">Добре</string>
     <string name="szYes">Да</string>
@@ -26,7 +25,6 @@
     <string name="szOn">Включено</string>
     <string name="szShowMe">Покажи ми</string>
 
-
     <!-- actions -->
     <string name="szClose">Затвори</string>
     <string name="szCancel">Отмени</string>
@@ -34,13 +32,6 @@
     <string name="szSaved" translatable="false">Запазено</string>
     <string name="szEdit" translatable="false">Редактирай</string>
     <string name="share_app">Сподели това приложение</string>
-
-
-    <!-- files -->
-
-
-    <!-- sorting -->
-
 
     <!-- time -->
     <string name="szToday">Днес</string>
@@ -54,7 +45,6 @@
     <string name="Sat">Съб</string>
     <string name="Sun">Нед</string>
 
-
     <!-- app rating -->
     <string name="szRateThisApp">Оценете това приложение</string>
     <string name="szLikeThisAppTitle">Харесва ли Ви това приложение?</string>
@@ -65,7 +55,6 @@
     <string name="szRateNow">Оцени сега</string>
     <string name="szRemindMe">Напомни ми</string>
     <string name="szNoThanks">Не, благодаря</string>
-
 
     <!-- help -->
     <string name="szHelp">Помощ</string>
@@ -92,7 +81,6 @@
     <!-- licenses -->
     <string name="szLicensesHeader">Това приложение в момента използва следния софтуер с отворен код:</string>
 
-
     <string name="errorOnOpenPrivacyPolicyLink">Грешка! Моля, проверете за поверителната политика в Google Play магазина.</string>
     <string name="szDisclaimer">Отказ от отговорност</string>
     <string name="szPrivacyPolicy">Поверителност</string>
@@ -104,5 +92,25 @@
     <string name="loading">Зареждане</string>
     <string name="start_ad">Начална реклама</string>
     <string name="szVisitInPlayStore">Приложение в магазина</string>
+
+    <string name="delete">Изтрий</string>
+    <string name="reset">нулиране</string>
+    <string name="sort">вид</string>
+    <string name="sort_asc">възходящ</string>
+    <string name="sort_desc">низходящо</string>
+
+    <string name="Monday">понеделник</string>
+    <string name="Tuesday">вторник</string>
+    <string name="Wednesday">сряда</string>
+    <string name="Thursday">четвъртък</string>
+    <string name="Friday">петък</string>
+    <string name="Saturday">събота</string>
+    <string name="Sunday">неделя</string>
+
+    <string name="in_app_purchases">Покупки в приложението</string>
+    <string name="your_purchases">Вашите покупки</string>
+    <string name="buy">Купува</string>
+
+    <string name="szStatistics">Статистика</string>
 
 </resources>

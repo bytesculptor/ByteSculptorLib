@@ -39,4 +39,50 @@
     <string name="error_connect_server">Fel vid anslutning till server</string>
     <string name="loading">Läser in</string>
     <string name="start_ad">Start reklam</string>
+    <string name="szSettings">inställningar</string>
+    <string name="szNotifications">Aviseringar</string>
+    <string name="notif_setting">Aviseringsinställningar</string>
+    <string name="set_notif_settings">Ställ in synlighet, ljud och vibration</string>
+    <string name="szStatistics">Statistik</string>
+    <string name="szHint">ledtråd</string>
+    <string name="szHistory">Historia</string>
+    <string name="szWelcome">Välkommen!</string>
+    <string name="szGood">Bra</string>
+    <string name="app_theme">Tema</string>
+    <string name="app_theme_light">Ljus</string>
+    <string name="app_theme_dark">Mörk</string>
+    <string name="app_theme_system">Systemfel</string>
+
+    <string name="szYes">Ja</string>
+    <string name="szNo">Nej</string>
+    <string name="szNoCancel">Nej, avbryt</string>
+    <string name="szOff">av</string>
+    <string name="szOn">på</string>
+    <string name="szShowMe">Visa mig</string>
+
+    <string name="szClose">Stänga</string>
+    <string name="szSaved">Sparad</string>
+    <string name="szEdit">Redigera</string>
+    <string name="delete">Radera</string>
+    <string name="reset">återställa</string>
+    <string name="sort">sortera</string>
+    <string name="sort_asc">stigande</string>
+    <string name="sort_desc">nedåtgående</string>
+
+    <string name="szToday">i dag</string>
+    <string name="szLater">senare</string>
+    <string name="btNext">Nästa</string>
+    <string name="Monday">måndag</string>
+    <string name="Tuesday">tisdag</string>
+    <string name="Wednesday">onsdag</string>
+    <string name="Thursday">torsdag</string>
+    <string name="Friday">fredag</string>
+    <string name="Saturday">lördag</string>
+    <string name="Sunday">söndag</string>
+
+    <string name="in_app_purchases">In-App-köp</string>
+    <string name="your_purchases">Dina inköp</string>
+    <string name="buy">köpa</string>
+    <string name="notAvailable">Ej tillgängligt på ditt system</string>
+
 </resources>

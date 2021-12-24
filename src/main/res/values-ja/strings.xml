@@ -23,10 +23,6 @@
     <string name="szMoreApps">Byte Sculptor アプリ</string>
     <string name="szFaq">FAQ</string>
     <string name="szOk">はい</string>
-    <string name="app_theme">テーマ</string>
-    <string name="app_theme_dark">ダーク</string>
-    <string name="app_theme_system">システムのデフォルト</string>
-    <string name="app_theme_light">ライト</string>
 
     <!-- app rating -->
     <string name="szRateThisApp">このアプリを評価する</string>
@@ -37,7 +33,6 @@
     <string name="szRatingMessage">このアプリを評価していただけませんか？ご協力ありがとうございました！</string>
     <string name="szRateNow">今すぐ評価</string>
     <string name="szRemindMe">私に思い出させる</string>
-
 
     <string name="errorOnOpenPrivacyPolicyLink">エラー。プライバシーポリシーについては、アプリストアを確認してください。</string>
     <string name="errorOpeningExternalLink">外部リンクを開くときにエラーが発生しました</string>
@@ -67,5 +62,39 @@
     <string name="error_connect_server">サーバーへの接続中にエラーが発生しました</string>
     <string name="loading">読み込み中</string>
     <string name="start_ad">広告を開始</string>
+
+    <string name="set_notif_settings">視認性、音、バイブレーションを設定する</string>
+    <string name="szStatistics">統計学</string>
+    <string name="szHint">ヒント</string>
+    <string name="szHistory">歴史</string>
+    <string name="szWelcome">いらっしゃいませ！</string>
+    <string name="szGood">良い</string>
+
+    <string name="app_theme">テーマ</string>
+    <string name="app_theme_light">光</string>
+    <string name="app_theme_dark">闇</string>
+    <string name="app_theme_system">システムのデフォルト</string>
+
+    <string name="szOff">オフ</string>
+    <string name="szOn">の上</string>
+    <string name="szShowMe">見せて</string>
+
+    <string name="szClose">選ぶ</string>
+    <string name="szSaved">保存しました</string>
+    <string name="szEdit">編集</string>
+    <string name="delete">消去</string>
+    <string name="reset">リセット</string>
+    <string name="sort">選別</string>
+    <string name="sort_asc">上昇</string>
+    <string name="sort_desc">降順</string>
+
+    <string name="szToday">今日</string>
+    <string name="szLater">後で</string>
+    <string name="btNext">次</string>
+
+    <string name="in_app_purchases">アプリ内購入</string>
+    <string name="your_purchases">あなたの購入</string>
+    <string name="buy">買う</string>
+    <string name="szIntroduction">序章</string>
 
 </resources>
