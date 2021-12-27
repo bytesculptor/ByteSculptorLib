@@ -60,6 +60,7 @@
     <string name="szHelp">Помощ</string>
     <string name="szIntroduction">Увод</string>
     <string name="szAbout">За нас</string>
+    <string name="help_and_about">Помощ &amp; За нас</string>
     <string name="szFeedback">Изпрати коментар</string>
     <string name="szAppVersion">Версия на приложението</string>
     <string name="szMoreApps">Byte Sculptor Apps</string>

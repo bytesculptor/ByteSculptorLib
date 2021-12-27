@@ -9,7 +9,8 @@
     <string name="szDisclaimer">부인 성명</string>
     <string name="szPrivacyPolicy">개인 정보 정책</string>
     <string name="more_licenses">더 많은 라이센스</string>
-    <string name="szAbout">약</string>
+    <string name="szAbout">우리에 대해</string>
+    <string name="help_and_about">도움 &amp; 우리에 대해</string>
     <string name="szCancel">취소</string>
     <string name="szSave">저장</string>
     <string name="share_app">이 앱 공유</string>

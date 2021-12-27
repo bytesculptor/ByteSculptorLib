@@ -17,7 +17,8 @@
 
     <string name="szHelp">Pomoc</string>
     <string name="szIntroduction">Úvod</string>
-    <string name="szAbout">O</string>
+    <string name="szAbout">Asi</string>
+    <string name="help_and_about">Nápověda a informace</string>
     <string name="szFeedback">Poslat zpětnou vazbu</string>
     <string name="szAppVersion">Verze aplikace</string>
     <string name="szContact">Kontakt</string>
