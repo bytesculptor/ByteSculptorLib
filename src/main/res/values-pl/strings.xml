@@ -71,6 +71,7 @@
     <string name="sort">sortować</string>
     <string name="sort_asc">rosnąco</string>
     <string name="sort_desc">malejąco</string>
+    <string name="added">dodany</string>
 
     <string name="szToday">Dziś</string>
     <string name="szLater">później</string>
@@ -87,5 +88,7 @@
     <string name="your_purchases">Twoje zakupy</string>
     <string name="buy">Kup</string>
     <string name="notAvailable">Niedostępne w Twoim systemie</string>
+    <string name="pro_version">Wersja Pro</string>
+    <string name="no_email_app_found">Nie znaleziono aplikacji e-mail</string>
 
 </resources>

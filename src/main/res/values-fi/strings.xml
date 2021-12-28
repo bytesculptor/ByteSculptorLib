@@ -69,6 +69,7 @@
     <string name="sort">järjestellä</string>
     <string name="sort_asc">nouseva</string>
     <string name="sort_desc">laskeva</string>
+    <string name="added">lisätty</string>
 
     <string name="szToday">tänään</string>
     <string name="szLater">myöhemmin</string>
@@ -85,5 +86,7 @@
     <string name="your_purchases">Sinun ostoksesi</string>
     <string name="buy">Ostaa</string>
     <string name="notAvailable">Ei saatavilla järjestelmässäsi</string>
+    <string name="pro_version">Pro versio</string>
+    <string name="no_email_app_found">Sähköpostisovellusta ei löytynyt</string>
 
 </resources>

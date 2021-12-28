@@ -70,6 +70,7 @@
     <string name="sort">uri</string>
     <string name="sort_asc">pataas</string>
     <string name="sort_desc">bumababa</string>
+    <string name="added">idinagdag</string>
 
     <string name="szToday">ngayon</string>
     <string name="szLater">mamaya</string>
@@ -86,5 +87,7 @@
     <string name="your_purchases">Ang iyong mga pagbili</string>
     <string name="buy">Bumili</string>
     <string name="notAvailable">Hindi available sa iyong system</string>
+    <string name="pro_version">Pro na Bersyon</string>
+    <string name="no_email_app_found">Walang nakitang E-Mail app</string>
 
 </resources>

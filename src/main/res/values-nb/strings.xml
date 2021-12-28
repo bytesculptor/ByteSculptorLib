@@ -70,6 +70,7 @@
     <string name="sort">sortere</string>
     <string name="sort_asc">stigende</string>
     <string name="sort_desc">synkende</string>
+    <string name="added">la til</string>
 
     <string name="szToday">i dag</string>
     <string name="szLater">seinere</string>
@@ -86,5 +87,7 @@
     <string name="your_purchases">Dine kjøp</string>
     <string name="buy">Kjøpe</string>
     <string name="notAvailable">Ikke tilgjengelig på systemet ditt</string>
+    <string name="pro_version">Pro-versjon</string>
+    <string name="no_email_app_found">Ingen e-postapp funnet</string>
 
 </resources>

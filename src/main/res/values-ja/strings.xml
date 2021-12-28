@@ -88,6 +88,7 @@
     <string name="sort">選別</string>
     <string name="sort_asc">上昇</string>
     <string name="sort_desc">降順</string>
+    <string name="added">追加した</string>
 
     <string name="szToday">今日</string>
     <string name="szLater">後で</string>
@@ -97,5 +98,7 @@
     <string name="your_purchases">あなたの購入</string>
     <string name="buy">買う</string>
     <string name="szIntroduction">序章</string>
+    <string name="pro_version">プロバージョン</string>
+    <string name="no_email_app_found">メールアプリが見つかりません</string>
 
 </resources>

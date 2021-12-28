@@ -67,6 +67,7 @@
     <string name="sort">menyortir</string>
     <string name="sort_asc">naik</string>
     <string name="sort_desc">menurun</string>
+    <string name="added">ditambahkan</string>
 
     <string name="szToday">hari ini</string>
     <string name="szLater">nanti</string>
@@ -83,5 +84,7 @@
     <string name="your_purchases">Pembelian Anda</string>
     <string name="buy">Membeli</string>
     <string name="szIntroduction">pengantar</string>
+    <string name="pro_version">Versi Pro</string>
+    <string name="no_email_app_found">Tidak ada aplikasi Email yang ditemukan</string>
 
 </resources>

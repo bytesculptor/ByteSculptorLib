@@ -69,6 +69,7 @@
     <string name="sort">sortera</string>
     <string name="sort_asc">stigande</string>
     <string name="sort_desc">nedåtgående</string>
+    <string name="added">lagt till</string>
 
     <string name="szToday">i dag</string>
     <string name="szLater">senare</string>
@@ -85,5 +86,7 @@
     <string name="your_purchases">Dina inköp</string>
     <string name="buy">köpa</string>
     <string name="notAvailable">Ej tillgängligt på ditt system</string>
+    <string name="pro_version">Pro Version</string>
+    <string name="no_email_app_found">Ingen e-postapp hittades</string>
 
 </resources>

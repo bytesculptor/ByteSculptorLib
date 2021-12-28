@@ -94,9 +94,12 @@
     <string name="szStatistics">Statistik</string>
     <string name="delete">Löschen</string>
     <string name="reset">zurücksetzen</string>
-    <string name="sort">Sortieren</string>
+    <string name="sort">sortieren</string>
     <string name="btNext">nächste</string>
     <string name="sort_asc">aufsteigend</string>
     <string name="sort_desc">absteigend</string>
+    <string name="added">hinzugefügt</string>
+    <string name="pro_version">Pro Version</string>
+    <string name="no_email_app_found">Keine E-Mail-App gefunden</string>
 
 </resources>

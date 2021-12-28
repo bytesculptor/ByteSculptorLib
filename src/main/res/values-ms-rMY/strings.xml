@@ -71,6 +71,7 @@
     <string name="sort">menyusun</string>
     <string name="sort_asc">menaik</string>
     <string name="sort_desc">menurun</string>
+    <string name="added">tambah</string>
 
     <string name="szToday">hari ini</string>
     <string name="szLater">nanti</string>
@@ -87,5 +88,7 @@
     <string name="your_purchases">Pembelian anda</string>
     <string name="buy">Beli</string>
     <string name="notAvailable">Tidak tersedia pada sistem anda</string>
+    <string name="pro_version">Versi Pro</string>
+    <string name="no_email_app_found">Tiada apl E-mel ditemui</string>
 
 </resources>

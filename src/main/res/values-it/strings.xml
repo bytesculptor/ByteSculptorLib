@@ -98,8 +98,11 @@
     <string name="sort">ordinare</string>
     <string name="sort_asc">ascendente</string>
     <string name="sort_desc">discendente</string>
+    <string name="added">aggiunto</string>
     <string name="btNext">prossima</string>
     <string name="szSaved">Salvato</string>
     <string name="szEdit">modificare</string>
+    <string name="pro_version">Versione Pro</string>
+    <string name="no_email_app_found">Nessuna app di email trovata</string>
 
 </resources>

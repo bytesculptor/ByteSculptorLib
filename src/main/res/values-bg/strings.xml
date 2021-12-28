@@ -99,6 +99,7 @@
     <string name="sort">вид</string>
     <string name="sort_asc">възходящ</string>
     <string name="sort_desc">низходящо</string>
+    <string name="added">добави</string>
 
     <string name="Monday">понеделник</string>
     <string name="Tuesday">вторник</string>
@@ -113,5 +114,7 @@
     <string name="buy">Купува</string>
 
     <string name="szStatistics">Статистика</string>
+    <string name="pro_version">Pro версия</string>
+    <string name="no_email_app_found">Няма намерено приложение за електронна поща</string>
 
 </resources>

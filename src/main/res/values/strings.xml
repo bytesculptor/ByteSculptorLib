@@ -42,9 +42,10 @@
     <string name="delete">Delete</string>
     <string name="share_app">Share this app</string>
     <string name="reset">reset</string>
-    <string name="sort">sort</string>
+    <string name="sort">sorting</string>
     <string name="sort_asc">ascending</string>
     <string name="sort_desc">descending</string>
+    <string name="added">added</string>
 
     <!-- time -->
     <string name="szToday">today</string>

@@ -76,6 +76,7 @@
     <string name="sort">Сортировать</string>
     <string name="sort_asc">по возрастанию</string>
     <string name="sort_desc">нисходящий</string>
+    <string name="added">добавлен</string>
 
     <string name="szToday">сегодня</string>
     <string name="szLater">позже</string>
@@ -92,5 +93,7 @@
     <string name="your_purchases">Ваши покупки</string>
     <string name="buy">Купить</string>
     <string name="szIntroduction">Введение</string>
+    <string name="pro_version">Pro версия</string>
+    <string name="no_email_app_found">Приложение для электронной почты не найдено</string>
 
 </resources>

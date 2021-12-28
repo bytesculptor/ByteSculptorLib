@@ -28,7 +28,6 @@
     <string name="szContactIntro">Muitos usuários tentam entrar em contato comigo por meio do sistema de classificação do aplicativo na Google Play Store. Infelizmente, o espaço de resposta do desenvolvedor é limitado pelo Google. Para obter melhor suporte, escreva para:</string>
     <string name="open_source_licenses">Licenças de código aberto</string>
 
-    <!-- licenses -->
     <string name="szLicensesHeader">Este aplicativo usa atualmente o seguinte software de código aberto:</string>
     <string name="errorOnOpenPrivacyPolicyLink">Erro. Verifique a app store para obter a política de privacidade.</string>
     <string name="szDisclaimer">Isenção de responsabilidade</string>
@@ -74,6 +73,7 @@
     <string name="sort">sort</string>
     <string name="sort_asc">crescente</string>
     <string name="sort_desc">decrescente</string>
+    <string name="added">adicionado</string>
 
     <string name="szToday">hoje</string>
     <string name="szLater">mais tarde</string>
@@ -89,5 +89,7 @@
     <string name="in_app_purchases">Compras no aplicativo</string>
     <string name="your_purchases">Suas compras</string>
     <string name="buy">Compre</string>
+    <string name="pro_version">Versão Pro</string>
+    <string name="no_email_app_found">Nenhum aplicativo de e-mail encontrado</string>
 
 </resources>

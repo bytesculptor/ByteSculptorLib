@@ -54,6 +54,7 @@
     <string name="sort">فرز</string>
     <string name="sort_asc">تصاعدي</string>
     <string name="sort_desc">تنازلي</string>
+    <string name="added">مضاف</string>
 
     <string name="szToday">اليوم</string>
     <string name="szLater">الى وقت لاحق</string>
@@ -83,5 +84,7 @@
     <string name="open_source_licenses">تراخيص مفتوحة المصدر</string>
     <string name="notAvailable">غير متوفر في نظامك</string>
     <string name="szLicensesHeader">يستخدم هذا التطبيق حاليًا البرامج مفتوحة المصدر التالية:</string>
+    <string name="pro_version">الإصدار المحترف</string>
+    <string name="no_email_app_found">لم يتم العثور على تطبيق بريد إلكتروني</string>
 
 </resources>

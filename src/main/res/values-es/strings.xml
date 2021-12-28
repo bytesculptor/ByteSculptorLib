@@ -99,6 +99,9 @@
     <string name="sort">clasificar</string>
     <string name="sort_asc">ascendente</string>
     <string name="sort_desc">descendente</string>
+    <string name="added">adicional</string>
     <string name="btNext">Siguiente</string>
+    <string name="pro_version">Versión Pro</string>
+    <string name="no_email_app_found">No se encontró ninguna aplicación de correo electrónico</string>
 
 </resources>

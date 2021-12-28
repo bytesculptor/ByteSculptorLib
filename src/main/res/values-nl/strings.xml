@@ -70,6 +70,7 @@
     <string name="sort">soort</string>
     <string name="sort_asc">oplopend</string>
     <string name="sort_desc">aflopend</string>
+    <string name="added">toegevoegd</string>
 
     <string name="szToday">vandaag</string>
     <string name="szLater">later</string>
@@ -86,5 +87,7 @@
     <string name="your_purchases">Uw aankopen</string>
     <string name="buy">Kopen</string>
     <string name="notAvailable">Niet beschikbaar op uw systeem</string>
+    <string name="pro_version">Pro-versie</string>
+    <string name="no_email_app_found">Geen e-mailapp gevonden</string>
 
 </resources>
