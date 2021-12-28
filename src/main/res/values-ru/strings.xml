@@ -26,7 +26,7 @@
     <string name="szHelp">Помощь</string>
     <string name="szAbout">О нас</string>
     <string name="help_and_about">Помощь &amp; О нас</string>
-    <string name="szFeedback">Отправить отзыв</string>
+    <string name="szFeedback">Отправить отзыв (электронное письмо)</string>
     <string name="szAppVersion">Версия приложения</string>
     <string name="szContact">Для контакта</string>
     <string name="szFaq">Часто задаваемые вопросы</string>
