@@ -86,5 +86,12 @@
     <string name="szIntroduction">소개</string>
     <string name="pro_version">프로 버전</string>
     <string name="no_email_app_found">이메일 앱을 찾을 수 없습니다</string>
+    <string name="Mon">월</string>
+    <string name="Tue">화</string>
+    <string name="Wed">수</string>
+    <string name="Thu">목</string>
+    <string name="Fri">금</string>
+    <string name="Sun">일</string>
+    <string name="Sat">토</string>
 
 </resources>

@@ -51,13 +51,13 @@
     <string name="szToday">today</string>
     <string name="szLater">later</string>
     <string name="btNext">next</string>
-    <string name="Mon" translatable="false">Mon</string>
-    <string name="Tue" translatable="false">Tue</string>
-    <string name="Wed" translatable="false">Wed</string>
-    <string name="Thu" translatable="false">Thu</string>
-    <string name="Fri" translatable="false">Fri</string>
-    <string name="Sat" translatable="false">Sat</string>
-    <string name="Sun" translatable="false">Sun</string>
+    <string name="Mon">Mon</string>
+    <string name="Tue">Tue</string>
+    <string name="Wed">Wed</string>
+    <string name="Thu">Thu</string>
+    <string name="Fri">Fri</string>
+    <string name="Sat">Sat</string>
+    <string name="Sun">Sun</string>
     <string name="Monday">Monday</string>
     <string name="Tuesday">Tuesday</string>
     <string name="Wednesday">Wednesday</string>
