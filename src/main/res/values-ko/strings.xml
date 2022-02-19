@@ -18,7 +18,7 @@
 
 <resources>
     <string name="szSettings">설정</string>
-    <string name="szFeedback">피드백 보내기 (이메일)</string>
+    <string name="szFeedback">문의하기(이메일)</string>
     <string name="szMoreApps">Byte Sculptor 앱</string>
     <string name="szLicensesHeader">이 앱은 현재 다음 오픈 소스 소프트웨어를 사용합니다.</string>
     <string name="szAppVersion">앱 버전</string>

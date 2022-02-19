@@ -18,7 +18,7 @@
 
 <resources>
     <string name="szSettings">Pengaturan</string>
-    <string name="szFeedback">Kirim umpan balik (Surel)</string>
+    <string name="szFeedback">Hubungi kami (Email)</string>
     <string name="szMoreApps">Byte Sculptor Aplikasi</string>
     <string name="szLicensesHeader">Aplikasi ini saat ini menggunakan perangkat lunak sumber terbuka berikut:</string>
     <string name="szAppVersion">Versi Aplikasi</string>

@@ -25,7 +25,7 @@
     <string name="szContactIntro">多くのユーザーが、GooglePlay ストアのアプリの評価システムを介して私に連絡しようとします。残念ながら、開発者の回答スペースは Google によって制限されています。より良いサポートのために、以下に書いてください：</string>
     <string name="szAbout">当社について</string>
     <string name="help_and_about">ヘルプ &amp; 当社について</string>
-    <string name="szFeedback">フィードバックを送信する （メール）</string>
+    <string name="szFeedback">お問い合わせ（メール）</string>
     <string name="szVisitInPlayStore">ストア内のアプリ</string>
     <string name="share_app">このアプリを共有する</string>
     <string name="szAppVersion">アプリバージョン</string>
