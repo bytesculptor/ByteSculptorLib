@@ -137,7 +137,8 @@ public class ExternalLinksHelper {
     }
 
     /**
-     * Opens a "share" to send the app store link for the browser
+     * Opens a "share" to send the app store link for the browser (used in other than
+     * Google Play Store flavour builds)
      *
      * @param context
      * @param url
