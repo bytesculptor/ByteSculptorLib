@@ -23,4 +23,5 @@ object ByteSculptorConstants {
     const val DEVELOPER_STORE_ID = "7643395524006358452"
     const val PRIVACY_URL = "https://bytesculptor.dev/privacy.html"
     const val WEBSITE_URL = "https://bytesculptor.dev/index.html"
+    const val TWITTER_URL = "https://twitter.com/bytesculptor"
 }
