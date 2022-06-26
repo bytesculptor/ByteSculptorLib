@@ -1,5 +1,5 @@
 /*
- * Copyright 2020 Byte Sculptor Software
+ * Copyright 2022 Byte Sculptor Software
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -15,22 +15,25 @@
  *
  */
 
-package com.bytesculptor.applib.utilities
+package com.bytesculptor.applib.compose.theme
 
-import java.util.*
+import androidx.compose.ui.graphics.Color
 
-class Converters {
+// Light theme
+val AccentLight = Color(0xFF0762BC)
 
-    companion object {
+val MainFontLight = Color(0xFF151515)
+val SmallFontLight = Color(0xFF363636)
 
-        @JvmStatic
-        fun timestampToDate(value: Long?): Date? {
-            return value?.let { Date(it) }
-        }
 
-        @JvmStatic
-        fun dateToTimestamp(date: Date?): Long? {
-            return date?.time
-        }
-    }
-}
+// Dark theme
+val AccentDark = Color(0xFF5391FD)
+
+val MainFontDark = Color(0xFFF1F1F1)
+val SmallFontDark = Color(0xFFC6C6C6)
+
+
+// various helper colors
+val IndicatingGood = Color(0xFF0ae745)
+val IndicatingWarning = Color(0xFFFFBD00)
+val IndicatingError = Color(0xFFEF251E)
