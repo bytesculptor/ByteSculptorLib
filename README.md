@@ -1,5 +1,6 @@
 # Byte Sculptor Lib
-Collecting in this library some classes, layouts, icons, strings/translations and other files I use for my apps.
+Collecting in this library some classes, layouts, icons, strings/translations and other files I use
+for my Android apps.
 
 ## Integration in an app project
 - In your Android project, go to the folder "app", create a folder "libs" (or wherever you prefer) and add the lib as a git subrepo: `git submodule add https://github.com/bytesculptor/ByteSculptorLib.git`
