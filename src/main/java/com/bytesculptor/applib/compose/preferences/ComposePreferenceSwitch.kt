@@ -43,6 +43,7 @@ fun ComposePreferenceSwitch(
     description: String,
     switchState: Boolean,
     switchEnabled: Boolean,
+    enabled: Boolean,
     onSwitchChanged: (Boolean) -> Unit
 ) {
     Row(
@@ -59,13 +60,13 @@ fun ComposePreferenceSwitch(
             Text(
                 modifier = Modifier.padding(top = 16.dp),
                 text = header,
-                color = MaterialTheme.colorScheme.onPrimary,
+                color = if (enabled) MaterialTheme.colorScheme.onPrimary else MaterialTheme.colorScheme.onTertiary,
                 style = MaterialTheme.typography.bodyLarge
             )
             Text(
                 modifier = Modifier.padding(top = 4.dp, bottom = 16.dp),
                 text = description,
-                color = MaterialTheme.colorScheme.onSecondary,
+                color = if (enabled) MaterialTheme.colorScheme.onSecondary else MaterialTheme.colorScheme.onTertiary,
                 style = MaterialTheme.typography.bodyMedium
             )
         }
@@ -96,7 +97,8 @@ fun ComposePreferenceSwitchDay() {
             description = "Get a notification if the temperature exceeds a limit",
             switchEnabled = true,
             switchState = true,
-            onSwitchChanged = {}
+            onSwitchChanged = {},
+            enabled = true,
         )
     }
 }
@@ -111,14 +113,16 @@ fun ComposePreferenceSwitchNight() {
                 description = "Get a notification if the temperature exceeds a limit",
                 switchEnabled = true,
                 switchState = true,
-                onSwitchChanged = {}
+                onSwitchChanged = {},
+                enabled = true,
             )
             ComposePreferenceSwitch(
                 header = "Battery Level Warning",
                 description = "Get a notification if the battery level reaches a limit",
-                switchEnabled = true,
+                switchEnabled = false,
                 switchState = true,
-                onSwitchChanged = {}
+                onSwitchChanged = {},
+                enabled = false,
             )
         }
     }

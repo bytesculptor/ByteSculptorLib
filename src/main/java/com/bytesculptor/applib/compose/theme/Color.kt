@@ -24,13 +24,14 @@ val AccentLight = Color(0xFF0762BC)
 
 val MainFontLight = Color(0xFF151515)
 val SmallFontLight = Color(0xFF363636)
-
+val DisabledFontLight = Color(0xFF969696)
 
 // Dark theme
 val AccentDark = Color(0xFF5391FD)
 
 val MainFontDark = Color(0xFFF1F1F1)
 val SmallFontDark = Color(0xFFC6C6C6)
+val DisabledFontDark = Color(0x59E9E9E9)
 
 
 // various helper colors

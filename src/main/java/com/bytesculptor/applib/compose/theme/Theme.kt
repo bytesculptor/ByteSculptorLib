@@ -30,12 +30,14 @@ private val DarkColorScheme = darkColorScheme(
     primary = AccentDark,
     onPrimary = MainFontDark,
     onSecondary = SmallFontDark,
+    onTertiary = DisabledFontDark,
 )
 
 private val LightColorScheme = lightColorScheme(
     primary = AccentLight,
     onPrimary = MainFontLight,
     onSecondary = SmallFontLight,
+    onTertiary = DisabledFontLight,
 
     /* Other default colors to override
     background = Color(0xFFFFFBFE),

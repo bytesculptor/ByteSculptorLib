@@ -18,6 +18,7 @@
 package com.bytesculptor.applib.compose.preferences
 
 import android.content.res.Configuration.UI_MODE_NIGHT_NO
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxWidth
@@ -35,12 +36,15 @@ import com.bytesculptor.applib.compose.theme.preferencePaddingStart
 fun ComposePreference(
     modifier: Modifier = Modifier,
     header: String,
-    description: String
+    description: String,
+    onClick: () -> Unit,
+    enabled: Boolean,
 ) {
     Row(
         modifier = modifier
             .padding(vertical = 4.dp)
             .fillMaxWidth()
+            .clickable(onClick = onClick, enabled = enabled)
     ) {
         Column(
             modifier = Modifier
@@ -50,13 +54,13 @@ fun ComposePreference(
             Text(
                 modifier = Modifier.padding(top = 16.dp),
                 text = header,
-                color = MaterialTheme.colorScheme.onPrimary,
-                style = MaterialTheme.typography.bodyLarge
+                color = if (enabled) MaterialTheme.colorScheme.onPrimary else MaterialTheme.colorScheme.onTertiary,
+                style = MaterialTheme.typography.bodyLarge,
             )
             Text(
                 modifier = Modifier.padding(top = 4.dp, bottom = 16.dp),
                 text = description,
-                color = MaterialTheme.colorScheme.onSecondary,
+                color = if (enabled) MaterialTheme.colorScheme.onSecondary else MaterialTheme.colorScheme.onTertiary,
                 style = MaterialTheme.typography.bodyMedium
             )
         }
@@ -67,25 +71,39 @@ fun ComposePreference(
 @Composable
 fun ComposePreferenceDay() {
     BssMaterialTheme {
-        ComposePreference(
-            header = "Battery Temperature Warning",
-            description = "Get a notification if the battery temperature exceeds a limit"
-        )
+        Column {
+            ComposePreference(
+                header = "Battery Temperature Warning",
+                description = "Get a notification if the battery temperature exceeds a limit",
+                onClick = {},
+                enabled = true
+            )
+            ComposePreference(
+                header = "Battery Temperature Warning",
+                description = "Get a notification if the battery temperature exceeds a limit",
+                onClick = {},
+                enabled = false
+            )
+        }
     }
 }
 
-@Preview(showBackground = true)
+@Preview(showBackground = false)
 @Composable
 fun ComposePreferenceNight() {
     BssMaterialTheme(darkTheme = true) {
         Column {
             ComposePreference(
                 header = "Battery Temperature Warning",
-                description = "Get a notification if the temperature exceeds a limit"
+                description = "Get a notification if the temperature exceeds a limit",
+                onClick = {},
+                enabled = true
             )
             ComposePreference(
                 header = "Battery Temperature Warning",
-                description = "Get a notification if the temperature exceeds a limit"
+                description = "Get a notification if the temperature exceeds a limit",
+                onClick = {},
+                enabled = false
             )
         }
     }
