@@ -18,44 +18,56 @@
 package com.bytesculptor.applib.compose.preferences
 
 import android.content.res.Configuration.UI_MODE_NIGHT_NO
-import android.content.res.Configuration.UI_MODE_NIGHT_YES
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.*
 import androidx.compose.runtime.Composable
-import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.res.colorResource
+import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
+import com.bytesculptor.applib.R
 import com.bytesculptor.applib.compose.theme.BssMaterialTheme
 import com.bytesculptor.applib.compose.theme.preferencePaddingStart
 
 @Composable
-fun ComposePreferenceSwitch(
+fun ComposePreferenceWithIcon(
     modifier: Modifier = Modifier,
     header: String,
     description: String,
-    switchState: Boolean,
-    switchEnabled: Boolean,
-    enabled: Boolean,
-    onSwitchChanged: (Boolean) -> Unit
+    onClick: () -> Unit,
+    enabled: Boolean = true,
+    icon: Int? = null,
 ) {
     Row(
         modifier = modifier
             .padding(vertical = 4.dp)
             .fillMaxWidth()
+            .clickable(onClick = onClick, enabled = enabled)
     ) {
 
+        Column(modifier = Modifier.padding(top = 18.dp), verticalArrangement = Arrangement.Center) {
+            Icon(
+                modifier = Modifier
+                    .padding(start = 16.dp)
+                    .width(24.dp)
+                    .height(24.dp),
+                painter = if (icon != null) painterResource(icon) else painterResource(R.drawable.ic_empty_icon),
+                contentDescription = null,
+                tint = colorResource(id = R.color.stdFont),
+            )
+        }
         Column(
             modifier = Modifier
-                .padding(start = preferencePaddingStart, end = 8.dp)
+                .padding(start = preferencePaddingStart, end = 16.dp)
                 .weight(fill = true, weight = 0.5f)
         ) {
             Text(
                 modifier = Modifier.padding(top = 16.dp),
                 text = header,
                 color = if (enabled) MaterialTheme.colorScheme.onPrimary else MaterialTheme.colorScheme.onTertiary,
-                style = MaterialTheme.typography.bodyLarge
+                style = MaterialTheme.typography.bodyLarge,
             )
             Text(
                 modifier = Modifier.padding(top = 4.dp, bottom = 16.dp),
@@ -64,58 +76,50 @@ fun ComposePreferenceSwitch(
                 style = MaterialTheme.typography.bodyMedium
             )
         }
-
-        Column(
-            modifier = Modifier
-                .weight(0.12f)
-                .padding(16.dp)
-                .align(Alignment.CenterVertically)
-        ) {
-            Switch(
-                checked = switchState,
-                enabled = switchEnabled,
-                onCheckedChange = { onSwitchChanged(it) },
-                colors = SwitchDefaults.colors(checkedThumbColor = Color.White)
-            )
-        }
     }
 }
 
 @Preview(showBackground = true, uiMode = UI_MODE_NIGHT_NO)
 @Composable
-fun ComposePreferenceSwitchDay() {
-    BssMaterialTheme(darkTheme = false) {
-        ComposePreferenceSwitch(
-            header = "Battery Temperature Warning",
-            description = "Get a notification if the temperature exceeds a limit",
-            switchEnabled = true,
-            switchState = true,
-            onSwitchChanged = {},
-            enabled = true,
-        )
+fun ComposePreferenceWithIconDay() {
+    BssMaterialTheme {
+        Column {
+            ComposePreferenceWithIcon(
+                header = "Battery Temperature Warning",
+                description = "Get a notification if the battery temperature exceeds a limit",
+                onClick = {},
+                enabled = true,
+                icon = R.drawable.ic_notification,
+            )
+            ComposePreferenceWithIcon(
+                header = "Battery Temperature Warning",
+                description = "Get a notification if the battery temperature exceeds a limit",
+                onClick = {},
+                enabled = false,
+                icon = null,
+            )
+        }
     }
 }
 
-@Preview(showBackground = false, uiMode = UI_MODE_NIGHT_YES)
+@Preview(showBackground = false)
 @Composable
-fun ComposePreferenceSwitchNight() {
+fun ComposePreferenceWithIconNight() {
     BssMaterialTheme(darkTheme = true) {
         Column {
-            ComposePreferenceSwitch(
+            ComposePreferenceWithIcon(
                 header = "Battery Temperature Warning",
                 description = "Get a notification if the temperature exceeds a limit",
-                switchEnabled = true,
-                switchState = true,
-                onSwitchChanged = {},
+                onClick = {},
                 enabled = true,
+                icon = R.drawable.ic_notification,
             )
-            ComposePreferenceSwitch(
-                header = "Battery Level Warning",
-                description = "Get a notification if the battery level reaches a limit",
-                switchEnabled = false,
-                switchState = true,
-                onSwitchChanged = {},
+            ComposePreferenceWithIcon(
+                header = "Battery Temperature Warning",
+                description = "Get a notification if the temperature exceeds a limit",
+                onClick = {},
                 enabled = false,
+                icon = null,
             )
         }
     }

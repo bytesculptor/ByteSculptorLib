@@ -17,20 +17,21 @@
 
 package com.bytesculptor.applib.compose.helpers
 
-import androidx.compose.foundation.layout.height
-import androidx.compose.foundation.layout.padding
-import androidx.compose.foundation.layout.width
+import androidx.compose.foundation.layout.*
 import androidx.compose.material3.Divider
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.unit.dp
+import com.bytesculptor.applib.R
 
 @Composable
-fun ComposeDivider() {
+fun ComposeDivider(modifier: Modifier = Modifier) {
     Divider(
-        modifier = Modifier
+        modifier = modifier
             .padding(vertical = 8.dp)
             .height(1.dp),
+        color = colorResource(id = R.color.darkFont)
     )
 }
 
