@@ -21,4 +21,9 @@
     <color name="lightFont">#9C9C9C</color>
     <color name="darkFont">#494949</color>
     <color name="contrast">@android:color/black</color>
+
+    <color name="bottomNavDivider">#E2E2E2</color>
+    <color name="colorMainBackground">#F3F3F3</color>
+    <color name="colorBottomNavBackground">#FBFBFB</color>
+    <color name="colorButton">#121212</color>
 </resources>
