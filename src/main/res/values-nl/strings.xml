@@ -17,80 +17,72 @@
   -->
 
 <resources>
-    <string name="szOk">OK</string>
-    <string name="szCancel">annuleren</string>
+    <string name="okay">OK</string>
+    <string name="cancel">annuleren</string>
     <string name="share_app">Deel deze app</string>
-
-    <string name="szRateThisApp">Beoordeel deze app</string>
+    <string name="rate_this_app">Beoordeel deze app</string>
     <string name="szLikeThisAppTitle">Geniet je van deze app?</string>
     <string name="szLikeThisAppNo">Niet zo veel</string>
     <string name="szLikeThisAppMessage">Hoe is uw ervaring tot nu toe? Vind je deze app leuk?</string>
     <string name="szAskFeedbackMessage">Het spijt ons heel erg! Wil je feedback sturen zodat we de app kunnen verbeteren?</string>
     <string name="szRatingMessage">Zou je even de tijd willen nemen om deze app te beoordelen? Bedankt voor je steun!</string>
-    <string name="szRateNow">Beoordeel nu</string>
-    <string name="szRemindMe">Herinner me</string>
-    <string name="szNoThanks">Nee, dank u wel</string>
-
-    <string name="szHelp">Helpen</string>
-    <string name="szIntroduction">Invoering</string>
-    <string name="szAbout">Over</string>
+    <string name="rate_now">Beoordeel nu</string>
+    <string name="remind_me">Herinner me</string>
+    <string name="no_thanks">Nee, dank u wel</string>
+    <string name="help">Helpen</string>
+    <string name="introduction">Invoering</string>
+    <string name="about">Over</string>
     <string name="help_and_about">Helpen &amp; Over</string>
-    <string name="szFeedback">Neem contact met ons op (e-mail)</string>
-    <string name="szAppVersion">App versie</string>
-    <string name="szContact">Contact</string>
-    <string name="szFaq">FAQ</string>
-    <string name="szContactIntro">Veel gebruikers proberen contact met mij op te nemen via het beoordelingssysteem van de app in Google Play Store. Helaas wordt de antwoordruimte van de ontwikkelaar beperkt door Google. Voor betere ondersteuning kunt u schrijven naar:</string>
+    <string name="contact_us_by_email">Neem contact met ons op (e-mail)</string>
+    <string name="app_version">App versie</string>
+    <string name="contact">Contact</string>
+    <string name="faq">FAQ</string>
+    <string name="contact_us_intro_1">Veel gebruikers proberen contact met mij op te nemen via het beoordelingssysteem van de app in Google Play Store. Helaas wordt de antwoordruimte van de ontwikkelaar beperkt door Google. Voor betere ondersteuning kunt u schrijven naar:</string>
     <string name="open_source_licenses">Open source licenties</string>
-
-    <string name="szLicensesHeader">Deze app maakt momenteel gebruik van de volgende open source software:</string>
-
-    <string name="errorOnOpenPrivacyPolicyLink">Fout. Kijk in de app store voor het privacybeleid.</string>
-    <string name="szDisclaimer">Disclaimer</string>
-    <string name="szPrivacyPolicy">Privacybeleid</string>
-    <string name="szVisitInPlayStore">App in de Store</string>
+    <string name="oss_licenses_header">Deze app maakt momenteel gebruik van de volgende open source software:</string>
+    <string name="error_on_open_privacy_policy_link">Fout. Kijk in de app store voor het privacybeleid.</string>
+    <string name="disclaimer">Disclaimer</string>
+    <string name="privacy_policy">Privacybeleid</string>
+    <string name="app_in_the_store">App in de Store</string>
     <string name="errorOpeningExternalLink">Fout bij het openen van externe link</string>
-    <string name="szWebsite">Website</string>
+    <string name="website">Website</string>
     <string name="more_licenses">meer licenties</string>
-    <string name="szSave">opslaan</string>
+    <string name="save">opslaan</string>
     <string name="tutorial">Zelfstudie</string>
     <string name="error_connect_server">Fout bij verbinding maken met server</string>
     <string name="loading">Bezig met laden</string>
     <string name="start_ad">Advertentie starten</string>
-
-    <string name="szSettings">Instellingen</string>
-    <string name="szNotifications">Meldingen</string>
+    <string name="settings">Instellingen</string>
+    <string name="notifications">Meldingen</string>
     <string name="notif_setting">Notificatie instellingen</string>
     <string name="set_notif_settings">Zichtbaarheid, geluid en trillingen instellen</string>
-    <string name="szStatistics">Statistieken</string>
-    <string name="szHint">hint</string>
-    <string name="szHistory">Geschiedenis</string>
-    <string name="szWelcome">Welkom!</string>
-    <string name="szGood">Goed</string>
+    <string name="statistics">Statistieken</string>
+    <string name="hint">hint</string>
+    <string name="history">Geschiedenis</string>
+    <string name="welcome">Welkom!</string>
+    <string name="good">Goed</string>
     <string name="app_theme">Thema</string>
     <string name="app_theme_light">Licht</string>
     <string name="app_theme_dark">Donker</string>
     <string name="app_theme_system">Systeemfout</string>
-
-    <string name="szYes">Ja</string>
-    <string name="szNo">Nee</string>
-    <string name="szNoCancel">Nee, annuleer</string>
-    <string name="szOff">uit</string>
-    <string name="szOn">Aan</string>
-    <string name="szShowMe">Laat het me zien</string>
-
-    <string name="szClose">Dichtbij</string>
-    <string name="szSaved">Opgeslagen</string>
-    <string name="szEdit">Bewerk</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nee</string>
+    <string name="no_do_cancel">Nee, annuleer</string>
+    <string name="off">uit</string>
+    <string name="on">Aan</string>
+    <string name="show_me">Laat het me zien</string>
+    <string name="close">Dichtbij</string>
+    <string name="saved">Opgeslagen</string>
+    <string name="edit">Bewerk</string>
     <string name="delete">Verwijderen</string>
     <string name="reset">resetten</string>
     <string name="sort">soort</string>
     <string name="sort_asc">oplopend</string>
     <string name="sort_desc">aflopend</string>
     <string name="added">toegevoegd</string>
-
-    <string name="szToday">vandaag</string>
-    <string name="szLater">later</string>
-    <string name="btNext">De volgende</string>
+    <string name="today">vandaag</string>
+    <string name="later">later</string>
+    <string name="next">De volgende</string>
     <string name="Monday">maandag</string>
     <string name="Tuesday">dinsdag</string>
     <string name="Wednesday">woensdag</string>
@@ -98,12 +90,10 @@
     <string name="Friday">vrijdag</string>
     <string name="Saturday">zaterdag</string>
     <string name="Sunday">zondag</string>
-
     <string name="in_app_purchases">In-app aankopen</string>
     <string name="your_purchases">Uw aankopen</string>
     <string name="buy">Kopen</string>
     <string name="notAvailable">Niet beschikbaar op uw systeem</string>
     <string name="pro_version">Pro-versie</string>
     <string name="no_email_app_found">Geen e-mailapp gevonden</string>
-
 </resources>

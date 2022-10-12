@@ -35,7 +35,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:paddingBottom="8dp"
-            android:text="@string/szDisclaimer1"
+            android:text="@string/disclaimer_text_1"
             android:textIsSelectable="true"
             android:textSize="18sp" />
 
@@ -44,7 +44,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:paddingBottom="8dp"
-            android:text="@string/szDisclaimer2"
+            android:text="@string/disclaimer_text_2"
             android:textIsSelectable="true"
             android:textSize="18sp" />
 
@@ -53,7 +53,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:paddingBottom="8dp"
-            android:text="@string/szDisclaimer3"
+            android:text="@string/disclaimer_text_3"
             android:textIsSelectable="false"
             android:textSize="18sp" />
 

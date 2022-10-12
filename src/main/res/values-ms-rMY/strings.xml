@@ -17,81 +17,72 @@
   -->
 
 <resources>
-
-    <string name="szOk">okey</string>
-    <string name="szCancel">Batal</string>
+    <string name="okay">okey</string>
+    <string name="cancel">Batal</string>
     <string name="share_app">Kongsi aplikasi ini</string>
-
-    <string name="szRateThisApp">Nilai aplikasi ini</string>
+    <string name="rate_this_app">Nilai aplikasi ini</string>
     <string name="szLikeThisAppTitle">Menikmati aplikasi ini?</string>
     <string name="szLikeThisAppNo">Tidak begitu banyak</string>
     <string name="szLikeThisAppMessage">Bagaimana pengalaman anda setakat ini? Adakah anda suka aplikasi ini?</string>
     <string name="szAskFeedbackMessage">Kami sangat menyesal! Adakah anda ingin menghantar maklum balas supaya kami meningkatkan aplikasinya?</string>
     <string name="szRatingMessage">Adakah anda meluangkan masa untuk menilai aplikasi ini? Terima kasih atas sokongan anda!</string>
-    <string name="szRateNow">Nilai sekarang</string>
-    <string name="szRemindMe">Ingatkan saya</string>
-    <string name="szNoThanks">Tidak, Terima kasih</string>
-
-    <string name="szHelp">Tolonglah</string>
-    <string name="szIntroduction">Pengenalan</string>
-    <string name="szAbout">Mengenai</string>
+    <string name="rate_now">Nilai sekarang</string>
+    <string name="remind_me">Ingatkan saya</string>
+    <string name="no_thanks">Tidak, Terima kasih</string>
+    <string name="help">Tolonglah</string>
+    <string name="introduction">Pengenalan</string>
+    <string name="about">Mengenai</string>
     <string name="help_and_about">Tolonglah &amp; Mengenai</string>
-    <string name="szFeedback">Hubungi kami (E-mel)</string>
-    <string name="szAppVersion">Versi Aplikasi</string>
-    <string name="szContact">Hubungi</string>
-    <string name="szFaq">Soalan Lazim</string>
-    <string name="szContactIntro">Ramai pengguna cuba menghubungi saya melalui sistem penilaian aplikasi di Google Play Store. Malangnya, ruang jawapan pemaju dihadkan oleh Google. Untuk sokongan yang lebih baik, sila tulis ke:</string>
+    <string name="contact_us_by_email">Hubungi kami (E-mel)</string>
+    <string name="app_version">Versi Aplikasi</string>
+    <string name="contact">Hubungi</string>
+    <string name="faq">Soalan Lazim</string>
+    <string name="contact_us_intro_1">Ramai pengguna cuba menghubungi saya melalui sistem penilaian aplikasi di Google Play Store. Malangnya, ruang jawapan pemaju dihadkan oleh Google. Untuk sokongan yang lebih baik, sila tulis ke:</string>
     <string name="open_source_licenses">Lesen sumber terbuka</string>
-
-    <string name="szLicensesHeader">Aplikasi ini pada masa ini menggunakan perisian sumber terbuka berikut:</string>
-
-    <string name="errorOnOpenPrivacyPolicyLink">Ralat. Periksa kedai aplikasi untuk mengetahui dasar privasi.</string>
-    <string name="szDisclaimer">Penafian</string>
-    <string name="szPrivacyPolicy">Dasar Privasi</string>
-    <string name="szVisitInPlayStore">Aplikasi di Kedai</string>
+    <string name="oss_licenses_header">Aplikasi ini pada masa ini menggunakan perisian sumber terbuka berikut:</string>
+    <string name="error_on_open_privacy_policy_link">Ralat. Periksa kedai aplikasi untuk mengetahui dasar privasi.</string>
+    <string name="disclaimer">Penafian</string>
+    <string name="privacy_policy">Dasar Privasi</string>
+    <string name="app_in_the_store">Aplikasi di Kedai</string>
     <string name="errorOpeningExternalLink">Ralat semasa membuka pautan luaran</string>
-    <string name="szWebsite">Laman web</string>
+    <string name="website">Laman web</string>
     <string name="more_licenses">lebih banyak lesen</string>
-    <string name="szSave">berjimat</string>
+    <string name="save">berjimat</string>
     <string name="tutorial">Tutorial</string>
     <string name="error_connect_server">Ralat semasa menyambung ke pelayan</string>
     <string name="loading">Memuatkan</string>
     <string name="start_ad">Mulakan Iklan</string>
-
-    <string name="szSettings">tetapan</string>
-    <string name="szNotifications">Pemberitahuan</string>
+    <string name="settings">tetapan</string>
+    <string name="notifications">Pemberitahuan</string>
     <string name="notif_setting">Tetapan pemberitahuan</string>
     <string name="set_notif_settings">Tetapkan keterlihatan, bunyi dan getaran</string>
-    <string name="szStatistics">Perangkaan</string>
-    <string name="szHint">petunjuk</string>
-    <string name="szHistory">Sejarah</string>
-    <string name="szWelcome">Selamat datang!</string>
-    <string name="szGood">Baik</string>
+    <string name="statistics">Perangkaan</string>
+    <string name="hint">petunjuk</string>
+    <string name="history">Sejarah</string>
+    <string name="welcome">Selamat datang!</string>
+    <string name="good">Baik</string>
     <string name="app_theme">Tema</string>
     <string name="app_theme_light">Cahaya</string>
     <string name="app_theme_dark">Gelap</string>
     <string name="app_theme_system">Sistem lalai</string>
-
-    <string name="szYes">ya</string>
-    <string name="szNo">tidak</string>
-    <string name="szNoCancel">Tidak, batalkan</string>
-    <string name="szOff">padam</string>
-    <string name="szOn">pada</string>
-    <string name="szShowMe">Tunjukkan kepada saya</string>
-
-    <string name="szClose">tutup</string>
-    <string name="szSaved">Disimpan</string>
-    <string name="szEdit">Sunting</string>
+    <string name="yes">ya</string>
+    <string name="no">tidak</string>
+    <string name="no_do_cancel">Tidak, batalkan</string>
+    <string name="off">padam</string>
+    <string name="on">pada</string>
+    <string name="show_me">Tunjukkan kepada saya</string>
+    <string name="close">tutup</string>
+    <string name="saved">Disimpan</string>
+    <string name="edit">Sunting</string>
     <string name="delete">Padam</string>
     <string name="reset">set semula</string>
     <string name="sort">menyusun</string>
     <string name="sort_asc">menaik</string>
     <string name="sort_desc">menurun</string>
     <string name="added">tambah</string>
-
-    <string name="szToday">hari ini</string>
-    <string name="szLater">nanti</string>
-    <string name="btNext">seterusnya</string>
+    <string name="today">hari ini</string>
+    <string name="later">nanti</string>
+    <string name="next">seterusnya</string>
     <string name="Monday">Isnin</string>
     <string name="Tuesday">Selasa</string>
     <string name="Wednesday">Rabu</string>
@@ -99,12 +90,10 @@
     <string name="Friday">Jumaat</string>
     <string name="Saturday">Sabtu</string>
     <string name="Sunday">Ahad</string>
-
     <string name="in_app_purchases">Pembelian Dalam Apl</string>
     <string name="your_purchases">Pembelian anda</string>
     <string name="buy">Beli</string>
     <string name="notAvailable">Tidak tersedia pada sistem anda</string>
     <string name="pro_version">Versi Pro</string>
     <string name="no_email_app_found">Tiada apl E-mel ditemui</string>
-
 </resources>

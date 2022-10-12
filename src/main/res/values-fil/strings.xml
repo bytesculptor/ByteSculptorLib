@@ -17,80 +17,72 @@
   -->
 
 <resources>
-    <string name="szOk">OK lang</string>
-    <string name="szCancel">Kanselahin</string>
+    <string name="okay">OK lang</string>
+    <string name="cancel">Kanselahin</string>
     <string name="share_app">Ibahagi ang app na ito</string>
-
-    <string name="szRateThisApp">I-rate ang app na ito</string>
+    <string name="rate_this_app">I-rate ang app na ito</string>
     <string name="szLikeThisAppTitle">Nag-e-enjoy sa app na ito?</string>
     <string name="szLikeThisAppNo">Hindi gaanong</string>
     <string name="szLikeThisAppMessage">Kumusta ang iyong karanasan sa ngayon? Gusto mo ba ang app na ito?</string>
     <string name="szAskFeedbackMessage">Humihingi kami ng paumanhin! Nais mo bang magpadala ng puna upang mapahusay namin ang app?</string>
     <string name="szRatingMessage">Maaari mo bang maglaan ng ilang sandali upang i-rate ang app na ito? Salamat sa iyong suporta!</string>
-    <string name="szRateNow">I-rate ngayon</string>
-    <string name="szRemindMe">Ipaalala mo sa akin</string>
-    <string name="szNoThanks">Salamat nalang</string>
-
-    <string name="szHelp">Tulong</string>
-    <string name="szIntroduction">Panimula</string>
-    <string name="szAbout">Tungkol sa</string>
+    <string name="rate_now">I-rate ngayon</string>
+    <string name="remind_me">Ipaalala mo sa akin</string>
+    <string name="no_thanks">Salamat nalang</string>
+    <string name="help">Tulong</string>
+    <string name="introduction">Panimula</string>
+    <string name="about">Tungkol sa</string>
     <string name="help_and_about">Tulong &amp; Tungkol sa</string>
-    <string name="szFeedback">Makipag-ugnayan sa amin (Email)</string>
-    <string name="szAppVersion">Bersyon ng App</string>
-    <string name="szContact">Makipag-ugnay</string>
-    <string name="szFaq">FAQ</string>
-    <string name="szContactIntro">Maraming mga gumagamit ang sumusubok na makipag-ugnay sa akin sa pamamagitan ng rating system ng app sa Google Play Store. Sa kasamaang palad, ang puwang ng sagot ng developer ay limitado ng Google. Para sa mas mahusay na suporta, mangyaring sumulat sa:</string>
+    <string name="contact_us_by_email">Makipag-ugnayan sa amin (Email)</string>
+    <string name="app_version">Bersyon ng App</string>
+    <string name="contact">Makipag-ugnay</string>
+    <string name="faq">FAQ</string>
+    <string name="contact_us_intro_1">Maraming mga gumagamit ang sumusubok na makipag-ugnay sa akin sa pamamagitan ng rating system ng app sa Google Play Store. Sa kasamaang palad, ang puwang ng sagot ng developer ay limitado ng Google. Para sa mas mahusay na suporta, mangyaring sumulat sa:</string>
     <string name="open_source_licenses">Buksan ang mga lisensya ng mapagkukunan</string>
-
-    <string name="szLicensesHeader">Kasalukuyang gumagamit ang app na ito ng sumusunod na bukas na mapagkukunang software:</string>
-
-    <string name="errorOnOpenPrivacyPolicyLink">Error Suriin ang app store para sa patakaran sa privacy.</string>
-    <string name="szDisclaimer">Pagwawaksi</string>
-    <string name="szPrivacyPolicy">Patakaran sa Pagkapribado</string>
+    <string name="oss_licenses_header">Kasalukuyang gumagamit ang app na ito ng sumusunod na bukas na mapagkukunang software:</string>
+    <string name="error_on_open_privacy_policy_link">Error Suriin ang app store para sa patakaran sa privacy.</string>
+    <string name="disclaimer">Pagwawaksi</string>
+    <string name="privacy_policy">Patakaran sa Pagkapribado</string>
     <string name="errorOpeningExternalLink">Error sa pagbubukas ng panlabas na link</string>
-    <string name="szWebsite">Website</string>
+    <string name="website">Website</string>
     <string name="more_licenses">Mas maraming lisensya</string>
-    <string name="szSave">isalba</string>
+    <string name="save">isalba</string>
     <string name="tutorial">Pagtuturo</string>
     <string name="error_connect_server">Error habang kumokonekta sa server</string>
     <string name="loading">Nilo-load</string>
     <string name="start_ad">Start Ad</string>
-    <string name="szVisitInPlayStore">App sa Tindahan</string>
-
-    <string name="szSettings">Mga setting</string>
-    <string name="szNotifications">Mga abiso</string>
+    <string name="app_in_the_store">App sa Tindahan</string>
+    <string name="settings">Mga setting</string>
+    <string name="notifications">Mga abiso</string>
     <string name="notif_setting">Mga setting ng notification</string>
     <string name="set_notif_settings">Itakda ang visibility, tunog at vibration</string>
-    <string name="szStatistics">Mga istatistika</string>
-    <string name="szHint">pahiwatig</string>
-    <string name="szHistory">Kasaysayan</string>
-    <string name="szWelcome">Maligayang pagdating!</string>
-    <string name="szGood">Mabuti</string>
+    <string name="statistics">Mga istatistika</string>
+    <string name="hint">pahiwatig</string>
+    <string name="history">Kasaysayan</string>
+    <string name="welcome">Maligayang pagdating!</string>
+    <string name="good">Mabuti</string>
     <string name="app_theme">Tema</string>
     <string name="app_theme_light">Liwanag</string>
     <string name="app_theme_dark">Madilim</string>
     <string name="app_theme_system">Default ng system</string>
-
-    <string name="szYes">oo</string>
-    <string name="szNo">hindi</string>
-    <string name="szNoCancel">Hindi, kanselahin</string>
-    <string name="szOff">off</string>
-    <string name="szOn">sa</string>
-    <string name="szShowMe">Ipakita mo saakin</string>
-
-    <string name="szClose">Isara</string>
-    <string name="szSaved">Nai-save</string>
-    <string name="szEdit">I-edit</string>
+    <string name="yes">oo</string>
+    <string name="no">hindi</string>
+    <string name="no_do_cancel">Hindi, kanselahin</string>
+    <string name="off">off</string>
+    <string name="on">sa</string>
+    <string name="show_me">Ipakita mo saakin</string>
+    <string name="close">Isara</string>
+    <string name="saved">Nai-save</string>
+    <string name="edit">I-edit</string>
     <string name="delete">Tanggalin</string>
     <string name="reset">i-reset</string>
     <string name="sort">uri</string>
     <string name="sort_asc">pataas</string>
     <string name="sort_desc">bumababa</string>
     <string name="added">idinagdag</string>
-
-    <string name="szToday">ngayon</string>
-    <string name="szLater">mamaya</string>
-    <string name="btNext">susunod</string>
+    <string name="today">ngayon</string>
+    <string name="later">mamaya</string>
+    <string name="next">susunod</string>
     <string name="Monday">Lunes</string>
     <string name="Tuesday">Martes</string>
     <string name="Wednesday">Miyerkules</string>
@@ -98,12 +90,10 @@
     <string name="Friday">Biyernes</string>
     <string name="Saturday">Sabado</string>
     <string name="Sunday">Linggo</string>
-
     <string name="in_app_purchases">Mga In-App na pagbili</string>
     <string name="your_purchases">Ang iyong mga pagbili</string>
     <string name="buy">Bumili</string>
     <string name="notAvailable">Hindi available sa iyong system</string>
     <string name="pro_version">Pro na Bersyon</string>
     <string name="no_email_app_found">Walang nakitang E-Mail app</string>
-
 </resources>

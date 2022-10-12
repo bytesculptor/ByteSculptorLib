@@ -17,83 +17,74 @@
   -->
 
 <resources>
-    <string name="szOk">OK</string>
-    <string name="szCancel">Cancelar</string>
+    <string name="okay">OK</string>
+    <string name="cancel">Cancelar</string>
     <string name="share_app">Compartilhar este aplicativo</string>
-
-    <!-- app rating -->
-    <string name="szRateThisApp">Avaliar este aplicativo</string>
+    <string name="rate_this_app">Avaliar este aplicativo</string>
     <string name="szLikeThisAppTitle">Está gostando deste aplicativo?</string>
     <string name="szLikeThisAppNo">Não muito</string>
     <string name="szLikeThisAppMessage">Como está sua experiência até agora? Você gosta deste aplicativo?</string>
     <string name="szAskFeedbackMessage">Lamentamos muito! Gostaria de enviar feedback para que possamos melhorar o aplicativo?</string>
     <string name="szRatingMessage">Poderia avaliar este aplicativo? Obrigado por seu apoio!</string>
-    <string name="szRateNow">Avaliar agora</string>
-    <string name="szRemindMe">Lembrar-me</string>
-    <string name="szNoThanks">Não, obrigado</string>
-
-    <!-- help -->
-    <string name="szHelp">Ajuda</string>
-    <string name="szIntroduction">Introdução</string>
-    <string name="szAbout">Sobre</string>
+    <string name="rate_now">Avaliar agora</string>
+    <string name="remind_me">Lembrar-me</string>
+    <string name="no_thanks">Não, obrigado</string>
+    <string name="help">Ajuda</string>
+    <string name="introduction">Introdução</string>
+    <string name="about">Sobre</string>
     <string name="help_and_about">Ajuda &amp; Sobre</string>
-    <string name="szFeedback">Entre em contato conosco (e-mail)</string>
-    <string name="szAppVersion">Versão do aplicativo</string>
-    <string name="szContact">Contato</string>
-    <string name="szFaq">Perguntas frequentes</string>
-    <string name="szContactIntro">Muitos usuários tentam entrar em contato comigo por meio do sistema de classificação do aplicativo na Google Play Store. Infelizmente, o espaço de resposta do desenvolvedor é limitado pelo Google. Para obter melhor suporte, escreva para:</string>
+    <string name="contact_us_by_email">Entre em contato conosco (e-mail)</string>
+    <string name="app_version">Versão do aplicativo</string>
+    <string name="contact">Contato</string>
+    <string name="faq">Perguntas frequentes</string>
+    <string name="contact_us_intro_1">Muitos usuários tentam entrar em contato comigo por meio do sistema de classificação do aplicativo na Google Play Store. Infelizmente, o espaço de resposta do desenvolvedor é limitado pelo Google. Para obter melhor suporte, escreva para:</string>
     <string name="open_source_licenses">Licenças de código aberto</string>
-
-    <string name="szLicensesHeader">Este aplicativo usa atualmente o seguinte software de código aberto:</string>
-    <string name="errorOnOpenPrivacyPolicyLink">Erro. Verifique a app store para obter a política de privacidade.</string>
-    <string name="szDisclaimer">Isenção de responsabilidade</string>
-    <string name="szPrivacyPolicy">Política de Privacidade</string>
-    <string name="szVisitInPlayStore">App na loja</string>
+    <string name="oss_licenses_header">Este aplicativo usa atualmente o seguinte software de código aberto:</string>
+    <string name="error_on_open_privacy_policy_link">Erro. Verifique a app store para obter a política de privacidade.</string>
+    <string name="disclaimer">Isenção de responsabilidade</string>
+    <string name="privacy_policy">Política de Privacidade</string>
+    <string name="app_in_the_store">App na loja</string>
     <string name="errorOpeningExternalLink">Erro ao abrir link externo</string>
-    <string name="szWebsite">Local na rede Internet</string>
+    <string name="website">Local na rede Internet</string>
     <string name="more_licenses">mais licenças</string>
-    <string name="szSettings">Configurações</string>
-    <string name="szSave">Salvar</string>
-    <string name="szMoreApps">Byte Sculptor Apps</string>
-    <string name="szNo">Não</string>
-    <string name="szYes">sim</string>
+    <string name="settings">Configurações</string>
+    <string name="save">Salvar</string>
+    <string name="more_bss_apps">Byte Sculptor Apps</string>
+    <string name="no">Não</string>
+    <string name="yes">sim</string>
     <string name="notAvailable">Não disponível em seu sistema</string>
     <string name="tutorial">Tutorial</string>
     <string name="error_connect_server">Erro ao conectar ao servidor</string>
     <string name="loading">Carregando</string>
     <string name="start_ad">Iniciar anúncio</string>
-
-    <string name="szNotifications">Notificações</string>
+    <string name="notifications">Notificações</string>
     <string name="notif_setting">Configurações de notificação</string>
     <string name="set_notif_settings">Definir visibilidade, som e vibração</string>
-    <string name="szStatistics">Estatísticas</string>
-    <string name="szHint">dica</string>
-    <string name="szHistory">História</string>
-    <string name="szWelcome">Bem-vindo!</string>
-    <string name="szGood">Bom</string>
+    <string name="statistics">Estatísticas</string>
+    <string name="hint">dica</string>
+    <string name="history">História</string>
+    <string name="welcome">Bem-vindo!</string>
+    <string name="good">Bom</string>
     <string name="app_theme">Tema</string>
     <string name="app_theme_light">Luz</string>
     <string name="app_theme_dark">Escuro</string>
     <string name="app_theme_system">Padrão do sistema</string>
-
-    <string name="szNoCancel">Não, cancelar</string>
-    <string name="szOff">desligado</string>
-    <string name="szOn">em</string>
-    <string name="szShowMe">Mostre-me</string>
-
-    <string name="szClose">Fechar</string>
-    <string name="szSaved">Salvo</string>
-    <string name="szEdit">Editar</string>
+    <string name="no_do_cancel">Não, cancelar</string>
+    <string name="off">desligado</string>
+    <string name="on">em</string>
+    <string name="show_me">Mostre-me</string>
+    <string name="close">Fechar</string>
+    <string name="saved">Salvo</string>
+    <string name="edit">Editar</string>
     <string name="delete">Excluir</string>
     <string name="reset">redefinir</string>
     <string name="sort">sort</string>
     <string name="sort_asc">crescente</string>
     <string name="sort_desc">decrescente</string>
     <string name="added">adicionado</string>
-
-    <string name="szToday">hoje</string>
-    <string name="szLater">mais tarde</string>
-    <string name="btNext">próximo</string>
+    <string name="today">hoje</string>
+    <string name="later">mais tarde</string>
+    <string name="next">próximo</string>
     <string name="Monday">Segunda-feira </string>
     <string name="Tuesday">Terça</string>
     <string name="Wednesday">Quarta</string>
@@ -101,11 +92,9 @@
     <string name="Friday">Sexta-feira </string>
     <string name="Saturday">Sábado</string>
     <string name="Sunday">Domingo</string>
-
     <string name="in_app_purchases">Compras no aplicativo</string>
     <string name="your_purchases">Suas compras</string>
     <string name="buy">Compre</string>
     <string name="pro_version">Versão Pro</string>
     <string name="no_email_app_found">Nenhum aplicativo de e-mail encontrado</string>
-
 </resources>

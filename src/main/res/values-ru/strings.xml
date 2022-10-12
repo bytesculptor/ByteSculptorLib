@@ -17,86 +17,74 @@
   -->
 
 <resources>
-    <!-- confirmation -->
-    <string name="szOk">ОК</string>
-    <string name="szYes">Да</string>
-    <string name="szNo">Нет</string>
-
-    <!-- actions -->
-    <string name="szCancel">Oтменять</string>
-    <string name="szSave">Сохранить</string>
+    <string name="okay">ОК</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="cancel">Oтменять</string>
+    <string name="save">Сохранить</string>
     <string name="share_app">Поделиться этим приложением</string>
-
-    <!-- app rating -->
-    <string name="szRateThisApp">Оцените это приложение</string>
+    <string name="rate_this_app">Оцените это приложение</string>
     <string name="szLikeThisAppTitle">Нравится это приложение?</string>
     <string name="szLikeThisAppMessage">Каковы ваши впечатления на данный момент? Вам нравится это приложение?</string>
     <string name="szAskFeedbackMessage">Нам очень жаль! Хотели бы вы отправить отзыв, чтобы мы улучшили приложение?</string>
     <string name="szLikeThisAppNo">Не так много</string>
     <string name="szRatingMessage">Не могли бы вы дать оценку этому приложению? Спасибо за поддержку!</string>
-    <string name="szRateNow">Оценить сейчас</string>
-    <string name="szRemindMe">Напомни мне позже</string>
-    <string name="szNoThanks">Нет, спасибо</string>
-
-    <!-- help -->
-    <string name="szHelp">Помощь</string>
-    <string name="szAbout">О нас</string>
+    <string name="rate_now">Оценить сейчас</string>
+    <string name="remind_me">Напомни мне позже</string>
+    <string name="no_thanks">Нет, спасибо</string>
+    <string name="help">Помощь</string>
+    <string name="about">О нас</string>
     <string name="help_and_about">Помощь &amp; О нас</string>
-    <string name="szFeedback">Свяжитесь с нами (Электронная почта)</string>
-    <string name="szAppVersion">Версия приложения</string>
-    <string name="szContact">Для контакта</string>
-    <string name="szFaq">Часто задаваемые вопросы</string>
-    <string name="szContactIntro">Многие пользователи пытаются связаться с нами через рейтинговую систему приложения в Google Play Store. К сожалению, пространство для ответов разработчика ограничено Google. Для получения дополнительной поддержки, пожалуйста, напишите по адресу:</string>
+    <string name="contact_us_by_email">Свяжитесь с нами (Электронная почта)</string>
+    <string name="app_version">Версия приложения</string>
+    <string name="contact">Для контакта</string>
+    <string name="faq">Часто задаваемые вопросы</string>
+    <string name="contact_us_intro_1">Многие пользователи пытаются связаться с нами через рейтинговую систему приложения в Google Play Store. К сожалению, пространство для ответов разработчика ограничено Google. Для получения дополнительной поддержки, пожалуйста, напишите по адресу:</string>
     <string name="open_source_licenses">Лицензии с открытым исходным кодом</string>
-    <string name="szLicensesHeader">Это приложение в настоящее время использует следующее программное обеспечение с открытым исходным кодом:</string>
-
-    <string name="errorOnOpenPrivacyPolicyLink">Ошибка. Ознакомьтесь с политикой конфиденциальности в магазине приложений.</string>
-    <string name="szDisclaimer">Отказ от ответственности</string>
-    <string name="szPrivacyPolicy">Конфиденциальность</string>
-    <string name="szVisitInPlayStore">Приложение в магазине</string>
-    <string name="szWebsite">Веб-сайт</string>
+    <string name="oss_licenses_header">Это приложение в настоящее время использует следующее программное обеспечение с открытым исходным кодом:</string>
+    <string name="error_on_open_privacy_policy_link">Ошибка. Ознакомьтесь с политикой конфиденциальности в магазине приложений.</string>
+    <string name="disclaimer">Отказ от ответственности</string>
+    <string name="privacy_policy">Конфиденциальность</string>
+    <string name="app_in_the_store">Приложение в магазине</string>
+    <string name="website">Веб-сайт</string>
     <string name="more_licenses">больше лицензий</string>
-    <string name="szMoreApps">Byte Sculptor Apps</string>
-    <string name="szDisclaimer2">"Byte Sculptor Software owns the rights to this application and changes could be made at any time. This app has been tested manually and automatically on real and emulated devices for bugs, errors and stability. However, this does not mean that the software is completely free from errors. The Android OS is used on many different devices and is often heavily modified by the device manufacturer. It is possible that this app may not run as expected on such devices. By using this software you agree that Byte Sculptor Software is not responsible for any damage done to your device. You use this app completely at your own risk. If you encounter any problems please let us know by sending an email with details on the issue, your device model and Android version. Thank you!"</string>
-    <string name="szSettings">настройки</string>
+    <string name="more_bss_apps">Byte Sculptor Apps</string>
+    <string name="disclaimer_text_2">"Byte Sculptor Software owns the rights to this application and changes could be made at any time. This app has been tested manually and automatically on real and emulated devices for bugs, errors and stability. However, this does not mean that the software is completely free from errors. The Android OS is used on many different devices and is often heavily modified by the device manufacturer. It is possible that this app may not run as expected on such devices. By using this software you agree that Byte Sculptor Software is not responsible for any damage done to your device. You use this app completely at your own risk. If you encounter any problems please let us know by sending an email with details on the issue, your device model and Android version. Thank you!"</string>
+    <string name="settings">настройки</string>
     <string name="notAvailable">Недоступно в вашей системе</string>
     <string name="errorOpeningExternalLink">Ошибка при открытии внешней ссылки</string>
     <string name="tutorial">Руководство</string>
     <string name="error_connect_server">Ошибка при подключении к серверу</string>
     <string name="loading">Загрузка</string>
     <string name="start_ad">Начать рекламу</string>
-
-    <string name="szNotifications">Уведомления</string>
+    <string name="notifications">Уведомления</string>
     <string name="notif_setting">Настройки уведомлений</string>
     <string name="set_notif_settings">Установите видимость, звук и вибрацию</string>
-    <string name="szStatistics">Статистика</string>
-    <string name="szHint">намекать</string>
-    <string name="szHistory">История</string>
-    <string name="szWelcome">Добро пожаловать!</string>
-    <string name="szGood">Хорошо</string>
+    <string name="statistics">Статистика</string>
+    <string name="hint">намекать</string>
+    <string name="history">История</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="good">Хорошо</string>
     <string name="app_theme">Тема</string>
     <string name="app_theme_light">Светлый</string>
     <string name="app_theme_dark">Темно</string>
     <string name="app_theme_system">Системные установки по умолчанию</string>
-
-    <string name="szNoCancel">Нет, отменить</string>
-    <string name="szOff">выключенный</string>
-    <string name="szOn">на</string>
-    <string name="szShowMe">Покажите мне</string>
-
-    <string name="szClose">Закрывать</string>
-    <string name="szSaved">Сохранено</string>
-    <string name="szEdit">Редактировать</string>
+    <string name="no_do_cancel">Нет, отменить</string>
+    <string name="off">выключенный</string>
+    <string name="on">на</string>
+    <string name="show_me">Покажите мне</string>
+    <string name="close">Закрывать</string>
+    <string name="saved">Сохранено</string>
+    <string name="edit">Редактировать</string>
     <string name="delete">Удалить</string>
     <string name="reset">перезагрузить</string>
     <string name="sort">Сортировать</string>
     <string name="sort_asc">по возрастанию</string>
     <string name="sort_desc">нисходящий</string>
     <string name="added">добавлен</string>
-
-    <string name="szToday">сегодня</string>
-    <string name="szLater">позже</string>
-    <string name="btNext">следующий</string>
+    <string name="today">сегодня</string>
+    <string name="later">позже</string>
+    <string name="next">следующий</string>
     <string name="Monday">понедельник</string>
     <string name="Tuesday">вторник</string>
     <string name="Wednesday">среда</string>
@@ -104,12 +92,10 @@
     <string name="Friday">Пятница</string>
     <string name="Saturday">Суббота</string>
     <string name="Sunday">Воскресенье</string>
-
     <string name="in_app_purchases">Покупки в приложении</string>
     <string name="your_purchases">Ваши покупки</string>
     <string name="buy">Купить</string>
-    <string name="szIntroduction">Введение</string>
+    <string name="introduction">Введение</string>
     <string name="pro_version">Pro версия</string>
     <string name="no_email_app_found">Приложение для электронной почты не найдено</string>
-
 </resources>
