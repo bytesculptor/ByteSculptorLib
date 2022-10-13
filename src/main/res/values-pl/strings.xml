@@ -96,4 +96,20 @@
     <string name="notAvailable">Niedostępne w Twoim systemie</string>
     <string name="pro_version">Wersja Pro</string>
     <string name="no_email_app_found">Nie znaleziono aplikacji e-mail</string>
+    <string name="update">Aktualizuj</string>
+    <string name="collapse_view">zwiń widok</string>
+    <string name="abbreviation_monday">Pon</string>
+    <string name="abbreviation_tuesday">Wto</string>
+    <string name="abbreviation_wednesday">Śro</string>
+    <string name="abbreviation_thursday">Czw</string>
+    <string name="abbreviation_friday">Pią</string>
+    <string name="abbreviation_saturday">Sob</string>
+    <string name="abbreviation_sunday">Nie</string>
+    <string name="more_bss_apps">Byte Sculptor Apps</string>
+    <string name="duplicate">Powiel</string>
+    <string name="roadmap">Mapa drogowa</string>
+    <string name="ad_free">Bez reklam</string>
+    <string name="description_not_found">Nie znaleziono opisu</string>
+    <string name="error_unable_to_make_purchase">Nie można dokonać zakupu.</string>
+    <string name="available_purchases">Dostępne zakupy</string>
 </resources>

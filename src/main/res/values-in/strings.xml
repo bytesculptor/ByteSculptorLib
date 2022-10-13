@@ -19,6 +19,13 @@
 <resources>
     <string name="settings">Pengaturan</string>
     <string name="contact_us_by_email">Hubungi kami (Email)</string>
+    <string name="abbreviation_monday">Sen</string>
+    <string name="abbreviation_tuesday">Sel</string>
+    <string name="abbreviation_wednesday">Rab</string>
+    <string name="abbreviation_thursday">Kam</string>
+    <string name="abbreviation_friday">Jum</string>
+    <string name="abbreviation_saturday">Sab</string>
+    <string name="abbreviation_sunday">Min</string>
     <string name="more_bss_apps">Byte Sculptor Aplikasi</string>
     <string name="oss_licenses_header">Aplikasi ini saat ini menggunakan perangkat lunak sumber terbuka berikut:</string>
     <string name="app_version">Versi Aplikasi</string>
@@ -97,4 +104,12 @@
     <string name="introduction">pengantar</string>
     <string name="pro_version">Versi Pro</string>
     <string name="no_email_app_found">Tidak ada aplikasi Email yang ditemukan</string>
+    <string name="update">Perbarui</string>
+    <string name="collapse_view">ciutkan tampilan</string>
+    <string name="duplicate">Duplikat</string>
+    <string name="roadmap">Peta jalan</string>
+    <string name="ad_free">Bebas Iklan</string>
+    <string name="description_not_found">Deskripsi tidak ditemukan</string>
+    <string name="error_unable_to_make_purchase">Tidak dapat melakukan pembelian.</string>
+    <string name="available_purchases">Pembelian yang tersedia</string>
 </resources>

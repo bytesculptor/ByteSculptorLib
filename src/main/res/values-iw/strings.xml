@@ -96,4 +96,13 @@
     <string name="notAvailable">לא זמין במערכת שלך</string>
     <string name="pro_version">גרסת פרו</string>
     <string name="no_email_app_found">לא נמצאה אפליקציית דואר אלקטרוני</string>
+    <string name="update">עדכון</string>
+    <string name="collapse_view">כווץ תצוגה</string>
+    <string name="more_bss_apps">Byte Sculptor Apps</string>
+    <string name="duplicate">שכפל</string>
+    <string name="roadmap">מפת דרכים</string>
+    <string name="ad_free">ללא מודעות</string>
+    <string name="description_not_found">התיאור לא נמצא</string>
+    <string name="error_unable_to_make_purchase">לא ניתן לבצע רכישה.</string>
+    <string name="available_purchases">רכישות זמינות</string>
 </resources>

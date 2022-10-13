@@ -96,4 +96,13 @@
     <string name="oss_licenses_header">يستخدم هذا التطبيق حاليًا البرامج مفتوحة المصدر التالية:</string>
     <string name="pro_version">الإصدار المحترف</string>
     <string name="no_email_app_found">لم يتم العثور على تطبيق بريد إلكتروني</string>
+    <string name="more_bss_apps">Byte Sculptor Apps</string>
+    <string name="duplicate">ينسخ</string>
+    <string name="update"> تحديث </string>
+    <string name="collapse_view"> عرض التصغير </string>
+    <string name="roadmap"> خارطة الطريق </string>
+    <string name="ad_free"> بدون إعلانات </string>
+    <string name="description_not_found"> الوصف غير موجود </string>
+    <string name="error_unable_to_make_purchase"> تعذر إجراء الشراء. </string>
+    <string name="available_purchases"> المشتريات المتاحة </string>
 </resources>

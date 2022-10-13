@@ -96,4 +96,20 @@
     <string name="notAvailable">Ikke tilgængelig på dit system</string>
     <string name="pro_version">Pro version</string>
     <string name="no_email_app_found">Ingen e-mail-app fundet</string>
+    <string name="update">Opdater</string>
+    <string name="collapse_view">skjul visning</string>
+    <string name="abbreviation_monday">man</string>
+    <string name="abbreviation_tuesday">tir</string>
+    <string name="abbreviation_wednesday">ons</string>
+    <string name="abbreviation_thursday">tor</string>
+    <string name="abbreviation_friday">fre</string>
+    <string name="abbreviation_saturday">lør</string>
+    <string name="abbreviation_sunday">søn</string>
+    <string name="more_bss_apps">Byte Sculptor Apps</string>
+    <string name="duplicate">Dupliker</string>
+    <string name="roadmap">Køreplan</string>
+    <string name="ad_free">Annoncefri</string>
+    <string name="description_not_found">Beskrivelsen blev ikke fundet</string>
+    <string name="error_unable_to_make_purchase">Kunne ikke foretage køb.</string>
+    <string name="available_purchases">Tilgængelige køb</string>
 </resources>

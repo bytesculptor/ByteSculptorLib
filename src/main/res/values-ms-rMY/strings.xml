@@ -96,4 +96,20 @@
     <string name="notAvailable">Tidak tersedia pada sistem anda</string>
     <string name="pro_version">Versi Pro</string>
     <string name="no_email_app_found">Tiada apl E-mel ditemui</string>
+    <string name="update">Update</string>
+    <string name="collapse_view">runtuhkan paparan</string>
+    <string name="abbreviation_monday">Isn</string>
+    <string name="abbreviation_tuesday">Sel</string>
+    <string name="abbreviation_wednesday">Rab</string>
+    <string name="abbreviation_thursday">Kha</string>
+    <string name="abbreviation_friday">Jum</string>
+    <string name="abbreviation_saturday">Sab</string>
+    <string name="abbreviation_sunday">Aha</string>
+    <string name="more_bss_apps">Byte Sculptor Apps</string>
+    <string name="duplicate">Duplikat</string>
+    <string name="roadmap">Roadmap</string>
+    <string name="ad_free">Bebas Iklan</string>
+    <string name="description_not_found">Penerangan tidak ditemui</string>
+    <string name="error_unable_to_make_purchase">Tidak dapat membuat pembelian.</string>
+    <string name="available_purchases">Pembelian yang tersedia</string>
 </resources>

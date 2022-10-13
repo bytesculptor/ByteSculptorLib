@@ -64,6 +64,8 @@
     <string name="off">off</string>
     <string name="on">on</string>
     <string name="update">Update</string>
+    <string name="collapse_view">collapse view</string>
+    <string name="duplicate">Duplicate</string>
 
     <!-- time -->
     <string name="today">today</string>
@@ -155,10 +157,9 @@
     <string name="coffee">Coffee</string>
     <string name="purchase_price_not_found">N/A</string>
     <string name="purchase_title_not_found">SKU not Found</string>
-    <string name="purchase_description_not_found">Description not found</string>
+    <string name="description_not_found">Description not found</string>
     <string name="message_thanks_4_coffee">Thank you for the coffee!</string>
-    <string name="message_pro">You\'re now a pro user!</string>
     <string name="error_unable_to_make_purchase">Unable to make purchase.</string>
-
+    <string name="available_purchases">Available purchases</string>
 
 </resources>

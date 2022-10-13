@@ -96,4 +96,20 @@
     <string name="notAvailable">Niet beschikbaar op uw systeem</string>
     <string name="pro_version">Pro-versie</string>
     <string name="no_email_app_found">Geen e-mailapp gevonden</string>
+    <string name="update">Bijwerken</string>
+    <string name="collapse_view">weergave samenvouwen</string>
+    <string name="abbreviation_monday">Man</string>
+    <string name="abbreviation_tuesday">Din</string>
+    <string name="abbreviation_wednesday">Woe</string>
+    <string name="abbreviation_thursday">Don</string>
+    <string name="abbreviation_friday">Vri</string>
+    <string name="abbreviation_saturday">Zat</string>
+    <string name="abbreviation_sunday">Zon</string>
+    <string name="more_bss_apps">Byte Sculptor Apps</string>
+    <string name="duplicate">Dupliceren</string>
+    <string name="roadmap">Routekaart</string>
+    <string name="ad_free">Advertentievrij</string>
+    <string name="description_not_found">Beschrijving niet gevonden</string>
+    <string name="error_unable_to_make_purchase">Kan geen aankoop doen.</string>
+    <string name="available_purchases">Beschikbare aankopen</string>
 </resources>

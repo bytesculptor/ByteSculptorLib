@@ -48,6 +48,13 @@
     <string name="app_in_the_store">Приложение в магазине</string>
     <string name="website">Веб-сайт</string>
     <string name="more_licenses">больше лицензий</string>
+    <string name="abbreviation_monday">Пон</string>
+    <string name="abbreviation_tuesday">Вто</string>
+    <string name="abbreviation_wednesday">Сре</string>
+    <string name="abbreviation_thursday">Чет</string>
+    <string name="abbreviation_friday">Пят</string>
+    <string name="abbreviation_saturday">Суб</string>
+    <string name="abbreviation_sunday">Вос</string>
     <string name="more_bss_apps">Byte Sculptor Apps</string>
     <string name="disclaimer_text_2">"Byte Sculptor Software owns the rights to this application and changes could be made at any time. This app has been tested manually and automatically on real and emulated devices for bugs, errors and stability. However, this does not mean that the software is completely free from errors. The Android OS is used on many different devices and is often heavily modified by the device manufacturer. It is possible that this app may not run as expected on such devices. By using this software you agree that Byte Sculptor Software is not responsible for any damage done to your device. You use this app completely at your own risk. If you encounter any problems please let us know by sending an email with details on the issue, your device model and Android version. Thank you!"</string>
     <string name="settings">настройки</string>
@@ -98,4 +105,12 @@
     <string name="introduction">Введение</string>
     <string name="pro_version">Pro версия</string>
     <string name="no_email_app_found">Приложение для электронной почты не найдено</string>
+    <string name="update">Обновить</string>
+    <string name="collapse_view">свернуть вид</string>
+    <string name="duplicate">Дублировать</string>
+    <string name="roadmap">Дорожная карта</string>
+    <string name="ad_free">Без рекламы</string>
+    <string name="description_not_found">Описание не найдено</string>
+    <string name="error_unable_to_make_purchase">Не удалось совершить покупку.</string>
+    <string name="available_purchases">Доступные покупки</string>
 </resources>

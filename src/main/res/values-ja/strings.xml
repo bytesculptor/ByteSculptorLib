@@ -105,4 +105,12 @@
     <string name="introduction">序章</string>
     <string name="pro_version">プロバージョン</string>
     <string name="no_email_app_found">メールアプリが見つかりません</string>
+    <string name="update">更新</string>
+    <string name="collapse_view">ビューを折りたたむ</string>
+    <string name="duplicate">複製</string>
+    <string name="roadmap">ロードマップ</string>
+    <string name="ad_free">広告なし</string>
+    <string name="description_not_found">説明が見つかりません</string>
+    <string name="error_unable_to_make_purchase">購入できません。</string>
+    <string name="available_purchases">利用可能な購入</string>
 </resources>

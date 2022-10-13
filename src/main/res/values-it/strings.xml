@@ -114,4 +114,12 @@
     <string name="edit">modificare</string>
     <string name="pro_version">Versione Pro</string>
     <string name="no_email_app_found">Nessuna app di email trovata</string>
+    <string name="update">Aggiorna</string>
+    <string name="collapse_view">comprimi vista</string>
+    <string name="duplicate">Duplica</string>
+    <string name="roadmap">Tabella di marcia</string>
+    <string name="ad_free">Senza pubblicità</string>
+    <string name="description_not_found">Descrizione non trovata</string>
+    <string name="error_unable_to_make_purchase">Impossibile effettuare l\'acquisto.</string>
+    <string name="available_purchases">Acquisti disponibili</string>
 </resources>

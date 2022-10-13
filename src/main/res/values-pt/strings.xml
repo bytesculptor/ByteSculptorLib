@@ -49,6 +49,13 @@
     <string name="more_licenses">mais licenças</string>
     <string name="settings">Configurações</string>
     <string name="save">Salvar</string>
+    <string name="abbreviation_monday">seg</string>
+    <string name="abbreviation_tuesday">ter</string>
+    <string name="abbreviation_wednesday">qua</string>
+    <string name="abbreviation_thursday">qui</string>
+    <string name="abbreviation_friday">sex</string>
+    <string name="abbreviation_saturday">sab</string>
+    <string name="abbreviation_sunday">dom</string>
     <string name="more_bss_apps">Byte Sculptor Apps</string>
     <string name="no">Não</string>
     <string name="yes">sim</string>
@@ -97,4 +104,12 @@
     <string name="buy">Compre</string>
     <string name="pro_version">Versão Pro</string>
     <string name="no_email_app_found">Nenhum aplicativo de e-mail encontrado</string>
+    <string name="update">Atualizar</string>
+    <string name="collapse_view">recolher visualização</string>
+    <string name="duplicate">Duplicar</string>
+    <string name="roadmap">Roteiro</string>
+    <string name="ad_free">Sem anúncios</string>
+    <string name="description_not_found">Descrição não encontrada</string>
+    <string name="error_unable_to_make_purchase">Não foi possível fazer a compra.</string>
+    <string name="available_purchases">Compras disponíveis</string>
 </resources>

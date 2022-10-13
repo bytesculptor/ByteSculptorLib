@@ -96,4 +96,20 @@
     <string name="notAvailable">Hindi available sa iyong system</string>
     <string name="pro_version">Pro na Bersyon</string>
     <string name="no_email_app_found">Walang nakitang E-Mail app</string>
+    <string name="update">I-update</string>
+    <string name="collapse_view">collapse view</string>
+    <string name="abbreviation_monday">Lu</string>
+    <string name="abbreviation_tuesday">Ma</string>
+    <string name="abbreviation_wednesday">Mi</string>
+    <string name="abbreviation_thursday">Hu</string>
+    <string name="abbreviation_friday">Bi</string>
+    <string name="abbreviation_saturday">Sa</string>
+    <string name="abbreviation_sunday">Li</string>
+    <string name="more_bss_apps">Byte Sculptor Apps</string>
+    <string name="duplicate">Duplicate</string>
+    <string name="roadmap">Roadmap</string>
+    <string name="ad_free">Ad-Free</string>
+    <string name="description_not_found">Hindi nakita ang paglalarawan</string>
+    <string name="error_unable_to_make_purchase">Hindi makabili.</string>
+    <string name="available_purchases">Mga available na pagbili</string>
 </resources>

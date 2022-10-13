@@ -111,4 +111,12 @@
     <string name="statistics">Статистика</string>
     <string name="pro_version">Pro версия</string>
     <string name="no_email_app_found">Няма намерено приложение за електронна поща</string>
+    <string name="update">Актуализиране</string>
+    <string name="collapse_view">свит изглед</string>
+    <string name="duplicate">Дубликат</string>
+    <string name="roadmap">Пътна карта</string>
+    <string name="ad_free">Без реклами</string>
+    <string name="description_not_found">Описанието не е намерено</string>
+    <string name="error_unable_to_make_purchase">Не може да се направи покупка.</string>
+    <string name="available_purchases">Налични покупки</string>
 </resources>

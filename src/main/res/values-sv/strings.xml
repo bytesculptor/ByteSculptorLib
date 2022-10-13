@@ -96,4 +96,20 @@
     <string name="notAvailable">Ej tillgängligt på ditt system</string>
     <string name="pro_version">Pro Version</string>
     <string name="no_email_app_found">Ingen e-postapp hittades</string>
+    <string name="update">Uppdatera</string>
+    <string name="collapse_view">komprimera vy</string>
+    <string name="abbreviation_monday">mån</string>
+    <string name="abbreviation_tuesday">tis</string>
+    <string name="abbreviation_wednesday">ons</string>
+    <string name="abbreviation_thursday">tor</string>
+    <string name="abbreviation_friday">fre</string>
+    <string name="abbreviation_saturday">lör</string>
+    <string name="abbreviation_sunday">sön</string>
+    <string name="more_bss_apps">Byte Sculptor Apps</string>
+    <string name="duplicate">Duplicera</string>
+    <string name="roadmap">Vägkarta</string>
+    <string name="ad_free">Annonsfri</string>
+    <string name="description_not_found">Beskrivning hittades inte</string>
+    <string name="error_unable_to_make_purchase">Det gick inte att köpa.</string>
+    <string name="available_purchases">Tillgängliga köp</string>
 </resources>

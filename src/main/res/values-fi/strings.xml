@@ -96,4 +96,20 @@
     <string name="notAvailable">Ei saatavilla järjestelmässäsi</string>
     <string name="pro_version">Pro versio</string>
     <string name="no_email_app_found">Sähköpostisovellusta ei löytynyt</string>
+    <string name="update">Päivitä</string>
+    <string name="collapse_view">kutista näkymä</string>
+    <string name="abbreviation_monday">ma</string>
+    <string name="abbreviation_tuesday">ti</string>
+    <string name="abbreviation_wednesday">ke</string>
+    <string name="abbreviation_thursday">to</string>
+    <string name="abbreviation_friday">pe</string>
+    <string name="abbreviation_saturday">la</string>
+    <string name="abbreviation_sunday">su</string>
+    <string name="more_bss_apps">Byte Sculptor Apps</string>
+    <string name="duplicate">Kopioi</string>
+    <string name="roadmap">Reittikartta</string>
+    <string name="ad_free">Ei mainoksia</string>
+    <string name="description_not_found">Kuvausta ei löydy</string>
+    <string name="error_unable_to_make_purchase">Ostoa ei voi tehdä.</string>
+    <string name="available_purchases">Saatavilla olevat ostokset</string>
 </resources>

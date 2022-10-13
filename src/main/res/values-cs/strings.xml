@@ -96,4 +96,20 @@
     <string name="notAvailable">Není k dispozici ve vašem systému</string>
     <string name="pro_version">Verze Pro</string>
     <string name="no_email_app_found">Nebyla nalezena žádná e-mailová aplikace</string>
+    <string name="update">Aktualizovat</string>
+    <string name="collapse_view">sbalit zobrazení</string>
+    <string name="abbreviation_monday">pon</string>
+    <string name="abbreviation_tuesday">úte</string>
+    <string name="abbreviation_wednesday">stř</string>
+    <string name="abbreviation_thursday">Čtv</string>
+    <string name="abbreviation_friday">pát</string>
+    <string name="abbreviation_saturday">sob</string>
+    <string name="abbreviation_sunday">ned</string>
+    <string name="more_bss_apps">Byte Sculptor Apps</string>
+    <string name="duplicate">Duplikovat</string>
+    <string name="roadmap">Plán</string>
+    <string name="ad_free">Bez reklam</string>
+    <string name="description_not_found">Popis nenalezen</string>
+    <string name="error_unable_to_make_purchase">Nelze provést nákup.</string>
+    <string name="available_purchases">Dostupné nákupy</string>
 </resources>
