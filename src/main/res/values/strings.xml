@@ -158,7 +158,7 @@
     <string name="purchase_price_not_found">N/A</string>
     <string name="purchase_title_not_found">SKU not Found</string>
     <string name="description_not_found">Description not found</string>
-    <string name="message_thanks_4_coffee">Thank you for the coffee!</string>
+    <string name="message_thank_you">Thank you very much!</string>
     <string name="error_unable_to_make_purchase">Unable to make purchase.</string>
     <string name="available_purchases">Available purchases</string>
 

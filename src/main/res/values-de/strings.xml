@@ -120,6 +120,7 @@
     <string name="roadmap">Roadmap</string>
     <string name="ad_free">Werbefrei</string>
     <string name="description_not_found">Beschreibung nicht gefunden</string>
+    <string name="message_thank_you">Vielen Dank!</string>
     <string name="error_unable_to_make_purchase">Kauf kann nicht getätigt werden</string>
     <string name="available_purchases">Verfügbare Käufe</string>
 </resources>

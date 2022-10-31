@@ -120,6 +120,7 @@
     <string name="roadmap">Tabella di marcia</string>
     <string name="ad_free">Senza pubblicità</string>
     <string name="description_not_found">Descrizione non trovata</string>
+    <string name="message_thank_you">Grazie mille!</string>
     <string name="error_unable_to_make_purchase">Impossibile effettuare l\'acquisto.</string>
     <string name="available_purchases">Acquisti disponibili</string>
 </resources>
