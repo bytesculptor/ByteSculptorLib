@@ -44,14 +44,8 @@
     <string name="szRatingMessage">Haben Sie einen Moment Zeit, um die App zu bewerten? Danke für Ihre Unterstützung!</string>
     <string name="szAskFeedbackMessage">Es tut uns leid dies zu hören. Möchten Sie eine Rückmeldung senden, damit wir die App verbessern können?</string>
     <string name="szLikeThisAppNo">Nicht so</string>
-    <string name="disclaimer_text_2">Byte Sculptor Software besitzt die Rechte an dieser Software und Änderungen können
-        jederzeit vorgenommen werden. Diese App wurde manuell und automatisch auf realen und emulierten Geräten auf Bugs,
-        Fehler und Stabilität getestet. Dies bedeutet jedoch nicht, dass die Software völlig fehlerfrei ist. Das
-        Android-Betriebssystem wird auf vielen Geräten verwendet und häufig von Smartphone-Herstellern
-        stark modifiziert. Es ist möglich, dass diese App auf solchen Geräten nicht wie erwartet funktioniert.
-
-        \n\nDurch die Verwendung dieser Software erklären Sie sich damit einverstanden, dass Byte Sculptor Software
-        nicht für Schäden an Ihrem Gerät verantwortlich ist. Sie nutzen diese App vollständig auf eigenes Risiko.
+    <string name="disclaimer_text_2">Byte Sculptor Software besitzt die Rechte an dieser Software und Änderungen können jederzeit vorgenommen werden. Diese App wurde manuell und automatisch auf realen und emulierten Geräten auf Bugs, Fehler und Stabilität getestet. Dies bedeutet jedoch nicht, dass die Software völlig fehlerfrei ist. Das Android-Betriebssystem wird auf vielen Geräten verwendet und häufig von Smartphone-Herstellern stark modifiziert. Es ist möglich, dass diese App auf solchen Geräten nicht wie erwartet funktioniert.
+        \n\nDurch die Verwendung dieser Software erklären Sie sich damit einverstanden, dass Byte Sculptor Software nicht für Schäden an Ihrem Gerät verantwortlich ist. Sie nutzen diese App vollständig auf eigenes Risiko.
         \nWenn Sie auf Probleme stoßen, senden Sie uns bitte eine E-Mail mit Details zum Problem, Ihrem Gerätemodell und der Android-Version. Vielen Dank!</string>
     <string name="error_on_open_privacy_policy_link">Fehler. Besuchen Sie den App Store für die Datenschutzerklärung.</string>
     <string name="later">später</string>
@@ -60,8 +54,7 @@
     <string name="welcome">Willkommen!</string>
     <string name="notif_setting">Benachrichtigungs-Einstellungen</string>
     <string name="set_notif_settings">Sichtbarkeit, Ton und Vibration</string>
-    <string name="contact_us_intro_1">Häufig versuchen mich Benutzer über die Bewertungen im Google Play Store zu kontaktieren.
-        Leider ist die Anzahl Zeichen für eine Antwort stark begrenzt. Für bessere Unterstützung Schreiben Sie bitte an:</string>
+    <string name="contact_us_intro_1">Häufig versuchen mich Benutzer über die Bewertungen im Google Play Store zu kontaktieren. Leider ist die Anzahl Zeichen für eine Antwort stark begrenzt. Für bessere Unterstützung Schreiben Sie bitte an:</string>
     <string name="app_theme">Design</string>
     <string name="app_theme_light">Hell</string>
     <string name="app_theme_dark">Dunkel</string>
