@@ -157,9 +157,13 @@
     <string name="coffee">Coffee</string>
     <string name="purchase_price_not_found">N/A</string>
     <string name="purchase_title_not_found">SKU not Found</string>
+    <string name="purchase_completed">Purchase completed.</string>
     <string name="description_not_found">Description not found</string>
     <string name="message_thank_you">Thank you very much!</string>
     <string name="error_unable_to_make_purchase">Unable to make purchase.</string>
     <string name="available_purchases">Available purchases</string>
-
+    <string name="support_bss_development">This is a free app which does not request any sensitive data or permissions. If you like the app, and would like to support the developer, you can buy him a coffee.</string>
+    <string name="items_unlock_adfree">Each coffee unlocks the Ad-Free version. Thank you for your support!</string>
+    <string name="upgrade_to_pro">Upgrade to Pro</string>
+    <string name="restore_purchases">Restore purchases</string>
 </resources>
