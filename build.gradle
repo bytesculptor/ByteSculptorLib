@@ -32,6 +32,8 @@ android {
         consumerProguardFiles 'consumer-rules.pro'
     }
 
+    namespace 'com.bytesculptor.applib'
+
     buildTypes {
         release {
             minifyEnabled false
