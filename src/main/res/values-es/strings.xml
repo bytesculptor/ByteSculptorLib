@@ -17,69 +17,60 @@
   -->
 
 <resources>
-    <string name="szSettings">Configuraciones</string>
-    <string name="szYes">si</string>
-    <string name="szNo">no</string>
-    <string name="szNotifications">Notificaciones</string>
-    <string name="szRateThisApp">Valora esta aplicación</string>
-    <string name="szAbout">Sobre</string>
+    <string name="settings">Configuraciones</string>
+    <string name="yes">si</string>
+    <string name="no">no</string>
+    <string name="notifications">Notificaciones</string>
+    <string name="rate_this_app">Valora esta aplicación</string>
+    <string name="about">Sobre</string>
     <string name="help_and_about">Ayuda &amp; Sobre</string>
-    <string name="szContact">Contacto</string>
-    <string name="szAppVersion">Versión</string>
-    <string name="szFeedback">Contáctenos (Correo electrónico)</string>
-    <string name="szNoThanks">No, gracias</string>
-    <string name="szHint">Nota</string>
-    <string name="szHistory">Historia</string>
-    <string name="szNoCancel">No, cancelar</string>
-    <string name="szIntroduction">Introducción</string>
-    <string name="szRemindMe">Recuerdame</string>
-    <string name="szRateNow">Valora</string>
-    <string name="szHelp">Ayuda</string>
-    <string name="szOff">apagado</string>
-    <string name="szOn">en</string>
-    <string name="szShowMe">Muéstrame</string>
-    <string name="szClose">cerrar</string>
-
+    <string name="contact">Contacto</string>
+    <string name="app_version">Versión</string>
+    <string name="contact_us_by_email">Contáctenos (Correo electrónico)</string>
+    <string name="no_thanks">No, gracias</string>
+    <string name="hint">Nota</string>
+    <string name="history">Historia</string>
+    <string name="no_do_cancel">No, cancelar</string>
+    <string name="introduction">Introducción</string>
+    <string name="remind_me">Recuerdame</string>
+    <string name="rate_now">Valora</string>
+    <string name="help">Ayuda</string>
+    <string name="off">apagado</string>
+    <string name="on">en</string>
+    <string name="show_me">Muéstrame</string>
+    <string name="close">cerrar</string>
     <string name="szLikeThisAppTitle">¿Estás disfrutando esta aplicación?</string>
     <string name="szLikeThisAppMessage">¿Cómo es tu experiencia hasta ahora? ¿Te gusta esta app?</string>
     <string name="szRatingMessage">Si te gusta esta aplicación, tómate un momento para calificarla. ¡Gracias por su apoyo!</string>
     <string name="szAskFeedbackMessage">¡Lo sentimos mucho! ¿Desea enviar comentarios para que podamos mejorar la aplicación?</string>
     <string name="szLikeThisAppNo">No tanto</string>
-
-    <string name="szDisclaimer2">Byte Sculptor Software posee los derechos de esta aplicación y se pueden hacer cambios en cualquier momento.
-        Esta aplicación se ha probado de forma manual y automática en dispositivos reales y emulados para detectar errores y estabilidad.
-        Sin embargo, esto no significa que el software esté completamente libre de errores.
-        El sistema operativo Android se usa en muchos dispositivos diferentes y, a menudo, el fabricante del dispositivo lo modifica
-        en gran medida. Es posible que esta aplicación no se ejecute como se esperaba en dichos dispositivos.
-        \n\nAl usar este software, usted acepta que Byte Sculptor Software no es responsable de ningún daño hecho a su dispositivo.
-        Utiliza esta aplicación completamente bajo tu propio riesgo.
-        \nSi encuentra algún problema, avísenos enviando un correo electrónico con detalles sobre el problema, el
-        modelo de su dispositivo y la versión de Android. ¡Gracias!</string>
-
-    <string name="errorOnOpenPrivacyPolicyLink">Error. Consulte la tienda de aplicaciones para conocer la política de privacidad.</string>
-    <string name="szLater">más tarde</string>
+    <string name="disclaimer_text_2">Byte Sculptor Software posee los derechos de esta aplicación y se pueden hacer cambios en cualquier momento. Esta aplicación se ha probado de forma manual y automática en dispositivos reales y emulados para detectar errores y estabilidad. Sin embargo, esto no significa que el software esté completamente libre de errores. El sistema operativo Android se usa en muchos dispositivos diferentes y, a menudo, el fabricante del dispositivo lo modifica en gran medida. Es posible que esta aplicación no se ejecute como se esperaba en dichos dispositivos.
+        \n\nAl usar este software, usted acepta que Byte Sculptor Software no es responsable de ningún daño hecho a su dispositivo. Utiliza esta aplicación completamente bajo tu propio riesgo.
+        \nSi encuentra algún problema, avísenos enviando un correo electrónico con detalles sobre el problema, el modelo de su dispositivo y la versión de Android. ¡Gracias!</string>
+    <string name="error_on_open_privacy_policy_link">Error. Consulte la tienda de aplicaciones para conocer la política de privacidad.</string>
+    <string name="later">más tarde</string>
     <string name="share_app">Comparte esta aplicación</string>
-    <string name="szCancel">cancelar</string>
-    <string name="szWelcome">¡Bienvenidos!</string>
+    <string name="cancel">cancelar</string>
+    <string name="welcome">¡Bienvenidos!</string>
     <string name="notif_setting">Configuraciones notificaciones</string>
     <string name="set_notif_settings">Establecer visibilidad, sonido y vibración.</string>
-    <string name="szContactIntro">Muchos usuarios intentan ponerse en contacto conmigo a través del sistema de valoración de la aplicación en Google Play Store. Desafortunadamente, el espacio de respuesta del desarrollador está limitado por Google. Para un mejor soporte, escriba a:</string>
+    <string name="contact_us_intro_1">Muchos usuarios intentan ponerse en contacto conmigo a través del sistema de valoración de la aplicación en Google Play Store. Desafortunadamente, el espacio de respuesta del desarrollador está limitado por Google. Para un mejor soporte, escriba a:</string>
     <string name="app_theme">Tema</string>
     <string name="app_theme_light">Claro</string>
     <string name="app_theme_dark">Oscuro</string>
     <string name="app_theme_system">Predeterminado del sistema</string>
-    <string name="szSave">Salvar</string>
-    <string name="szDisclaimer">Descargo de responsabilidad</string>
-    <string name="szPrivacyPolicy">Política de privacidad</string>
-    <string name="szVisitInPlayStore">Aplicación en la tienda</string>
+    <string name="save">Salvar</string>
+    <string name="disclaimer">Descargo de responsabilidad</string>
+    <string name="privacy_policy">Política de privacidad</string>
+    <string name="app_in_the_store">Aplicación en la tienda</string>
     <string name="notAvailable">No disponible en su sistema</string>
-    <string name="Mon">Lun</string>
-    <string name="Tue">Mar</string>
-    <string name="Wed">Mie</string>
-    <string name="Thu">Jue</string>
-    <string name="Fri">Vie</string>
-    <string name="Sat">Sab</string>
-    <string name="Sun">Dom</string>
+    <string name="abbreviation_monday">Lun</string>
+    <string name="abbreviation_tuesday">Mar</string>
+    <string name="abbreviation_wednesday">Mie</string>
+    <string name="abbreviation_thursday">Jue</string>
+    <string name="abbreviation_friday">Vie</string>
+    <string name="abbreviation_saturday">Sab</string>
+    <string name="abbreviation_sunday">Dom</string>
     <string name="Monday">Lunes</string>
     <string name="Tuesday">Martes</string>
     <string name="Wednesday">Miércoles</string>
@@ -87,37 +78,41 @@
     <string name="Friday">Viernes</string>
     <string name="Saturday">Sábado</string>
     <string name="Sunday">Domingo</string>
-    <string name="szWebsite">sitio web</string>
-    <string name="szLicensesHeader">Esta aplicación utiliza actualmente el siguiente software de código abierto:</string>
+    <string name="website">sitio web</string>
+    <string name="oss_licenses_header">Esta aplicación utiliza actualmente el siguiente software de código abierto:</string>
     <string name="more_licenses">más licencias</string>
-    <string name="szMoreApps">Byte Sculptor Apps</string>
-    <string name="szFaq">FAQ</string>
+    <string name="more_bss_apps">Byte Sculptor Apps</string>
+    <string name="faq">FAQ</string>
     <string name="open_source_licenses">Licencias de código abierto</string>
     <string name="errorOpeningExternalLink">Error al abrir el enlace externo</string>
-    <string name="szOk">OK</string>
-    <string name="szToday">hoy</string>
+    <string name="okay">OK</string>
+    <string name="today">hoy</string>
     <string name="tutorial">Tutorial</string>
     <string name="error_connect_server">Error al conectarse al servidor</string>
     <string name="loading">Cargando</string>
     <string name="start_ad">Iniciar anuncio</string>
-
     <string name="in_app_purchases">Compras en la aplicación</string>
     <string name="buy">Comprar</string>
     <string name="your_purchases">Tus compras</string>
-
-    <string name="szStatistics">Estadísticas</string>
-    <string name="szGood">Bien</string>
-
-    <string name="szSaved">Salvado</string>
-    <string name="szEdit">Editar</string>
+    <string name="statistics">Estadísticas</string>
+    <string name="good">Bien</string>
+    <string name="saved">Salvado</string>
+    <string name="edit">Editar</string>
     <string name="delete">Borrar</string>
     <string name="reset">Reiniciar</string>
     <string name="sort">clasificar</string>
     <string name="sort_asc">ascendente</string>
     <string name="sort_desc">descendente</string>
     <string name="added">adicional</string>
-    <string name="btNext">Siguiente</string>
+    <string name="next">Siguiente</string>
     <string name="pro_version">Versión Pro</string>
     <string name="no_email_app_found">No se encontró ninguna aplicación de correo electrónico</string>
-
+    <string name="update">Actualizar</string>
+    <string name="collapse_view">contraer vista</string>
+    <string name="duplicate">Duplicado</string>
+    <string name="roadmap">Hoja de ruta</string>
+    <string name="ad_free">Sin publicidad</string>
+    <string name="description_not_found">Descripción no encontrada</string>
+    <string name="error_unable_to_make_purchase">No se pudo realizar la compra.</string>
+    <string name="available_purchases">Compras disponibles</string>
 </resources>

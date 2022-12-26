@@ -27,35 +27,33 @@
 
     <!-- general terms -->
     <string name="dev_email" translatable="false">bytesculptor@gmail.com</string>
-    <string name="szSettings">Settings</string>
-    <string name="szNotifications">Notifications</string>
+    <string name="settings">Settings</string>
+    <string name="notifications">Notifications</string>
     <string name="notif_setting">Notification settings</string>
     <string name="set_notif_settings">Set visibility, sound and vibration</string>
-    <string name="szStatistics">Statistics</string>
-    <string name="szHint">hint</string>
-    <string name="szHistory">History</string>
-    <string name="szWelcome">Welcome!</string>
-    <string name="szGood">Good</string>
+    <string name="statistics">Statistics</string>
+    <string name="hint">hint</string>
+    <string name="history">History</string>
+    <string name="welcome">Welcome!</string>
+    <string name="good">Good</string>
     <string name="app_theme">Theme</string>
     <string name="app_theme_light">Light</string>
     <string name="app_theme_dark">Dark</string>
     <string name="app_theme_system">System default</string>
 
     <!-- confirmation -->
-    <string name="szOk">OK</string>
-    <string name="szYes">yes</string>
-    <string name="szNo">no</string>
-    <string name="szNoCancel">No, cancel</string>
-    <string name="szOff">off</string>
-    <string name="szOn">on</string>
-    <string name="szShowMe">Show me</string>
+    <string name="okay">OK</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="no_do_cancel">No, cancel</string>
+    <string name="show_me">Show me</string>
 
     <!-- actions -->
-    <string name="szClose">Close</string>
-    <string name="szCancel">Cancel</string>
-    <string name="szSave">Save</string>
-    <string name="szSaved">Saved</string>
-    <string name="szEdit">Edit</string>
+    <string name="close">Close</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="saved">Saved</string>
+    <string name="edit">Edit</string>
     <string name="delete">Delete</string>
     <string name="share_app">Share this app</string>
     <string name="reset">reset</string>
@@ -63,18 +61,23 @@
     <string name="sort_asc">ascending</string>
     <string name="sort_desc">descending</string>
     <string name="added">added</string>
+    <string name="off">off</string>
+    <string name="on">on</string>
+    <string name="update">Update</string>
+    <string name="collapse_view">collapse view</string>
+    <string name="duplicate">Duplicate</string>
 
     <!-- time -->
-    <string name="szToday">today</string>
-    <string name="szLater">later</string>
-    <string name="btNext">next</string>
-    <string name="Mon">Mon</string>
-    <string name="Tue">Tue</string>
-    <string name="Wed">Wed</string>
-    <string name="Thu">Thu</string>
-    <string name="Fri">Fri</string>
-    <string name="Sat">Sat</string>
-    <string name="Sun">Sun</string>
+    <string name="today">today</string>
+    <string name="later">later</string>
+    <string name="next">next</string>
+    <string name="abbreviation_monday">Mon</string>
+    <string name="abbreviation_tuesday">Tue</string>
+    <string name="abbreviation_wednesday">Wed</string>
+    <string name="abbreviation_thursday">Thu</string>
+    <string name="abbreviation_friday">Fri</string>
+    <string name="abbreviation_saturday">Sat</string>
+    <string name="abbreviation_sunday">Sun</string>
     <string name="Monday">Monday</string>
     <string name="Tuesday">Tuesday</string>
     <string name="Wednesday">Wednesday</string>
@@ -84,33 +87,33 @@
     <string name="Sunday">Sunday</string>
 
     <!-- app rating -->
-    <string name="szRateThisApp">Rate this app</string>
+    <string name="rate_this_app">Rate this app</string>
     <string name="szLikeThisAppTitle">Enjoying this app?</string>
     <string name="szLikeThisAppMessage">How is your experience so far? Do you like this app?</string>
     <string name="szAskFeedbackMessage">We are very sorry! Would you like to send feedback so that we improve the app?</string>
     <string name="szLikeThisAppNo">Not so much</string>
     <string name="szRatingMessage">Would you please take a moment to rate this app? Thanks for your support!</string>
-    <string name="szRateNow">Rate now</string>
-    <string name="szRemindMe">Remind me</string>
-    <string name="szNoThanks">No, thanks</string>
+    <string name="rate_now">Rate now</string>
+    <string name="remind_me">Remind me</string>
+    <string name="no_thanks">No, thanks</string>
 
     <!-- help -->
-    <string name="szHelp">Help</string>
-    <string name="szIntroduction">Introduction</string>
-    <string name="szAbout">About</string>
+    <string name="help">Help</string>
+    <string name="introduction">Introduction</string>
+    <string name="about">About</string>
     <string name="help_and_about">Help &amp; About</string>
-    <string name="szFeedback">Contact us (Email)</string>
-    <string name="szAppVersion">App Version</string>
-    <string name="szMoreApps">Byte Sculptor Apps</string>
-    <string name="szContact">Contact</string>
-    <string name="szFaq">FAQ</string>
-    <string name="szContactIntro">Many users try to contact me through the app\'s rating system in Google Play Store. Unfortunately, the
+    <string name="contact_us_by_email">Contact us (Email)</string>
+    <string name="app_version">App Version</string>
+    <string name="more_bss_apps">Byte Sculptor Apps</string>
+    <string name="contact">Contact</string>
+    <string name="faq">FAQ</string>
+    <string name="contact_us_intro_1">Many users try to contact me through the app\'s rating system in Google Play Store. Unfortunately, the
         developer\'s answer space is limited by Google. For better support, please write to:</string>
     <string name="open_source_licenses">Open source licenses</string>
     <string name="notAvailable">Not available on your system</string>
 
-    <string name="szDisclaimer1"></string>
-    <string name="szDisclaimer2">
+    <string name="disclaimer_text_1"></string>
+    <string name="disclaimer_text_2">
         Byte Sculptor Software owns the rights to this application and changes could be made at any time.
         This app has been tested manually and automatically on real and emulated devices for bugs, errors and stability.
         However, this does not mean that the software is completely free from errors.
@@ -118,31 +121,31 @@
         \n\nBy using this software you agree that Byte Sculptor Software is not responsible for any damage done to your device. You use this app completely at your own risk.
         \nIf you encounter any problems please let us know by sending an email with details on the issue, your device model and Android version. Thank you!
     </string>
-    <string name="szDisclaimer3"></string>
+    <string name="disclaimer_text_3"></string>
 
     <!-- licenses -->
-    <string name="szLicensesHeader">This app currently uses the following open source software:</string>
-    <string name="szHeaderLic1" translatable="false">Material Design Icons</string>
-    <string name="szCopyRightLic1" translatable="false">Copyright 2016 Google</string>
-    <string name="szHeaderLic2" translatable="false">MPAndroidChart</string>
-    <string name="szCopyRightLic2" translatable="false">Copyright 2015 Philipp Jahoda</string>
-    <string name="szTextLic1" translatable="false">&license_apache;</string>
-    <string name="szTextLic2" translatable="false">&license_apache;</string>
+    <string name="oss_licenses_header">This app currently uses the following open source software:</string>
+    <string name="header_license_1" translatable="false">Material Design Icons</string>
+    <string name="copyright_license_1" translatable="false">Copyright 2016 Google</string>
+    <string name="header_license_2" translatable="false">MPAndroidChart</string>
+    <string name="copyright_license_2" translatable="false">Copyright 2015 Philipp Jahoda</string>
+    <string name="text_license_1" translatable="false">&license_apache;</string>
+    <string name="text_license_2" translatable="false">&license_apache;</string>
     <string name="more_licenses">more licenses</string>
 
     <!-- Various -->
-    <string name="errorOnOpenPrivacyPolicyLink">Error. Check the app store for the privacy policy.</string>
-    <string name="szDisclaimer">Disclaimer</string>
-    <string name="szPrivacyPolicy">Privacy Policy</string>
-    <string name="szVisitInPlayStore">App in the Store</string>
+    <string name="error_on_open_privacy_policy_link">Error. Check the app store for the privacy policy.</string>
+    <string name="disclaimer">Disclaimer</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="app_in_the_store">App in the Store</string>
     <string name="errorOpeningExternalLink">Error on opening external link</string>
-    <string name="szWebsite">Website</string>
+    <string name="website">Website</string>
     <string name="tutorial">Tutorial</string>
     <string name="error_connect_server">Error while connecting to server</string>
     <string name="loading">Loading</string>
     <string name="start_ad">Start Ad</string>
     <string name="no_email_app_found">No E-Mail app found</string>
-    <string name="update">update</string>
+    <string name="roadmap">Roadmap</string>
 
     <!-- In App Purchases -->
     <string name="in_app_purchases">In-App Purchases</string>
@@ -152,16 +155,11 @@
     <string name="ad_free">Ad-Free</string>
     <string name="pro_version">Pro Version</string>
     <string name="coffee">Coffee</string>
-    <string name="roadmap">Roadmap</string>
-
     <string name="purchase_price_not_found">N/A</string>
     <string name="purchase_title_not_found">SKU not Found</string>
-    <string name="purchase_description_not_found">Description not found</string>
-
+    <string name="description_not_found">Description not found</string>
     <string name="message_thanks_4_coffee">Thank you for the coffee!</string>
-    <string name="message_pro">You\'re now a pro user!</string>
-
     <string name="error_unable_to_make_purchase">Unable to make purchase.</string>
-
+    <string name="available_purchases">Available purchases</string>
 
 </resources>

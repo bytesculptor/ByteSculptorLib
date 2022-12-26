@@ -17,68 +17,60 @@
   -->
 
 <resources>
-    <string name="szSettings">Einstellungen</string>
-    <string name="szYes">Ja</string>
-    <string name="szNo">Nein</string>
-    <string name="szNotifications">Benachrichtigungen</string>
-    <string name="szRateThisApp">App bewerten</string>
-    <string name="szAbout">Über</string>
+    <string name="settings">Einstellungen</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="notifications">Benachrichtigungen</string>
+    <string name="rate_this_app">App bewerten</string>
+    <string name="about">Über</string>
     <string name="help_and_about">Hilfe &amp; Über</string>
-    <string name="szContact">Kontakt</string>
-    <string name="szAppVersion">Version</string>
-    <string name="szFeedback">Kontaktieren Sie uns (E-Mail)</string>
-    <string name="szNoThanks">Nein danke</string>
-    <string name="szHelp">Hilfe</string>
-    <string name="szHint">Hinweis</string>
-    <string name="szHistory">Verlauf</string>
-    <string name="szNoCancel">Nein, abbrechen</string>
-    <string name="szOff">aus</string>
-    <string name="szOn">ein</string>
-    <string name="szClose">schließen</string>
-    <string name="szRateNow">Bewerten</string>
-    <string name="szRemindMe">Erinnere mich</string>
-    <string name="szIntroduction">Einführung</string>
-    <string name="szShowMe">Zeige mir</string>
-
+    <string name="contact">Kontakt</string>
+    <string name="app_version">Version</string>
+    <string name="contact_us_by_email">Kontaktieren Sie uns (E-Mail)</string>
+    <string name="no_thanks">Nein danke</string>
+    <string name="help">Hilfe</string>
+    <string name="hint">Hinweis</string>
+    <string name="history">Verlauf</string>
+    <string name="no_do_cancel">Nein, abbrechen</string>
+    <string name="off">aus</string>
+    <string name="on">ein</string>
+    <string name="close">schließen</string>
+    <string name="rate_now">Bewerten</string>
+    <string name="remind_me">Erinnere mich</string>
+    <string name="introduction">Einführung</string>
+    <string name="show_me">Zeige mir</string>
     <string name="szLikeThisAppTitle">Gefällt Ihnen diese App?</string>
     <string name="szLikeThisAppMessage">Wie ist Ihre bisherige Erfahrung? Mögen Sie diese App?</string>
     <string name="szRatingMessage">Haben Sie einen Moment Zeit, um die App zu bewerten? Danke für Ihre Unterstützung!</string>
     <string name="szAskFeedbackMessage">Es tut uns leid dies zu hören. Möchten Sie eine Rückmeldung senden, damit wir die App verbessern können?</string>
     <string name="szLikeThisAppNo">Nicht so</string>
-    <string name="szDisclaimer2">Byte Sculptor Software besitzt die Rechte an dieser Software und Änderungen können
-        jederzeit vorgenommen werden. Diese App wurde manuell und automatisch auf realen und emulierten Geräten auf Bugs,
-        Fehler und Stabilität getestet. Dies bedeutet jedoch nicht, dass die Software völlig fehlerfrei ist. Das
-        Android-Betriebssystem wird auf vielen Geräten verwendet und häufig von Smartphone-Herstellern
-        stark modifiziert. Es ist möglich, dass diese App auf solchen Geräten nicht wie erwartet funktioniert.
-
-        \n\nDurch die Verwendung dieser Software erklären Sie sich damit einverstanden, dass Byte Sculptor Software
-        nicht für Schäden an Ihrem Gerät verantwortlich ist. Sie nutzen diese App vollständig auf eigenes Risiko.
+    <string name="disclaimer_text_2">Byte Sculptor Software besitzt die Rechte an dieser Software und Änderungen können jederzeit vorgenommen werden. Diese App wurde manuell und automatisch auf realen und emulierten Geräten auf Bugs, Fehler und Stabilität getestet. Dies bedeutet jedoch nicht, dass die Software völlig fehlerfrei ist. Das Android-Betriebssystem wird auf vielen Geräten verwendet und häufig von Smartphone-Herstellern stark modifiziert. Es ist möglich, dass diese App auf solchen Geräten nicht wie erwartet funktioniert.
+        \n\nDurch die Verwendung dieser Software erklären Sie sich damit einverstanden, dass Byte Sculptor Software nicht für Schäden an Ihrem Gerät verantwortlich ist. Sie nutzen diese App vollständig auf eigenes Risiko.
         \nWenn Sie auf Probleme stoßen, senden Sie uns bitte eine E-Mail mit Details zum Problem, Ihrem Gerätemodell und der Android-Version. Vielen Dank!</string>
-    <string name="errorOnOpenPrivacyPolicyLink">Fehler. Besuchen Sie den App Store für die Datenschutzerklärung.</string>
-    <string name="szLater">später</string>
+    <string name="error_on_open_privacy_policy_link">Fehler. Besuchen Sie den App Store für die Datenschutzerklärung.</string>
+    <string name="later">später</string>
     <string name="share_app">App teilen</string>
-    <string name="szCancel">abbrechen</string>
-    <string name="szWelcome">Willkommen!</string>
+    <string name="cancel">abbrechen</string>
+    <string name="welcome">Willkommen!</string>
     <string name="notif_setting">Benachrichtigungs-Einstellungen</string>
     <string name="set_notif_settings">Sichtbarkeit, Ton und Vibration</string>
-    <string name="szContactIntro">Häufig versuchen mich Benutzer über die Bewertungen im Google Play Store zu kontaktieren.
-        Leider ist die Anzahl Zeichen für eine Antwort stark begrenzt. Für bessere Unterstützung Schreiben Sie bitte an:</string>
+    <string name="contact_us_intro_1">Häufig versuchen mich Benutzer über die Bewertungen im Google Play Store zu kontaktieren. Leider ist die Anzahl Zeichen für eine Antwort stark begrenzt. Für bessere Unterstützung Schreiben Sie bitte an:</string>
     <string name="app_theme">Design</string>
     <string name="app_theme_light">Hell</string>
     <string name="app_theme_dark">Dunkel</string>
     <string name="app_theme_system">System Einstellung</string>
-    <string name="szSave">Speichern</string>
-    <string name="szDisclaimer">Haftungsausschluss</string>
-    <string name="szPrivacyPolicy">Datenschutzerklärung</string>
-    <string name="szVisitInPlayStore">App im Store</string>
+    <string name="save">Speichern</string>
+    <string name="disclaimer">Haftungsausschluss</string>
+    <string name="privacy_policy">Datenschutzerklärung</string>
+    <string name="app_in_the_store">App im Store</string>
     <string name="notAvailable">Auf Ihrem System nicht verfügbar</string>
-    <string name="Mon">Mo</string>
-    <string name="Tue">Di</string>
-    <string name="Wed">Mi</string>
-    <string name="Thu">Do</string>
-    <string name="Fri">Fr</string>
-    <string name="Sat">Sa</string>
-    <string name="Sun">So</string>
+    <string name="abbreviation_monday">Mo</string>
+    <string name="abbreviation_tuesday">Di</string>
+    <string name="abbreviation_wednesday">Mi</string>
+    <string name="abbreviation_thursday">Do</string>
+    <string name="abbreviation_friday">Fr</string>
+    <string name="abbreviation_saturday">Sa</string>
+    <string name="abbreviation_sunday">So</string>
     <string name="Monday">Montag</string>
     <string name="Tuesday">Dienstag</string>
     <string name="Wednesday">Mittwoch</string>
@@ -86,36 +78,41 @@
     <string name="Friday">Freitag</string>
     <string name="Saturday">Samsag</string>
     <string name="Sunday">Sonntag</string>
-    <string name="szWebsite">Webseite</string>
-    <string name="szLicensesHeader">Diese App verwendet derzeit die folgende Open Source-Software:</string>
+    <string name="website">Webseite</string>
+    <string name="oss_licenses_header">Diese App verwendet derzeit die folgende Open Source-Software:</string>
     <string name="open_source_licenses">Open Source Lizenzen</string>
     <string name="more_licenses">mehr Lizenzen</string>
-    <string name="szMoreApps">Byte Sculptor Apps</string>
-    <string name="szFaq">FAQ</string>
+    <string name="more_bss_apps">Byte Sculptor Apps</string>
+    <string name="faq">FAQ</string>
     <string name="errorOpeningExternalLink">Fehler beim Öffnen des externen Links</string>
-    <string name="szOk">OK</string>
-    <string name="szSaved">Gespeichert</string>
-    <string name="szEdit">Editieren</string>
-    <string name="szToday">heute</string>
+    <string name="okay">OK</string>
+    <string name="saved">Gespeichert</string>
+    <string name="edit">Editieren</string>
+    <string name="today">heute</string>
     <string name="tutorial">Tutorial</string>
     <string name="error_connect_server">Fehler beim Verbinden mit dem Server</string>
     <string name="loading">Laden</string>
     <string name="start_ad">Werbung starten</string>
-
     <string name="in_app_purchases">In-App Käufe</string>
     <string name="your_purchases">Ihre Einkäufe</string>
     <string name="buy">Kaufen</string>
-
-    <string name="szGood">Gut</string>
-    <string name="szStatistics">Statistik</string>
+    <string name="good">Gut</string>
+    <string name="statistics">Statistik</string>
     <string name="delete">Löschen</string>
     <string name="reset">zurücksetzen</string>
     <string name="sort">sortieren</string>
-    <string name="btNext">nächste</string>
+    <string name="next">nächste</string>
     <string name="sort_asc">aufsteigend</string>
     <string name="sort_desc">absteigend</string>
     <string name="added">hinzugefügt</string>
     <string name="pro_version">Pro Version</string>
     <string name="no_email_app_found">Keine E-Mail-App gefunden</string>
-
+    <string name="duplicate">Duplizieren</string>
+    <string name="update">Aktualisieren</string>
+    <string name="collapse_view">Ansicht minimieren</string>
+    <string name="roadmap">Roadmap</string>
+    <string name="ad_free">Werbefrei</string>
+    <string name="description_not_found">Beschreibung nicht gefunden</string>
+    <string name="error_unable_to_make_purchase">Kauf kann nicht getätigt werden</string>
+    <string name="available_purchases">Verfügbare Käufe</string>
 </resources>

@@ -17,57 +17,52 @@
   -->
 
 <resources>
-
-    <string name="szCancel">キャンセル</string>
-    <string name="szSave">セーブ</string>
-    <string name="szHelp">ヘルプ</string>
-    <string name="szContact">連絡先</string>
-    <string name="szContactIntro">多くのユーザーが、GooglePlay ストアのアプリの評価システムを介して私に連絡しようとします。残念ながら、開発者の回答スペースは Google によって制限されています。より良いサポートのために、以下に書いてください：</string>
-    <string name="szAbout">当社について</string>
+    <string name="cancel">キャンセル</string>
+    <string name="save">セーブ</string>
+    <string name="help">ヘルプ</string>
+    <string name="contact">連絡先</string>
+    <string name="contact_us_intro_1">多くのユーザーが、GooglePlay ストアのアプリの評価システムを介して私に連絡しようとします。残念ながら、開発者の回答スペースは Google によって制限されています。より良いサポートのために、以下に書いてください：</string>
+    <string name="about">当社について</string>
     <string name="help_and_about">ヘルプ &amp; 当社について</string>
-    <string name="szFeedback">お問い合わせ（メール）</string>
-    <string name="szVisitInPlayStore">ストア内のアプリ</string>
+    <string name="contact_us_by_email">お問い合わせ（メール）</string>
+    <string name="app_in_the_store">ストア内のアプリ</string>
     <string name="share_app">このアプリを共有する</string>
-    <string name="szAppVersion">アプリバージョン</string>
+    <string name="app_version">アプリバージョン</string>
     <string name="open_source_licenses">オープンソースライセンス</string>
-    <string name="szLicensesHeader">このアプリは現在、次のオープンソースソフトウェアを使用しています。</string>
+    <string name="oss_licenses_header">このアプリは現在、次のオープンソースソフトウェアを使用しています。</string>
     <string name="more_licenses">より多くのライセンス</string>
-    <string name="szPrivacyPolicy">個人情報保護方針</string>
-    <string name="szDisclaimer">免責事項</string>
-    <string name="szDisclaimer2">Byte Sculptor Software はこのアプリケーションの権利を所有しており、いつでも変更を加えることができます。このアプリは、バグ、エラー、安定性について、実際のデバイスとエミュレートされたデバイスで手動および自動でテストされています。ただし、これはソフトウェアにエラーがまったくないことを意味するものではありません。 Android OS はさまざまなデバイスで使用されており、多くの場合、デバイスの製造元によって大幅に変更されています。このようなデバイスでは、このアプリが期待どおりに実行されない可能性があります。このソフトウェアを使用することにより、Byte SculptorSoftware がデバイスに加えられたいかなる損害についても責任を負わないことに同意するものとします。あなたは完全にあなた自身の責任でこのアプリを使用します。問題が発生した場合は、問題の詳細、デバイスモデル、Android のバージョンをメールでお知らせください。ありがとうございました！</string>
-    <string name="szSettings">設定</string>
-    <string name="szWebsite">ウェブサイト</string>
-    <string name="szMoreApps">Byte Sculptor アプリ</string>
-    <string name="szFaq">FAQ</string>
-    <string name="szOk">はい</string>
-
-    <!-- app rating -->
-    <string name="szRateThisApp">このアプリを評価する</string>
+    <string name="privacy_policy">個人情報保護方針</string>
+    <string name="disclaimer">免責事項</string>
+    <string name="disclaimer_text_2">Byte Sculptor Software はこのアプリケーションの権利を所有しており、いつでも変更を加えることができます。このアプリは、バグ、エラー、安定性について、実際のデバイスとエミュレートされたデバイスで手動および自動でテストされています。ただし、これはソフトウェアにエラーがまったくないことを意味するものではありません。 Android OS はさまざまなデバイスで使用されており、多くの場合、デバイスの製造元によって大幅に変更されています。このようなデバイスでは、このアプリが期待どおりに実行されない可能性があります。このソフトウェアを使用することにより、Byte SculptorSoftware がデバイスに加えられたいかなる損害についても責任を負わないことに同意するものとします。あなたは完全にあなた自身の責任でこのアプリを使用します。問題が発生した場合は、問題の詳細、デバイスモデル、Android のバージョンをメールでお知らせください。ありがとうございました！</string>
+    <string name="settings">設定</string>
+    <string name="website">ウェブサイト</string>
+    <string name="more_bss_apps">Byte Sculptor アプリ</string>
+    <string name="faq">FAQ</string>
+    <string name="okay">はい</string>
+    <string name="rate_this_app">このアプリを評価する</string>
     <string name="szLikeThisAppTitle">このアプリを楽しんでいますか？</string>
     <string name="szLikeThisAppNo">そんなにない</string>
     <string name="szLikeThisAppMessage">これまでの経験はいかがですか？あなたはこのアプリが好きですか？</string>
     <string name="szAskFeedbackMessage">誠に申し訳ございません！アプリを改善するためにフィードバックを送信しますか？</string>
     <string name="szRatingMessage">このアプリを評価していただけませんか？ご協力ありがとうございました！</string>
-    <string name="szRateNow">今すぐ評価</string>
-    <string name="szRemindMe">私に思い出させる</string>
-
-    <string name="errorOnOpenPrivacyPolicyLink">エラー。プライバシーポリシーについては、アプリストアを確認してください。</string>
+    <string name="rate_now">今すぐ評価</string>
+    <string name="remind_me">私に思い出させる</string>
+    <string name="error_on_open_privacy_policy_link">エラー。プライバシーポリシーについては、アプリストアを確認してください。</string>
     <string name="errorOpeningExternalLink">外部リンクを開くときにエラーが発生しました</string>
-    <string name="szNotifications">通知</string>
+    <string name="notifications">通知</string>
     <string name="notif_setting">通知設定</string>
     <string name="notAvailable">お使いのシステムでは利用できません</string>
-    <string name="szNoCancel">いいえ、キャンセルします</string>
-    <string name="szNo">いいえ</string>
-    <string name="szYes">はい</string>
-    <string name="szNoThanks">結構です</string>
-
-    <string name="Mon">月</string>
-    <string name="Tue">火</string>
-    <string name="Wed">水</string>
-    <string name="Thu">木</string>
-    <string name="Fri">金</string>
-    <string name="Sat">土</string>
-    <string name="Sun">日</string>
+    <string name="no_do_cancel">いいえ、キャンセルします</string>
+    <string name="no">いいえ</string>
+    <string name="yes">はい</string>
+    <string name="no_thanks">結構です</string>
+    <string name="abbreviation_monday">月</string>
+    <string name="abbreviation_tuesday">火</string>
+    <string name="abbreviation_wednesday">水</string>
+    <string name="abbreviation_thursday">木</string>
+    <string name="abbreviation_friday">金</string>
+    <string name="abbreviation_saturday">土</string>
+    <string name="abbreviation_sunday">日</string>
     <string name="Monday">月曜日</string>
     <string name="Tuesday">火曜日</string>
     <string name="Wednesday">水曜日</string>
@@ -79,42 +74,43 @@
     <string name="error_connect_server">サーバーへの接続中にエラーが発生しました</string>
     <string name="loading">読み込み中</string>
     <string name="start_ad">広告を開始</string>
-
     <string name="set_notif_settings">視認性、音、バイブレーションを設定する</string>
-    <string name="szStatistics">統計学</string>
-    <string name="szHint">ヒント</string>
-    <string name="szHistory">歴史</string>
-    <string name="szWelcome">いらっしゃいませ！</string>
-    <string name="szGood">良い</string>
-
+    <string name="statistics">統計学</string>
+    <string name="hint">ヒント</string>
+    <string name="history">歴史</string>
+    <string name="welcome">いらっしゃいませ！</string>
+    <string name="good">良い</string>
     <string name="app_theme">テーマ</string>
     <string name="app_theme_light">光</string>
     <string name="app_theme_dark">闇</string>
     <string name="app_theme_system">システムのデフォルト</string>
-
-    <string name="szOff">オフ</string>
-    <string name="szOn">の上</string>
-    <string name="szShowMe">見せて</string>
-
-    <string name="szClose">選ぶ</string>
-    <string name="szSaved">保存しました</string>
-    <string name="szEdit">編集</string>
+    <string name="off">オフ</string>
+    <string name="on">の上</string>
+    <string name="show_me">見せて</string>
+    <string name="close">選ぶ</string>
+    <string name="saved">保存しました</string>
+    <string name="edit">編集</string>
     <string name="delete">消去</string>
     <string name="reset">リセット</string>
     <string name="sort">選別</string>
     <string name="sort_asc">上昇</string>
     <string name="sort_desc">降順</string>
     <string name="added">追加した</string>
-
-    <string name="szToday">今日</string>
-    <string name="szLater">後で</string>
-    <string name="btNext">次</string>
-
+    <string name="today">今日</string>
+    <string name="later">後で</string>
+    <string name="next">次</string>
     <string name="in_app_purchases">アプリ内購入</string>
     <string name="your_purchases">あなたの購入</string>
     <string name="buy">買う</string>
-    <string name="szIntroduction">序章</string>
+    <string name="introduction">序章</string>
     <string name="pro_version">プロバージョン</string>
     <string name="no_email_app_found">メールアプリが見つかりません</string>
-
+    <string name="update">更新</string>
+    <string name="collapse_view">ビューを折りたたむ</string>
+    <string name="duplicate">複製</string>
+    <string name="roadmap">ロードマップ</string>
+    <string name="ad_free">広告なし</string>
+    <string name="description_not_found">説明が見つかりません</string>
+    <string name="error_unable_to_make_purchase">購入できません。</string>
+    <string name="available_purchases">利用可能な購入</string>
 </resources>

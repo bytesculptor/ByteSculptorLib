@@ -24,17 +24,17 @@
         <Preference
             app:icon="@drawable/ic_help"
             app:key="HELP_PREF_MANUAL"
-            app:title="@string/szHelp" />
+            app:title="@string/help" />
 
         <Preference
             app:icon="@drawable/ic_email"
             app:key="HELP_PREF_SEND_FEEDBACK"
-            app:title="@string/szFeedback" />
+            app:title="@string/contact_us_by_email" />
 
         <Preference
             app:icon="@drawable/ic_android"
             app:key="HELP_PREF_VISIT_IN_PLAY_STORE"
-            app:title="@string/szVisitInPlayStore" />
+            app:title="@string/app_in_the_store" />
 
         <Preference
             app:icon="@drawable/ic_share"
@@ -43,20 +43,20 @@
 
     </PreferenceCategory>
 
-    <PreferenceCategory android:title="@string/szAbout">
+    <PreferenceCategory android:title="@string/about">
 
         <Preference
             app:key="HELP_PREF_APP_VERSION"
-            app:title="@string/szAppVersion"
+            app:title="@string/app_version"
             app:useSimpleSummaryProvider="true" />
 
         <Preference
             app:key="HELP_PREF_PRIVACY_POLICY"
-            app:title="@string/szPrivacyPolicy" />
+            app:title="@string/privacy_policy" />
 
         <Preference
             app:key="HELP_PREF_DISCLAIMER"
-            app:title="@string/szDisclaimer" />
+            app:title="@string/disclaimer" />
 
         <Preference
             app:key="HELP_PREF_OPEN_SOURCE"
@@ -68,11 +68,11 @@
 
         <Preference
             app:key="HELP_PREF_MORE_APPS"
-            app:title="@string/szMoreApps" />
+            app:title="@string/more_bss_apps" />
 
         <Preference
             app:key="HELP_PREF_BSS_WEBSITE"
-            app:title="@string/szWebsite" />
+            app:title="@string/website" />
 
     </PreferenceCategory>
 

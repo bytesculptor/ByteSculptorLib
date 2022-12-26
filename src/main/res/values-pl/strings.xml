@@ -17,81 +17,72 @@
   -->
 
 <resources>
-
-    <string name="szOk">dobrze</string>
-    <string name="szCancel">Anuluj</string>
+    <string name="okay">dobrze</string>
+    <string name="cancel">Anuluj</string>
     <string name="share_app">Udostępnij tą aplikację</string>
-
-    <string name="szRateThisApp">Oceń tę aplikację</string>
+    <string name="rate_this_app">Oceń tę aplikację</string>
     <string name="szLikeThisAppTitle">Podoba Ci się ta aplikacja?</string>
     <string name="szLikeThisAppNo">Nie tak bardzo</string>
     <string name="szLikeThisAppMessage">Jakie jest twoje dotychczasowe doświadczenie? Czy podoba Ci się ta aplikacja?</string>
     <string name="szAskFeedbackMessage">Bardzo nam przykro! Czy chcesz przesłać opinię, abyśmy mogli ulepszyć aplikację?</string>
     <string name="szRatingMessage">Poświęć chwilę, aby ocenić tę aplikację? Dziękuję za wsparcie!</string>
-    <string name="szRateNow">Oceń teraz</string>
-    <string name="szRemindMe">Przypomnij mi</string>
-    <string name="szNoThanks">Nie, dziękuję</string>
-
-    <string name="szHelp">Wsparcie</string>
-    <string name="szIntroduction">Wprowadzenie</string>
-    <string name="szAbout">O</string>
+    <string name="rate_now">Oceń teraz</string>
+    <string name="remind_me">Przypomnij mi</string>
+    <string name="no_thanks">Nie, dziękuję</string>
+    <string name="help">Wsparcie</string>
+    <string name="introduction">Wprowadzenie</string>
+    <string name="about">O</string>
     <string name="help_and_about">Wsparcie &amp; O</string>
-    <string name="szFeedback">Skontaktuj się z nami (e-mail)</string>
-    <string name="szAppVersion">Wersja aplikacji</string>
-    <string name="szContact">Kontakt</string>
-    <string name="szFaq">FAQ</string>
-    <string name="szContactIntro">Wielu użytkowników próbuje się ze mną skontaktować przez system ocen aplikacji w Sklepie Google Play. Niestety przestrzeń odpowiedzi programisty jest ograniczona przez Google. Aby uzyskać lepsze wsparcie, napisz do:</string>
+    <string name="contact_us_by_email">Skontaktuj się z nami (e-mail)</string>
+    <string name="app_version">Wersja aplikacji</string>
+    <string name="contact">Kontakt</string>
+    <string name="faq">FAQ</string>
+    <string name="contact_us_intro_1">Wielu użytkowników próbuje się ze mną skontaktować przez system ocen aplikacji w Sklepie Google Play. Niestety przestrzeń odpowiedzi programisty jest ograniczona przez Google. Aby uzyskać lepsze wsparcie, napisz do:</string>
     <string name="open_source_licenses">Licencje open source</string>
-
-    <string name="szLicensesHeader">Ta aplikacja korzysta obecnie z następującego oprogramowania typu open source:</string>
-
-    <string name="errorOnOpenPrivacyPolicyLink">Błąd. Sprawdź w sklepie z aplikacjami politykę prywatności.</string>
-    <string name="szDisclaimer">Zrzeczenie się</string>
-    <string name="szPrivacyPolicy">Polityka prywatności</string>
-    <string name="szVisitInPlayStore">Aplikacja w sklepie</string>
+    <string name="oss_licenses_header">Ta aplikacja korzysta obecnie z następującego oprogramowania typu open source:</string>
+    <string name="error_on_open_privacy_policy_link">Błąd. Sprawdź w sklepie z aplikacjami politykę prywatności.</string>
+    <string name="disclaimer">Zrzeczenie się</string>
+    <string name="privacy_policy">Polityka prywatności</string>
+    <string name="app_in_the_store">Aplikacja w sklepie</string>
     <string name="errorOpeningExternalLink">Błąd podczas otwierania zewnętrznego linku</string>
-    <string name="szWebsite">Stronie internetowej</string>
+    <string name="website">Stronie internetowej</string>
     <string name="more_licenses">więcej licencji</string>
-    <string name="szSave">zapisać</string>
+    <string name="save">zapisać</string>
     <string name="tutorial">Instruktaż</string>
     <string name="error_connect_server">Błąd podczas łączenia się z serwerem</string>
     <string name="loading">Ładowanie</string>
     <string name="start_ad">Rozpocznij reklamę</string>
-
-    <string name="szSettings">Ustawienia</string>
-    <string name="szNotifications">Powiadomienia</string>
+    <string name="settings">Ustawienia</string>
+    <string name="notifications">Powiadomienia</string>
     <string name="notif_setting">Ustawienia powiadomień</string>
     <string name="set_notif_settings">Ustaw widoczność, dźwięk i wibracje</string>
-    <string name="szStatistics">Statystyka</string>
-    <string name="szHint">Wskazówka</string>
-    <string name="szHistory">Historia</string>
-    <string name="szWelcome">Witam!</string>
-    <string name="szGood">Dobry</string>
+    <string name="statistics">Statystyka</string>
+    <string name="hint">Wskazówka</string>
+    <string name="history">Historia</string>
+    <string name="welcome">Witam!</string>
+    <string name="good">Dobry</string>
     <string name="app_theme">Temat</string>
     <string name="app_theme_light">Światło</string>
     <string name="app_theme_dark">Ciemny</string>
     <string name="app_theme_system">Domyślne ustawienie systemowe</string>
-
-    <string name="szYes">tak</string>
-    <string name="szNo">nie</string>
-    <string name="szNoCancel">Nie, anuluj</string>
-    <string name="szOff">wyłączony</string>
-    <string name="szOn">na</string>
-    <string name="szShowMe">Pokaż mi</string>
-
-    <string name="szClose">Blisko</string>
-    <string name="szSaved">Zapisane</string>
-    <string name="szEdit">Edytować</string>
+    <string name="yes">tak</string>
+    <string name="no">nie</string>
+    <string name="no_do_cancel">Nie, anuluj</string>
+    <string name="off">wyłączony</string>
+    <string name="on">na</string>
+    <string name="show_me">Pokaż mi</string>
+    <string name="close">Blisko</string>
+    <string name="saved">Zapisane</string>
+    <string name="edit">Edytować</string>
     <string name="delete">Kasować</string>
     <string name="reset">Resetowanie</string>
     <string name="sort">sortować</string>
     <string name="sort_asc">rosnąco</string>
     <string name="sort_desc">malejąco</string>
     <string name="added">dodany</string>
-
-    <string name="szToday">Dziś</string>
-    <string name="szLater">później</string>
-    <string name="btNext">Następny</string>
+    <string name="today">Dziś</string>
+    <string name="later">później</string>
+    <string name="next">Następny</string>
     <string name="Monday">Poniedziałek</string>
     <string name="Tuesday">wtorek</string>
     <string name="Wednesday">Środa</string>
@@ -99,12 +90,26 @@
     <string name="Friday">piątek</string>
     <string name="Saturday">sobota</string>
     <string name="Sunday">niedziela</string>
-
     <string name="in_app_purchases">Zakupy w aplikacji</string>
     <string name="your_purchases">Twoje zakupy</string>
     <string name="buy">Kup</string>
     <string name="notAvailable">Niedostępne w Twoim systemie</string>
     <string name="pro_version">Wersja Pro</string>
     <string name="no_email_app_found">Nie znaleziono aplikacji e-mail</string>
-
+    <string name="update">Aktualizuj</string>
+    <string name="collapse_view">zwiń widok</string>
+    <string name="abbreviation_monday">Pon</string>
+    <string name="abbreviation_tuesday">Wto</string>
+    <string name="abbreviation_wednesday">Śro</string>
+    <string name="abbreviation_thursday">Czw</string>
+    <string name="abbreviation_friday">Pią</string>
+    <string name="abbreviation_saturday">Sob</string>
+    <string name="abbreviation_sunday">Nie</string>
+    <string name="more_bss_apps">Byte Sculptor Apps</string>
+    <string name="duplicate">Powiel</string>
+    <string name="roadmap">Mapa drogowa</string>
+    <string name="ad_free">Bez reklam</string>
+    <string name="description_not_found">Nie znaleziono opisu</string>
+    <string name="error_unable_to_make_purchase">Nie można dokonać zakupu.</string>
+    <string name="available_purchases">Dostępne zakupy</string>
 </resources>

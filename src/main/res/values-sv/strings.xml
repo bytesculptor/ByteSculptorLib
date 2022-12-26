@@ -17,79 +17,72 @@
   -->
 
 <resources>
-    <string name="szOk">OK</string>
-    <string name="szCancel">Avbryt</string>
+    <string name="okay">OK</string>
+    <string name="cancel">Avbryt</string>
     <string name="share_app">Dela denna appen</string>
-
-    <string name="szRateThisApp">Betygsätt denna app</string>
+    <string name="rate_this_app">Betygsätt denna app</string>
     <string name="szLikeThisAppTitle">Gillar du den här appen?</string>
     <string name="szLikeThisAppNo">Inte så mycket</string>
     <string name="szLikeThisAppMessage">Hur är din upplevelse hittills? Gillar du den här appen?</string>
     <string name="szAskFeedbackMessage">Vi är väldigt ledsna! Vill du skicka feedback så att vi förbättrar appen?</string>
     <string name="szRatingMessage">Skulle du snälla ta en stund att betygsätta den här appen? Tack för ditt stöd!</string>
-    <string name="szRateNow">Betygsätt nu</string>
-    <string name="szRemindMe">Påminn mig</string>
-    <string name="szNoThanks">Nej tack</string>
-
-    <string name="szHelp">Hjälp</string>
-    <string name="szIntroduction">Introduktion</string>
-    <string name="szAbout">Handla om</string>
+    <string name="rate_now">Betygsätt nu</string>
+    <string name="remind_me">Påminn mig</string>
+    <string name="no_thanks">Nej tack</string>
+    <string name="help">Hjälp</string>
+    <string name="introduction">Introduktion</string>
+    <string name="about">Handla om</string>
     <string name="help_and_about">Hjälp &amp; Handla om</string>
-    <string name="szFeedback">Kontakta oss (e-post)</string>
-    <string name="szAppVersion">Appversion</string>
-    <string name="szContact">Kontakt</string>
-    <string name="szFaq">FAQ</string>
-    <string name="szContactIntro">Många användare försöker kontakta mig via appens betygssystem i Google Play Store. Tyvärr är utvecklarens svarutrymme begränsat av Google. För bättre support, skriv till:</string>
+    <string name="contact_us_by_email">Kontakta oss (e-post)</string>
+    <string name="app_version">Appversion</string>
+    <string name="contact">Kontakt</string>
+    <string name="faq">FAQ</string>
+    <string name="contact_us_intro_1">Många användare försöker kontakta mig via appens betygssystem i Google Play Store. Tyvärr är utvecklarens svarutrymme begränsat av Google. För bättre support, skriv till:</string>
     <string name="open_source_licenses">Öppen källkodslicenser</string>
-
-    <string name="szLicensesHeader">Den här appen använder för närvarande följande programvara med öppen källkod:</string>
-
-    <string name="errorOnOpenPrivacyPolicyLink">Fel. Kolla appbutiken för sekretesspolicy.</string>
-    <string name="szDisclaimer">varning</string>
-    <string name="szPrivacyPolicy">Integritetspolicy</string>
-    <string name="szVisitInPlayStore">App i butiken</string>
+    <string name="oss_licenses_header">Den här appen använder för närvarande följande programvara med öppen källkod:</string>
+    <string name="error_on_open_privacy_policy_link">Fel. Kolla appbutiken för sekretesspolicy.</string>
+    <string name="disclaimer">varning</string>
+    <string name="privacy_policy">Integritetspolicy</string>
+    <string name="app_in_the_store">App i butiken</string>
     <string name="errorOpeningExternalLink">Fel vid öppning av extern länk</string>
-    <string name="szWebsite">Hemsida</string>
+    <string name="website">Hemsida</string>
     <string name="more_licenses">fler licenser</string>
-    <string name="szSave">att spara</string>
+    <string name="save">att spara</string>
     <string name="tutorial">Handledning</string>
     <string name="error_connect_server">Fel vid anslutning till server</string>
     <string name="loading">Läser in</string>
     <string name="start_ad">Start reklam</string>
-    <string name="szSettings">inställningar</string>
-    <string name="szNotifications">Aviseringar</string>
+    <string name="settings">inställningar</string>
+    <string name="notifications">Aviseringar</string>
     <string name="notif_setting">Aviseringsinställningar</string>
     <string name="set_notif_settings">Ställ in synlighet, ljud och vibration</string>
-    <string name="szStatistics">Statistik</string>
-    <string name="szHint">ledtråd</string>
-    <string name="szHistory">Historia</string>
-    <string name="szWelcome">Välkommen!</string>
-    <string name="szGood">Bra</string>
+    <string name="statistics">Statistik</string>
+    <string name="hint">ledtråd</string>
+    <string name="history">Historia</string>
+    <string name="welcome">Välkommen!</string>
+    <string name="good">Bra</string>
     <string name="app_theme">Tema</string>
     <string name="app_theme_light">Ljus</string>
     <string name="app_theme_dark">Mörk</string>
     <string name="app_theme_system">Systemfel</string>
-
-    <string name="szYes">Ja</string>
-    <string name="szNo">Nej</string>
-    <string name="szNoCancel">Nej, avbryt</string>
-    <string name="szOff">av</string>
-    <string name="szOn">på</string>
-    <string name="szShowMe">Visa mig</string>
-
-    <string name="szClose">Stänga</string>
-    <string name="szSaved">Sparad</string>
-    <string name="szEdit">Redigera</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nej</string>
+    <string name="no_do_cancel">Nej, avbryt</string>
+    <string name="off">av</string>
+    <string name="on">på</string>
+    <string name="show_me">Visa mig</string>
+    <string name="close">Stänga</string>
+    <string name="saved">Sparad</string>
+    <string name="edit">Redigera</string>
     <string name="delete">Radera</string>
     <string name="reset">återställa</string>
     <string name="sort">sortera</string>
     <string name="sort_asc">stigande</string>
     <string name="sort_desc">nedåtgående</string>
     <string name="added">lagt till</string>
-
-    <string name="szToday">i dag</string>
-    <string name="szLater">senare</string>
-    <string name="btNext">Nästa</string>
+    <string name="today">i dag</string>
+    <string name="later">senare</string>
+    <string name="next">Nästa</string>
     <string name="Monday">måndag</string>
     <string name="Tuesday">tisdag</string>
     <string name="Wednesday">onsdag</string>
@@ -97,12 +90,26 @@
     <string name="Friday">fredag</string>
     <string name="Saturday">lördag</string>
     <string name="Sunday">söndag</string>
-
     <string name="in_app_purchases">In-App-köp</string>
     <string name="your_purchases">Dina inköp</string>
     <string name="buy">köpa</string>
     <string name="notAvailable">Ej tillgängligt på ditt system</string>
     <string name="pro_version">Pro Version</string>
     <string name="no_email_app_found">Ingen e-postapp hittades</string>
-
+    <string name="update">Uppdatera</string>
+    <string name="collapse_view">komprimera vy</string>
+    <string name="abbreviation_monday">mån</string>
+    <string name="abbreviation_tuesday">tis</string>
+    <string name="abbreviation_wednesday">ons</string>
+    <string name="abbreviation_thursday">tor</string>
+    <string name="abbreviation_friday">fre</string>
+    <string name="abbreviation_saturday">lör</string>
+    <string name="abbreviation_sunday">sön</string>
+    <string name="more_bss_apps">Byte Sculptor Apps</string>
+    <string name="duplicate">Duplicera</string>
+    <string name="roadmap">Vägkarta</string>
+    <string name="ad_free">Annonsfri</string>
+    <string name="description_not_found">Beskrivning hittades inte</string>
+    <string name="error_unable_to_make_purchase">Det gick inte att köpa.</string>
+    <string name="available_purchases">Tillgängliga köp</string>
 </resources>

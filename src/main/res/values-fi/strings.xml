@@ -17,79 +17,72 @@
   -->
 
 <resources>
-    <string name="szOk">OK</string>
-    <string name="szCancel">Peruuttaa</string>
+    <string name="okay">OK</string>
+    <string name="cancel">Peruuttaa</string>
     <string name="share_app">Jaa tämä sovellus</string>
-
-    <string name="szRateThisApp">Arvostele tämä sovellus</string>
+    <string name="rate_this_app">Arvostele tämä sovellus</string>
     <string name="szLikeThisAppTitle">Nautitko tästä sovelluksesta?</string>
     <string name="szLikeThisAppNo">Ei niin paljon</string>
     <string name="szLikeThisAppMessage">Millainen kokemuksesi on tähän mennessä? Pidätkö tästä sovelluksesta?</string>
     <string name="szAskFeedbackMessage">Olemme todella pahoillamme! Haluatko lähettää palautetta, jotta voimme parantaa sovellusta?</string>
     <string name="szRatingMessage">Voisitko käyttää hetkeä tämän sovelluksen arvioimiseksi? Kiitos tuestasi!</string>
-    <string name="szRateNow">Arvostele nyt</string>
-    <string name="szRemindMe">Muistuta minua</string>
-    <string name="szNoThanks">Ei kiitos</string>
-
-    <string name="szHelp">Auta</string>
-    <string name="szIntroduction">Johdanto</string>
-    <string name="szAbout">Noin</string>
+    <string name="rate_now">Arvostele nyt</string>
+    <string name="remind_me">Muistuta minua</string>
+    <string name="no_thanks">Ei kiitos</string>
+    <string name="help">Auta</string>
+    <string name="introduction">Johdanto</string>
+    <string name="about">Noin</string>
     <string name="help_and_about">Auta &amp; Noin</string>
-    <string name="szFeedback">Ota yhteyttä (sähköposti)</string>
-    <string name="szAppVersion">Sovelluksen versio</string>
-    <string name="szContact">Ottaa yhteyttä</string>
-    <string name="szFaq">UKK</string>
-    <string name="szContactIntro">Monet käyttäjät yrittävät ottaa minuun yhteyttä Google Play -kaupan sovelluksen luokitusjärjestelmän kautta. Valitettavasti Google rajoittaa kehittäjän vastaustilaa. Parempaa tukea varten kirjoita:</string>
+    <string name="contact_us_by_email">Ota yhteyttä (sähköposti)</string>
+    <string name="app_version">Sovelluksen versio</string>
+    <string name="contact">Ottaa yhteyttä</string>
+    <string name="faq">UKK</string>
+    <string name="contact_us_intro_1">Monet käyttäjät yrittävät ottaa minuun yhteyttä Google Play -kaupan sovelluksen luokitusjärjestelmän kautta. Valitettavasti Google rajoittaa kehittäjän vastaustilaa. Parempaa tukea varten kirjoita:</string>
     <string name="open_source_licenses">Avoimen lähdekoodin lisenssit</string>
-
-    <string name="szLicensesHeader">Tämä sovellus käyttää tällä hetkellä seuraavia avoimen lähdekoodin ohjelmistoja:</string>
-
-    <string name="errorOnOpenPrivacyPolicyLink">Virhe. Tarkista sovelluskaupasta tietosuojakäytäntö.</string>
-    <string name="szDisclaimer">Vastuuvapauslauseke</string>
-    <string name="szPrivacyPolicy">Tietosuojakäytäntö</string>
+    <string name="oss_licenses_header">Tämä sovellus käyttää tällä hetkellä seuraavia avoimen lähdekoodin ohjelmistoja:</string>
+    <string name="error_on_open_privacy_policy_link">Virhe. Tarkista sovelluskaupasta tietosuojakäytäntö.</string>
+    <string name="disclaimer">Vastuuvapauslauseke</string>
+    <string name="privacy_policy">Tietosuojakäytäntö</string>
     <string name="errorOpeningExternalLink">Virhe ulkoisen linkin avaamisessa</string>
-    <string name="szWebsite">Verkkosivusto</string>
+    <string name="website">Verkkosivusto</string>
     <string name="more_licenses">lisää lisenssejä</string>
-    <string name="szSave">pelastaa</string>
+    <string name="save">pelastaa</string>
     <string name="tutorial">Opetusohjelma</string>
     <string name="error_connect_server">Virhe muodostettaessa yhteyttä palvelimeen</string>
     <string name="loading">Ladataan</string>
     <string name="start_ad">Aloita mainos</string>
-    <string name="szVisitInPlayStore">Sovellus kaupassa</string>
-    <string name="szSettings">asetukset</string>
-    <string name="szNotifications">Ilmoitukset</string>
+    <string name="app_in_the_store">Sovellus kaupassa</string>
+    <string name="settings">asetukset</string>
+    <string name="notifications">Ilmoitukset</string>
     <string name="notif_setting">Ilmoitusasetukset</string>
     <string name="set_notif_settings">Aseta näkyvyys, ääni ja värinä</string>
-    <string name="szStatistics">Tilastot</string>
-    <string name="szHint">vihje</string>
-    <string name="szHistory">Historia</string>
-    <string name="szWelcome">Tervetuloa!</string>
-    <string name="szGood">Hyvä</string>
+    <string name="statistics">Tilastot</string>
+    <string name="hint">vihje</string>
+    <string name="history">Historia</string>
+    <string name="welcome">Tervetuloa!</string>
+    <string name="good">Hyvä</string>
     <string name="app_theme">Teema</string>
     <string name="app_theme_light">Kevyt</string>
     <string name="app_theme_dark">Tumma</string>
     <string name="app_theme_system">Järjestelmän oletusarvo</string>
-
-    <string name="szYes">Joo</string>
-    <string name="szNo">Ei</string>
-    <string name="szNoCancel">Ei, peruuta</string>
-    <string name="szOff">vinossa</string>
-    <string name="szOn">päällä</string>
-    <string name="szShowMe">Näytä minulle</string>
-
-    <string name="szClose">kiinni</string>
-    <string name="szSaved">Tallennettu</string>
-    <string name="szEdit">Muokata</string>
+    <string name="yes">Joo</string>
+    <string name="no">Ei</string>
+    <string name="no_do_cancel">Ei, peruuta</string>
+    <string name="off">vinossa</string>
+    <string name="on">päällä</string>
+    <string name="show_me">Näytä minulle</string>
+    <string name="close">kiinni</string>
+    <string name="saved">Tallennettu</string>
+    <string name="edit">Muokata</string>
     <string name="delete">Poistaa</string>
     <string name="reset">nollaa</string>
     <string name="sort">järjestellä</string>
     <string name="sort_asc">nouseva</string>
     <string name="sort_desc">laskeva</string>
     <string name="added">lisätty</string>
-
-    <string name="szToday">tänään</string>
-    <string name="szLater">myöhemmin</string>
-    <string name="btNext">Seuraava</string>
+    <string name="today">tänään</string>
+    <string name="later">myöhemmin</string>
+    <string name="next">Seuraava</string>
     <string name="Monday">Maanantai</string>
     <string name="Tuesday">Tiistai</string>
     <string name="Wednesday">Keskiviikko</string>
@@ -97,12 +90,26 @@
     <string name="Friday">Perjantai</string>
     <string name="Saturday">Lauantaina</string>
     <string name="Sunday">Sunnuntai</string>
-
     <string name="in_app_purchases">Sovelluksen sisäiset ostot</string>
     <string name="your_purchases">Sinun ostoksesi</string>
     <string name="buy">Ostaa</string>
     <string name="notAvailable">Ei saatavilla järjestelmässäsi</string>
     <string name="pro_version">Pro versio</string>
     <string name="no_email_app_found">Sähköpostisovellusta ei löytynyt</string>
-
+    <string name="update">Päivitä</string>
+    <string name="collapse_view">kutista näkymä</string>
+    <string name="abbreviation_monday">ma</string>
+    <string name="abbreviation_tuesday">ti</string>
+    <string name="abbreviation_wednesday">ke</string>
+    <string name="abbreviation_thursday">to</string>
+    <string name="abbreviation_friday">pe</string>
+    <string name="abbreviation_saturday">la</string>
+    <string name="abbreviation_sunday">su</string>
+    <string name="more_bss_apps">Byte Sculptor Apps</string>
+    <string name="duplicate">Kopioi</string>
+    <string name="roadmap">Reittikartta</string>
+    <string name="ad_free">Ei mainoksia</string>
+    <string name="description_not_found">Kuvausta ei löydy</string>
+    <string name="error_unable_to_make_purchase">Ostoa ei voi tehdä.</string>
+    <string name="available_purchases">Saatavilla olevat ostokset</string>
 </resources>

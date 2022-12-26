@@ -17,106 +17,87 @@
   -->
 
 <resources>
-
-    <!-- general terms -->
-    <string name="szSettings">Настройки</string>
-    <string name="szNotifications">Известия</string>
+    <string name="settings">Настройки</string>
+    <string name="notifications">Известия</string>
     <string name="notif_setting">Настройки на известия</string>
     <string name="set_notif_settings">Избор на видимост, звук и вибрация</string>
-    <string name="szHint">Намек</string>
-    <string name="szHistory">История</string>
-    <string name="szWelcome">Добре дошли!</string>
-    <string name="szGood">Добре</string>
+    <string name="hint">Намек</string>
+    <string name="history">История</string>
+    <string name="welcome">Добре дошли!</string>
+    <string name="good">Добре</string>
     <string name="app_theme">Тема</string>
     <string name="app_theme_light">Светла</string>
     <string name="app_theme_dark">Тъмна</string>
     <string name="app_theme_system">Като системната настройка</string>
-
-    <!-- confirmation -->
-    <string name="szOk">Добре</string>
-    <string name="szYes">Да</string>
-    <string name="szNo">Не</string>
-    <string name="szNoCancel">Не, отмени</string>
-    <string name="szOff">Изключено</string>
-    <string name="szOn">Включено</string>
-    <string name="szShowMe">Покажи ми</string>
-
-    <!-- actions -->
-    <string name="szClose">Затвори</string>
-    <string name="szCancel">Отмени</string>
-    <string name="szSave">Запази</string>
-    <string name="szSaved" translatable="false">Запазено</string>
-    <string name="szEdit" translatable="false">Редактирай</string>
+    <string name="okay">Добре</string>
+    <string name="yes">Да</string>
+    <string name="no">Не</string>
+    <string name="no_do_cancel">Не, отмени</string>
+    <string name="off">Изключено</string>
+    <string name="on">Включено</string>
+    <string name="show_me">Покажи ми</string>
+    <string name="close">Затвори</string>
+    <string name="cancel">Отмени</string>
+    <string name="save">Запази</string>
+    <string name="saved">Запазено</string>
+    <string name="edit">Редактирай</string>
     <string name="share_app">Сподели това приложение</string>
-
-    <!-- time -->
-    <string name="szToday">Днес</string>
-    <string name="szLater">По-късно</string>
-    <string name="btNext">Следващо</string>
-    <string name="Mon">Пон</string>
-    <string name="Tue">Вто</string>
-    <string name="Wed">Сря</string>
-    <string name="Thu">Четв</string>
-    <string name="Fri">Пет</string>
-    <string name="Sat">Съб</string>
-    <string name="Sun">Нед</string>
-
-    <!-- app rating -->
-    <string name="szRateThisApp">Оценете това приложение</string>
+    <string name="today">Днес</string>
+    <string name="later">По-късно</string>
+    <string name="next">Следващо</string>
+    <string name="abbreviation_monday">Пон</string>
+    <string name="abbreviation_tuesday">Вто</string>
+    <string name="abbreviation_wednesday">Сря</string>
+    <string name="abbreviation_thursday">Четв</string>
+    <string name="abbreviation_friday">Пет</string>
+    <string name="abbreviation_saturday">Съб</string>
+    <string name="abbreviation_sunday">Нед</string>
+    <string name="rate_this_app">Оценете това приложение</string>
     <string name="szLikeThisAppTitle">Харесва ли Ви това приложение?</string>
     <string name="szLikeThisAppMessage">Какво е Вашето впечатление до сега? Харесва ли Ви това приложение?</string>
     <string name="szAskFeedbackMessage">Много съжаляваме! Бихте ли изпратили коментар, за да подобрим приложението?</string>
     <string name="szLikeThisAppNo">Не особено</string>
     <string name="szRatingMessage">Бихте ли дали оценка на приложението? Много Ви благодарим за подкрепата!</string>
-    <string name="szRateNow">Оцени сега</string>
-    <string name="szRemindMe">Напомни ми</string>
-    <string name="szNoThanks">Не, благодаря</string>
-
-    <!-- help -->
-    <string name="szHelp">Помощ</string>
-    <string name="szIntroduction">Увод</string>
-    <string name="szAbout">За нас</string>
+    <string name="rate_now">Оцени сега</string>
+    <string name="remind_me">Напомни ми</string>
+    <string name="no_thanks">Не, благодаря</string>
+    <string name="help">Помощ</string>
+    <string name="introduction">Увод</string>
+    <string name="about">За нас</string>
     <string name="help_and_about">Помощ &amp; За нас</string>
-    <string name="szFeedback">Свържете се с нас (Електронна поща)</string>
-    <string name="szAppVersion">Версия на приложението</string>
-    <string name="szMoreApps">Byte Sculptor Apps</string>
-    <string name="szContact">Обратна връзка</string>
-    <string name="szFaq">Често Задавани Въпроси</string>
-    <string name="szContactIntro">Много потребители се опитват да се свържат с нас през системата за оценяване на Google Play магазина. За съжаление, там има лимит на броя букви, с които ние можем да Ви отговорим. За по-добра обратна връзка, моля пишете ни на:</string>
+    <string name="contact_us_by_email">Свържете се с нас (Електронна поща)</string>
+    <string name="app_version">Версия на приложението</string>
+    <string name="more_bss_apps">Byte Sculptor Apps</string>
+    <string name="contact">Обратна връзка</string>
+    <string name="faq">Често Задавани Въпроси</string>
+    <string name="contact_us_intro_1">Много потребители се опитват да се свържат с нас през системата за оценяване на Google Play магазина. За съжаление, там има лимит на броя букви, с които ние можем да Ви отговорим. За по-добра обратна връзка, моля пишете ни на:</string>
     <string name="open_source_licenses">Лицензи с отворен код</string>
     <string name="notAvailable">Не е достъпно във Вашата система</string>
-
-    <string name="szDisclaimer1"></string>
-    <string name="szDisclaimer2">
+    <string name="disclaimer_text_1"></string>
+    <string name="disclaimer_text_2">
         Byte Sculptor Software притежава правата за това приложение, като промени по него могат да бъдат направени по всяко време. Това приложение е тествано ръчно и автоматично на истински и симулирани устройства за неизправности, грешки и стабилност. Но това не означава, че софтуера е напълно без грешки. Операционната система Android е използвана на много и различни устройства, които са често силно модифицирани от производителя. Възможно е да има устройства, при които това приложение няма да работи както се очаква.
         \n\nИзползвайки този софтуер, Вие се съгласявате, че Byte Sculptor Software не носи отговорност за повреди на Вашето устройство. Вие използвате това приложение на собствена отговорност.
         \nАко имате каквито и да е проблеми, моля, обърнете се към нас! Изпратете имейл с детайли относно проблема, модела на Вашето устройство и Android версията. Благодарим Ви!
     </string>
-    <string name="szDisclaimer3"></string>
-
-
-    <!-- licenses -->
-    <string name="szLicensesHeader">Това приложение в момента използва следния софтуер с отворен код:</string>
-
-    <string name="errorOnOpenPrivacyPolicyLink">Грешка! Моля, проверете за поверителната политика в Google Play магазина.</string>
-    <string name="szDisclaimer">Отказ от отговорност</string>
-    <string name="szPrivacyPolicy">Поверителност</string>
+    <string name="disclaimer_text_3"></string>
+    <string name="oss_licenses_header">Това приложение в момента използва следния софтуер с отворен код:</string>
+    <string name="error_on_open_privacy_policy_link">Грешка! Моля, проверете за поверителната политика в Google Play магазина.</string>
+    <string name="disclaimer">Отказ от отговорност</string>
+    <string name="privacy_policy">Поверителност</string>
     <string name="errorOpeningExternalLink">Грешка при отварянето на външната препратка</string>
-    <string name="szWebsite">Уебсайт</string>
+    <string name="website">Уебсайт</string>
     <string name="more_licenses">повече лицензи</string>
     <string name="tutorial">Yрок</string>
     <string name="error_connect_server">Грешка при свързване със сървър</string>
     <string name="loading">Зареждане</string>
     <string name="start_ad">Начална реклама</string>
-    <string name="szVisitInPlayStore">Приложение в магазина</string>
-
+    <string name="app_in_the_store">Приложение в магазина</string>
     <string name="delete">Изтрий</string>
     <string name="reset">нулиране</string>
     <string name="sort">вид</string>
     <string name="sort_asc">възходящ</string>
     <string name="sort_desc">низходящо</string>
     <string name="added">добави</string>
-
     <string name="Monday">понеделник</string>
     <string name="Tuesday">вторник</string>
     <string name="Wednesday">сряда</string>
@@ -124,13 +105,18 @@
     <string name="Friday">петък</string>
     <string name="Saturday">събота</string>
     <string name="Sunday">неделя</string>
-
     <string name="in_app_purchases">Покупки в приложението</string>
     <string name="your_purchases">Вашите покупки</string>
     <string name="buy">Купува</string>
-
-    <string name="szStatistics">Статистика</string>
+    <string name="statistics">Статистика</string>
     <string name="pro_version">Pro версия</string>
     <string name="no_email_app_found">Няма намерено приложение за електронна поща</string>
-
+    <string name="update">Актуализиране</string>
+    <string name="collapse_view">свит изглед</string>
+    <string name="duplicate">Дубликат</string>
+    <string name="roadmap">Пътна карта</string>
+    <string name="ad_free">Без реклами</string>
+    <string name="description_not_found">Описанието не е намерено</string>
+    <string name="error_unable_to_make_purchase">Не може да се направи покупка.</string>
+    <string name="available_purchases">Налични покупки</string>
 </resources>

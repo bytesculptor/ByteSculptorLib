@@ -17,80 +17,72 @@
   -->
 
 <resources>
-    <string name="szOk">OK</string>
-    <string name="szCancel">Avbryt</string>
+    <string name="okay">OK</string>
+    <string name="cancel">Avbryt</string>
     <string name="share_app">Del denne appen</string>
-
-    <string name="szRateThisApp">Bedøm denne appen</string>
+    <string name="rate_this_app">Bedøm denne appen</string>
     <string name="szLikeThisAppTitle">Liker du denne appen?</string>
     <string name="szLikeThisAppNo">Ikke så mye</string>
     <string name="szLikeThisAppMessage">Hvordan er opplevelsen din så langt? Liker du denne appen?</string>
     <string name="szAskFeedbackMessage">Vi er veldig lei oss! Vil du sende tilbakemelding slik at vi forbedrer appen?</string>
     <string name="szRatingMessage">Vil du ta deg tid til å rangere denne appen? Takk for støtten!</string>
-    <string name="szRateNow">Ranger nå</string>
-    <string name="szRemindMe">Minn meg på</string>
-    <string name="szNoThanks">Nei takk</string>
-
-    <string name="szHelp">Hjelp</string>
-    <string name="szIntroduction">Introduksjon</string>
-    <string name="szAbout">Om</string>
+    <string name="rate_now">Ranger nå</string>
+    <string name="remind_me">Minn meg på</string>
+    <string name="no_thanks">Nei takk</string>
+    <string name="help">Hjelp</string>
+    <string name="introduction">Introduksjon</string>
+    <string name="about">Om</string>
     <string name="help_and_about">Hjelp &amp; Om</string>
-    <string name="szFeedback">Kontakt oss (e-post)</string>
-    <string name="szAppVersion">Appversjon</string>
-    <string name="szContact">Ta kontakt med</string>
-    <string name="szFaq">FAQ</string>
-    <string name="szContactIntro">Mange brukere prøver å kontakte meg gjennom appens rangeringssystem i Google Play Store. Dessverre er utviklerens svarplass begrenset av Google. For bedre støtte, vennligst skriv til:</string>
+    <string name="contact_us_by_email">Kontakt oss (e-post)</string>
+    <string name="app_version">Appversjon</string>
+    <string name="contact">Ta kontakt med</string>
+    <string name="faq">FAQ</string>
+    <string name="contact_us_intro_1">Mange brukere prøver å kontakte meg gjennom appens rangeringssystem i Google Play Store. Dessverre er utviklerens svarplass begrenset av Google. For bedre støtte, vennligst skriv til:</string>
     <string name="open_source_licenses">Åpen kildekode lisenser</string>
-
-    <string name="szLicensesHeader">Denne appen bruker for øyeblikket følgende programvare med åpen kildekode:</string>
-
-    <string name="errorOnOpenPrivacyPolicyLink">Feil. Sjekk appbutikken for personvernregler.</string>
-    <string name="szDisclaimer">Ansvarsfraskrivelse</string>
-    <string name="szPrivacyPolicy">Personvernregler</string>
-    <string name="szVisitInPlayStore">App i butikken</string>
+    <string name="oss_licenses_header">Denne appen bruker for øyeblikket følgende programvare med åpen kildekode:</string>
+    <string name="error_on_open_privacy_policy_link">Feil. Sjekk appbutikken for personvernregler.</string>
+    <string name="disclaimer">Ansvarsfraskrivelse</string>
+    <string name="privacy_policy">Personvernregler</string>
+    <string name="app_in_the_store">App i butikken</string>
     <string name="errorOpeningExternalLink">Feil ved åpning av ekstern lenke</string>
-    <string name="szWebsite">Nettsted</string>
+    <string name="website">Nettsted</string>
     <string name="more_licenses">flere lisenser</string>
-    <string name="szSave">å redde</string>
+    <string name="save">å redde</string>
     <string name="tutorial">Opplæringen</string>
     <string name="error_connect_server">Feil under tilkobling til serveren</string>
     <string name="loading">Laster</string>
     <string name="start_ad">Start annonse</string>
-
-    <string name="szSettings">Innstillinger</string>
-    <string name="szNotifications">Varsler</string>
+    <string name="settings">Innstillinger</string>
+    <string name="notifications">Varsler</string>
     <string name="notif_setting">Varslingsinnstillinger</string>
     <string name="set_notif_settings">Still inn synlighet, lyd og vibrasjon</string>
-    <string name="szStatistics">Statistikk</string>
-    <string name="szHint">hint</string>
-    <string name="szHistory">Historie</string>
-    <string name="szWelcome">Velkommen!</string>
-    <string name="szGood">God</string>
+    <string name="statistics">Statistikk</string>
+    <string name="hint">hint</string>
+    <string name="history">Historie</string>
+    <string name="welcome">Velkommen!</string>
+    <string name="good">God</string>
     <string name="app_theme">Tema</string>
     <string name="app_theme_light">Lys</string>
     <string name="app_theme_dark">Mørk</string>
     <string name="app_theme_system">System standard</string>
-
-    <string name="szYes">ja</string>
-    <string name="szNo">Nei</string>
-    <string name="szNoCancel">Nei, avbryt</string>
-    <string name="szOff">av</string>
-    <string name="szOn">på</string>
-    <string name="szShowMe">Vis meg</string>
-
-    <string name="szClose">Lukk</string>
-    <string name="szSaved">Lagret</string>
-    <string name="szEdit">Redigere</string>
+    <string name="yes">ja</string>
+    <string name="no">Nei</string>
+    <string name="no_do_cancel">Nei, avbryt</string>
+    <string name="off">av</string>
+    <string name="on">på</string>
+    <string name="show_me">Vis meg</string>
+    <string name="close">Lukk</string>
+    <string name="saved">Lagret</string>
+    <string name="edit">Redigere</string>
     <string name="delete">Slett</string>
     <string name="reset">nullstille</string>
     <string name="sort">sortere</string>
     <string name="sort_asc">stigende</string>
     <string name="sort_desc">synkende</string>
     <string name="added">la til</string>
-
-    <string name="szToday">i dag</string>
-    <string name="szLater">seinere</string>
-    <string name="btNext">neste</string>
+    <string name="today">i dag</string>
+    <string name="later">seinere</string>
+    <string name="next">neste</string>
     <string name="Monday">Mandag</string>
     <string name="Tuesday">Tirsdag</string>
     <string name="Wednesday">Onsdag</string>
@@ -98,12 +90,26 @@
     <string name="Friday">Fredag</string>
     <string name="Saturday">Lørdag</string>
     <string name="Sunday">Søndag</string>
-
     <string name="in_app_purchases">Kjøp i appen</string>
     <string name="your_purchases">Dine kjøp</string>
     <string name="buy">Kjøpe</string>
     <string name="notAvailable">Ikke tilgjengelig på systemet ditt</string>
     <string name="pro_version">Pro-versjon</string>
     <string name="no_email_app_found">Ingen e-postapp funnet</string>
-
+    <string name="update">Oppdater</string>
+    <string name="collapse_view">skjul visningen</string>
+    <string name="abbreviation_monday">man</string>
+    <string name="abbreviation_tuesday">tir</string>
+    <string name="abbreviation_wednesday">ons</string>
+    <string name="abbreviation_thursday">tor</string>
+    <string name="abbreviation_friday">fre</string>
+    <string name="abbreviation_saturday">lør</string>
+    <string name="abbreviation_sunday">søn</string>
+    <string name="more_bss_apps">Byte Sculptor Apps</string>
+    <string name="duplicate">Dupliser</string>
+    <string name="roadmap">Veikart</string>
+    <string name="ad_free">Annonsefri</string>
+    <string name="description_not_found">Beskrivelse ikke funnet</string>
+    <string name="error_unable_to_make_purchase">Kan ikke kjøpe.</string>
+    <string name="available_purchases">Tilgjengelige kjøp</string>
 </resources>

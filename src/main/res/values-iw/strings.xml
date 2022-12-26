@@ -17,78 +17,70 @@
   -->
 
 <resources>
-    <string name="szOk">בסדר</string>
-    <string name="szCancel">לְבַטֵל</string>
-    <string name="szSave">להציל</string>
+    <string name="okay">בסדר</string>
+    <string name="cancel">לְבַטֵל</string>
+    <string name="save">להציל</string>
     <string name="share_app">שתף את האפליקציה הזו</string>
-
-    <string name="szRateThisApp">דרג את האפליקציה הזו</string>
+    <string name="rate_this_app">דרג את האפליקציה הזו</string>
     <string name="szLikeThisAppTitle">נהנה מאפליקציה זו?</string>
     <string name="szLikeThisAppNo">לא כל כך</string>
     <string name="szLikeThisAppMessage">איך החוויה שלך עד כה? האם אתה אוהב את האפליקציה הזו?</string>
     <string name="szAskFeedbackMessage">אנו מצטערים מאוד! האם תרצה לשלוח משוב כדי שנוכל לשפר את האפליקציה?</string>
     <string name="szRatingMessage">האם תוכל בבקשה להקדיש רגע לדרג את האפליקציה הזו? תודה על התמיכה שלך!</string>
-    <string name="szRateNow">דרג עכשיו</string>
-    <string name="szRemindMe">הזכר לי</string>
-    <string name="szNoThanks">לא תודה</string>
-
-    <string name="szHelp">עֶזרָה</string>
-    <string name="szIntroduction">מבוא</string>
-    <string name="szAbout">על אודות</string>
+    <string name="rate_now">דרג עכשיו</string>
+    <string name="remind_me">הזכר לי</string>
+    <string name="no_thanks">לא תודה</string>
+    <string name="help">עֶזרָה</string>
+    <string name="introduction">מבוא</string>
+    <string name="about">על אודות</string>
     <string name="help_and_about"> עֶזרָה &amp; על אודות </string>
-    <string name="szFeedback">צור קשר (אימייל)</string>
-    <string name="szAppVersion">גרסת האפליקציה</string>
-    <string name="szContact">איש קשר</string>
-    <string name="szFaq">שאלות נפוצות</string>
-    <string name="szContactIntro">משתמשים רבים מנסים ליצור איתי קשר באמצעות מערכת הדירוג של האפליקציה בחנות Google Play. לרוע המזל, שטח התשובות של המפתח מוגבל על ידי Google. לקבלת תמיכה טובה יותר, אנא כתוב אל:</string>
+    <string name="contact_us_by_email">צור קשר (אימייל)</string>
+    <string name="app_version">גרסת האפליקציה</string>
+    <string name="contact">איש קשר</string>
+    <string name="faq">שאלות נפוצות</string>
+    <string name="contact_us_intro_1">משתמשים רבים מנסים ליצור איתי קשר באמצעות מערכת הדירוג של האפליקציה בחנות Google Play. לרוע המזל, שטח התשובות של המפתח מוגבל על ידי Google. לקבלת תמיכה טובה יותר, אנא כתוב אל:</string>
     <string name="open_source_licenses">רישיונות קוד פתוח</string>
-
-    <string name="szLicensesHeader">אפליקציה זו משתמשת כיום בתוכנת הקוד הפתוח הבאה:</string>
-
-    <string name="errorOnOpenPrivacyPolicyLink">שְׁגִיאָה. בדוק בחנות האפליקציות את מדיניות הפרטיות.</string>
-    <string name="szDisclaimer">כתב ויתור</string>
-    <string name="szPrivacyPolicy">מדיניות פרטיות</string>
-    <string name="szVisitInPlayStore">אפליקציה בחנות</string>
+    <string name="oss_licenses_header">אפליקציה זו משתמשת כיום בתוכנת הקוד הפתוח הבאה:</string>
+    <string name="error_on_open_privacy_policy_link">שְׁגִיאָה. בדוק בחנות האפליקציות את מדיניות הפרטיות.</string>
+    <string name="disclaimer">כתב ויתור</string>
+    <string name="privacy_policy">מדיניות פרטיות</string>
+    <string name="app_in_the_store">אפליקציה בחנות</string>
     <string name="errorOpeningExternalLink">שגיאה בפתיחת הקישור החיצוני</string>
-    <string name="szWebsite">אתר אינטרנט</string>
+    <string name="website">אתר אינטרנט</string>
     <string name="more_licenses">רישיונות נוספים</string>
     <string name="tutorial">הדרכה</string>
     <string name="start_ad">התחל מודעה</string>
-
-    <string name="szSettings">הגדרות</string>
-    <string name="szNotifications">התראות</string>
+    <string name="settings">הגדרות</string>
+    <string name="notifications">התראות</string>
     <string name="notif_setting">הגדרות התראות</string>
     <string name="set_notif_settings">הגדר נראות, צליל ורטט</string>
-    <string name="szStatistics">סטָטִיסטִיקָה</string>
-    <string name="szHint">רֶמֶז</string>
-    <string name="szHistory">הִיסטוֹרִיָה</string>
-    <string name="szWelcome">ברוך הבא!</string>
-    <string name="szGood">טוֹב</string>
+    <string name="statistics">סטָטִיסטִיקָה</string>
+    <string name="hint">רֶמֶז</string>
+    <string name="history">הִיסטוֹרִיָה</string>
+    <string name="welcome">ברוך הבא!</string>
+    <string name="good">טוֹב</string>
     <string name="app_theme">נושא</string>
     <string name="app_theme_light">אוֹר</string>
     <string name="app_theme_dark">אפל</string>
     <string name="app_theme_system">ברירת מחדל של המערכת</string>
-
-    <string name="szYes">כן</string>
-    <string name="szNo">לא</string>
-    <string name="szNoCancel">לא, בטל</string>
-    <string name="szOff">כבוי</string>
-    <string name="szOn">עַל</string>
-    <string name="szShowMe">תראה לי</string>
-
-    <string name="szClose">סגור</string>
-    <string name="szSaved">שמור</string>
-    <string name="szEdit">לַעֲרוֹך</string>
+    <string name="yes">כן</string>
+    <string name="no">לא</string>
+    <string name="no_do_cancel">לא, בטל</string>
+    <string name="off">כבוי</string>
+    <string name="on">עַל</string>
+    <string name="show_me">תראה לי</string>
+    <string name="close">סגור</string>
+    <string name="saved">שמור</string>
+    <string name="edit">לַעֲרוֹך</string>
     <string name="delete">לִמְחוֹק</string>
     <string name="reset">אִתחוּל</string>
     <string name="sort">סוג</string>
     <string name="sort_asc">עולה</string>
     <string name="sort_desc">יורד</string>
     <string name="added">הוסיף</string>
-
-    <string name="szToday">היום</string>
-    <string name="szLater">יותר מאוחר</string>
-    <string name="btNext">הַבָּא</string>
+    <string name="today">היום</string>
+    <string name="later">יותר מאוחר</string>
+    <string name="next">הַבָּא</string>
     <string name="Monday">יוֹם שֵׁנִי</string>
     <string name="Tuesday">יוֹם שְׁלִישִׁי</string>
     <string name="Wednesday">יום רביעי</string>
@@ -96,7 +88,6 @@
     <string name="Friday">יוֹם שִׁישִׁי</string>
     <string name="Saturday">יום שבת</string>
     <string name="Sunday">יוֹם רִאשׁוֹן</string>
-
     <string name="in_app_purchases">רכישות בתוך האפליקציה</string>
     <string name="your_purchases">הרכישות שלך</string>
     <string name="buy">לִקְנוֹת</string>
@@ -105,5 +96,13 @@
     <string name="notAvailable">לא זמין במערכת שלך</string>
     <string name="pro_version">גרסת פרו</string>
     <string name="no_email_app_found">לא נמצאה אפליקציית דואר אלקטרוני</string>
-
+    <string name="update">עדכון</string>
+    <string name="collapse_view">כווץ תצוגה</string>
+    <string name="more_bss_apps">Byte Sculptor Apps</string>
+    <string name="duplicate">שכפל</string>
+    <string name="roadmap">מפת דרכים</string>
+    <string name="ad_free">ללא מודעות</string>
+    <string name="description_not_found">התיאור לא נמצא</string>
+    <string name="error_unable_to_make_purchase">לא ניתן לבצע רכישה.</string>
+    <string name="available_purchases">רכישות זמינות</string>
 </resources>
