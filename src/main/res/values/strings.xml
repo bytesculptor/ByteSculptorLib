@@ -55,6 +55,7 @@
     <string name="saved">Saved</string>
     <string name="edit">Edit</string>
     <string name="delete">Delete</string>
+    <string name="delete_all">Delete all</string>
     <string name="share_app">Share this app</string>
     <string name="reset">reset</string>
     <string name="sort">sorting</string>

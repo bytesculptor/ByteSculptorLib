@@ -118,4 +118,5 @@
     <string name="pref_remove_ads_72h">Odstraňte reklamy na 72 hodin</string>
     <string name="no_ad_in_area">Momentálně nejsou ve vaší oblasti dostupné žádné reklamy</string>
     <string name="rewarded_description">Zde můžete sledovat vsunutou reklamu s nabídkou odměny, abyste z aplikace odstranili všechny reklamy po dobu 72 hodin. Tyto reklamy jsou o něco delší než běžné reklamy. Chcete-li získat odměnu, musíte reklamu sledovat až do konce.</string>
+    <string name="delete_all">Smazat všechny</string>
 </resources>

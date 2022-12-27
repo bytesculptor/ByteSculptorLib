@@ -121,4 +121,5 @@
     <string name="pref_remove_ads_72h">Eliminar anuncios durante 72 horas</string>
     <string name="rewarded_description">Puede ver aquí un anuncio recompensado para eliminar todos los anuncios de la aplicación durante 72 horas. Estos anuncios son un poco más largos que los anuncios normales.\nTienes que mirar el anuncio hasta el final para recibir la recompensa.</string>
     <string name="no_ad_in_area">Actualmente no hay anuncios disponibles en su área</string>
+    <string name="delete_all">Eliminar todos</string>
 </resources>

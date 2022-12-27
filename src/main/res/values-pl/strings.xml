@@ -118,4 +118,5 @@
     <string name="pref_remove_ads_72h">Usuń reklamy na 72 godziny</string>
     <string name="no_ad_in_area">Obecnie w Twojej okolicy nie są dostępne żadne reklamy</string>
     <string name="rewarded_description">Tutaj możesz obejrzeć reklamę pełnoekranową z nagrodą, aby usunąć wszystkie reklamy z aplikacji na 72 godziny. Reklamy te są nieco dłuższe niż zwykłe reklamy. Musisz obejrzeć reklamę do końca, aby otrzymać nagrodę.</string>
+    <string name="delete_all">Usuń wszystko</string>
 </resources>

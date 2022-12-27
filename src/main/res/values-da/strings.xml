@@ -118,4 +118,5 @@
     <string name="pref_remove_ads_72h">Fjern annoncer i 72 timer</string>
     <string name="no_ad_in_area">Der er i øjeblikket ingen tilgængelige annoncer i dit område</string>
     <string name="rewarded_description">Du kan her se en belønnet mellemliggende annonce for at fjerne alle annoncer fra appen i 72 timer. Disse annoncer er lidt længere end de normale annoncer. Du skal se annoncen indtil slutningen for at modtage belønningen.</string>
+    <string name="delete_all">Slet alt</string>
 </resources>

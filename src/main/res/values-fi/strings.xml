@@ -118,4 +118,5 @@
     <string name="no_ad_in_area">Tällä hetkellä alueellasi ei ole saatavilla mainoksia</string>
     <string name="pref_remove_ads_72h">Poista mainoksia 72 tunniksi</string>
     <string name="rewarded_description">Voit katsella täällä palkittua välimainosta ja poistaa kaikki mainokset sovelluksesta 72 tunniksi. Nämä mainokset ovat hieman pidempiä kuin tavalliset mainokset. Palkinnon saamiseksi sinun on katsottava mainosta loppuun asti.</string>
+    <string name="delete_all">Poista kaikki</string>
 </resources>

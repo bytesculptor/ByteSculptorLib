@@ -121,4 +121,5 @@
     <string name="less_one_hour_left_rewarded">Sie haben weniger als 1 Stunde werbefreie Zeit</string>
     <string name="pref_remove_ads_72h">Werbung 72 Stunden entfernen</string>
     <string name="rewarded_description">Sie können sich hier eine Werbe-Anzeige mit Prämie ansehen, um 72 Stunden lang alle Werbung aus der App zu entfernen. Diese Werbung ist etwas länger als die normale Werbung.\nSie müssen die Werbung bis zum Ende ansehen, um die Prämie zu erhalten.</string>
+    <string name="delete_all">Alle Löschen</string>
 </resources>

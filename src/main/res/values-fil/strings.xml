@@ -118,4 +118,5 @@
     <string name="pref_remove_ads_72h">Alisin ang mga ad sa loob ng 72 oras</string>
     <string name="rewarded_description">Maaari mong panoorin dito ang isang gantimpalang ad upang alisin ang lahat ng mga ad mula sa app sa loob ng 72 oras. Ang mga ad na ito ay medyo mas mahaba kaysa sa normal na mga ad. Kailangan mong panoorin ang ad hanggang sa katapusan upang makatanggap ng gantimpala.</string>
     <string name="no_ad_in_area">Kasalukuyang walang available na ad sa iyong lugar</string>
+    <string name="delete_all">Tanggalin ang lahat</string>
 </resources>

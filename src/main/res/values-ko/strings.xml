@@ -118,4 +118,5 @@
     <string name="pref_remove_ads_72h">72시간 동안 광고 제거</string>
     <string name="no_ad_in_area">현재 귀하의 지역에서 사용할 수 있는 광고가 없습니다</string>
     <string name="rewarded_description">여기에서 보상형 광고를 시청하여 72시간 동안 앱에서 모든 광고를 제거할 수 있습니다. 이 광고는 일반 광고보다 약간 더 깁니다. 보상을 받으려면 광고를 끝까지 시청해야 합니다.</string>
+    <string name="delete_all">모두 삭제</string>
 </resources>

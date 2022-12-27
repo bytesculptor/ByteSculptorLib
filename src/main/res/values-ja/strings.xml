@@ -119,4 +119,5 @@
     <string name="less_one_hour_left_rewarded">広告なしのエクスペリエンスが残り1時間未満です</string>
     <string name="pref_remove_ads_72h">72時間広告を削除する</string>
     <string name="rewarded_description">ここで報酬付きの広告を見て、72時間アプリからすべての広告を削除できます。 これらの広告は通常の広告より少し長いです。 特典を受け取るには、最後まで広告を見る必要があります。</string>
+    <string name="delete_all">すべて削除</string>
 </resources>

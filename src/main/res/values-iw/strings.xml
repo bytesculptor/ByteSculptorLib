@@ -111,4 +111,5 @@
     <string name="no_ad_in_area">כרגע אין מודעות זמינות באזור שלך</string>
     <string name="less_one_hour_left_rewarded">נותרה לך פחות משעה</string>
     <string name="pref_remove_ads_72h">הסר מודעות למשך 72 שעות</string>
+    <string name="delete_all">מחק הכל</string>
 </resources>

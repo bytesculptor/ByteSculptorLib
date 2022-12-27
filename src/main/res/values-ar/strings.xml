@@ -111,4 +111,5 @@
     <string name="pref_remove_ads_72h"> إزالة الإعلانات لمدة 72 ساعة </string>
     <string name="rewarded_description">يمكنك هنا مشاهدة إعلان بيني بمكافأة لإزالة جميع الإعلانات من التطبيق لمدة 72 ساعة. هذه الإعلانات أطول قليلاً من الإعلانات العادية. يجب عليك مشاهدة الإعلان حتى النهاية لتلقي المكافأة.</string>
     <string name="no_ad_in_area">حاليا لا توجد إعلانات متاحة في منطقتك</string>
+    <string name="delete_all">حذف الكل</string>
 </resources>
