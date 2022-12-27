@@ -105,4 +105,5 @@
     <string name="description_not_found">התיאור לא נמצא</string>
     <string name="error_unable_to_make_purchase">לא ניתן לבצע רכישה.</string>
     <string name="available_purchases">רכישות זמינות</string>
+    <string name="delete_all">מחק הכל</string>
 </resources>

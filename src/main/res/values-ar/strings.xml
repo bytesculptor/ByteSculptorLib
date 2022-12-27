@@ -105,4 +105,5 @@
     <string name="description_not_found"> الوصف غير موجود </string>
     <string name="error_unable_to_make_purchase"> تعذر إجراء الشراء. </string>
     <string name="available_purchases"> المشتريات المتاحة </string>
+    <string name="delete_all">حذف الكل</string>
 </resources>

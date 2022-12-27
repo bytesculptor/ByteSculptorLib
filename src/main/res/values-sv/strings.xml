@@ -112,4 +112,5 @@
     <string name="description_not_found">Beskrivning hittades inte</string>
     <string name="error_unable_to_make_purchase">Det gick inte att köpa.</string>
     <string name="available_purchases">Tillgängliga köp</string>
+    <string name="delete_all">Radera allt</string>
 </resources>

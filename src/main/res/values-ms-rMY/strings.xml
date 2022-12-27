@@ -112,4 +112,5 @@
     <string name="description_not_found">Penerangan tidak ditemui</string>
     <string name="error_unable_to_make_purchase">Tidak dapat membuat pembelian.</string>
     <string name="available_purchases">Pembelian yang tersedia</string>
+    <string name="delete_all">Memadam semua</string>
 </resources>

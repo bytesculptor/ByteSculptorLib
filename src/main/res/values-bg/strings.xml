@@ -119,4 +119,5 @@
     <string name="description_not_found">Описанието не е намерено</string>
     <string name="error_unable_to_make_purchase">Не може да се направи покупка.</string>
     <string name="available_purchases">Налични покупки</string>
+    <string name="delete_all">изтриване на всички</string>
 </resources>

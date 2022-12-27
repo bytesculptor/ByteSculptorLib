@@ -112,4 +112,5 @@
     <string name="description_not_found">Beskrivelse ikke funnet</string>
     <string name="error_unable_to_make_purchase">Kan ikke kjøpe.</string>
     <string name="available_purchases">Tilgjengelige kjøp</string>
+    <string name="delete_all">Slette alle</string>
 </resources>

@@ -113,4 +113,5 @@
     <string name="description_not_found">Описание не найдено</string>
     <string name="error_unable_to_make_purchase">Не удалось совершить покупку.</string>
     <string name="available_purchases">Доступные покупки</string>
+    <string name="delete_all">удалить все</string>
 </resources>

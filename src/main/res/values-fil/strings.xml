@@ -112,4 +112,5 @@
     <string name="description_not_found">Hindi nakita ang paglalarawan</string>
     <string name="error_unable_to_make_purchase">Hindi makabili.</string>
     <string name="available_purchases">Mga available na pagbili</string>
+    <string name="delete_all">Tanggalin ang lahat</string>
 </resources>

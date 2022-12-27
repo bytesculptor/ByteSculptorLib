@@ -115,4 +115,5 @@
     <string name="description_not_found">Beschreibung nicht gefunden</string>
     <string name="error_unable_to_make_purchase">Kauf kann nicht getätigt werden</string>
     <string name="available_purchases">Verfügbare Käufe</string>
+    <string name="delete_all">Alle Löschen</string>
 </resources>

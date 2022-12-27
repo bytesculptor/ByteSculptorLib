@@ -112,4 +112,5 @@
     <string name="description_not_found">Beskrivelsen blev ikke fundet</string>
     <string name="error_unable_to_make_purchase">Kunne ikke foretage køb.</string>
     <string name="available_purchases">Tilgængelige køb</string>
+    <string name="delete_all">Slet alt</string>
 </resources>

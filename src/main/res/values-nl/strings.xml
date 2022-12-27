@@ -112,4 +112,5 @@
     <string name="description_not_found">Beschrijving niet gevonden</string>
     <string name="error_unable_to_make_purchase">Kan geen aankoop doen.</string>
     <string name="available_purchases">Beschikbare aankopen</string>
+    <string name="delete_all">Verwijder alles</string>
 </resources>
