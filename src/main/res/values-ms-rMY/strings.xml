@@ -112,4 +112,10 @@
     <string name="description_not_found">Penerangan tidak ditemui</string>
     <string name="error_unable_to_make_purchase">Tidak dapat membuat pembelian.</string>
     <string name="available_purchases">Pembelian yang tersedia</string>
+    <string name="left_rewarded_hours">Anda mempunyai %1$s jam lagi dari pengalaman bebas iklan</string>
+    <string name="left_rewarded_days">Anda mempunyai %1$s hari-hari lagi dari pengalaman bebas iklan</string>
+    <string name="less_one_hour_left_rewarded">Anda mempunyai kurang dari 1 jam pengalaman bebas iklan</string>
+    <string name="no_ad_in_area">Pada masa ini tiada iklan tersedia di kawasan anda</string>
+    <string name="pref_remove_ads_72h">Keluarkan iklan selama 72 jam</string>
+    <string name="rewarded_description">Anda boleh menonton di sini iklan ganjaran untuk membuang semua iklan dari aplikasi selama 72 jam. Iklan ini sedikit lebih panjang daripada iklan biasa.\nAnda mesti menonton iklan tersebut hingga akhir untuk menerima hadiah.</string>
 </resources>

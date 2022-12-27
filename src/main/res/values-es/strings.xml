@@ -115,4 +115,10 @@
     <string name="description_not_found">Descripción no encontrada</string>
     <string name="error_unable_to_make_purchase">No se pudo realizar la compra.</string>
     <string name="available_purchases">Compras disponibles</string>
+    <string name="left_rewarded_hours">Te quedan %1$s horas de experiencia sin anuncios</string>
+    <string name="left_rewarded_days">Te quedan %1$s días de experiencia sin anuncios</string>
+    <string name="less_one_hour_left_rewarded">Te queda menos de 1 hora sin anuncios</string>
+    <string name="pref_remove_ads_72h">Eliminar anuncios durante 72 horas</string>
+    <string name="rewarded_description">Puede ver aquí un anuncio recompensado para eliminar todos los anuncios de la aplicación durante 72 horas. Estos anuncios son un poco más largos que los anuncios normales.\nTienes que mirar el anuncio hasta el final para recibir la recompensa.</string>
+    <string name="no_ad_in_area">Actualmente no hay anuncios disponibles en su área</string>
 </resources>

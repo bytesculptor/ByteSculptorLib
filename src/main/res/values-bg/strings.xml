@@ -119,4 +119,10 @@
     <string name="description_not_found">Описанието не е намерено</string>
     <string name="error_unable_to_make_purchase">Не може да се направи покупка.</string>
     <string name="available_purchases">Налични покупки</string>
+    <string name="left_rewarded_hours">Остават ви %1$s часа без реклами</string>
+    <string name="left_rewarded_days">Остават ви %1$s дни без реклами</string>
+    <string name="less_one_hour_left_rewarded">Остава ви по-малко от 1 час без реклами</string>
+    <string name="pref_remove_ads_72h">Премахване на реклами 72 часа</string>
+    <string name="rewarded_description">Тук можете да гледате рекламна заставка с награда, за да премахнете всички реклами от приложението за 72 часа. Тези реклами са малко по-дълги от обикновените реклами. Трябва да гледате рекламата до края, за да получите наградата.</string>
+    <string name="no_ad_in_area">В момента няма налични реклами във вашия район</string>
 </resources>

@@ -115,4 +115,10 @@
     <string name="description_not_found">Descrizione non trovata</string>
     <string name="error_unable_to_make_purchase">Impossibile effettuare l\'acquisto.</string>
     <string name="available_purchases">Acquisti disponibili</string>
+    <string name="left_rewarded_hours">Vi restano %1$s ore di esperienza senza pubblicità</string>
+    <string name="left_rewarded_days">Vi restano %1$s giorni di esperienza senza pubblicità</string>
+    <string name="less_one_hour_left_rewarded">Vi rimane meno di 1 ora di esperienza senza pubblicità</string>
+    <string name="pref_remove_ads_72h">Rimuova pubblicità per 72 ore</string>
+    <string name="no_ad_in_area">Al momento nessun annuncio disponibile nella tua zona</string>
+    <string name="rewarded_description">Potete guardare qui una pubblicità con premio per rimuovere tutta la pubblicità dall\'app per 72 ore. Questa pubblicità é un po\' più lungho degla pubblicità normale.\nDevete guardare la pubblicità fino alla fine per ricevere il premio.</string>
 </resources>

@@ -113,4 +113,10 @@
     <string name="description_not_found">説明が見つかりません</string>
     <string name="error_unable_to_make_purchase">購入できません。</string>
     <string name="available_purchases">利用可能な購入</string>
+    <string name="left_rewarded_hours">広告なしのエクスペリエンスの残り時間は %1$s です</string>
+    <string name="left_rewarded_days">広告なしのエクスペリエンスが残り %1$s 日あります</string>
+    <string name="no_ad_in_area">現在、お住まいの地域で利用できる広告はありません</string>
+    <string name="less_one_hour_left_rewarded">広告なしのエクスペリエンスが残り1時間未満です</string>
+    <string name="pref_remove_ads_72h">72時間広告を削除する</string>
+    <string name="rewarded_description">ここで報酬付きの広告を見て、72時間アプリからすべての広告を削除できます。 これらの広告は通常の広告より少し長いです。 特典を受け取るには、最後まで広告を見る必要があります。</string>
 </resources>

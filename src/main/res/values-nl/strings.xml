@@ -112,4 +112,10 @@
     <string name="description_not_found">Beschrijving niet gevonden</string>
     <string name="error_unable_to_make_purchase">Kan geen aankoop doen.</string>
     <string name="available_purchases">Beschikbare aankopen</string>
+    <string name="left_rewarded_hours">Je hebt nog %1$s uur advertentievrije ervaring</string>
+    <string name="left_rewarded_days">Je hebt nog %1$s dagen advertentievrije ervaring</string>
+    <string name="less_one_hour_left_rewarded">Je hebt minder dan 1 uur advertentievrije ervaring</string>
+    <string name="pref_remove_ads_72h">Advertenties 72 uur verwijderen</string>
+    <string name="rewarded_description">U kunt hier een beloonde advertentie bekijken om 72 uur lang alle advertenties uit de app te verwijderen. Deze advertenties zijn iets langer dan de normale advertenties.\nJe moet de advertentie tot het einde bekijken om de beloning te ontvangen.</string>
+    <string name="no_ad_in_area">Momenteel geen advertenties beschikbaar in uw regio</string>
 </resources>

@@ -112,4 +112,10 @@
     <string name="description_not_found">Beskrivelsen blev ikke fundet</string>
     <string name="error_unable_to_make_purchase">Kunne ikke foretage køb.</string>
     <string name="available_purchases">Tilgængelige køb</string>
+    <string name="left_rewarded_hours">Du har %1$s timer tilbage af annoncefri oplevelse</string>
+    <string name="left_rewarded_days">Du har %1$s dage tilbage af annoncefri oplevelse</string>
+    <string name="less_one_hour_left_rewarded">Du har mindre end 1 time tilbage af annoncefri oplevelse</string>
+    <string name="pref_remove_ads_72h">Fjern annoncer i 72 timer</string>
+    <string name="no_ad_in_area">Der er i øjeblikket ingen tilgængelige annoncer i dit område</string>
+    <string name="rewarded_description">Du kan her se en belønnet mellemliggende annonce for at fjerne alle annoncer fra appen i 72 timer. Disse annoncer er lidt længere end de normale annoncer. Du skal se annoncen indtil slutningen for at modtage belønningen.</string>
 </resources>

@@ -112,4 +112,10 @@
     <string name="description_not_found">Nie znaleziono opisu</string>
     <string name="error_unable_to_make_purchase">Nie można dokonać zakupu.</string>
     <string name="available_purchases">Dostępne zakupy</string>
+    <string name="left_rewarded_hours">Pozostało %1$s godzin korzystania z reklam bez reklam</string>
+    <string name="left_rewarded_days">Pozostało %1$s dni korzystania z reklam bez reklam</string>
+    <string name="less_one_hour_left_rewarded">Pozostała Ci mniej niż 1 godzina korzystania z reklam bez reklam</string>
+    <string name="pref_remove_ads_72h">Usuń reklamy na 72 godziny</string>
+    <string name="no_ad_in_area">Obecnie w Twojej okolicy nie są dostępne żadne reklamy</string>
+    <string name="rewarded_description">Tutaj możesz obejrzeć reklamę pełnoekranową z nagrodą, aby usunąć wszystkie reklamy z aplikacji na 72 godziny. Reklamy te są nieco dłuższe niż zwykłe reklamy. Musisz obejrzeć reklamę do końca, aby otrzymać nagrodę.</string>
 </resources>

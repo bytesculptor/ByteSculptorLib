@@ -112,4 +112,10 @@
     <string name="description_not_found">Kuvausta ei löydy</string>
     <string name="error_unable_to_make_purchase">Ostoa ei voi tehdä.</string>
     <string name="available_purchases">Saatavilla olevat ostokset</string>
+    <string name="left_rewarded_hours">Sinulla on %1$s tuntia jäljellä mainoksettomasta käyttökokemuksesta</string>
+    <string name="left_rewarded_days">Sinulla on %1$s päivää jäljellä mainoksettomasta käyttökokemuksesta</string>
+    <string name="less_one_hour_left_rewarded">Sinulla on alle tunti jäljellä</string>
+    <string name="no_ad_in_area">Tällä hetkellä alueellasi ei ole saatavilla mainoksia</string>
+    <string name="pref_remove_ads_72h">Poista mainoksia 72 tunniksi</string>
+    <string name="rewarded_description">Voit katsella täällä palkittua välimainosta ja poistaa kaikki mainokset sovelluksesta 72 tunniksi. Nämä mainokset ovat hieman pidempiä kuin tavalliset mainokset. Palkinnon saamiseksi sinun on katsottava mainosta loppuun asti.</string>
 </resources>

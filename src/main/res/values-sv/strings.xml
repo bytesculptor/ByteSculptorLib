@@ -112,4 +112,10 @@
     <string name="description_not_found">Beskrivning hittades inte</string>
     <string name="error_unable_to_make_purchase">Det gick inte att köpa.</string>
     <string name="available_purchases">Tillgängliga köp</string>
+    <string name="left_rewarded_hours">Du har %1$s timmar kvar av annonsfri upplevelse</string>
+    <string name="left_rewarded_days">Du har %1$s dagar kvar av annonsfri upplevelse</string>
+    <string name="no_ad_in_area">För närvarande inga annonser tillgängliga i ditt område</string>
+    <string name="less_one_hour_left_rewarded">Du har mindre än en timme kvar av annonsfri upplevelse</string>
+    <string name="pref_remove_ads_72h">Ta bort annonser i 72 timmar</string>
+    <string name="rewarded_description">Du kan se här en belönad mellansidesannons för att ta bort alla annonser från appen i 72 timmar. Dessa annonser är lite längre än de normala annonserna. Du måste titta på annonsen till slutet för att få belöningen.</string>
 </resources>

@@ -113,4 +113,10 @@
     <string name="description_not_found">Описание не найдено</string>
     <string name="error_unable_to_make_purchase">Не удалось совершить покупку.</string>
     <string name="available_purchases">Доступные покупки</string>
+    <string name="left_rewarded_hours">У вас осталось %1$s часов без рекламы</string>
+    <string name="left_rewarded_days">У вас осталось %1$s дней без рекламы</string>
+    <string name="less_one_hour_left_rewarded">У вас осталось менее 1 часа без рекламы</string>
+    <string name="no_ad_in_area">В настоящее время нет доступных объявлений в вашем регионе</string>
+    <string name="pref_remove_ads_72h">Удалить рекламу на 72 часа</string>
+    <string name="rewarded_description">Здесь вы можете посмотреть промежуточную рекламу с вознаграждением, чтобы удалить всю рекламу из приложения на 72 часа. Эти объявления немного длиннее обычных. Вы должны досмотреть рекламу до конца, чтобы получить награду.</string>
 </resources>
