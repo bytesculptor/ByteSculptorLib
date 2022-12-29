@@ -34,6 +34,7 @@
     <string name="introduction">מבוא</string>
     <string name="about">על אודות</string>
     <string name="help_and_about"> עֶזרָה &amp; על אודות </string>
+    <string name="about_summary">גרסה, כתב ויתור, פרטיות ועוד</string>
     <string name="contact_us_by_email">צור קשר (אימייל)</string>
     <string name="app_version">גרסת האפליקציה</string>
     <string name="contact">איש קשר</string>

@@ -65,6 +65,7 @@
     <string name="introduction">Увод</string>
     <string name="about">За нас</string>
     <string name="help_and_about">Помощ &amp; За нас</string>
+    <string name="about_summary">Версия, отказ от отговорност, поверителност и др</string>
     <string name="contact_us_by_email">Свържете се с нас (Електронна поща)</string>
     <string name="app_version">Версия на приложението</string>
     <string name="more_bss_apps">Byte Sculptor Apps</string>

@@ -24,6 +24,7 @@
     <string name="contact_us_intro_1">多くのユーザーが、GooglePlay ストアのアプリの評価システムを介して私に連絡しようとします。残念ながら、開発者の回答スペースは Google によって制限されています。より良いサポートのために、以下に書いてください：</string>
     <string name="about">当社について</string>
     <string name="help_and_about">ヘルプ &amp; 当社について</string>
+    <string name="about_summary">バージョン、免責事項、プライバシーなど</string>
     <string name="contact_us_by_email">お問い合わせ（メール）</string>
     <string name="app_in_the_store">ストア内のアプリ</string>
     <string name="share_app">このアプリを共有する</string>

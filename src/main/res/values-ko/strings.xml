@@ -18,6 +18,7 @@
 
 <resources>
     <string name="settings">설정</string>
+    <string name="about_summary">버전, 고지 사항, 개인 정보 보호 등</string>
     <string name="contact_us_by_email">문의하기(이메일)</string>
     <string name="more_bss_apps">Byte Sculptor 앱</string>
     <string name="oss_licenses_header">이 앱은 현재 다음 오픈 소스 소프트웨어를 사용합니다.</string>

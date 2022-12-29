@@ -33,6 +33,7 @@
     <string name="introduction">Johdanto</string>
     <string name="about">Noin</string>
     <string name="help_and_about">Auta &amp; Noin</string>
+    <string name="about_summary">Versio, vastuuvapauslauseke, tietosuoja ja paljon muuta</string>
     <string name="contact_us_by_email">Ota yhteyttä (sähköposti)</string>
     <string name="app_version">Sovelluksen versio</string>
     <string name="contact">Ottaa yhteyttä</string>

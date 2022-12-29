@@ -18,6 +18,7 @@
 
 <resources>
     <string name="settings">Pengaturan</string>
+    <string name="about_summary">Versi, Penafian, Privasi, dan lainnya</string>
     <string name="contact_us_by_email">Hubungi kami (Email)</string>
     <string name="abbreviation_monday">Sen</string>
     <string name="abbreviation_tuesday">Sel</string>
