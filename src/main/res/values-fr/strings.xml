@@ -44,15 +44,9 @@
     <string name="szLikeThisAppMessage">Quelle est votre expérience jusqu\'à présent? Aimez-vous cette application?</string>
     <string name="szAskFeedbackMessage">Nous sommes vraiment désolés! Souhaitez-vous envoyer des commentaires afin que nous améliorions l\'application?</string>
     <string name="szLikeThisAppNo">Pas tellement</string>
-    <string name="disclaimer_text_2">Byte Sculptor Software détient les droits sur cette application et des modifications peuvent être apportées à tout moment.
-        Cette application a été testée manuellement et automatiquement sur des appareils réels et émulés pour les bugs, les erreurs et la stabilité.
-        Cependant, cela ne signifie pas que le logiciel est totalement exempt d\'erreurs.
-        Le système Android est utilisé sur de nombreux appareils différents et est souvent fortement modifié par le fabricant
-        de l\'appareil. Il est possible que cette application ne fonctionne pas comme prévu sur ces appareils.
-        \n\nEn utilisant ce logiciel, vous acceptez que Byte Sculptor Software ne soit pas responsable des dommages
-        causés à votre appareil. Vous utilisez cette application à vos risques et périls.
-        \nSi vous rencontrez des problèmes, veuillez nous en informer en envoyant un e-mail avec des détails sur
-        le problème, le modèle de votre appareil et la version d\'Android. Je vous remercie!</string>
+    <string name="disclaimer_text_2">Byte Sculptor Software détient les droits sur cette application et des modifications peuvent être apportées à tout moment. Cette application a été testée manuellement et automatiquement sur des appareils réels et émulés pour les bugs, les erreurs et la stabilité. Cependant, cela ne signifie pas que le logiciel est totalement exempt d\'erreurs. Le système Android est utilisé sur de nombreux appareils différents et est souvent fortement modifié par le fabricant de l\'appareil. Il est possible que cette application ne fonctionne pas comme prévu sur ces appareils.
+        \n\nEn utilisant ce logiciel, vous acceptez que Byte Sculptor Software ne soit pas responsable des dommages causés à votre appareil. Vous utilisez cette application à vos risques et périls.
+        \nSi vous rencontrez des problèmes, veuillez nous en informer en envoyant un e-mail avec des détails sur le problème, le modèle de votre appareil et la version d\'Android. Je vous remercie!</string>
     <string name="error_on_open_privacy_policy_link">Erreur. Consultez l\'App Store pour la politique de confidentialité.</string>
     <string name="later">plus tard</string>
     <string name="share_app">Partagez cette app</string>
@@ -121,4 +115,12 @@
     <string name="description_not_found">Description introuvable</string>
     <string name="error_unable_to_make_purchase">Impossible d\'effectuer l\'achat.</string>
     <string name="available_purchases">Achats disponibles</string>
+    <string name="left_rewarded_hours">Il vous reste %1$s heures d\'expérience sans publicité</string>
+    <string name="left_rewarded_days">Il vous reste %1$s jours d\'expérience sans publicité</string>
+    <string name="less_one_hour_left_rewarded">Il vous reste moins d\'une heure d\'expérience sans publicité</string>
+    <string name="pref_remove_ads_72h">Supprimer la publicité pendant 72 heures</string>
+    <string name="no_ad_in_area">Actuellement aucune annonce disponible dans votre région</string>
+    <string name="rewarded_description">Vous pouvez regarder ici une publicité récompensée pour supprimer toutes les publicités de l\'application pendant 72 heures. Ces publicités sont un peu plus longues que les publicités normales.\nVous devez regarder la publicités jusqu\'à la fin pour recevoir la récompense.</string>
+    <string name="delete_all">Supprimer tout</string>
+    <string name="about_summary">Version, confidentialité et plus</string>
 </resources>

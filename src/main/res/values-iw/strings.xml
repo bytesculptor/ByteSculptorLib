@@ -34,6 +34,7 @@
     <string name="introduction">מבוא</string>
     <string name="about">על אודות</string>
     <string name="help_and_about"> עֶזרָה &amp; על אודות </string>
+    <string name="about_summary">גרסה, כתב ויתור, פרטיות ועוד</string>
     <string name="contact_us_by_email">צור קשר (אימייל)</string>
     <string name="app_version">גרסת האפליקציה</string>
     <string name="contact">איש קשר</string>
@@ -105,4 +106,11 @@
     <string name="description_not_found">התיאור לא נמצא</string>
     <string name="error_unable_to_make_purchase">לא ניתן לבצע רכישה.</string>
     <string name="available_purchases">רכישות זמינות</string>
+    <string name="rewarded_description">תוכל לצפות כאן במודעה מתוגמלת להסרת כל המודעות מהאפליקציה למשך 72 שעות. המודעות האלה קצת יותר ארוכות מהמודעות הרגילות. \N עליך לצפות במודעה עד הסוף כדי לקבל את הפרס.</string>
+    <string name="left_rewarded_hours">נותרו לך %1 $ s שעות מהחוויה ללא מודעות</string>
+    <string name="left_rewarded_days">נותרו לך %1 $ s ימים מהחוויה ללא מודעות</string>
+    <string name="no_ad_in_area">כרגע אין מודעות זמינות באזור שלך</string>
+    <string name="less_one_hour_left_rewarded">נותרה לך פחות משעה</string>
+    <string name="pref_remove_ads_72h">הסר מודעות למשך 72 שעות</string>
+    <string name="delete_all">מחק הכל</string>
 </resources>

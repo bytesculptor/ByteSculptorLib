@@ -18,6 +18,7 @@
 
 <resources>
     <string name="settings">Pengaturan</string>
+    <string name="about_summary">Versi, Penafian, Privasi, dan lainnya</string>
     <string name="contact_us_by_email">Hubungi kami (Email)</string>
     <string name="abbreviation_monday">Sen</string>
     <string name="abbreviation_tuesday">Sel</string>
@@ -112,4 +113,11 @@
     <string name="description_not_found">Deskripsi tidak ditemukan</string>
     <string name="error_unable_to_make_purchase">Tidak dapat melakukan pembelian.</string>
     <string name="available_purchases">Pembelian yang tersedia</string>
+    <string name="left_rewarded_hours">Anda memiliki sisa %1$s jam pengalaman bebas iklan</string>
+    <string name="left_rewarded_days">Anda memiliki sisa %1$s hari pengalaman bebas iklan</string>
+    <string name="no_ad_in_area">Saat ini tidak ada iklan yang tersedia di wilayah Anda</string>
+    <string name="less_one_hour_left_rewarded">Anda memiliki pengalaman bebas iklan kurang dari 1 jam</string>
+    <string name="pref_remove_ads_72h">Hapus iklan selama 72 jam</string>
+    <string name="rewarded_description">Anda dapat menonton di sini iklan berhadiah untuk menghapus semua iklan dari aplikasi selama 72 jam. Iklan ini sedikit lebih panjang dari iklan biasa.\nAnda harus menonton iklan sampai akhir untuk menerima hadiah.</string>
+    <string name="delete_all">Hapus semua</string>
 </resources>

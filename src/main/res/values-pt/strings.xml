@@ -33,6 +33,7 @@
     <string name="introduction">Introdução</string>
     <string name="about">Sobre</string>
     <string name="help_and_about">Ajuda &amp; Sobre</string>
+    <string name="about_summary">Versão, isenção de responsabilidade, privacidade e muito mais</string>
     <string name="contact_us_by_email">Entre em contato conosco (e-mail)</string>
     <string name="app_version">Versão do aplicativo</string>
     <string name="contact">Contato</string>
@@ -112,4 +113,11 @@
     <string name="description_not_found">Descrição não encontrada</string>
     <string name="error_unable_to_make_purchase">Não foi possível fazer a compra.</string>
     <string name="available_purchases">Compras disponíveis</string>
+    <string name="left_rewarded_hours">Você tem %1$s horas restantes de experiência sem anúncios</string>
+    <string name="left_rewarded_days">Você tem %1$s dias restantes de experiência sem anúncios</string>
+    <string name="less_one_hour_left_rewarded">Você tem menos de 1 hora restante de experiência sem anúncios</string>
+    <string name="pref_remove_ads_72h">Remover anúncios por 72 horas</string>
+    <string name="no_ad_in_area">Atualmente não há anúncios disponíveis em sua área</string>
+    <string name="rewarded_description">Você pode assistir aqui um anúncio premiado para remover todos os anúncios do aplicativo por 72 horas. Esses anúncios são um pouco mais longos do que os anúncios normais.\nVocê tem que assistir o anúncio até o fim para receber a recompensa.</string>
+    <string name="delete_all">Deletar tudo</string>
 </resources>

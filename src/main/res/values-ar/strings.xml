@@ -87,6 +87,7 @@
     <string name="about">عن</string>
     <string name="help_and_about">مساعدة وحول</string>
     <string name="introduction">مقدمة</string>
+    <string name="about_summary">الإصدار وإخلاء المسؤولية والخصوصية والمزيد</string>
     <string name="contact_us_by_email">اتصل بنا (بريد إلكتروني)</string>
     <string name="contact">اتصل</string>
     <string name="faq">التعليمات</string>
@@ -105,4 +106,11 @@
     <string name="description_not_found"> الوصف غير موجود </string>
     <string name="error_unable_to_make_purchase"> تعذر إجراء الشراء. </string>
     <string name="available_purchases"> المشتريات المتاحة </string>
+    <string name="left_rewarded_hours"> لديك٪ %1$s ساعة متبقية من تجربة الإعلانات الخالية من الإعلانات </string>
+    <string name="left_rewarded_days"> بقي لديك %1$s يومًا من التجربة الخالية من الإعلانات </string>
+    <string name="less_one_hour_left_rewarded"> يتبقى لديك أقل من ساعة واحدة </string>
+    <string name="pref_remove_ads_72h"> إزالة الإعلانات لمدة 72 ساعة </string>
+    <string name="rewarded_description">يمكنك هنا مشاهدة إعلان بيني بمكافأة لإزالة جميع الإعلانات من التطبيق لمدة 72 ساعة. هذه الإعلانات أطول قليلاً من الإعلانات العادية. يجب عليك مشاهدة الإعلان حتى النهاية لتلقي المكافأة.</string>
+    <string name="no_ad_in_area">حاليا لا توجد إعلانات متاحة في منطقتك</string>
+    <string name="delete_all">حذف الكل</string>
 </resources>

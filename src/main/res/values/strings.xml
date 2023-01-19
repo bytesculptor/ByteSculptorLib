@@ -55,6 +55,7 @@
     <string name="saved">Saved</string>
     <string name="edit">Edit</string>
     <string name="delete">Delete</string>
+    <string name="delete_all">Delete all</string>
     <string name="share_app">Share this app</string>
     <string name="reset">reset</string>
     <string name="sort">sorting</string>
@@ -102,6 +103,7 @@
     <string name="introduction">Introduction</string>
     <string name="about">About</string>
     <string name="help_and_about">Help &amp; About</string>
+    <string name="about_summary">Version, Disclaimer, Privacy and more</string>
     <string name="contact_us_by_email">Contact us (Email)</string>
     <string name="app_version">App Version</string>
     <string name="more_bss_apps">Byte Sculptor Apps</string>
@@ -162,6 +164,15 @@
     <string name="message_thank_you">Thank you very much!</string>
     <string name="error_unable_to_make_purchase">Unable to make purchase.</string>
     <string name="available_purchases">Available purchases</string>
+
+    <!-- rewarded ad -->
+    <string name="rewarded_description">You can watch here a rewarded ad to remove all ads from the app for 72 hours. These ads are a bit longer than the normal ads.\nYou have to watch the ad until the end to receive the reward.</string>
+    <string name="left_rewarded_hours">You have %1$s hours left of ad free experience</string>
+    <string name="left_rewarded_days">You have %1$s days left of ad free experience</string>
+    <string name="less_one_hour_left_rewarded">You have less than 1 hour left</string>
+    <string name="pref_remove_ads_72h">Remove ads for 72 hours</string>
+    <string name="no_ad_in_area">Currently no ads available in your area</string>
+
     <string name="support_bss_development">This is a free app which does not request any sensitive data or permissions. If you like the app, and would like to support the developer, you can buy him a coffee.</string>
     <string name="items_unlock_adfree">Each coffee unlocks the Ad-Free version. Thank you for your support!</string>
     <string name="upgrade_to_pro">Upgrade to Pro</string>

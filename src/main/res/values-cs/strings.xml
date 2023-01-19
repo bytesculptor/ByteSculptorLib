@@ -33,6 +33,7 @@
     <string name="introduction">Úvod</string>
     <string name="about">Asi</string>
     <string name="help_and_about">Nápověda a informace</string>
+    <string name="about_summary">Verze, Zřeknutí se odpovědnosti, Ochrana osobních údajů a další</string>
     <string name="contact_us_by_email">Kontaktujte nás (e-mail)</string>
     <string name="app_version">Verze aplikace</string>
     <string name="contact">Kontakt</string>
@@ -112,4 +113,11 @@
     <string name="description_not_found">Popis nenalezen</string>
     <string name="error_unable_to_make_purchase">Nelze provést nákup.</string>
     <string name="available_purchases">Dostupné nákupy</string>
+    <string name="left_rewarded_hours">Zbylo vám %1$s hodin bez reklam</string>
+    <string name="left_rewarded_days">Zbylo vám %1$s dnů bez reklam</string>
+    <string name="less_one_hour_left_rewarded">Zbývá vám méně než 1 hodina bez reklam</string>
+    <string name="pref_remove_ads_72h">Odstraňte reklamy na 72 hodin</string>
+    <string name="no_ad_in_area">Momentálně nejsou ve vaší oblasti dostupné žádné reklamy</string>
+    <string name="rewarded_description">Zde můžete sledovat vsunutou reklamu s nabídkou odměny, abyste z aplikace odstranili všechny reklamy po dobu 72 hodin. Tyto reklamy jsou o něco delší než běžné reklamy. Chcete-li získat odměnu, musíte reklamu sledovat až do konce.</string>
+    <string name="delete_all">Smazat všechny</string>
 </resources>

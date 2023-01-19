@@ -33,6 +33,7 @@
     <string name="introduction">Introduksjon</string>
     <string name="about">Om</string>
     <string name="help_and_about">Hjelp &amp; Om</string>
+    <string name="about_summary">Versjon, ansvarsfraskrivelse, personvern og mer</string>
     <string name="contact_us_by_email">Kontakt oss (e-post)</string>
     <string name="app_version">Appversjon</string>
     <string name="contact">Ta kontakt med</string>
@@ -112,4 +113,11 @@
     <string name="description_not_found">Beskrivelse ikke funnet</string>
     <string name="error_unable_to_make_purchase">Kan ikke kjøpe.</string>
     <string name="available_purchases">Tilgjengelige kjøp</string>
+    <string name="left_rewarded_hours">Du har %1$s timer igjen av annonsefri opplevelse</string>
+    <string name="left_rewarded_days">Du har %1$s dager igjen av annonsefri opplevelse</string>
+    <string name="less_one_hour_left_rewarded">Du har mindre enn 1 time igjen av annonsefri opplevelse</string>
+    <string name="no_ad_in_area">Foreløpig ingen annonser tilgjengelig i ditt område</string>
+    <string name="pref_remove_ads_72h">Fjern annonser i 72 timer</string>
+    <string name="rewarded_description">Du kan se her en belønnet annonse for å fjerne alle annonser fra appen i 72 timer. Disse annonsene er litt lengre enn de vanlige annonsene. Du må se annonsen til slutten for å motta belønningen.</string>
+    <string name="delete_all">Slette alle</string>
 </resources>
