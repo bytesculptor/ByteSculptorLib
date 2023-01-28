@@ -106,7 +106,7 @@
     <string name="description_not_found"> الوصف غير موجود </string>
     <string name="error_unable_to_make_purchase"> تعذر إجراء الشراء. </string>
     <string name="available_purchases"> المشتريات المتاحة </string>
-    <string name="left_rewarded_hours"> لديك٪ %1$s ساعة متبقية من تجربة الإعلانات الخالية من الإعلانات </string>
+    <string name="left_rewarded_hours"> لديك %1$s ساعة متبقية من تجربة الإعلانات الخالية من الإعلانات </string>
     <string name="left_rewarded_days"> بقي لديك %1$s يومًا من التجربة الخالية من الإعلانات </string>
     <string name="less_one_hour_left_rewarded"> يتبقى لديك أقل من ساعة واحدة </string>
     <string name="pref_remove_ads_72h"> إزالة الإعلانات لمدة 72 ساعة </string>
