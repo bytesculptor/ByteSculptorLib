@@ -44,7 +44,7 @@
     <string name="szAskFeedbackMessage">우리는 매우 유감 스럽습니다! 앱을 개선 할 수 있도록 피드백을 보내시겠습니까?</string>
     <string name="szRatingMessage">이 앱을 평가 해 주시겠습니까? 귀하의 지원에 감사드립니다!</string>
     <string name="remind_me">나에게 알림</string>
-    <string name="notAvailable">시스템에서 사용할 수 없음</string>
+    <string name="not_available_on_your_system">시스템에서 사용할 수 없음</string>
     <string name="no">아니요</string>
     <string name="yes">예</string>
     <string name="error_on_open_privacy_policy_link">오류. 개인 정보 보호 정책은 앱 스토어를 확인하십시오.</string>

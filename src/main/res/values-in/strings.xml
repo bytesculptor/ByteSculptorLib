@@ -51,7 +51,7 @@
     <string name="szAskFeedbackMessage">Kami sangat menyesal! Apakah Anda ingin mengirim masukan agar kami meningkatkan aplikasi?</string>
     <string name="szRatingMessage">Maukah Anda meluangkan waktu untuk menilai aplikasi ini? Terima kasih atas dukunganmu!</string>
     <string name="remind_me">Mengingatkanku</string>
-    <string name="notAvailable">Tidak tersedia di sistem Anda</string>
+    <string name="not_available_on_your_system">Tidak tersedia di sistem Anda</string>
     <string name="error_on_open_privacy_policy_link">Kesalahan. Periksa app store untuk mengetahui kebijakan privasi.</string>
     <string name="errorOpeningExternalLink">Kesalahan saat membuka tautan eksternal</string>
     <string name="okay">baik</string>

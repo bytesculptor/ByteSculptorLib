@@ -63,7 +63,7 @@
     <string name="disclaimer">Avertissement</string>
     <string name="privacy_policy">Politique de confidentialité</string>
     <string name="app_in_the_store">App dans le magasin</string>
-    <string name="notAvailable">Non disponible sur votre système</string>
+    <string name="not_available_on_your_system">Non disponible sur votre système</string>
     <string name="abbreviation_monday">Lu</string>
     <string name="abbreviation_tuesday">Ma</string>
     <string name="abbreviation_wednesday">Me</string>
@@ -123,4 +123,5 @@
     <string name="rewarded_description">Vous pouvez regarder ici une publicité récompensée pour supprimer toutes les publicités de l\'application pendant 72 heures. Ces publicités sont un peu plus longues que les publicités normales.\nVous devez regarder la publicités jusqu\'à la fin pour recevoir la récompense.</string>
     <string name="delete_all">Supprimer tout</string>
     <string name="about_summary">Version, confidentialité et plus</string>
+    <string name="more">Suite</string>
 </resources>

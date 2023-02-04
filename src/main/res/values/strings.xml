@@ -112,7 +112,8 @@
     <string name="contact_us_intro_1">Many users try to contact me through the app\'s rating system in Google Play Store. Unfortunately, the
         developer\'s answer space is limited by Google. For better support, please write to:</string>
     <string name="open_source_licenses">Open source licenses</string>
-    <string name="notAvailable">Not available on your system</string>
+    <string name="not_available_on_your_system">Not available on your system</string>
+    <string name="more">More</string>
 
     <string name="disclaimer_text_1"></string>
     <string name="disclaimer_text_2">

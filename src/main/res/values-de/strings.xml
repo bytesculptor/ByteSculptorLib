@@ -63,7 +63,7 @@
     <string name="disclaimer">Haftungsausschluss</string>
     <string name="privacy_policy">Datenschutzerklärung</string>
     <string name="app_in_the_store">App im Store</string>
-    <string name="notAvailable">Auf Ihrem System nicht verfügbar</string>
+    <string name="not_available_on_your_system">Auf Ihrem System nicht verfügbar</string>
     <string name="abbreviation_monday">Mo</string>
     <string name="abbreviation_tuesday">Di</string>
     <string name="abbreviation_wednesday">Mi</string>
@@ -124,4 +124,5 @@
     <string name="rewarded_description">Sie können sich hier eine Werbe-Anzeige mit Prämie ansehen, um 72 Stunden lang alle Werbung aus der App zu entfernen. Diese Werbung ist etwas länger als die normale Werbung.\nSie müssen die Werbung bis zum Ende ansehen, um die Prämie zu erhalten.</string>
     <string name="delete_all">Alle Löschen</string>
     <string name="about_summary">Version, Datenschutz und mehr</string>
+    <string name="more">Mehr</string>
 </resources>

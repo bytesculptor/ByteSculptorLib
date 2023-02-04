@@ -60,7 +60,7 @@
     <string name="more_bss_apps">Byte Sculptor Apps</string>
     <string name="no">Não</string>
     <string name="yes">sim</string>
-    <string name="notAvailable">Não disponível em seu sistema</string>
+    <string name="not_available_on_your_system">Não disponível em seu sistema</string>
     <string name="tutorial">Tutorial</string>
     <string name="error_connect_server">Erro ao conectar ao servidor</string>
     <string name="loading">Carregando</string>

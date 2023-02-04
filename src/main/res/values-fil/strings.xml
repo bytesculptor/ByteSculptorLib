@@ -94,7 +94,7 @@
     <string name="in_app_purchases">Mga In-App na pagbili</string>
     <string name="your_purchases">Ang iyong mga pagbili</string>
     <string name="buy">Bumili</string>
-    <string name="notAvailable">Hindi available sa iyong system</string>
+    <string name="not_available_on_your_system">Hindi available sa iyong system</string>
     <string name="pro_version">Pro na Bersyon</string>
     <string name="no_email_app_found">Walang nakitang E-Mail app</string>
     <string name="update">I-update</string>

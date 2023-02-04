@@ -93,7 +93,7 @@
     <string name="in_app_purchases">In-App-köp</string>
     <string name="your_purchases">Dina inköp</string>
     <string name="buy">köpa</string>
-    <string name="notAvailable">Ej tillgängligt på ditt system</string>
+    <string name="not_available_on_your_system">Ej tillgängligt på ditt system</string>
     <string name="pro_version">Pro Version</string>
     <string name="no_email_app_found">Ingen e-postapp hittades</string>
     <string name="update">Uppdatera</string>

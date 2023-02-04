@@ -94,7 +94,7 @@
     <string name="in_app_purchases">Nákupy v aplikaci</string>
     <string name="your_purchases">Vaše nákupy</string>
     <string name="buy">Koupit</string>
-    <string name="notAvailable">Není k dispozici ve vašem systému</string>
+    <string name="not_available_on_your_system">Není k dispozici ve vašem systému</string>
     <string name="pro_version">Verze Pro</string>
     <string name="no_email_app_found">Nebyla nalezena žádná e-mailová aplikace</string>
     <string name="update">Aktualizovat</string>

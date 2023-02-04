@@ -64,7 +64,7 @@
     <string name="disclaimer">Descargo de responsabilidad</string>
     <string name="privacy_policy">Política de privacidad</string>
     <string name="app_in_the_store">Aplicación en la tienda</string>
-    <string name="notAvailable">No disponible en su sistema</string>
+    <string name="not_available_on_your_system">No disponible en su sistema</string>
     <string name="abbreviation_monday">Lun</string>
     <string name="abbreviation_tuesday">Mar</string>
     <string name="abbreviation_wednesday">Mie</string>
@@ -123,4 +123,5 @@
     <string name="rewarded_description">Puede ver aquí un anuncio recompensado para eliminar todos los anuncios de la aplicación durante 72 horas. Estos anuncios son un poco más largos que los anuncios normales.\nTienes que mirar el anuncio hasta el final para recibir la recompensa.</string>
     <string name="no_ad_in_area">Actualmente no hay anuncios disponibles en su área</string>
     <string name="delete_all">Eliminar todos</string>
+    <string name="more">Más</string>
 </resources>

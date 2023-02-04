@@ -52,7 +52,7 @@
     <string name="errorOpeningExternalLink">外部リンクを開くときにエラーが発生しました</string>
     <string name="notifications">通知</string>
     <string name="notif_setting">通知設定</string>
-    <string name="notAvailable">お使いのシステムでは利用できません</string>
+    <string name="not_available_on_your_system">お使いのシステムでは利用できません</string>
     <string name="no_do_cancel">いいえ、キャンセルします</string>
     <string name="no">いいえ</string>
     <string name="yes">はい</string>

@@ -93,7 +93,7 @@
     <string name="faq">التعليمات</string>
     <string name="contact_us_intro_1">يحاول العديد من المستخدمين الاتصال بي من خلال نظام تصنيف التطبيق في متجر Google Play. لسوء الحظ ، مساحة إجابة المطور هي مقيدة من قبل جوجل. للحصول على دعم أفضل ، يرجى الكتابة إلى:</string>
     <string name="open_source_licenses">تراخيص مفتوحة المصدر</string>
-    <string name="notAvailable">غير متوفر في نظامك</string>
+    <string name="not_available_on_your_system">غير متوفر في نظامك</string>
     <string name="oss_licenses_header">يستخدم هذا التطبيق حاليًا البرامج مفتوحة المصدر التالية:</string>
     <string name="pro_version">الإصدار المحترف</string>
     <string name="no_email_app_found">لم يتم العثور على تطبيق بريد إلكتروني</string>
@@ -113,4 +113,5 @@
     <string name="rewarded_description">يمكنك هنا مشاهدة إعلان بيني بمكافأة لإزالة جميع الإعلانات من التطبيق لمدة 72 ساعة. هذه الإعلانات أطول قليلاً من الإعلانات العادية. يجب عليك مشاهدة الإعلان حتى النهاية لتلقي المكافأة.</string>
     <string name="no_ad_in_area">حاليا لا توجد إعلانات متاحة في منطقتك</string>
     <string name="delete_all">حذف الكل</string>
+    <string name="more">أكثر</string>
 </resources>

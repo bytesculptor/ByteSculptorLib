@@ -94,7 +94,7 @@
     <string name="buy">לִקְנוֹת</string>
     <string name="error_connect_server">שגיאה בעת התחברות לשרת</string>
     <string name="loading">טעינה</string>
-    <string name="notAvailable">לא זמין במערכת שלך</string>
+    <string name="not_available_on_your_system">לא זמין במערכת שלך</string>
     <string name="pro_version">גרסת פרו</string>
     <string name="no_email_app_found">לא נמצאה אפליקציית דואר אלקטרוני</string>
     <string name="update">עדכון</string>

@@ -94,7 +94,7 @@
     <string name="in_app_purchases">Zakupy w aplikacji</string>
     <string name="your_purchases">Twoje zakupy</string>
     <string name="buy">Kup</string>
-    <string name="notAvailable">Niedostępne w Twoim systemie</string>
+    <string name="not_available_on_your_system">Niedostępne w Twoim systemie</string>
     <string name="pro_version">Wersja Pro</string>
     <string name="no_email_app_found">Nie znaleziono aplikacji e-mail</string>
     <string name="update">Aktualizuj</string>
