@@ -166,6 +166,13 @@
     <string name="error_unable_to_make_purchase">Unable to make purchase.</string>
     <string name="available_purchases">Available purchases</string>
 
+    <!-- Purchases -->
+    <string name="alert_error_message_encoded_public_key_not_set" translatable="false">base64EncodedPublicKey
+        <b>must</b> be set for signature verification. You can add it to <b>local.properties</b>
+        once you have gotten it from Play.\n\n<b>Example: <tt>base64EncodedPublicKey=[key value]</tt>
+        </b></string>
+    <string name="alert_error_title_encoded_public_key_not_set" translatable="false">Public Key Not Set</string>
+
     <!-- rewarded ad -->
     <string name="rewarded_description">You can watch here a rewarded ad to remove all ads from the app for 72 hours. These ads are a bit longer than the normal ads.\nYou have to watch the ad until the end to receive the reward.</string>
     <string name="left_rewarded_hours">You have %1$s hours left of ad free experience</string>
