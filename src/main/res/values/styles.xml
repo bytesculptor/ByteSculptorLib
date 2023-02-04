@@ -12,8 +12,8 @@
 <resources>
 
     <style name="AppButtons" parent="@android:style/Widget.Holo.ImageButton">
-        <item name="backgroundColor">@color/colorButton</item>
-        <item name="backgroundTint">@color/colorButton</item>
+        <item name="backgroundColor">@color/color_button</item>
+        <item name="backgroundTint">@color/color_button</item>
         <item name="android:textColor">@android:color/white</item>
     </style>
 </resources>

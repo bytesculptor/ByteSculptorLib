@@ -19,8 +19,16 @@ package com.bytesculptor.applib.compose.preferences
 
 import android.content.res.Configuration.UI_MODE_NIGHT_NO
 import androidx.compose.foundation.clickable
-import androidx.compose.foundation.layout.*
-import androidx.compose.material3.*
+import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.width
+import androidx.compose.material3.Icon
+import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.colorResource
@@ -55,7 +63,7 @@ fun ComposePreferenceWithIcon(
                     .height(24.dp),
                 painter = if (icon != null) painterResource(icon) else painterResource(R.drawable.ic_empty_icon),
                 contentDescription = null,
-                tint = colorResource(id = R.color.stdFont),
+                tint = colorResource(id = R.color.std_font),
             )
         }
         Column(
