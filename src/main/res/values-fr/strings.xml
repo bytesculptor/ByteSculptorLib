@@ -124,4 +124,6 @@
     <string name="delete_all">Supprimer tout</string>
     <string name="about_summary">Version, confidentialité et plus</string>
     <string name="more">Suite</string>
+    <string name="bss_free_app">%s est une application gratuite et ne nécessite aucun paiement pour l\'utiliser. Supprimez définitivement les publicités avec un paiement unique. Merci pour votre soutien!</string>
+    <string name="message_thank_you">Merci beaucoup!</string>
 </resources>

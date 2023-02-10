@@ -114,4 +114,6 @@
     <string name="no_ad_in_area">حاليا لا توجد إعلانات متاحة في منطقتك</string>
     <string name="delete_all">حذف الكل</string>
     <string name="more">أكثر</string>
+    <string name="bss_free_app">%s هو تطبيق مجاني ولا يتطلب أي مدفوعات لاستخدامه. إزالة الإعلانات نهائيًا بدفع دفعة واحدة. شكرا لدعمكم!</string>
+    <string name="message_thank_you">شكراً جزيلاً!</string>
 </resources>

@@ -120,4 +120,6 @@
     <string name="rewarded_description">U kunt hier een beloonde advertentie bekijken om 72 uur lang alle advertenties uit de app te verwijderen. Deze advertenties zijn iets langer dan de normale advertenties.\nJe moet de advertentie tot het einde bekijken om de beloning te ontvangen.</string>
     <string name="no_ad_in_area">Momenteel geen advertenties beschikbaar in uw regio</string>
     <string name="delete_all">Verwijder alles</string>
+    <string name="bss_free_app">%s is een gratis app en vereist geen betaling om deze te gebruiken. Advertenties definitief verwijderen met een eenmalige betaling. Bedankt voor je ondersteuning!</string>
+    <string name="message_thank_you">Hartelijk dank!</string>
 </resources>

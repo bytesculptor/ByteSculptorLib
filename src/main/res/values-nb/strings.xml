@@ -120,4 +120,6 @@
     <string name="pref_remove_ads_72h">Fjern annonser i 72 timer</string>
     <string name="rewarded_description">Du kan se her en belønnet annonse for å fjerne alle annonser fra appen i 72 timer. Disse annonsene er litt lengre enn de vanlige annonsene. Du må se annonsen til slutten for å motta belønningen.</string>
     <string name="delete_all">Slette alle</string>
+    <string name="bss_free_app">%s er en gratis app og krever ingen betaling for å bruke den. Fjern annonser permanent med en engangsbetaling. Takk for støtten!</string>
+    <string name="message_thank_you">Tusen takk!</string>
 </resources>

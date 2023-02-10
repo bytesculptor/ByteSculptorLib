@@ -113,4 +113,6 @@
     <string name="less_one_hour_left_rewarded">נותרה לך פחות משעה</string>
     <string name="pref_remove_ads_72h">הסר מודעות למשך 72 שעות</string>
     <string name="delete_all">מחק הכל</string>
+    <string name="bss_free_app">%s היא אפליקציה חינמית ואינה דורשת תשלום כלשהו כדי להשתמש בה. הסר מודעות לצמיתות עם תשלום חד פעמי. תודה על תמיכתך!</string>
+    <string name="message_thank_you">תודה רבה לך!</string>
 </resources>

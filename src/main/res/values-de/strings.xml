@@ -125,4 +125,5 @@
     <string name="delete_all">Alle Löschen</string>
     <string name="about_summary">Version, Datenschutz und mehr</string>
     <string name="more">Mehr</string>
+    <string name="bss_free_app">%s ist eine kostenlose App, für deren Nutzung keine Zahlung erforderlich ist. Entfernen Sie Anzeigen dauerhaft mit einer einmaligen Zahlung. Danke für Ihre Unterstützung!</string>
 </resources>

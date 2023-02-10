@@ -121,4 +121,6 @@
     <string name="pref_remove_ads_72h">72時間広告を削除する</string>
     <string name="rewarded_description">ここで報酬付きの広告を見て、72時間アプリからすべての広告を削除できます。 これらの広告は通常の広告より少し長いです。 特典を受け取るには、最後まで広告を見る必要があります。</string>
     <string name="delete_all">すべて削除</string>
+    <string name="bss_free_app">%s は無料のアプリであり、使用するのに支払いは必要ありません。 一括払いで広告を完全に削除します。 ご協力ありがとうございます！</string>
+    <string name="message_thank_you">どうもありがとうございます！</string>
 </resources>

@@ -181,6 +181,7 @@
     <string name="pref_remove_ads_72h">Remove ads for 72 hours</string>
     <string name="no_ad_in_area">Currently no ads available in your area</string>
 
+    <string name="bss_free_app">%s is a free app and does not require any payment to use it. Permanently remove ads with a one-time payment. Thank you for your support!</string>
     <string name="support_bss_development">This is a free app which does not request any sensitive data or permissions. If you like the app, and would like to support the developer, you can buy him a coffee.</string>
     <string name="items_unlock_adfree">Each coffee unlocks the Ad-Free version. Thank you for your support!</string>
     <string name="upgrade_to_pro">Upgrade to Pro</string>

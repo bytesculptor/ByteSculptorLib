@@ -128,4 +128,6 @@
     <string name="no_ad_in_area">В момента няма налични реклами във вашия район</string>
     <string name="delete_all">изтриване на всички</string>
     <string name="more">Повече</string>
+    <string name="bss_free_app">%s е безплатно приложение и не изисква плащане, за да го използвате. Премахване на реклами за постоянно с еднократно плащане. Благодарим ви за вашата подкрепа!</string>
+    <string name="message_thank_you">Благодаря ти много!</string>
 </resources>

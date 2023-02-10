@@ -120,4 +120,6 @@
     <string name="no_ad_in_area">Der er i øjeblikket ingen tilgængelige annoncer i dit område</string>
     <string name="rewarded_description">Du kan her se en belønnet mellemliggende annonce for at fjerne alle annoncer fra appen i 72 timer. Disse annoncer er lidt længere end de normale annoncer. Du skal se annoncen indtil slutningen for at modtage belønningen.</string>
     <string name="delete_all">Slet alt</string>
+    <string name="bss_free_app">%s er en gratis app og kræver ingen betaling for at bruge den. Fjern annoncer permanent med en engangsbetaling. Tak for din støtte!</string>
+    <string name="message_thank_you">Mange tak!</string>
 </resources>

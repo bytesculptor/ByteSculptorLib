@@ -120,4 +120,6 @@
     <string name="rewarded_description">Du kan se här en belönad mellansidesannons för att ta bort alla annonser från appen i 72 timmar. Dessa annonser är lite längre än de normala annonserna. Du måste titta på annonsen till slutet för att få belöningen.</string>
     <string name="delete_all">Radera allt</string>
     <string name="about_summary">Version, ansvarsfriskrivning, sekretess och mer</string>
+    <string name="bss_free_app">%s är en gratis app och kräver ingen betalning för att använda den. Ta bort annonser permanent med en engångsbetalning. Tack för ditt stöd!</string>
+    <string name="message_thank_you">Tack så mycket!</string>
 </resources>
