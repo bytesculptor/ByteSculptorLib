@@ -122,4 +122,5 @@
     <string name="delete_all">Smazat všechny</string>
     <string name="bss_free_app">%s je bezplatná aplikace a její používání nevyžaduje žádné platby. Trvale odstraňte reklamy pomocí jednorázové platby. Děkuji za vaší podporu!</string>
     <string name="message_thank_you">Děkuji mnohokrát!</string>
+    <string name="thank_you_for_your_support">Děkuji za vaší podporu!</string>
 </resources>

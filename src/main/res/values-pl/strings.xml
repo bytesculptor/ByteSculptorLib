@@ -122,4 +122,5 @@
     <string name="delete_all">Usuń wszystko</string>
     <string name="bss_free_app">%s to darmowa aplikacja i nie wymaga żadnych opłat, aby z niej korzystać. Trwałe usuwanie reklam za jednorazową opłatą. Dziękuję za Twoje wsparcie!</string>
     <string name="message_thank_you">Dziękuję bardzo!</string>
+    <string name="thank_you_for_your_support">Dziękuję za Twoje wsparcie!</string>
 </resources>

@@ -122,4 +122,5 @@
     <string name="delete_all">모두 삭제</string>
     <string name="bss_free_app">%s은(는) 무료 앱이며 사용하기 위해 결제가 필요하지 않습니다. 일회성 지불로 광고를 영구적으로 제거하십시오. 당신의 지원에 감사드립니다!</string>
     <string name="message_thank_you">매우 감사합니다!</string>
+    <string name="thank_you_for_your_support">귀하의 지원에 감사드립니다!</string>
 </resources>

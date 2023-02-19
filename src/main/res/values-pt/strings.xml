@@ -122,4 +122,5 @@
     <string name="delete_all">Deletar tudo</string>
     <string name="bss_free_app">%s é um aplicativo gratuito e não requer nenhum pagamento para usá-lo. Remova permanentemente os anúncios com um pagamento único. Obrigado pelo seu apoio!</string>
     <string name="message_thank_you">Muito obrigado!</string>
+    <string name="thank_you_for_your_support">Obrigado pelo seu apoio!</string>
 </resources>

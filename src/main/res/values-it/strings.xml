@@ -126,4 +126,5 @@
     <string name="about_summary">Versione, privacy e altro</string>
     <string name="more">Di più</string>
     <string name="bss_free_app">%s è un\'app gratuita e non richiede alcun pagamento per utilizzarla. Rimuovi definitivamente gli annunci con un pagamento una tantum. Grazie per il vostro sostegno!</string>
+    <string name="thank_you_for_your_support">Grazie per il vostro sostegno!</string>
 </resources>

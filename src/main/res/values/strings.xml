@@ -165,6 +165,7 @@
     <string name="message_thank_you">Thank you very much!</string>
     <string name="error_unable_to_make_purchase">Unable to make purchase.</string>
     <string name="available_purchases">Available purchases</string>
+    <string name="thank_you_for_your_support">Thank you for your support!</string>
 
     <!-- Purchases -->
     <string name="alert_error_message_encoded_public_key_not_set" translatable="false">base64EncodedPublicKey

@@ -126,4 +126,5 @@
     <string name="more">Más</string>
     <string name="bss_free_app">%s es una aplicación gratuita y no requiere ningún pago para usarla. Elimine anuncios de forma permanente con un pago único. ¡Gracias por tu apoyo!</string>
     <string name="message_thank_you">¡Muchas gracias!</string>
+    <string name="thank_you_for_your_support">¡Gracias por tu apoyo!</string>
 </resources>
