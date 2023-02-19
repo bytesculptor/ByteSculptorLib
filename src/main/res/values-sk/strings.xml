@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2023 Byte Sculptor Software - All Rights Reserved
+  ~
+  ~ All information contained herein is and remains the property of Byte Sculptor Software.
+  ~ Unauthorized copying of this file, via any medium, is strictly prohibited unless prior
+  ~ written permission is obtained from Byte Sculptor Software.
+  ~
+  ~ Romeo Rondinelli - bytesculptor@gmail.com
+  ~
+  -->
+
+<resources>
+    <string name="settings">Nastavenie</string>
+    <string name="notifications">Upozornenia</string>
+    <string name="notif_setting">Nastavenia upozornení</string>
+    <string name="set_notif_settings">Nastavte viditeľnosť, zvuk a vibrácie</string>
+    <string name="statistics">Štatistiky</string>
+    <string name="hint">nápoveda</string>
+    <string name="history">História</string>
+    <string name="welcome">Vitajte!</string>
+    <string name="good">Dobre</string>
+    <string name="app_theme">Téma</string>
+    <string name="app_theme_light">Svetlo</string>
+    <string name="app_theme_dark">Tmavý</string>
+    <string name="app_theme_system">Predvolený systém</string>
+    <string name="okay">OK</string>
+    <string name="yes">Áno</string>
+    <string name="no">č</string>
+    <string name="no_do_cancel">Nie, zrušiť</string>
+    <string name="show_me">Ukáž mi</string>
+    <string name="close">Zavrieť</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="save">Uložiť</string>
+    <string name="saved">Uložené</string>
+    <string name="edit">Upraviť</string>
+    <string name="delete">Odstrániť</string>
+    <string name="delete_all">Vymazať všetko</string>
+    <string name="share_app">Zdieľajte túto aplikáciu</string>
+    <string name="reset">resetovať</string>
+    <string name="sort">triedenie</string>
+    <string name="sort_asc">vzostupne</string>
+    <string name="sort_desc">zostupne</string>
+    <string name="added">pridané</string>
+    <string name="off">vypnuté</string>
+    <string name="on">na</string>
+    <string name="update">Aktualizovať</string>
+    <string name="collapse_view">zbaliť pohľad</string>
+    <string name="duplicate">Duplicitné</string>
+    <string name="today">dnes</string>
+    <string name="later">neskôr</string>
+    <string name="next">Ďalšie</string>
+    <string name="abbreviation_monday">Po</string>
+    <string name="abbreviation_tuesday">Ut</string>
+    <string name="abbreviation_wednesday">St</string>
+    <string name="abbreviation_thursday">Št</string>
+    <string name="abbreviation_friday">Pi</string>
+    <string name="abbreviation_saturday">So</string>
+    <string name="abbreviation_sunday">Ne</string>
+    <string name="Monday">pondelok</string>
+    <string name="Tuesday">utorok</string>
+    <string name="Wednesday">streda</string>
+    <string name="Thursday">štvrtok</string>
+    <string name="Friday">piatok</string>
+    <string name="Saturday">sobota</string>
+    <string name="Sunday">nedeľu</string>
+    <string name="rate_this_app">Ohodnoť túto aplikáciu</string>
+    <string name="szLikeThisAppTitle">Páči sa vám táto aplikácia?</string>
+    <string name="szLikeThisAppMessage">Aké sú vaše doterajšie skúsenosti? Páči sa vám táto aplikácia?</string>
+    <string name="szAskFeedbackMessage">Je nám to veľmi ľúto! Chcete nám poslať spätnú väzbu, aby sme aplikáciu vylepšili?</string>
+    <string name="szLikeThisAppNo">Nie veľmi</string>
+    <string name="szRatingMessage">Nájdite si chvíľku na hodnotenie tejto aplikácie? Ďakujem za tvoju podporu!</string>
+    <string name="rate_now">Hodnotiť teraz</string>
+    <string name="remind_me">Pripomeň mi</string>
+    <string name="no_thanks">Nie ďakujem</string>
+    <string name="help">Pomoc</string>
+    <string name="introduction">Úvod</string>
+    <string name="about">O</string>
+    <string name="help_and_about">Pomoc</string>
+    <string name="about_summary">Verzia, Vylúčenie zodpovednosti, Ochrana osobných údajov a ďalšie</string>
+    <string name="contact_us_by_email">Kontaktujte nás (e-mail)</string>
+    <string name="app_version">Verzia aplikácie</string>
+    <string name="more_bss_apps">Aplikácie Byte Sculptor</string>
+    <string name="contact">Kontakt</string>
+    <string name="faq">FAQ</string>
+    <string name="contact_us_intro_1">Mnoho používateľov sa ma pokúša kontaktovať prostredníctvom systému hodnotenia aplikácie v obchode Google Play. Bohužiaľ,
+        priestor na odpovede vývojára je obmedzený spoločnosťou Google. Pre lepšiu podporu napíšte na:</string>
+    <string name="open_source_licenses">Licencie s otvoreným zdrojom</string>
+    <string name="not_available_on_your_system">Nie je k dispozícii vo vašom systéme</string>
+    <string name="more">Viac</string>
+    <string name="disclaimer_text_1" />
+    <string name="disclaimer_text_2">Byte Sculptor Software vlastní práva na túto aplikáciu a zmeny môžu byť vykonané kedykoľvek.
+        Táto aplikácia bola testovaná manuálne a automaticky na skutočných a emulovaných zariadeniach na chyby, chyby a stabilitu.
+        To však neznamená, že softvér je úplne bez chýb.
+        Operačný systém Android sa používa na mnohých rôznych zariadeniach a výrobca zariadenia ho často výrazne upravuje. Je možné, že táto aplikácia nemusí na takýchto zariadeniach fungovať podľa očakávania.
+        \n\nPoužívaním tohto softvéru súhlasíte s tým, že Byte Sculptor Software nezodpovedá za žiadne škody spôsobené na vašom zariadení. Túto aplikáciu používate úplne na vlastné riziko.
+        \nAk narazíte na nejaké problémy, dajte nám vedieť odoslaním e-mailu s podrobnosťami o probléme, modeli vášho zariadenia a verzii Androidu. Ďakujem!</string>
+    <string name="disclaimer_text_3" />
+    <string name="oss_licenses_header">Táto aplikácia v súčasnosti používa nasledujúci softvér s otvoreným zdrojom:</string>
+    <string name="more_licenses">viac licencií</string>
+    <string name="error_on_open_privacy_policy_link">Chyba. Zásady ochrany osobných údajov nájdete v obchode s aplikáciami.</string>
+    <string name="disclaimer">Vylúčenie zodpovednosti</string>
+    <string name="privacy_policy">Zásady ochrany osobných údajov</string>
+    <string name="app_in_the_store">Aplikácia v obchode</string>
+    <string name="errorOpeningExternalLink">Chyba pri otváraní externého odkazu</string>
+    <string name="website">webové stránky</string>
+    <string name="tutorial">Návod</string>
+    <string name="error_connect_server">Chyba pri pripájaní k serveru</string>
+    <string name="loading">Načítava</string>
+    <string name="start_ad">Spustiť reklamu</string>
+    <string name="no_email_app_found">Nenašla sa žiadna e-mailová aplikácia</string>
+    <string name="roadmap">Cestovná mapa</string>
+    <string name="in_app_purchases">Nákupy v aplikácii</string>
+    <string name="your_purchases">Vaše nákupy</string>
+    <string name="buy">Kúpiť</string>
+    <string name="debug_price_not_found">N/A</string>
+    <string name="ad_free">Bez reklám</string>
+    <string name="pro_version">Verzia Pro</string>
+    <string name="coffee">Káva</string>
+    <string name="purchase_price_not_found">N/A</string>
+    <string name="purchase_title_not_found">SKU sa nenašlo</string>
+    <string name="purchase_completed">Nákup dokončený.</string>
+    <string name="description_not_found">Popis sa nenašiel</string>
+    <string name="message_thank_you">Ďakujem mnohokrát!</string>
+    <string name="error_unable_to_make_purchase">Nie je možné uskutočniť nákup.</string>
+    <string name="available_purchases">Dostupné nákupy</string>
+    <string name="thank_you_for_your_support">Ďakujem za tvoju podporu!</string>
+    <string name="rewarded_description">Tu si môžete pozrieť reklamu s odmenou na odstránenie všetkých reklám z aplikácie na 72 hodín. Tieto reklamy sú o niečo dlhšie ako bežné reklamy.\nAk chcete získať odmenu, musíte si reklamu pozrieť až do konca.</string>
+    <string name="left_rewarded_hours">Zostáva vám %1$s hodín bez reklám</string>
+    <string name="left_rewarded_days">Zostáva vám %1$s dní bez reklám</string>
+    <string name="less_one_hour_left_rewarded">Zostáva vám menej ako 1 hodina</string>
+    <string name="pref_remove_ads_72h">Odstráňte reklamy na 72 hodín</string>
+    <string name="no_ad_in_area">Vo vašej oblasti momentálne nie sú dostupné žiadne reklamy</string>
+    <string name="bss_free_app">%s je bezplatná aplikácia a za jej používanie nie sú potrebné žiadne platby. Natrvalo odstráňte reklamy pomocou jednorazovej platby. Ďakujem za tvoju podporu!</string>
+    <string name="support_bss_development">Toto je bezplatná aplikácia, ktorá nevyžaduje žiadne citlivé údaje ani povolenia. Ak sa vám aplikácia páči a chceli by ste vývojára podporiť, môžete mu kúpiť kávu.</string>
+    <string name="items_unlock_adfree">Každá káva odomkne verziu bez reklám. Ďakujem za tvoju podporu!</string>
+    <string name="upgrade_to_pro">Inovujte na Pro</string>
+    <string name="restore_purchases">Obnoviť nákupy</string>
+</resources>

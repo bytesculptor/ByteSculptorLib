@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2023 Byte Sculptor Software - All Rights Reserved
+  ~
+  ~ All information contained herein is and remains the property of Byte Sculptor Software.
+  ~ Unauthorized copying of this file, via any medium, is strictly prohibited unless prior
+  ~ written permission is obtained from Byte Sculptor Software.
+  ~
+  ~ Romeo Rondinelli - bytesculptor@gmail.com
+  ~
+  -->
+
+<resources>
+    <string name="settings">การตั้งค่า</string>
+    <string name="notifications">การแจ้งเตือน</string>
+    <string name="notif_setting">การตั้งค่าการแจ้งเตือน</string>
+    <string name="set_notif_settings">ตั้งค่าการมองเห็น เสียง และการสั่น</string>
+    <string name="statistics">สถิติ</string>
+    <string name="hint">คำใบ้</string>
+    <string name="history">ประวัติศาสตร์</string>
+    <string name="welcome">ยินดีต้อนรับ!</string>
+    <string name="good">ดี</string>
+    <string name="app_theme">ธีม</string>
+    <string name="app_theme_light">แสงสว่าง</string>
+    <string name="app_theme_dark">มืด</string>
+    <string name="app_theme_system">ค่าเริ่มต้นของระบบ</string>
+    <string name="okay">ตกลง</string>
+    <string name="yes">ใช่</string>
+    <string name="no">เลขที่</string>
+    <string name="no_do_cancel">ไม่ ยกเลิก</string>
+    <string name="show_me">แสดงให้ฉันเห็น</string>
+    <string name="close">ปิด</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="save">บันทึก</string>
+    <string name="saved">บันทึกไว้</string>
+    <string name="edit">แก้ไข</string>
+    <string name="delete">ลบ</string>
+    <string name="delete_all">ลบทั้งหมด</string>
+    <string name="share_app">แชร์แอพนี้</string>
+    <string name="reset">รีเซ็ต</string>
+    <string name="sort">การเรียงลำดับ</string>
+    <string name="sort_asc">จากน้อยไปมาก</string>
+    <string name="sort_desc">จากมากไปน้อย</string>
+    <string name="added">เพิ่ม</string>
+    <string name="off">ปิด</string>
+    <string name="on">บน</string>
+    <string name="update">อัปเดต</string>
+    <string name="collapse_view">มุมมองยุบ</string>
+    <string name="duplicate">ทำซ้ำ</string>
+    <string name="today">วันนี้</string>
+    <string name="later">ภายหลัง</string>
+    <string name="next">ต่อไป</string>
+    <string name="abbreviation_monday">จันทร์</string>
+    <string name="abbreviation_tuesday">อ</string>
+    <string name="abbreviation_wednesday">พุธ</string>
+    <string name="abbreviation_thursday">พฤ</string>
+    <string name="abbreviation_friday">ศ</string>
+    <string name="abbreviation_saturday">นั่ง</string>
+    <string name="abbreviation_sunday">าทิตย์</string>
+    <string name="Monday">วันจันทร์</string>
+    <string name="Tuesday">วันอังคาร</string>
+    <string name="Wednesday">วันพุธ</string>
+    <string name="Thursday">วันพฤหัสบดี</string>
+    <string name="Friday">วันศุกร์</string>
+    <string name="Saturday">วันเสาร์</string>
+    <string name="Sunday">วันอาทิตย์</string>
+    <string name="rate_this_app">ให้คะแนนแอปนี้</string>
+    <string name="szLikeThisAppTitle">เพลิดเพลินกับแอพนี้?</string>
+    <string name="szLikeThisAppMessage">ประสบการณ์ของคุณเป็นอย่างไรบ้าง? คุณชอบแอพนี้หรือไม่?</string>
+    <string name="szAskFeedbackMessage">เราเสียใจมาก! คุณต้องการส่งข้อเสนอแนะเพื่อให้เราปรับปรุงแอปหรือไม่</string>
+    <string name="szLikeThisAppNo">ไม่ค่อยเท่าไหร่</string>
+    <string name="szRatingMessage">คุณช่วยสละเวลาสักครู่เพื่อให้คะแนนแอปนี้ได้ไหม ขอบคุณสำหรับการสนับสนุน!</string>
+    <string name="rate_now">อัตราในขณะนี้</string>
+    <string name="remind_me">เตือนฉัน</string>
+    <string name="no_thanks">ไม่เป็นไรขอบคุณ</string>
+    <string name="help">ช่วย</string>
+    <string name="introduction">การแนะนำ</string>
+    <string name="about">เกี่ยวกับ</string>
+    <string name="help_and_about">ช่วย</string>
+    <string name="about_summary">รุ่น ข้อจำกัดความรับผิดชอบ ความเป็นส่วนตัว และอื่นๆ</string>
+    <string name="contact_us_by_email">ติดต่อเรา (อีเมล์)</string>
+    <string name="app_version">เวอร์ชันแอป</string>
+    <string name="more_bss_apps">แอพ Byte Sculptor</string>
+    <string name="contact">ติดต่อ</string>
+    <string name="faq">คำถามที่พบบ่อย</string>
+    <string name="contact_us_intro_1">ผู้ใช้หลายคนพยายามติดต่อฉันผ่านระบบการให้คะแนนของแอปใน Google Play Store น่าเสียดายที่
+        พื้นที่คำตอบของนักพัฒนาซอฟต์แวร์ถูกจำกัดโดย Google เพื่อการสนับสนุนที่ดีขึ้น โปรดเขียนถึง:</string>
+    <string name="open_source_licenses">ใบอนุญาตโอเพ่นซอร์ส</string>
+    <string name="not_available_on_your_system">ไม่มีในระบบของคุณ</string>
+    <string name="more">มากกว่า</string>
+    <string name="disclaimer_text_1" />
+    <string name="disclaimer_text_2">Byte Sculptor Software เป็นเจ้าของสิทธิ์ในแอปพลิเคชันนี้และสามารถทำการเปลี่ยนแปลงได้ตลอดเวลา
+        แอปนี้ได้รับการทดสอบด้วยตนเองและโดยอัตโนมัติบนอุปกรณ์จริงและจำลองเพื่อหาจุดบกพร่อง ข้อผิดพลาด และความเสถียร
+        อย่างไรก็ตาม นี่ไม่ได้หมายความว่าซอฟต์แวร์จะปราศจากข้อผิดพลาดโดยสิ้นเชิง
+        ระบบปฏิบัติการ Android ใช้กับอุปกรณ์ต่างๆ มากมาย และมักถูกดัดแปลงอย่างหนักโดยผู้ผลิตอุปกรณ์ เป็นไปได้ว่าแอปนี้อาจไม่ทำงานตามที่คาดไว้ในอุปกรณ์ดังกล่าว
+        \n\nการใช้ซอฟต์แวร์นี้แสดงว่าคุณยอมรับว่า Byte Sculptor Software จะไม่รับผิดชอบต่อความเสียหายใดๆ ที่เกิดขึ้นกับอุปกรณ์ของคุณ คุณใช้แอพนี้โดยสมบูรณ์ด้วยความเสี่ยงของคุณเอง
+        \nหากคุณพบปัญหาใดๆ โปรดแจ้งให้เราทราบโดยส่งอีเมลพร้อมรายละเอียดเกี่ยวกับปัญหา รุ่นอุปกรณ์ และเวอร์ชัน Android ของคุณ ขอบคุณ!</string>
+    <string name="disclaimer_text_3" />
+    <string name="oss_licenses_header">แอพนี้ใช้ซอฟต์แวร์โอเพ่นซอร์สต่อไปนี้:</string>
+    <string name="more_licenses">ใบอนุญาตเพิ่มเติม</string>
+    <string name="error_on_open_privacy_policy_link">ข้อผิดพลาด. ตรวจสอบร้านค้าแอพสำหรับนโยบายความเป็นส่วนตัว</string>
+    <string name="disclaimer">ข้อจำกัดความรับผิดชอบ</string>
+    <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
+    <string name="app_in_the_store">แอพในสโตร์</string>
+    <string name="errorOpeningExternalLink">เกิดข้อผิดพลาดในการเปิดลิงก์ภายนอก</string>
+    <string name="website">เว็บไซต์</string>
+    <string name="tutorial">กวดวิชา</string>
+    <string name="error_connect_server">เกิดข้อผิดพลาดขณะเชื่อมต่อกับเซิร์ฟเวอร์</string>
+    <string name="loading">กำลังโหลด</string>
+    <string name="start_ad">เริ่มโฆษณา</string>
+    <string name="no_email_app_found">ไม่พบแอปอีเมล</string>
+    <string name="roadmap">แผนงาน</string>
+    <string name="in_app_purchases">การซื้อในแอป</string>
+    <string name="your_purchases">การซื้อของคุณ</string>
+    <string name="buy">ซื้อ</string>
+    <string name="debug_price_not_found">ไม่มีข้อมูล</string>
+    <string name="ad_free">ไม่มีโฆษณา</string>
+    <string name="pro_version">รุ่นโปร</string>
+    <string name="coffee">กาแฟ</string>
+    <string name="purchase_price_not_found">ไม่มีข้อมูล</string>
+    <string name="purchase_title_not_found">ไม่พบ SKU</string>
+    <string name="purchase_completed">ซื้อเสร็จแล้ว</string>
+    <string name="description_not_found">ไม่พบคำอธิบาย</string>
+    <string name="message_thank_you">ขอบคุณมาก!</string>
+    <string name="error_unable_to_make_purchase">ไม่สามารถทำการซื้อได้</string>
+    <string name="available_purchases">ซื้อที่มีอยู่</string>
+    <string name="thank_you_for_your_support">ขอบคุณสำหรับการสนับสนุนของคุณ!</string>
+    <string name="rewarded_description">คุณสามารถดูโฆษณาที่มีการให้รางวัลที่นี่เพื่อลบโฆษณาทั้งหมดออกจากแอปเป็นเวลา 72 ชั่วโมง โฆษณาเหล่านี้ยาวกว่าโฆษณาปกติเล็กน้อย\nคุณต้องดูโฆษณาจนจบเพื่อรับรางวัล</string>
+    <string name="left_rewarded_hours">คุณเหลือเวลาอีก %1$s ชั่วโมงสำหรับประสบการณ์ใช้งานแบบไม่มีโฆษณา</string>
+    <string name="left_rewarded_days">คุณเหลือเวลาอีก %1$s วันสำหรับประสบการณ์ใช้งานแบบไม่มีโฆษณา</string>
+    <string name="less_one_hour_left_rewarded">คุณเหลือเวลาอีกไม่ถึง 1 ชั่วโมง</string>
+    <string name="pref_remove_ads_72h">ลบโฆษณาเป็นเวลา 72 ชั่วโมง</string>
+    <string name="no_ad_in_area">ขณะนี้ไม่มีโฆษณาในพื้นที่ของคุณ</string>
+    <string name="bss_free_app">%s เป็นแอปฟรีและไม่ต้องชำระเงินเพื่อใช้งาน ลบโฆษณาอย่างถาวรด้วยการชำระเงินครั้งเดียว ขอบคุณสำหรับการสนับสนุนของคุณ!</string>
+    <string name="support_bss_development">นี่เป็นแอพฟรีที่ไม่ขอข้อมูลหรือสิทธิ์ที่ละเอียดอ่อน หากคุณชอบแอปนี้และต้องการสนับสนุนนักพัฒนา คุณสามารถซื้อกาแฟให้เขาได้</string>
+    <string name="items_unlock_adfree">กาแฟแต่ละตัวจะปลดล็อกเวอร์ชันที่ไม่มีโฆษณา ขอบคุณสำหรับการสนับสนุนของคุณ!</string>
+    <string name="upgrade_to_pro">อัปเกรดเป็น Pro</string>
+    <string name="restore_purchases">เรียกคืนการซื้อสินค้า</string>
+</resources>

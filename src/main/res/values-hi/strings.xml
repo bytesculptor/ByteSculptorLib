@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2023 Byte Sculptor Software - All Rights Reserved
+  ~
+  ~ All information contained herein is and remains the property of Byte Sculptor Software.
+  ~ Unauthorized copying of this file, via any medium, is strictly prohibited unless prior
+  ~ written permission is obtained from Byte Sculptor Software.
+  ~
+  ~ Romeo Rondinelli - bytesculptor@gmail.com
+  ~
+  -->
+
+<resources>
+    <string name="settings">समायोजन</string>
+    <string name="notifications">सूचनाएं</string>
+    <string name="notif_setting">अधिसूचना सेटिंग्स</string>
+    <string name="set_notif_settings">दृश्यता, ध्वनि और कंपन सेट करें</string>
+    <string name="statistics">आंकड़े</string>
+    <string name="hint">संकेत देना</string>
+    <string name="history">इतिहास</string>
+    <string name="welcome">स्वागत!</string>
+    <string name="good">अच्छा</string>
+    <string name="app_theme">थीम</string>
+    <string name="app_theme_light">रोशनी</string>
+    <string name="app_theme_dark">अँधेरा</string>
+    <string name="app_theme_system">प्रणालीगत चूक</string>
+    <string name="okay">ठीक</string>
+    <string name="yes">हाँ</string>
+    <string name="no">नहीं</string>
+    <string name="no_do_cancel">नहीं, रद्द करें</string>
+    <string name="show_me">मुझे दिखाओ</string>
+    <string name="close">बंद करना</string>
+    <string name="cancel">रद्द करना</string>
+    <string name="save">बचाना</string>
+    <string name="saved">बचाया</string>
+    <string name="edit">संपादन करना</string>
+    <string name="delete">मिटाना</string>
+    <string name="delete_all">सभी हटा दो</string>
+    <string name="share_app">इस एप को शेयर कीजिए</string>
+    <string name="reset">रीसेट</string>
+    <string name="sort">छँटाई</string>
+    <string name="sort_asc">आरोही</string>
+    <string name="sort_desc">अवरोही</string>
+    <string name="added">जोड़ा</string>
+    <string name="off">बंद</string>
+    <string name="on">पर</string>
+    <string name="update">अद्यतन</string>
+    <string name="collapse_view">पतन दृश्य</string>
+    <string name="duplicate">डुप्लिकेट</string>
+    <string name="today">आज</string>
+    <string name="later">बाद में</string>
+    <string name="next">अगला</string>
+    <string name="abbreviation_monday">सोमवार</string>
+    <string name="abbreviation_tuesday">मंगल</string>
+    <string name="abbreviation_wednesday">बुध</string>
+    <string name="abbreviation_thursday">गुरु</string>
+    <string name="abbreviation_friday">शुक्र</string>
+    <string name="abbreviation_saturday">बैठा</string>
+    <string name="abbreviation_sunday">रवि</string>
+    <string name="Monday">सोमवार</string>
+    <string name="Tuesday">मंगलवार</string>
+    <string name="Wednesday">बुधवार</string>
+    <string name="Thursday">गुरुवार</string>
+    <string name="Friday">शुक्रवार</string>
+    <string name="Saturday">शनिवार</string>
+    <string name="Sunday">रविवार</string>
+    <string name="rate_this_app">इस ऐप्लिकेशन को रेट करें</string>
+    <string name="szLikeThisAppTitle">इस ऐप का आनंद ले रहे हैं?</string>
+    <string name="szLikeThisAppMessage">आपका अब तक का अनुभव कैसा रहा है? क्या आपको यह ऐप पसंद है?</string>
+    <string name="szAskFeedbackMessage">हमें बहुत अफसोस है! क्या आप प्रतिक्रिया भेजना चाहेंगे ताकि हम ऐप में सुधार कर सकें?</string>
+    <string name="szLikeThisAppNo">इतना नहीं</string>
+    <string name="szRatingMessage">क्या आप कृपया इस ऐप को रेट करने के लिए कुछ समय देंगे? आपके समर्थन के लिए धन्यवाद!</string>
+    <string name="rate_now">अब रेट करें</string>
+    <string name="remind_me">मुझे याद दिलाएं</string>
+    <string name="no_thanks">जी नहीं, धन्यवाद</string>
+    <string name="help">मदद</string>
+    <string name="introduction">परिचय</string>
+    <string name="about">के बारे में</string>
+    <string name="help_and_about">मदद</string>
+    <string name="about_summary">संस्करण, अस्वीकरण, गोपनीयता और बहुत कुछ</string>
+    <string name="contact_us_by_email">हमसे संपर्क करें (ईमेल)</string>
+    <string name="app_version">एप्लिकेशन वेरीज़न</string>
+    <string name="more_bss_apps">बाइट मूर्तिकार ऐप्स</string>
+    <string name="contact">संपर्क</string>
+    <string name="faq">सामान्य प्रश्न</string>
+    <string name="contact_us_intro_1">कई उपयोगकर्ता Google Play Store में ऐप के रेटिंग सिस्टम के माध्यम से मुझसे संपर्क करने का प्रयास करते हैं। दुर्भाग्य से
+        डेवलपर का उत्तर स्थान Google द्वारा सीमित है। बेहतर समर्थन के लिए, कृपया लिखें:</string>
+    <string name="open_source_licenses">ओपन सोर्स लाइसेंस</string>
+    <string name="not_available_on_your_system">आपके सिस्टम पर उपलब्ध नहीं है</string>
+    <string name="more">अधिक</string>
+    <string name="disclaimer_text_1" />
+    <string name="disclaimer_text_2">बाइट मूर्तिकार सॉफ्टवेयर इस एप्लिकेशन के अधिकारों का मालिक है और किसी भी समय परिवर्तन किया जा सकता है।
+        बग, त्रुटियों और स्थिरता के लिए वास्तविक और अनुकरणीय उपकरणों पर मैन्युअल रूप से और स्वचालित रूप से इस ऐप का परीक्षण किया गया है।
+        हालांकि, इसका मतलब यह नहीं है कि सॉफ्टवेयर त्रुटियों से पूरी तरह मुक्त है।
+        एंड्रॉइड ओएस का उपयोग कई अलग-अलग उपकरणों पर किया जाता है और अक्सर डिवाइस निर्माता द्वारा भारी रूप से संशोधित किया जाता है। यह संभव है कि यह ऐप ऐसे उपकरणों पर उम्मीद के मुताबिक न चले।
+        \n\nइस सॉफ़्टवेयर का उपयोग करके आप सहमत हैं कि बाइट स्कल्प्टर सॉफ़्टवेयर आपके डिवाइस को हुए किसी भी नुकसान के लिए ज़िम्मेदार नहीं है। आप इस ऐप का पूरी तरह से अपने जोखिम पर उपयोग करते हैं।
+        \nयदि आपको कोई समस्या आती है, तो कृपया समस्या, अपने डिवाइस मॉडल और Android संस्करण के विवरण के साथ एक ईमेल भेजकर हमें बताएं। धन्यवाद!</string>
+    <string name="disclaimer_text_3" />
+    <string name="oss_licenses_header">यह ऐप वर्तमान में निम्नलिखित ओपन सोर्स सॉफ़्टवेयर का उपयोग करता है:</string>
+    <string name="more_licenses">अधिक लाइसेंस</string>
+    <string name="error_on_open_privacy_policy_link">गलती। गोपनीयता नीति के लिए ऐप स्टोर देखें।</string>
+    <string name="disclaimer">अस्वीकरण</string>
+    <string name="privacy_policy">गोपनीयता नीति</string>
+    <string name="app_in_the_store">स्टोर में ऐप</string>
+    <string name="errorOpeningExternalLink">बाहरी लिंक खोलने में त्रुटि</string>
+    <string name="website">वेबसाइट</string>
+    <string name="tutorial">ट्यूटोरियल</string>
+    <string name="error_connect_server">सर्वर से कनेक्ट करते समय त्रुटि</string>
+    <string name="loading">लोड हो रहा है</string>
+    <string name="start_ad">विज्ञापन प्रारंभ करें</string>
+    <string name="no_email_app_found">कोई ई-मेल ऐप नहीं मिला</string>
+    <string name="roadmap">रोडमैप</string>
+    <string name="in_app_purchases">इन - ऐप खरीदारी</string>
+    <string name="your_purchases">आपकी खरीदारी</string>
+    <string name="buy">खरीदना</string>
+    <string name="debug_price_not_found">लागू नहीं</string>
+    <string name="ad_free">विज्ञापन मुक्त</string>
+    <string name="pro_version">प्रो संस्करण</string>
+    <string name="coffee">कॉफ़ी</string>
+    <string name="purchase_price_not_found">लागू नहीं</string>
+    <string name="purchase_title_not_found">एसकेयू नहीं मिला</string>
+    <string name="purchase_completed">खरीदारी पूरी हुई.</string>
+    <string name="description_not_found">विवरण नहीं मिला</string>
+    <string name="message_thank_you">आपका बहुत-बहुत धन्यवाद!</string>
+    <string name="error_unable_to_make_purchase">खरीदारी नहीं हो पा रही है।</string>
+    <string name="available_purchases">उपलब्ध खरीदारी</string>
+    <string name="thank_you_for_your_support">आपके समर्थन के लिए धन्यवाद!</string>
+    <string name="rewarded_description">आप 72 घंटों के लिए ऐप से सभी विज्ञापनों को हटाने के लिए यहां एक पुरस्कृत विज्ञापन देख सकते हैं। ये विज्ञापन सामान्य विज्ञापनों से थोड़े लंबे हैं।\nइनाम पाने के लिए आपको विज्ञापन को अंत तक देखना होगा।</string>
+    <string name="left_rewarded_hours">आपके पास विज्ञापन मुक्त अनुभव के %1$s घंटे शेष हैं</string>
+    <string name="left_rewarded_days">आपके पास विज्ञापन मुक्त अनुभव के %1$s दिन शेष हैं</string>
+    <string name="less_one_hour_left_rewarded">आपके पास 1 घंटे से भी कम समय बचा है</string>
+    <string name="pref_remove_ads_72h">72 घंटे के लिए विज्ञापन हटाएं</string>
+    <string name="no_ad_in_area">वर्तमान में आपके क्षेत्र में कोई विज्ञापन उपलब्ध नहीं है</string>
+    <string name="bss_free_app">%s एक निःशुल्क ऐप है और इसका उपयोग करने के लिए किसी भुगतान की आवश्यकता नहीं है। एकमुश्त भुगतान के साथ विज्ञापनों को स्थायी रूप से हटा दें। आपके समर्थन के लिए धन्यवाद!</string>
+    <string name="support_bss_development">यह एक निःशुल्क ऐप है जो किसी भी संवेदनशील डेटा या अनुमतियों का अनुरोध नहीं करता है। यदि आप ऐप को पसंद करते हैं और डेवलपर का समर्थन करना चाहते हैं, तो आप उसके लिए कॉफी खरीद सकते हैं।</string>
+    <string name="items_unlock_adfree">प्रत्येक कॉफी विज्ञापन-मुक्त संस्करण को अनलॉक करती है। आपके समर्थन के लिए धन्यवाद!</string>
+    <string name="upgrade_to_pro">प्रो में अपग्रेड</string>
+    <string name="restore_purchases">खरीदारी वापस लौटाएं</string>
+</resources>

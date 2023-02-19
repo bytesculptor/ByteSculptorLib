@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2023 Byte Sculptor Software - All Rights Reserved
+  ~
+  ~ All information contained herein is and remains the property of Byte Sculptor Software.
+  ~ Unauthorized copying of this file, via any medium, is strictly prohibited unless prior
+  ~ written permission is obtained from Byte Sculptor Software.
+  ~
+  ~ Romeo Rondinelli - bytesculptor@gmail.com
+  ~
+  -->
+
+<resources>
+    <string name="settings">ترتیبات</string>
+    <string name="notifications">اطلاعات</string>
+    <string name="notif_setting">اطلاع کی ترتیبات</string>
+    <string name="set_notif_settings">مرئیت، آواز اور وائبریشن سیٹ کریں۔</string>
+    <string name="statistics">شماریات</string>
+    <string name="hint">اشارہ</string>
+    <string name="history">تاریخ</string>
+    <string name="welcome">خوش آمدید!</string>
+    <string name="good">اچھی</string>
+    <string name="app_theme">خیالیہ</string>
+    <string name="app_theme_light">روشنی</string>
+    <string name="app_theme_dark">اندھیرا</string>
+    <string name="app_theme_system">سسٹم ڈیفالٹ</string>
+    <string name="okay">ٹھیک ہے</string>
+    <string name="yes">جی ہاں</string>
+    <string name="no">نہیں</string>
+    <string name="no_do_cancel">نہیں، منسوخ کریں۔</string>
+    <string name="show_me">مجھے دکھا</string>
+    <string name="close">بند کریں</string>
+    <string name="cancel">منسوخ کریں۔</string>
+    <string name="save">محفوظ کریں۔</string>
+    <string name="saved">محفوظ کیا گیا۔</string>
+    <string name="edit">ترمیم</string>
+    <string name="delete">حذف کریں۔</string>
+    <string name="delete_all">تمام حذف کریں</string>
+    <string name="share_app">اس ایپ کو شیئر کریں۔</string>
+    <string name="reset">دوبارہ ترتیب دیں</string>
+    <string name="sort">چھانٹنا</string>
+    <string name="sort_asc">چڑھتے ہوئے</string>
+    <string name="sort_desc">نزول</string>
+    <string name="added">شامل کیا</string>
+    <string name="off">بند</string>
+    <string name="on">پر</string>
+    <string name="update">اپ ڈیٹ</string>
+    <string name="collapse_view">منظر کو ختم کرنا</string>
+    <string name="duplicate">نقل</string>
+    <string name="today">آج</string>
+    <string name="later">بعد میں</string>
+    <string name="next">اگلے</string>
+    <string name="abbreviation_monday">پیر</string>
+    <string name="abbreviation_tuesday">منگل</string>
+    <string name="abbreviation_wednesday">بدھ</string>
+    <string name="abbreviation_thursday">جمعرات</string>
+    <string name="abbreviation_friday">جمعہ</string>
+    <string name="abbreviation_saturday">سات</string>
+    <string name="abbreviation_sunday">سورج</string>
+    <string name="Monday">پیر</string>
+    <string name="Tuesday">منگل</string>
+    <string name="Wednesday">بدھ</string>
+    <string name="Thursday">جمعرات</string>
+    <string name="Friday">جمعہ</string>
+    <string name="Saturday">ہفتہ</string>
+    <string name="Sunday">اتوار</string>
+    <string name="rate_this_app">اس ایپ کی درجہ بندی کریں۔</string>
+    <string name="szLikeThisAppTitle">اس ایپ سے لطف اندوز ہو رہے ہیں؟</string>
+    <string name="szLikeThisAppMessage">آپ کا اب تک کا تجربہ کیسا ہے؟ کیا آپ کو یہ ایپ پسند ہے؟</string>
+    <string name="szAskFeedbackMessage">ہمیں بہت افسوس ہے! کیا آپ فیڈ بیک بھیجنا چاہیں گے تاکہ ہم ایپ کو بہتر بنائیں؟</string>
+    <string name="szLikeThisAppNo">اتنا زیادہ نہیں</string>
+    <string name="szRatingMessage">کیا آپ براہ کرم اس ایپ کی درجہ بندی کرنے میں تھوڑا وقت لگائیں گے؟ آپ کے تعاون کاشکریہ!</string>
+    <string name="rate_now">شرح اب</string>
+    <string name="remind_me">مجھے یاد دلانا</string>
+    <string name="no_thanks">نہیں شکریہ</string>
+    <string name="help">مدد</string>
+    <string name="introduction">تعارف</string>
+    <string name="about">کے بارے میں</string>
+    <string name="help_and_about">مدد</string>
+    <string name="about_summary">ورژن، ڈس کلیمر، رازداری اور مزید</string>
+    <string name="contact_us_by_email">ہم سے رابطہ کریں (ای میل)</string>
+    <string name="app_version">ایپ ورژن</string>
+    <string name="more_bss_apps">بائٹ مجسمہ ساز ایپس</string>
+    <string name="contact">رابطہ کریں۔</string>
+    <string name="faq">عمومی سوالات</string>
+    <string name="contact_us_intro_1">بہت سے صارفین گوگل پلے اسٹور میں ایپ کے ریٹنگ سسٹم کے ذریعے مجھ سے رابطہ کرنے کی کوشش کرتے ہیں۔ بدقسمتی سے، the
+        ڈویلپر کے جواب کی جگہ گوگل کے ذریعہ محدود ہے۔ بہتر تعاون کے لیے، براہ کرم لکھیں:</string>
+    <string name="open_source_licenses">اوپن سورس لائسنس</string>
+    <string name="not_available_on_your_system">آپ کے سسٹم پر دستیاب نہیں ہے۔</string>
+    <string name="more">مزید</string>
+    <string name="disclaimer_text_1" />
+    <string name="disclaimer_text_2">بائٹ سکلپٹر سافٹ ویئر اس ایپلیکیشن کے حقوق کا مالک ہے اور کسی بھی وقت تبدیلیاں کی جا سکتی ہیں۔
+        اس ایپ کو دستی طور پر اور خود بخود اصلی اور ایمولیٹڈ ڈیوائسز پر بگز، غلطیوں اور استحکام کے لیے ٹیسٹ کیا گیا ہے۔
+        تاہم، اس کا مطلب یہ نہیں ہے کہ سافٹ ویئر مکمل طور پر غلطیوں سے پاک ہے۔
+        Android OS بہت سے مختلف آلات پر استعمال ہوتا ہے اور اکثر ڈیوائس بنانے والے کی طرف سے اس میں بہت زیادہ ترمیم کی جاتی ہے۔ یہ ممکن ہے کہ یہ ایپ اس طرح کے آلات پر توقع کے مطابق نہ چل سکے۔
+        \n\nاس سافٹ ویئر کو استعمال کر کے آپ اس بات سے اتفاق کرتے ہیں کہ بائٹ اسکلپٹر سافٹ ویئر آپ کے آلے کو پہنچنے والے کسی بھی نقصان کا ذمہ دار نہیں ہے۔ آپ اس ایپ کو مکمل طور پر اپنی ذمہ داری پر استعمال کرتے ہیں۔
+        \nاگر آپ کو کوئی مسئلہ درپیش ہے تو براہ کرم ہمیں ای میل بھیج کر اس مسئلے کی تفصیلات، اپنے آلے کے ماڈل اور اینڈرائیڈ ورژن کے بارے میں بتائیں۔ شکریہ!</string>
+    <string name="disclaimer_text_3" />
+    <string name="oss_licenses_header">یہ ایپ فی الحال درج ذیل اوپن سورس سافٹ ویئر استعمال کرتی ہے۔</string>
+    <string name="more_licenses">مزید لائسنس</string>
+    <string name="error_on_open_privacy_policy_link">خرابی رازداری کی پالیسی کے لیے ایپ اسٹور چیک کریں۔</string>
+    <string name="disclaimer">ڈس کلیمر</string>
+    <string name="privacy_policy">رازداری کی پالیسی</string>
+    <string name="app_in_the_store">اسٹور میں ایپ</string>
+    <string name="errorOpeningExternalLink">بیرونی لنک کھولنے میں خرابی۔</string>
+    <string name="website">ویب سائٹ</string>
+    <string name="tutorial">ٹیوٹوریل</string>
+    <string name="error_connect_server">سرور سے منسلک ہونے کے دوران خرابی</string>
+    <string name="loading">لوڈ ہو رہا ہے۔</string>
+    <string name="start_ad">اشتہار شروع کریں۔</string>
+    <string name="no_email_app_found">کوئی ای میل ایپ نہیں ملی</string>
+    <string name="roadmap">روڈ میپ</string>
+    <string name="in_app_purchases">درون ایپ خریداریاں</string>
+    <string name="your_purchases">آپ کی خریداریاں</string>
+    <string name="buy">خریدنے</string>
+    <string name="debug_price_not_found">N /A</string>
+    <string name="ad_free">اشتہار سے پاک</string>
+    <string name="pro_version">پرو ورژن</string>
+    <string name="coffee">کافی</string>
+    <string name="purchase_price_not_found">N/A</string>
+    <string name="purchase_title_not_found">SKU نہیں ملا</string>
+    <string name="purchase_completed">خریداری مکمل ہو گئی۔</string>
+    <string name="description_not_found">تفصیل نہیں ملی</string>
+    <string name="message_thank_you">بہت بہت شکریہ!</string>
+    <string name="error_unable_to_make_purchase">خریداری کرنے سے قاصر۔</string>
+    <string name="available_purchases">دستیاب خریداریاں</string>
+    <string name="thank_you_for_your_support">آپ کی حمایت کا شکریہ!</string>
+    <string name="rewarded_description">آپ ایپ سے تمام اشتہارات کو 72 گھنٹے تک ہٹانے کے لیے یہاں ایک انعام یافتہ اشتہار دیکھ سکتے ہیں۔ یہ اشتہار عام اشتہارات سے کچھ لمبے ہوتے ہیں۔\nآپ کو انعام حاصل کرنے کے لیے اشتہار کو آخر تک دیکھنا ہوگا۔</string>
+    <string name="left_rewarded_hours">آپ کے پاس اشتہار سے پاک تجربہ کے %1$s گھنٹے باقی ہیں۔</string>
+    <string name="left_rewarded_days">آپ کے پاس اشتہار سے پاک تجربہ کے %1$s دن باقی ہیں۔</string>
+    <string name="less_one_hour_left_rewarded">آپ کے پاس 1 گھنٹے سے بھی کم وقت باقی ہے۔</string>
+    <string name="pref_remove_ads_72h">72 گھنٹے کے لیے اشتہارات ہٹا دیں۔</string>
+    <string name="no_ad_in_area">فی الحال آپ کے علاقے میں کوئی اشتہار دستیاب نہیں ہے۔</string>
+    <string name="bss_free_app">%s ایک مفت ایپ ہے اور اسے استعمال کرنے کے لیے کسی ادائیگی کی ضرورت نہیں ہے۔ ایک بار کی ادائیگی کے ساتھ اشتہارات کو مستقل طور پر ہٹا دیں۔ آپ کی حمایت کا شکریہ!</string>
+    <string name="support_bss_development">یہ ایک مفت ایپ ہے جو کسی بھی حساس ڈیٹا یا اجازت کی درخواست نہیں کرتی ہے۔ اگر آپ کو ایپ پسند ہے، اور آپ ڈویلپر کی مدد کرنا چاہتے ہیں، تو آپ اسے کافی خرید سکتے ہیں۔</string>
+    <string name="items_unlock_adfree">ہر کافی اشتہار سے پاک ورژن کو کھول دیتی ہے۔ آپ کی حمایت کا شکریہ!</string>
+    <string name="upgrade_to_pro">پرو میں اپ گریڈ کریں۔</string>
+    <string name="restore_purchases">خریداریوں کو بحال کریں۔</string>
+</resources>

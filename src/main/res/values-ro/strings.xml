@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2023 Byte Sculptor Software - All Rights Reserved
+  ~
+  ~ All information contained herein is and remains the property of Byte Sculptor Software.
+  ~ Unauthorized copying of this file, via any medium, is strictly prohibited unless prior
+  ~ written permission is obtained from Byte Sculptor Software.
+  ~
+  ~ Romeo Rondinelli - bytesculptor@gmail.com
+  ~
+  -->
+
+<resources>
+    <string name="settings">Setări</string>
+    <string name="notifications">Notificări</string>
+    <string name="notif_setting">Setări de notificare</string>
+    <string name="set_notif_settings">Setați vizibilitatea, sunetul și vibrația</string>
+    <string name="statistics">Statistici</string>
+    <string name="hint">aluzie</string>
+    <string name="history">Istorie</string>
+    <string name="welcome">Bine ati venit!</string>
+    <string name="good">Bun</string>
+    <string name="app_theme">Temă</string>
+    <string name="app_theme_light">Ușoară</string>
+    <string name="app_theme_dark">Întuneric</string>
+    <string name="app_theme_system">Defectiune de sistem</string>
+    <string name="okay">Bine</string>
+    <string name="yes">Da</string>
+    <string name="no">Nu</string>
+    <string name="no_do_cancel">Nu, anulează</string>
+    <string name="show_me">Arătaţi-mi</string>
+    <string name="close">Închide</string>
+    <string name="cancel">Anulare</string>
+    <string name="save">Salvați</string>
+    <string name="saved">Salvat</string>
+    <string name="edit">Editați | ×</string>
+    <string name="delete">Șterge</string>
+    <string name="delete_all">Sterge tot</string>
+    <string name="share_app">Distribuie aceasta aplicatie</string>
+    <string name="reset">resetare</string>
+    <string name="sort">triere</string>
+    <string name="sort_asc">ascendent</string>
+    <string name="sort_desc">Descendentă</string>
+    <string name="added">adăugat</string>
+    <string name="off">oprit</string>
+    <string name="on">pe</string>
+    <string name="update">Actualizați</string>
+    <string name="collapse_view">vizualizare restrânsă</string>
+    <string name="duplicate">Duplicat</string>
+    <string name="today">astăzi</string>
+    <string name="later">mai tarziu</string>
+    <string name="next">Următorul</string>
+    <string name="abbreviation_monday">Lun</string>
+    <string name="abbreviation_tuesday">Mar</string>
+    <string name="abbreviation_wednesday">Mie</string>
+    <string name="abbreviation_thursday">Joi</string>
+    <string name="abbreviation_friday">Vin</string>
+    <string name="abbreviation_saturday">Sam</string>
+    <string name="abbreviation_sunday">Dum</string>
+    <string name="Monday">luni</string>
+    <string name="Tuesday">marţi</string>
+    <string name="Wednesday">miercuri</string>
+    <string name="Thursday">joi</string>
+    <string name="Friday">vineri</string>
+    <string name="Saturday">sâmbătă</string>
+    <string name="Sunday">duminică</string>
+    <string name="rate_this_app">Evalueaza aceasta aplicatie</string>
+    <string name="szLikeThisAppTitle">Îți place această aplicație?</string>
+    <string name="szLikeThisAppMessage">Cum este experiența ta de până acum? Îți place această aplicație?</string>
+    <string name="szAskFeedbackMessage">Ne pare foarte rău! Doriți să trimiteți feedback pentru a îmbunătăți aplicația?</string>
+    <string name="szLikeThisAppNo">Nu atat de mult</string>
+    <string name="szRatingMessage">Vă rugăm să acordați un moment pentru a evalua această aplicație? Mulțumesc pentru sprijin!</string>
+    <string name="rate_now">Evalueaza acum</string>
+    <string name="remind_me">Aminteste-mi</string>
+    <string name="no_thanks">Nu, mulțumesc</string>
+    <string name="help">Ajutor</string>
+    <string name="introduction">Introducere</string>
+    <string name="about">Despre</string>
+    <string name="help_and_about">Ajutor</string>
+    <string name="about_summary">Versiune, declinare a răspunderii, confidențialitate și multe altele</string>
+    <string name="contact_us_by_email">Contactați-ne (E-mail)</string>
+    <string name="app_version">Versiunea aplicației</string>
+    <string name="more_bss_apps">Aplicații Byte Sculptor</string>
+    <string name="contact">a lua legatura</string>
+    <string name="faq">FAQ</string>
+    <string name="contact_us_intro_1">Mulți utilizatori încearcă să mă contacteze prin sistemul de evaluare al aplicației din Magazinul Google Play. Din păcate,
+        Spațiul de răspuns al dezvoltatorului este limitat de Google. Pentru asistență mai bună, vă rugăm să scrieți la:</string>
+    <string name="open_source_licenses">Licențe open source</string>
+    <string name="not_available_on_your_system">Nu este disponibil pe sistemul dvs</string>
+    <string name="more">Mai mult</string>
+    <string name="disclaimer_text_1" />
+    <string name="disclaimer_text_2">Byte Sculptor Software deține drepturile asupra acestei aplicații și pot fi făcute modificări în orice moment.
+        Această aplicație a fost testată manual și automat pe dispozitive reale și emulate pentru erori, erori și stabilitate.
+        Cu toate acestea, acest lucru nu înseamnă că software-ul este complet lipsit de erori.
+        Sistemul de operare Android este utilizat pe multe dispozitive diferite și este adesea modificat puternic de producătorul dispozitivului. Este posibil ca această aplicație să nu ruleze așa cum era de așteptat pe astfel de dispozitive.
+        \n\nFolosind acest software, sunteți de acord că Byte Sculptor Software nu este responsabil pentru nicio daune cauzate dispozitivului dvs. Utilizați această aplicație complet pe propriul risc.
+        \nDacă întâmpinați probleme, vă rugăm să ne anunțați trimițând un e-mail cu detalii despre problemă, modelul dispozitivului dvs. și versiunea Android. Mulțumesc!</string>
+    <string name="disclaimer_text_3" />
+    <string name="oss_licenses_header">Această aplicație utilizează în prezent următorul software open source:</string>
+    <string name="more_licenses">mai multe licente</string>
+    <string name="error_on_open_privacy_policy_link">Eroare. Verificați în magazinul de aplicații politica de confidențialitate.</string>
+    <string name="disclaimer">Disclaimer</string>
+    <string name="privacy_policy">Politica de confidențialitate</string>
+    <string name="app_in_the_store">Aplicație în Magazin</string>
+    <string name="errorOpeningExternalLink">Eroare la deschiderea linkului extern</string>
+    <string name="website">Site-ul web</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="error_connect_server">Eroare la conectarea la server</string>
+    <string name="loading">Se încarcă</string>
+    <string name="start_ad">Începeți anunțul</string>
+    <string name="no_email_app_found">Nu a fost găsită nicio aplicație de e-mail</string>
+    <string name="roadmap">Foaia de parcurs</string>
+    <string name="in_app_purchases">Achiziții în aplicație</string>
+    <string name="your_purchases">Achizițiile dvs</string>
+    <string name="buy">Cumpără</string>
+    <string name="debug_price_not_found">N /A</string>
+    <string name="ad_free">Fără reclame</string>
+    <string name="pro_version">Versiunea Pro</string>
+    <string name="coffee">Cafea</string>
+    <string name="purchase_price_not_found">N /A</string>
+    <string name="purchase_title_not_found">SKU nu a fost găsit</string>
+    <string name="purchase_completed">Achiziție finalizată.</string>
+    <string name="description_not_found">Descrierea nu a fost găsită</string>
+    <string name="message_thank_you">Mulțumesc foarte mult!</string>
+    <string name="error_unable_to_make_purchase">Nu se poate face achiziția.</string>
+    <string name="available_purchases">Achiziții disponibile</string>
+    <string name="thank_you_for_your_support">Iti multumesc pentru sprijin!</string>
+    <string name="rewarded_description">Puteți viziona aici un anunț cu recompensă pentru a elimina toate anunțurile din aplicație timp de 72 de ore. Aceste anunțuri sunt puțin mai lungi decât anunțurile normale.\nTrebuie să urmărești anunțul până la sfârșit pentru a primi recompensa.</string>
+    <string name="left_rewarded_hours">Mai aveți %1$s ore de experiență fără anunțuri</string>
+    <string name="left_rewarded_days">Mai aveți %1$s zile de experiență fără anunțuri</string>
+    <string name="less_one_hour_left_rewarded">Mai ai mai puțin de 1 oră</string>
+    <string name="pref_remove_ads_72h">Eliminați reclamele timp de 72 de ore</string>
+    <string name="no_ad_in_area">Momentan nu există anunțuri disponibile în zona dvs</string>
+    <string name="bss_free_app">%s este o aplicație gratuită și nu necesită nicio plată pentru ao folosi. Eliminați definitiv anunțurile cu o plată unică. Iti multumesc pentru sprijin!</string>
+    <string name="support_bss_development">Aceasta este o aplicație gratuită care nu solicită date sensibile sau permisiuni. Dacă vă place aplicația și doriți să sprijiniți dezvoltatorul, îi puteți cumpăra o cafea.</string>
+    <string name="items_unlock_adfree">Fiecare cafea deblochează versiunea fără reclame. Iti multumesc pentru sprijin!</string>
+    <string name="upgrade_to_pro">Upgrade la Pro</string>
+    <string name="restore_purchases">Restabiliți achizițiile</string>
+</resources>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2023 Byte Sculptor Software - All Rights Reserved
+  ~
+  ~ All information contained herein is and remains the property of Byte Sculptor Software.
+  ~ Unauthorized copying of this file, via any medium, is strictly prohibited unless prior
+  ~ written permission is obtained from Byte Sculptor Software.
+  ~
+  ~ Romeo Rondinelli - bytesculptor@gmail.com
+  ~
+  -->
+
+<resources>
+    <string name="settings">সেটিংস</string>
+    <string name="notifications">বিজ্ঞপ্তি</string>
+    <string name="notif_setting">বিজ্ঞপ্তি সেটিংস</string>
+    <string name="set_notif_settings">দৃশ্যমানতা, শব্দ এবং কম্পন সেট করুন</string>
+    <string name="statistics">পরিসংখ্যান</string>
+    <string name="hint">ইঙ্গিত</string>
+    <string name="history">ইতিহাস</string>
+    <string name="welcome">স্বাগত!</string>
+    <string name="good">ভাল</string>
+    <string name="app_theme">থিম</string>
+    <string name="app_theme_light">আলো</string>
+    <string name="app_theme_dark">অন্ধকার</string>
+    <string name="app_theme_system">সিস্টেমের ডিফল্ট</string>
+    <string name="okay">ঠিক আছে</string>
+    <string name="yes">হ্যাঁ</string>
+    <string name="no">না</string>
+    <string name="no_do_cancel">না, বাতিল করুন</string>
+    <string name="show_me">আমাকে দেখাও</string>
+    <string name="close">বন্ধ</string>
+    <string name="cancel">বাতিল করুন</string>
+    <string name="save">সংরক্ষণ</string>
+    <string name="saved">সংরক্ষিত</string>
+    <string name="edit">সম্পাদনা করুন</string>
+    <string name="delete">মুছে ফেলা</string>
+    <string name="delete_all">সব মুছে ফেলুন</string>
+    <string name="share_app">এই অ্যাপটি শেয়ার করুন</string>
+    <string name="reset">রিসেট</string>
+    <string name="sort">শ্রেণীবিভাজন</string>
+    <string name="sort_asc">আরোহী</string>
+    <string name="sort_desc">অবরোহী</string>
+    <string name="added">যোগ করা হয়েছে</string>
+    <string name="off">বন্ধ</string>
+    <string name="on">চালু</string>
+    <string name="update">হালনাগাদ</string>
+    <string name="collapse_view">পতন দৃশ্য</string>
+    <string name="duplicate">নকল</string>
+    <string name="today">আজ</string>
+    <string name="later">পরে</string>
+    <string name="next">পরবর্তী</string>
+    <string name="abbreviation_monday">সোম</string>
+    <string name="abbreviation_tuesday">মঙ্গল</string>
+    <string name="abbreviation_wednesday">বুধ</string>
+    <string name="abbreviation_thursday">বৃহ</string>
+    <string name="abbreviation_friday">শুক্র</string>
+    <string name="abbreviation_saturday">শনি</string>
+    <string name="abbreviation_sunday">সূর্য</string>
+    <string name="Monday">সোমবার</string>
+    <string name="Tuesday">মঙ্গলবার</string>
+    <string name="Wednesday">বুধবার</string>
+    <string name="Thursday">বৃহস্পতিবার</string>
+    <string name="Friday">শুক্রবার</string>
+    <string name="Saturday">শনিবার</string>
+    <string name="Sunday">রবিবার</string>
+    <string name="rate_this_app">এই অ্যাপ্লিকেশন রেট</string>
+    <string name="szLikeThisAppTitle">এই অ্যাপটি উপভোগ করছেন?</string>
+    <string name="szLikeThisAppMessage">এখন পর্যন্ত আপনার অভিজ্ঞতা কেমন? আপনি এই অ্যাপ্লিকেশন পছন্দ করেন?</string>
+    <string name="szAskFeedbackMessage">আমরা খুবই দুঃখিত! আপনি কি প্রতিক্রিয়া পাঠাতে চান যাতে আমরা অ্যাপটি উন্নত করি?</string>
+    <string name="szLikeThisAppNo">খুব বেশি না</string>
+    <string name="szRatingMessage">আপনি কি এই অ্যাপটিকে রেট দিতে একটু সময় নেবেন? আপনার সহযোগীতার জন্য ধন্যবাদ!</string>
+    <string name="rate_now">এখন রেট</string>
+    <string name="remind_me">আমাকে মনে রেখ</string>
+    <string name="no_thanks">না ধন্যবাদ</string>
+    <string name="help">সাহায্য</string>
+    <string name="introduction">ভূমিকা</string>
+    <string name="about">সম্পর্কিত</string>
+    <string name="help_and_about">সাহায্য</string>
+    <string name="about_summary">সংস্করণ, দাবিত্যাগ, গোপনীয়তা এবং আরও অনেক কিছু</string>
+    <string name="contact_us_by_email">আমাদের সাথে যোগাযোগ করুন (ইমেল)</string>
+    <string name="app_version">অ্যাপ সংস্করণ</string>
+    <string name="more_bss_apps">বাইট ভাস্কর অ্যাপস</string>
+    <string name="contact">যোগাযোগ</string>
+    <string name="faq">FAQ</string>
+    <string name="contact_us_intro_1">অনেক ব্যবহারকারী গুগল প্লে স্টোরে অ্যাপের রেটিং সিস্টেমের মাধ্যমে আমার সাথে যোগাযোগ করার চেষ্টা করেন। দুর্ভাগ্যবশত, দ
+        বিকাশকারীর উত্তর স্থান Google দ্বারা সীমিত। আরও ভাল সমর্থনের জন্য, দয়া করে এখানে লিখুন:</string>
+    <string name="open_source_licenses">ওপেন সোর্স লাইসেন্স</string>
+    <string name="not_available_on_your_system">আপনার সিস্টেমে উপলব্ধ নেই</string>
+    <string name="more">আরও</string>
+    <string name="disclaimer_text_1" />
+    <string name="disclaimer_text_2">বাইট স্কাল্পটার সফ্টওয়্যার এই অ্যাপ্লিকেশনটির অধিকারের মালিক এবং যেকোনো সময় পরিবর্তন করা যেতে পারে।
+        এই অ্যাপটি বাগ, ত্রুটি এবং স্থায়িত্বের জন্য বাস্তব এবং অনুকরণ করা ডিভাইসে ম্যানুয়ালি এবং স্বয়ংক্রিয়ভাবে পরীক্ষা করা হয়েছে।
+        যাইহোক, এর অর্থ এই নয় যে সফ্টওয়্যারটি ত্রুটি থেকে সম্পূর্ণ মুক্ত।
+        অ্যান্ড্রয়েড ওএস বিভিন্ন ডিভাইসে ব্যবহৃত হয় এবং প্রায়শই ডিভাইস নির্মাতার দ্বারা ব্যাপকভাবে পরিবর্তিত হয়। এটা সম্ভব যে এই ধরনের ডিভাইসে এই অ্যাপটি আশানুরূপ নাও চলতে পারে।
+        \n\nএই সফ্টওয়্যারটি ব্যবহার করে আপনি সম্মত হন যে বাইট স্কাল্পটার সফ্টওয়্যার আপনার ডিভাইসের কোনো ক্ষতির জন্য দায়ী নয়। আপনি আপনার নিজের ঝুঁকিতে সম্পূর্ণরূপে এই অ্যাপ্লিকেশন ব্যবহার করুন.
+        \nআপনি যদি কোনো সমস্যার সম্মুখীন হন তাহলে অনুগ্রহ করে সমস্যা, আপনার ডিভাইসের মডেল এবং অ্যান্ড্রয়েড সংস্করণের বিশদ বিবরণ সহ একটি ইমেল পাঠিয়ে আমাদের জানান। ধন্যবাদ!</string>
+    <string name="disclaimer_text_3" />
+    <string name="oss_licenses_header">এই অ্যাপটি বর্তমানে নিম্নলিখিত ওপেন সোর্স সফ্টওয়্যার ব্যবহার করে:</string>
+    <string name="more_licenses">আরো লাইসেন্স</string>
+    <string name="error_on_open_privacy_policy_link">ত্রুটি. গোপনীয়তা নীতির জন্য অ্যাপ স্টোর চেক করুন.</string>
+    <string name="disclaimer">দাবিত্যাগ</string>
+    <string name="privacy_policy">গোপনীয়তা নীতি</string>
+    <string name="app_in_the_store">স্টোরে অ্যাপ</string>
+    <string name="errorOpeningExternalLink">বাহ্যিক লিঙ্ক খোলার সময় ত্রুটি৷</string>
+    <string name="website">ওয়েবসাইট</string>
+    <string name="tutorial">টিউটোরিয়াল</string>
+    <string name="error_connect_server">সার্ভারে সংযোগ করার সময় ত্রুটি৷</string>
+    <string name="loading">লোড হচ্ছে</string>
+    <string name="start_ad">বিজ্ঞাপন শুরু করুন</string>
+    <string name="no_email_app_found">কোনো ই-মেইল অ্যাপ পাওয়া যায়নি</string>
+    <string name="roadmap">রোডম্যাপ</string>
+    <string name="in_app_purchases">ইন-অ্যাপ কেনাকাটা</string>
+    <string name="your_purchases">আপনার কেনাকাটা</string>
+    <string name="buy">কেনা</string>
+    <string name="debug_price_not_found">N/A</string>
+    <string name="ad_free">বিজ্ঞাপন-মুক্ত</string>
+    <string name="pro_version">প্রো সংস্করণ</string>
+    <string name="coffee">কফি</string>
+    <string name="purchase_price_not_found">N/A</string>
+    <string name="purchase_title_not_found">SKU পাওয়া যায়নি</string>
+    <string name="purchase_completed">ক্রয় সম্পন্ন হয়েছে।</string>
+    <string name="description_not_found">বর্ণনা পাওয়া যায়নি</string>
+    <string name="message_thank_you">আপনাকে অনেক ধন্যবাদ!</string>
+    <string name="error_unable_to_make_purchase">কেনাকাটা করতে অক্ষম।</string>
+    <string name="available_purchases">উপলব্ধ ক্রয়</string>
+    <string name="thank_you_for_your_support">আপনার সমর্থনের জন্য ধন্যবাদ!</string>
+    <string name="rewarded_description">আপনি এখানে 72 ঘন্টার জন্য অ্যাপ থেকে সমস্ত বিজ্ঞাপন সরাতে একটি পুরস্কৃত বিজ্ঞাপন দেখতে পারেন। এই বিজ্ঞাপনগুলি সাধারন বিজ্ঞাপনের তুলনায় একটু লম্বা।\nপুরস্কার পেতে আপনাকে শেষ পর্যন্ত বিজ্ঞাপনটি দেখতে হবে।</string>
+    <string name="left_rewarded_hours">আপনার কাছে বিজ্ঞাপন মুক্ত অভিজ্ঞতার %1$s ঘন্টা বাকি আছে৷</string>
+    <string name="left_rewarded_days">আপনার কাছে বিজ্ঞাপন মুক্ত অভিজ্ঞতার %1$s দিন বাকি আছে৷</string>
+    <string name="less_one_hour_left_rewarded">আপনার কাছে ১ ঘণ্টারও কম সময় বাকি আছে</string>
+    <string name="pref_remove_ads_72h">72 ঘন্টার জন্য বিজ্ঞাপন সরান</string>
+    <string name="no_ad_in_area">বর্তমানে আপনার এলাকায় কোন বিজ্ঞাপন উপলব্ধ নেই</string>
+    <string name="bss_free_app">%s একটি বিনামূল্যের অ্যাপ এবং এটি ব্যবহার করার জন্য কোনো অর্থপ্রদানের প্রয়োজন নেই। এককালীন অর্থপ্রদানের মাধ্যমে স্থায়ীভাবে বিজ্ঞাপনগুলি সরান৷ আপনার সমর্থনের জন্য ধন্যবাদ!</string>
+    <string name="support_bss_development">এটি একটি বিনামূল্যের অ্যাপ যা কোনো সংবেদনশীল ডেটা বা অনুমতির জন্য অনুরোধ করে না। আপনি যদি অ্যাপটি পছন্দ করেন এবং বিকাশকারীকে সমর্থন করতে চান তবে আপনি তাকে একটি কফি কিনতে পারেন।</string>
+    <string name="items_unlock_adfree">প্রতিটি কফি বিজ্ঞাপন-মুক্ত সংস্করণ আনলক করে। আপনার সমর্থনের জন্য ধন্যবাদ!</string>
+    <string name="upgrade_to_pro">প্রো তে উন্নত করা</string>
+    <string name="restore_purchases">কেনাকাটা পুনরুদ্ধার করুন</string>
+</resources>
