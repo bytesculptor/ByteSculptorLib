@@ -130,4 +130,5 @@
     <string name="onboarding_consent_privacy">Durch die Nutzung dieser App stimmen Sie unserer Datenschutzerklärung zu.</string>
     <string name="onboarding_consent_privacy_and_disclaimer">Durch die Nutzung dieser App stimmen Sie unserer Datenschutzerklärung und unserem Haftungsausschluss zu.</string>
     <string name="onboarding_agree">Zustimmen und App starten</string>
+    <string name="onboarding_monetize">Wir monetarisieren die Entwicklung dieser App durch Werbung. Wenn Sie die Weiterentwicklung unterstützen und ein werbefreies Erlebnis haben möchten, sehen Sie sich die In-App-Käufe an.</string>
 </resources>

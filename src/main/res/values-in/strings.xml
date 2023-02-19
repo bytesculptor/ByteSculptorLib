@@ -126,4 +126,5 @@
     <string name="onboarding_consent_privacy">Dengan menggunakan aplikasi ini, Anda memberikan persetujuan Anda terhadap kebijakan privasi kami.</string>
     <string name="onboarding_consent_privacy_and_disclaimer">Dengan menggunakan aplikasi ini, Anda menyetujui kebijakan privasi dan penafian kami.</string>
     <string name="onboarding_agree">Setuju dan mulai aplikasi</string>
+    <string name="onboarding_monetize">Kami memonetisasi pengembangan aplikasi ini melalui iklan. Jika Anda ingin mendukung pengembangan lebih lanjut dan memiliki pengalaman bebas iklan, lihat pembelian dalam aplikasi.</string>
 </resources>

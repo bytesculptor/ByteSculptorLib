@@ -138,4 +138,5 @@
     <string name="onboarding_consent_privacy">Používaním tejto aplikácie vyjadrujete súhlas s našimi zásadami ochrany osobných údajov.</string>
     <string name="onboarding_consent_privacy_and_disclaimer">Používaním tejto aplikácie vyjadrujete svoj súhlas s našimi zásadami ochrany osobných údajov a vylúčením zodpovednosti.</string>
     <string name="onboarding_agree">Súhlaste a spustite aplikáciu</string>
+    <string name="onboarding_monetize">Vývoj tejto aplikácie speňažujeme prostredníctvom reklamy. Ak chcete podporiť ďalší vývoj a máte zážitok bez reklám, pozrite si nákupy v aplikácii.</string>
 </resources>

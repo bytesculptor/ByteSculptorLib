@@ -126,4 +126,5 @@
     <string name="onboarding_consent_privacy">Korzystając z tej aplikacji, wyrażasz zgodę na naszą politykę prywatności.</string>
     <string name="onboarding_consent_privacy_and_disclaimer">Korzystając z tej aplikacji, wyrażasz zgodę na naszą politykę prywatności i wyłączenie odpowiedzialności.</string>
     <string name="onboarding_agree">Zgadzam się i uruchom aplikację</string>
+    <string name="onboarding_monetize">Zarabiamy na rozwoju tej aplikacji poprzez reklamy. Jeśli chcesz wspierać dalszy rozwój i cieszyć się doświadczeniem bez reklam, sprawdź zakupy w aplikacji.</string>
 </resources>

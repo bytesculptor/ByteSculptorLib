@@ -130,6 +130,7 @@
     <string name="onboarding_consent_privacy">By using this app, you give your consent to our privacy policy.</string>
     <string name="onboarding_consent_privacy_and_disclaimer">By using this app, you give your consent to our privacy policy and disclaimer.</string>
     <string name="onboarding_agree">Agree and start app</string>
+    <string name="onboarding_monetize">We monetize the development of this app through advertising. If you like to support further development and have an ad-free experience, check out the in-app purchases.</string>
 
     <!-- licenses -->
     <string name="oss_licenses_header">This app currently uses the following open source software:</string>

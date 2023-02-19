@@ -138,4 +138,5 @@
     <string name="onboarding_consent_privacy">Prin utilizarea acestei aplicații, vă dați acordul cu privire la politica noastră de confidențialitate.</string>
     <string name="onboarding_consent_privacy_and_disclaimer">Prin utilizarea acestei aplicații, vă dați consimțământul pentru politica noastră de confidențialitate și declinarea răspunderii.</string>
     <string name="onboarding_agree">De acord și porniți aplicația</string>
+    <string name="onboarding_monetize">Monetizăm dezvoltarea acestei aplicații prin publicitate. Dacă doriți să susțineți dezvoltarea ulterioară și să aveți o experiență fără reclame, verificați achizițiile în aplicație.</string>
 </resources>

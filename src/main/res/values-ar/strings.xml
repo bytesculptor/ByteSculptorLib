@@ -120,4 +120,5 @@
     <string name="onboarding_consent_privacy">باستخدام هذا التطبيق ، فإنك تمنح موافقتك على سياسة الخصوصية الخاصة بنا.</string>
     <string name="onboarding_consent_privacy_and_disclaimer">باستخدام هذا التطبيق ، فإنك تمنح موافقتك على سياسة الخصوصية وإخلاء المسؤولية.</string>
     <string name="onboarding_agree">وافق وابدأ التطبيق</string>
+    <string name="onboarding_monetize">نحن نستثمر تطوير هذا التطبيق من خلال الإعلانات. إذا كنت ترغب في دعم المزيد من التطوير ولديك تجربة خالية من الإعلانات ، فتحقق من عمليات الشراء داخل التطبيق.</string>
 </resources>

@@ -130,4 +130,5 @@
     <string name="onboarding_consent_privacy">En utilisant cette application, vous acceptez notre politique de confidentialité.</string>
     <string name="onboarding_consent_privacy_and_disclaimer">En utilisant cette application, vous consentez à notre politique de confidentialité et à notre clause de non-responsabilité.</string>
     <string name="onboarding_agree">Accepter et démarrer l\'application</string>
+    <string name="onboarding_monetize">Nous monétisons le développement de cette application grâce à la publicité. Si vous souhaitez soutenir le développement ultérieur et profiter d\'une expérience sans publicité, consultez les achats intégrés.</string>
 </resources>

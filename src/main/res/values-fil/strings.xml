@@ -126,4 +126,5 @@
     <string name="onboarding_consent_privacy">Sa pamamagitan ng paggamit ng app na ito, binibigyan mo ang iyong pahintulot sa aming patakaran sa privacy.</string>
     <string name="onboarding_consent_privacy_and_disclaimer">Sa pamamagitan ng paggamit ng app na ito, binibigyan mo ang iyong pahintulot sa aming patakaran sa privacy at disclaimer.</string>
     <string name="onboarding_agree">Sumang-ayon at simulan ang app</string>
+    <string name="onboarding_monetize">Pinagkakakitaan namin ang pagbuo ng app na ito sa pamamagitan ng advertising. Kung gusto mong suportahan ang karagdagang pag-unlad at magkaroon ng karanasang walang ad, tingnan ang mga in-app na pagbili.</string>
 </resources>

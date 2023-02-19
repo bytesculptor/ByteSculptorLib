@@ -126,4 +126,5 @@
     <string name="onboarding_consent_privacy">이 앱을 사용하면 개인 정보 취급 방침에 동의하는 것입니다.</string>
     <string name="onboarding_consent_privacy_and_disclaimer">이 앱을 사용하면 개인 정보 보호 정책 및 면책 조항에 동의하는 것입니다.</string>
     <string name="onboarding_agree">동의하고 앱 시작</string>
+    <string name="onboarding_monetize">우리는 광고를 통해 이 앱의 개발로 수익을 창출합니다. 추가 개발을 지원하고 광고 없는 경험을 원한다면 인앱 구매를 확인하세요.</string>
 </resources>

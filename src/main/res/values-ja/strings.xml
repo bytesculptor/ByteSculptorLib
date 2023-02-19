@@ -127,4 +127,5 @@
     <string name="onboarding_consent_privacy">このアプリを使用することにより、プライバシー ポリシーに同意したことになります。</string>
     <string name="onboarding_consent_privacy_and_disclaimer">このアプリを使用することにより、プライバシーポリシーと免責事項に同意したことになります。</string>
     <string name="onboarding_agree">同意してアプリを起動</string>
+    <string name="onboarding_monetize">広告を通じてこのアプリの開発を収益化しています。 さらなる開発をサポートし、広告なしの体験をしたい場合は、アプリ内購入をチェックしてください。</string>
 </resources>

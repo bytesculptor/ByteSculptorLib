@@ -126,4 +126,5 @@
     <string name="onboarding_consent_privacy">Používáním této aplikace dáváte souhlas s našimi zásadami ochrany osobních údajů.</string>
     <string name="onboarding_consent_privacy_and_disclaimer">Používáním této aplikace dáváte svůj souhlas s našimi zásadami ochrany osobních údajů a vyloučením odpovědnosti.</string>
     <string name="onboarding_agree">Souhlaste a spusťte aplikaci</string>
+    <string name="onboarding_monetize">Vývoj této aplikace zpeněžujeme prostřednictvím reklamy. Pokud chcete podpořit další vývoj a máte zážitek bez reklam, podívejte se na nákupy v aplikaci.</string>
 </resources>

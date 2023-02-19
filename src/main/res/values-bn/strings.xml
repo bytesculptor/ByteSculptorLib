@@ -138,4 +138,5 @@
     <string name="onboarding_consent_privacy">এই অ্যাপটি ব্যবহার করে, আপনি আমাদের গোপনীয়তা নীতিতে আপনার সম্মতি দেন।</string>
     <string name="onboarding_consent_privacy_and_disclaimer">এই অ্যাপটি ব্যবহার করে, আপনি আমাদের গোপনীয়তা নীতি এবং দাবিত্যাগে আপনার সম্মতি দেন।</string>
     <string name="onboarding_agree">সম্মত হন এবং অ্যাপ শুরু করুন</string>
+    <string name="onboarding_monetize">আমরা বিজ্ঞাপনের মাধ্যমে এই অ্যাপটির বিকাশকে নগদীকরণ করি। আপনি যদি আরও উন্নয়ন সমর্থন করতে চান এবং বিজ্ঞাপন-মুক্ত অভিজ্ঞতা পেতে চান, তাহলে অ্যাপ-মধ্যস্থ কেনাকাটা দেখুন।</string>
 </resources>

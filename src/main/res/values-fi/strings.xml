@@ -126,4 +126,5 @@
     <string name="onboarding_consent_privacy">Käyttämällä tätä sovellusta annat suostumuksesi tietosuojakäytäntöön.</string>
     <string name="onboarding_consent_privacy_and_disclaimer">Käyttämällä tätä sovellusta annat suostumuksesi tietosuojakäytäntöömme ja vastuuvapauslausekkeellemme.</string>
     <string name="onboarding_agree">Hyväksy ja käynnistä sovellus</string>
+    <string name="onboarding_monetize">Rahastamme tämän sovelluksen kehityksen mainonnan kautta. Jos haluat tukea jatkokehitystä ja sinulla on mainokseton kokemus, tutustu sovelluksen sisäisiin ostoihin.</string>
 </resources>

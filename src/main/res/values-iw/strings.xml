@@ -119,4 +119,5 @@
     <string name="onboarding_consent_privacy">על ידי שימוש באפליקציה זו, אתה נותן את הסכמתך למדיניות הפרטיות שלנו.</string>
     <string name="onboarding_consent_privacy_and_disclaimer">על ידי שימוש באפליקציה זו, אתה נותן את הסכמתך למדיניות הפרטיות ולכתב ויתור שלנו.</string>
     <string name="onboarding_agree">מסכים והפעל אפליקציה</string>
+    <string name="onboarding_monetize">אנו מייצרים רווח מהפיתוח של האפליקציה הזו באמצעות פרסום. אם אתה רוצה לתמוך בפיתוח נוסף וליהנות מחוויה ללא פרסומות, בדוק את הרכישות מתוך האפליקציה.</string>
 </resources>

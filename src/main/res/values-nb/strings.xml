@@ -126,4 +126,5 @@
     <string name="onboarding_consent_privacy">Ved å bruke denne appen gir du ditt samtykke til personvernreglene våre.</string>
     <string name="onboarding_consent_privacy_and_disclaimer">Ved å bruke denne appen gir du ditt samtykke til vår personvernerklæring og ansvarsfraskrivelse.</string>
     <string name="onboarding_agree">Enig og start appen</string>
+    <string name="onboarding_monetize">Vi tjener penger på utviklingen av denne appen gjennom annonsering. Hvis du liker å støtte videre utvikling og ha en annonsefri opplevelse, sjekk ut kjøpene i appen.</string>
 </resources>

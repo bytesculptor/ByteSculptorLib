@@ -126,4 +126,5 @@
     <string name="onboarding_consent_privacy">Door deze app te gebruiken, geef je toestemming voor ons privacybeleid.</string>
     <string name="onboarding_consent_privacy_and_disclaimer">Door deze app te gebruiken, stemt u in met ons privacybeleid en onze disclaimer.</string>
     <string name="onboarding_agree">Akkoord en app starten</string>
+    <string name="onboarding_monetize">We verdienen geld aan de ontwikkeling van deze app door middel van advertenties. Als je verdere ontwikkeling wilt ondersteunen en een advertentievrije ervaring wilt hebben, bekijk dan de in-app aankopen.</string>
 </resources>

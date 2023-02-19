@@ -138,4 +138,5 @@
     <string name="onboarding_consent_privacy">การใช้แอพนี้แสดงว่าคุณยินยอมต่อนโยบายความเป็นส่วนตัวของเรา</string>
     <string name="onboarding_consent_privacy_and_disclaimer">การใช้แอพนี้แสดงว่าคุณยินยอมต่อนโยบายความเป็นส่วนตัวและข้อจำกัดความรับผิดชอบของเรา</string>
     <string name="onboarding_agree">ตกลงและเริ่มแอพ</string>
+    <string name="onboarding_monetize">เราสร้างรายได้จากการพัฒนาแอปนี้ผ่านการโฆษณา หากคุณต้องการสนับสนุนการพัฒนาเพิ่มเติมและมีประสบการณ์แบบไม่มีโฆษณา ลองดูการซื้อในแอป</string>
 </resources>
