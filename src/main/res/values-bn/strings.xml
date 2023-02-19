@@ -135,4 +135,7 @@
     <string name="items_unlock_adfree">প্রতিটি কফি বিজ্ঞাপন-মুক্ত সংস্করণ আনলক করে। আপনার সমর্থনের জন্য ধন্যবাদ!</string>
     <string name="upgrade_to_pro">প্রো তে উন্নত করা</string>
     <string name="restore_purchases">কেনাকাটা পুনরুদ্ধার করুন</string>
+    <string name="onboarding_consent_privacy">এই অ্যাপটি ব্যবহার করে, আপনি আমাদের গোপনীয়তা নীতিতে আপনার সম্মতি দেন।</string>
+    <string name="onboarding_consent_privacy_and_disclaimer">এই অ্যাপটি ব্যবহার করে, আপনি আমাদের গোপনীয়তা নীতি এবং দাবিত্যাগে আপনার সম্মতি দেন।</string>
+    <string name="onboarding_agree">সম্মত হন এবং অ্যাপ শুরু করুন</string>
 </resources>

@@ -135,4 +135,7 @@
     <string name="items_unlock_adfree">प्रत्येक कॉफी विज्ञापन-मुक्त संस्करण को अनलॉक करती है। आपके समर्थन के लिए धन्यवाद!</string>
     <string name="upgrade_to_pro">प्रो में अपग्रेड</string>
     <string name="restore_purchases">खरीदारी वापस लौटाएं</string>
+    <string name="onboarding_consent_privacy">इस ऐप का उपयोग करके आप हमारी गोपनीयता नीति को अपनी सहमति देते हैं।</string>
+    <string name="onboarding_consent_privacy_and_disclaimer">इस ऐप का उपयोग करके, आप हमारी गोपनीयता नीति और अस्वीकरण पर अपनी सहमति देते हैं।</string>
+    <string name="onboarding_agree">सहमत हों और ऐप शुरू करें</string>
 </resources>

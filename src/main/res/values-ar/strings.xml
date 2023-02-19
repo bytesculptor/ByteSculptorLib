@@ -117,4 +117,7 @@
     <string name="bss_free_app">%s هو تطبيق مجاني ولا يتطلب أي مدفوعات لاستخدامه. إزالة الإعلانات نهائيًا بدفع دفعة واحدة. شكرا لدعمكم!</string>
     <string name="message_thank_you">شكراً جزيلاً!</string>
     <string name="thank_you_for_your_support">شكرا لدعمكم!</string>
+    <string name="onboarding_consent_privacy">باستخدام هذا التطبيق ، فإنك تمنح موافقتك على سياسة الخصوصية الخاصة بنا.</string>
+    <string name="onboarding_consent_privacy_and_disclaimer">باستخدام هذا التطبيق ، فإنك تمنح موافقتك على سياسة الخصوصية وإخلاء المسؤولية.</string>
+    <string name="onboarding_agree">وافق وابدأ التطبيق</string>
 </resources>

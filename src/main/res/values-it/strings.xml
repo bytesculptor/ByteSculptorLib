@@ -127,4 +127,7 @@
     <string name="more">Di più</string>
     <string name="bss_free_app">%s è un\'app gratuita e non richiede alcun pagamento per utilizzarla. Rimuovi definitivamente gli annunci con un pagamento una tantum. Grazie per il vostro sostegno!</string>
     <string name="thank_you_for_your_support">Grazie per il vostro sostegno!</string>
+    <string name="onboarding_consent_privacy">Utilizzando questa app, date il vostro consenso alla nostra politica sulla privacy.</string>
+    <string name="onboarding_consent_privacy_and_disclaimer">Utilizzando questa app, dai il tuo consenso alla nostra politica sulla privacy e al disclaimer.</string>
+    <string name="onboarding_agree">Accetta e avvia l\'app</string>
 </resources>

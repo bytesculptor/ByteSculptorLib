@@ -135,4 +135,7 @@
     <string name="items_unlock_adfree">ہر کافی اشتہار سے پاک ورژن کو کھول دیتی ہے۔ آپ کی حمایت کا شکریہ!</string>
     <string name="upgrade_to_pro">پرو میں اپ گریڈ کریں۔</string>
     <string name="restore_purchases">خریداریوں کو بحال کریں۔</string>
+    <string name="onboarding_consent_privacy">اس ایپ کو استعمال کرکے، آپ ہماری رازداری کی پالیسی کو اپنی رضامندی دیتے ہیں۔</string>
+    <string name="onboarding_consent_privacy_and_disclaimer">اس ایپ کو استعمال کرکے، آپ ہماری پرائیویسی پالیسی اور ڈس کلیمر کو اپنی رضامندی دیتے ہیں۔</string>
+    <string name="onboarding_agree">اتفاق کریں اور ایپ شروع کریں۔</string>
 </resources>

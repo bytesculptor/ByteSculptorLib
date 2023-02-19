@@ -123,4 +123,7 @@
     <string name="bss_free_app">%s is een gratis app en vereist geen betaling om deze te gebruiken. Advertenties definitief verwijderen met een eenmalige betaling. Bedankt voor je ondersteuning!</string>
     <string name="message_thank_you">Hartelijk dank!</string>
     <string name="thank_you_for_your_support">Bedankt voor je ondersteuning!</string>
+    <string name="onboarding_consent_privacy">Door deze app te gebruiken, geef je toestemming voor ons privacybeleid.</string>
+    <string name="onboarding_consent_privacy_and_disclaimer">Door deze app te gebruiken, stemt u in met ons privacybeleid en onze disclaimer.</string>
+    <string name="onboarding_agree">Akkoord en app starten</string>
 </resources>

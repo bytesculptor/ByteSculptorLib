@@ -123,4 +123,7 @@
     <string name="bss_free_app">%s ialah apl percuma dan tidak memerlukan sebarang bayaran untuk menggunakannya. Alih keluar iklan secara kekal dengan bayaran sekali sahaja. Terima kasih atas sokongan anda!</string>
     <string name="message_thank_you">Terima kasih banyak - banyak!</string>
     <string name="thank_you_for_your_support">Terima kasih atas sokongan anda!</string>
+    <string name="onboarding_consent_privacy">Dengan menggunakan aplikasi ini, anda memberikan persetujuan anda terhadap dasar privasi kami.</string>
+    <string name="onboarding_consent_privacy_and_disclaimer">Dengan menggunakan aplikasi ini, anda memberikan persetujuan anda kepada dasar privasi dan penafian kami.</string>
+    <string name="onboarding_agree">Setuju dan mulakan aplikasi</string>
 </resources>

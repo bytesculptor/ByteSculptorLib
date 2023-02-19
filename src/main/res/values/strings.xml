@@ -126,6 +126,11 @@
     </string>
     <string name="disclaimer_text_3"></string>
 
+    <!-- on boarding -->
+    <string name="onboarding_consent_privacy">By using this app, you give your consent to our privacy policy.</string>
+    <string name="onboarding_consent_privacy_and_disclaimer">By using this app, you give your consent to our privacy policy and disclaimer.</string>
+    <string name="onboarding_agree">Agree and start app</string>
+
     <!-- licenses -->
     <string name="oss_licenses_header">This app currently uses the following open source software:</string>
     <string name="header_license_1" translatable="false">Material Design Icons</string>

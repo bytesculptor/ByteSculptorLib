@@ -135,4 +135,7 @@
     <string name="items_unlock_adfree">Každá káva odomkne verziu bez reklám. Ďakujem za tvoju podporu!</string>
     <string name="upgrade_to_pro">Inovujte na Pro</string>
     <string name="restore_purchases">Obnoviť nákupy</string>
+    <string name="onboarding_consent_privacy">Používaním tejto aplikácie vyjadrujete súhlas s našimi zásadami ochrany osobných údajov.</string>
+    <string name="onboarding_consent_privacy_and_disclaimer">Používaním tejto aplikácie vyjadrujete svoj súhlas s našimi zásadami ochrany osobných údajov a vylúčením zodpovednosti.</string>
+    <string name="onboarding_agree">Súhlaste a spustite aplikáciu</string>
 </resources>

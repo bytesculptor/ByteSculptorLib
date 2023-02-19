@@ -127,4 +127,7 @@
     <string name="bss_free_app">%s est une application gratuite et ne nécessite aucun paiement pour l\'utiliser. Supprimez définitivement les publicités avec un paiement unique. Merci pour votre soutien!</string>
     <string name="message_thank_you">Merci beaucoup!</string>
     <string name="thank_you_for_your_support">Merci pour votre soutien!</string>
+    <string name="onboarding_consent_privacy">En utilisant cette application, vous acceptez notre politique de confidentialité.</string>
+    <string name="onboarding_consent_privacy_and_disclaimer">En utilisant cette application, vous consentez à notre politique de confidentialité et à notre clause de non-responsabilité.</string>
+    <string name="onboarding_agree">Accepter et démarrer l\'application</string>
 </resources>

@@ -123,4 +123,7 @@
     <string name="bss_free_app">%s adalah aplikasi gratis dan tidak memerlukan pembayaran apa pun untuk menggunakannya. Hapus iklan secara permanen dengan pembayaran satu kali. Terima kasih atas dukungan Anda!</string>
     <string name="message_thank_you">Terima kasih banyak!</string>
     <string name="thank_you_for_your_support">Terima kasih atas dukungan Anda!</string>
+    <string name="onboarding_consent_privacy">Dengan menggunakan aplikasi ini, Anda memberikan persetujuan Anda terhadap kebijakan privasi kami.</string>
+    <string name="onboarding_consent_privacy_and_disclaimer">Dengan menggunakan aplikasi ini, Anda menyetujui kebijakan privasi dan penafian kami.</string>
+    <string name="onboarding_agree">Setuju dan mulai aplikasi</string>
 </resources>
