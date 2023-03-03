@@ -132,9 +132,9 @@
     <string name="no_ad_in_area">বর্তমানে আপনার এলাকায় কোন বিজ্ঞাপন উপলব্ধ নেই</string>
     <string name="bss_free_app">%s একটি বিনামূল্যের অ্যাপ এবং এটি ব্যবহার করার জন্য কোনো অর্থপ্রদানের প্রয়োজন নেই। এককালীন অর্থপ্রদানের মাধ্যমে স্থায়ীভাবে বিজ্ঞাপনগুলি সরান৷ আপনার সমর্থনের জন্য ধন্যবাদ!</string>
     <string name="support_bss_development">এটি একটি বিনামূল্যের অ্যাপ যা কোনো সংবেদনশীল ডেটা বা অনুমতির জন্য অনুরোধ করে না। আপনি যদি অ্যাপটি পছন্দ করেন এবং বিকাশকারীকে সমর্থন করতে চান তবে আপনি তাকে একটি কফি কিনতে পারেন।</string>
-    <string name="items_unlock_adfree">প্রতিটি কফি বিজ্ঞাপন-মুক্ত সংস্করণ আনলক করে। আপনার সমর্থনের জন্য ধন্যবাদ!</string>
+    <string name="iap_coffee_unlock_adfree">প্রতিটি কফি বিজ্ঞাপন-মুক্ত সংস্করণ আনলক করে। আপনার সমর্থনের জন্য ধন্যবাদ!</string>
     <string name="upgrade_to_pro">প্রো তে উন্নত করা</string>
-    <string name="restore_purchases">কেনাকাটা পুনরুদ্ধার করুন</string>
+    <string name="iap_restore_purchases">কেনাকাটা পুনরুদ্ধার করুন</string>
     <string name="onboarding_consent_privacy">এই অ্যাপটি ব্যবহার করে, আপনি আমাদের গোপনীয়তা নীতিতে আপনার সম্মতি দেন।</string>
     <string name="onboarding_consent_privacy_and_disclaimer">এই অ্যাপটি ব্যবহার করে, আপনি আমাদের গোপনীয়তা নীতি এবং দাবিত্যাগে আপনার সম্মতি দেন।</string>
     <string name="onboarding_agree">সম্মত হন এবং অ্যাপ শুরু করুন</string>

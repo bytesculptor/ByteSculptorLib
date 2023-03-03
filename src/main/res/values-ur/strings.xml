@@ -132,9 +132,9 @@
     <string name="no_ad_in_area">فی الحال آپ کے علاقے میں کوئی اشتہار دستیاب نہیں ہے۔</string>
     <string name="bss_free_app">%s ایک مفت ایپ ہے اور اسے استعمال کرنے کے لیے کسی ادائیگی کی ضرورت نہیں ہے۔ ایک بار کی ادائیگی کے ساتھ اشتہارات کو مستقل طور پر ہٹا دیں۔ آپ کی حمایت کا شکریہ!</string>
     <string name="support_bss_development">یہ ایک مفت ایپ ہے جو کسی بھی حساس ڈیٹا یا اجازت کی درخواست نہیں کرتی ہے۔ اگر آپ کو ایپ پسند ہے، اور آپ ڈویلپر کی مدد کرنا چاہتے ہیں، تو آپ اسے کافی خرید سکتے ہیں۔</string>
-    <string name="items_unlock_adfree">ہر کافی اشتہار سے پاک ورژن کو کھول دیتی ہے۔ آپ کی حمایت کا شکریہ!</string>
+    <string name="iap_coffee_unlock_adfree">ہر کافی اشتہار سے پاک ورژن کو کھول دیتی ہے۔ آپ کی حمایت کا شکریہ!</string>
     <string name="upgrade_to_pro">پرو میں اپ گریڈ کریں۔</string>
-    <string name="restore_purchases">خریداریوں کو بحال کریں۔</string>
+    <string name="iap_restore_purchases">خریداریوں کو بحال کریں۔</string>
     <string name="onboarding_consent_privacy">اس ایپ کو استعمال کرکے، آپ ہماری رازداری کی پالیسی کو اپنی رضامندی دیتے ہیں۔</string>
     <string name="onboarding_consent_privacy_and_disclaimer">اس ایپ کو استعمال کرکے، آپ ہماری پرائیویسی پالیسی اور ڈس کلیمر کو اپنی رضامندی دیتے ہیں۔</string>
     <string name="onboarding_agree">اتفاق کریں اور ایپ شروع کریں۔</string>

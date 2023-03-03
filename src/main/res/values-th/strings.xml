@@ -132,9 +132,9 @@
     <string name="no_ad_in_area">ขณะนี้ไม่มีโฆษณาในพื้นที่ของคุณ</string>
     <string name="bss_free_app">%s เป็นแอปฟรีและไม่ต้องชำระเงินเพื่อใช้งาน ลบโฆษณาอย่างถาวรด้วยการชำระเงินครั้งเดียว ขอบคุณสำหรับการสนับสนุนของคุณ!</string>
     <string name="support_bss_development">นี่เป็นแอพฟรีที่ไม่ขอข้อมูลหรือสิทธิ์ที่ละเอียดอ่อน หากคุณชอบแอปนี้และต้องการสนับสนุนนักพัฒนา คุณสามารถซื้อกาแฟให้เขาได้</string>
-    <string name="items_unlock_adfree">กาแฟแต่ละตัวจะปลดล็อกเวอร์ชันที่ไม่มีโฆษณา ขอบคุณสำหรับการสนับสนุนของคุณ!</string>
+    <string name="iap_coffee_unlock_adfree">กาแฟแต่ละตัวจะปลดล็อกเวอร์ชันที่ไม่มีโฆษณา ขอบคุณสำหรับการสนับสนุนของคุณ!</string>
     <string name="upgrade_to_pro">อัปเกรดเป็น Pro</string>
-    <string name="restore_purchases">เรียกคืนการซื้อสินค้า</string>
+    <string name="iap_restore_purchases">เรียกคืนการซื้อสินค้า</string>
     <string name="onboarding_consent_privacy">การใช้แอพนี้แสดงว่าคุณยินยอมต่อนโยบายความเป็นส่วนตัวของเรา</string>
     <string name="onboarding_consent_privacy_and_disclaimer">การใช้แอพนี้แสดงว่าคุณยินยอมต่อนโยบายความเป็นส่วนตัวและข้อจำกัดความรับผิดชอบของเรา</string>
     <string name="onboarding_agree">ตกลงและเริ่มแอพ</string>

@@ -132,9 +132,9 @@
     <string name="no_ad_in_area">वर्तमान में आपके क्षेत्र में कोई विज्ञापन उपलब्ध नहीं है</string>
     <string name="bss_free_app">%s एक निःशुल्क ऐप है और इसका उपयोग करने के लिए किसी भुगतान की आवश्यकता नहीं है। एकमुश्त भुगतान के साथ विज्ञापनों को स्थायी रूप से हटा दें। आपके समर्थन के लिए धन्यवाद!</string>
     <string name="support_bss_development">यह एक निःशुल्क ऐप है जो किसी भी संवेदनशील डेटा या अनुमतियों का अनुरोध नहीं करता है। यदि आप ऐप को पसंद करते हैं और डेवलपर का समर्थन करना चाहते हैं, तो आप उसके लिए कॉफी खरीद सकते हैं।</string>
-    <string name="items_unlock_adfree">प्रत्येक कॉफी विज्ञापन-मुक्त संस्करण को अनलॉक करती है। आपके समर्थन के लिए धन्यवाद!</string>
+    <string name="iap_coffee_unlock_adfree">प्रत्येक कॉफी विज्ञापन-मुक्त संस्करण को अनलॉक करती है। आपके समर्थन के लिए धन्यवाद!</string>
     <string name="upgrade_to_pro">प्रो में अपग्रेड</string>
-    <string name="restore_purchases">खरीदारी वापस लौटाएं</string>
+    <string name="iap_restore_purchases">खरीदारी वापस लौटाएं</string>
     <string name="onboarding_consent_privacy">इस ऐप का उपयोग करके आप हमारी गोपनीयता नीति को अपनी सहमति देते हैं।</string>
     <string name="onboarding_consent_privacy_and_disclaimer">इस ऐप का उपयोग करके, आप हमारी गोपनीयता नीति और अस्वीकरण पर अपनी सहमति देते हैं।</string>
     <string name="onboarding_agree">सहमत हों और ऐप शुरू करें</string>

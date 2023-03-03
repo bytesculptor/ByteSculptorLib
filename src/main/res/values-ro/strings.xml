@@ -132,9 +132,9 @@
     <string name="no_ad_in_area">Momentan nu există anunțuri disponibile în zona dvs</string>
     <string name="bss_free_app">%s este o aplicație gratuită și nu necesită nicio plată pentru ao folosi. Eliminați definitiv anunțurile cu o plată unică. Iti multumesc pentru sprijin!</string>
     <string name="support_bss_development">Aceasta este o aplicație gratuită care nu solicită date sensibile sau permisiuni. Dacă vă place aplicația și doriți să sprijiniți dezvoltatorul, îi puteți cumpăra o cafea.</string>
-    <string name="items_unlock_adfree">Fiecare cafea deblochează versiunea fără reclame. Iti multumesc pentru sprijin!</string>
+    <string name="iap_coffee_unlock_adfree">Fiecare cafea deblochează versiunea fără reclame. Iti multumesc pentru sprijin!</string>
     <string name="upgrade_to_pro">Upgrade la Pro</string>
-    <string name="restore_purchases">Restabiliți achizițiile</string>
+    <string name="iap_restore_purchases">Restabiliți achizițiile</string>
     <string name="onboarding_consent_privacy">Prin utilizarea acestei aplicații, vă dați acordul cu privire la politica noastră de confidențialitate.</string>
     <string name="onboarding_consent_privacy_and_disclaimer">Prin utilizarea acestei aplicații, vă dați consimțământul pentru politica noastră de confidențialitate și declinarea răspunderii.</string>
     <string name="onboarding_agree">De acord și porniți aplicația</string>

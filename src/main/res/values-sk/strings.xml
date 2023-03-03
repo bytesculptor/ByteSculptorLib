@@ -132,9 +132,9 @@
     <string name="no_ad_in_area">Vo vašej oblasti momentálne nie sú dostupné žiadne reklamy</string>
     <string name="bss_free_app">%s je bezplatná aplikácia a za jej používanie nie sú potrebné žiadne platby. Natrvalo odstráňte reklamy pomocou jednorazovej platby. Ďakujem za tvoju podporu!</string>
     <string name="support_bss_development">Toto je bezplatná aplikácia, ktorá nevyžaduje žiadne citlivé údaje ani povolenia. Ak sa vám aplikácia páči a chceli by ste vývojára podporiť, môžete mu kúpiť kávu.</string>
-    <string name="items_unlock_adfree">Každá káva odomkne verziu bez reklám. Ďakujem za tvoju podporu!</string>
+    <string name="iap_coffee_unlock_adfree">Každá káva odomkne verziu bez reklám. Ďakujem za tvoju podporu!</string>
     <string name="upgrade_to_pro">Inovujte na Pro</string>
-    <string name="restore_purchases">Obnoviť nákupy</string>
+    <string name="iap_restore_purchases">Obnoviť nákupy</string>
     <string name="onboarding_consent_privacy">Používaním tejto aplikácie vyjadrujete súhlas s našimi zásadami ochrany osobných údajov.</string>
     <string name="onboarding_consent_privacy_and_disclaimer">Používaním tejto aplikácie vyjadrujete svoj súhlas s našimi zásadami ochrany osobných údajov a vylúčením zodpovednosti.</string>
     <string name="onboarding_agree">Súhlaste a spustite aplikáciu</string>

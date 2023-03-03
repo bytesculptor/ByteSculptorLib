@@ -179,6 +179,14 @@
         once you have gotten it from Play.\n\n<b>Example: <tt>base64EncodedPublicKey=[key value]</tt>
         </b></string>
     <string name="alert_error_title_encoded_public_key_not_set" translatable="false">Public Key Not Set</string>
+    <string name="bss_free_app">%s is a free app and does not require any payment to use it. Permanently remove ads with a one-time payment. Thank you for your support!</string>
+    <string name="support_bss_development">This is a free app which does not request any sensitive data or permissions. If you like the app, and would like to support the developer, you can buy him a coffee.</string>
+    <string name="iap_coffee_unlock_adfree">Each coffee unlocks the Ad-Free version. Thank you for your support!</string>
+    <string name="upgrade_to_pro">Upgrade to Pro</string>
+    <string name="iap_billing_unavailable">In-app billing is not available. Possible reasons:\n- The Play Store app is out of date\n- You are in an unsupported country\n- You are an enterprise user and the enterprise admin has disabled users from making purchases\n- Google Play is unable to charge your payment method.</string>
+    <string name="iap_restore_purchases">Restore purchases</string>
+    <string name="iap_feature_not_supported">The requested feature is not supported by the Play Store on the current device.</string>
+    <string name="iap_item_unavailable">The requested product is not available for purchase.</string>
 
     <!-- rewarded ad -->
     <string name="rewarded_description">You can watch here a rewarded ad to remove all ads from the app for 72 hours. These ads are a bit longer than the normal ads.\nYou have to watch the ad until the end to receive the reward.</string>
@@ -188,9 +196,4 @@
     <string name="pref_remove_ads_72h">Remove ads for 72 hours</string>
     <string name="no_ad_in_area">Currently no ads available in your area</string>
 
-    <string name="bss_free_app">%s is a free app and does not require any payment to use it. Permanently remove ads with a one-time payment. Thank you for your support!</string>
-    <string name="support_bss_development">This is a free app which does not request any sensitive data or permissions. If you like the app, and would like to support the developer, you can buy him a coffee.</string>
-    <string name="items_unlock_adfree">Each coffee unlocks the Ad-Free version. Thank you for your support!</string>
-    <string name="upgrade_to_pro">Upgrade to Pro</string>
-    <string name="restore_purchases">Restore purchases</string>
 </resources>
