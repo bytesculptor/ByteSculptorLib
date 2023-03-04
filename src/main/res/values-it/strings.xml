@@ -124,11 +124,23 @@
     <string name="rewarded_description">Potete guardare qui una pubblicità con premio per rimuovere tutta la pubblicità dall\'app per 72 ore. Questa pubblicità é un po\' più lungho degla pubblicità normale.\nDevete guardare la pubblicità fino alla fine per ricevere il premio.</string>
     <string name="delete_all">Cancella tutto</string>
     <string name="about_summary">Versione, privacy e altro</string>
-    <string name="more">Di più</string>
     <string name="bss_free_app">%s è un\'app gratuita e non richiede alcun pagamento per utilizzarla. Rimuovi definitivamente gli annunci con un pagamento una tantum. Grazie per il vostro sostegno!</string>
     <string name="thank_you_for_your_support">Grazie per il vostro sostegno!</string>
     <string name="onboarding_consent_privacy">Utilizzando questa app, date il vostro consenso alla nostra politica sulla privacy.</string>
     <string name="onboarding_consent_privacy_and_disclaimer">Utilizzando questa app, dai il tuo consenso alla nostra politica sulla privacy e al disclaimer.</string>
     <string name="onboarding_agree">Accetta e avvia l\'app</string>
     <string name="onboarding_monetize">Monetizziamo lo sviluppo di questa app attraverso la pubblicità. Se desideri supportare l\'ulteriore sviluppo e vivere un\'esperienza senza pubblicità, dai un\'occhiata agli acquisti in-app.</string>
+    <string name="debug_price_not_found">N/A</string>
+    <string name="coffee">Caffè</string>
+    <string name="purchase_price_not_found">N/A</string>
+    <string name="purchase_title_not_found">SKU non trovato</string>
+    <string name="purchase_completed">Acquisto completato.</string>
+    <string name="support_bss_development">Questa è un\'app gratuita che non richiede dati o autorizzazioni sensibili. Se ti piace l\'app e desideri supportare lo sviluppatore, puoi offrirgli un caffè.</string>
+    <string name="iap_coffee_unlock_adfree">Ogni caffè sblocca la versione senza pubblicità. Grazie per il vostro sostegno!</string>
+    <string name="upgrade_to_pro">Aggiornamento a Pro</string>
+    <string name="iap_billing_unavailable">La fatturazione in-app non è disponibile. Possibili motivi: \n- L\'app Play Store non è aggiornata \n- Ti trovi in un Paese non supportato \n- Sei un utente aziendale e l\'amministratore aziendale ha impedito agli utenti di effettuare acquisti \n- Google Play non è in grado di addebitare il tuo metodo di pagamento.</string>
+    <string name="iap_restore_purchases">Ripristinare gli acquisti</string>
+    <string name="iap_feature_not_supported">La funzione richiesta non è supportata dal Play Store sul dispositivo corrente.</string>
+    <string name="iap_item_unavailable">Il prodotto richiesto non è disponibile per l\'acquisto.</string>
+    <string name="more">Di più</string>
 </resources>

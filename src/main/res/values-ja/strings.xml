@@ -128,4 +128,17 @@
     <string name="onboarding_consent_privacy_and_disclaimer">このアプリを使用することにより、プライバシーポリシーと免責事項に同意したことになります。</string>
     <string name="onboarding_agree">同意してアプリを起動</string>
     <string name="onboarding_monetize">広告を通じてこのアプリの開発を収益化しています。 さらなる開発をサポートし、広告なしの体験をしたい場合は、アプリ内購入をチェックしてください。</string>
+    <string name="debug_price_not_found">なし</string>
+    <string name="coffee">コーヒー</string>
+    <string name="purchase_price_not_found">なし</string>
+    <string name="purchase_title_not_found">SKUが見つかりません</string>
+    <string name="purchase_completed">購入完了。</string>
+    <string name="support_bss_development">これは、機密データや権限を要求しない無料アプリです。アプリが気に入って開発者をサポートしたい場合は、彼にコーヒーを買うことができます。</string>
+    <string name="iap_coffee_unlock_adfree">各コーヒーは、広告なしのバージョンのロックを解除します。ご協力ありがとうございます！</string>
+    <string name="upgrade_to_pro">プロ仕様にアップグレードする</string>
+    <string name="iap_billing_unavailable">アプリ内課金は利用できません。考えられる理由: \n- Play ストア アプリが最新ではありません \n- サポートされていない国にいます \n- あなたはエンタープライズ ユーザーですが、エンタープライズ管理者はユーザーによる購入を無効にしています \n- Google Play は請求できませんお支払い方法。</string>
+    <string name="iap_restore_purchases">購入を復元</string>
+    <string name="iap_feature_not_supported">リクエストされた機能は、現在のデバイスの Play ストアではサポートされていません。</string>
+    <string name="iap_item_unavailable">要求された製品は購入できません。</string>
+    <string name="more">もっと</string>
 </resources>

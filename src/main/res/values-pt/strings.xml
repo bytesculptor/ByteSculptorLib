@@ -127,4 +127,17 @@
     <string name="onboarding_consent_privacy_and_disclaimer">Ao usar este aplicativo, você concorda com nossa política de privacidade e isenção de responsabilidade.</string>
     <string name="onboarding_agree"> Concordar e iniciar o aplicativo</string>
     <string name="onboarding_monetize">Monetizamos o desenvolvimento deste aplicativo por meio de publicidade. Se você gosta de apoiar o desenvolvimento e ter uma experiência sem anúncios, confira as compras no aplicativo.</string>
+    <string name="debug_price_not_found">N/D</string>
+    <string name="coffee">Café</string>
+    <string name="purchase_price_not_found">N/D</string>
+    <string name="purchase_title_not_found">SKU não encontrado</string>
+    <string name="purchase_completed">Compra concluída.</string>
+    <string name="support_bss_development">Este é um aplicativo gratuito que não solicita dados ou permissões confidenciais. Se você gosta do aplicativo e gostaria de apoiar o desenvolvedor, pode pagar um café para ele.</string>
+    <string name="iap_coffee_unlock_adfree">Cada café desbloqueia a versão Ad-Free. Obrigado pelo seu apoio!</string>
+    <string name="upgrade_to_pro">Atualize para Pro</string>
+    <string name="iap_billing_unavailable">O faturamento no aplicativo não está disponível. Motivos possíveis: \n- O aplicativo Play Store está desatualizado \n- Você está em um país sem suporte \n- Você é um usuário corporativo e o administrador da empresa desativou os usuários de fazer compras \n- O Google Play não pode cobrar seu método de pagamento.</string>
+    <string name="iap_restore_purchases">Restaurar compras</string>
+    <string name="iap_feature_not_supported">O recurso solicitado não é compatível com a Play Store no dispositivo atual.</string>
+    <string name="iap_item_unavailable">O produto solicitado não está disponível para compra.</string>
+    <string name="more">Mais</string>
 </resources>

@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?><!--
-  ~ Copyright (c) 2023 Byte Sculptor Software - All Rights Reserved
+  ~ Copyright 2023 Byte Sculptor Software
   ~
-  ~ All information contained herein is and remains the property of Byte Sculptor Software.
-  ~ Unauthorized copying of this file, via any medium, is strictly prohibited unless prior
-  ~ written permission is obtained from Byte Sculptor Software.
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
   ~
-  ~ Romeo Rondinelli - bytesculptor@gmail.com
+  ~ http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  ~
   ~
   -->
 
@@ -86,7 +93,6 @@
         ڈویلپر کے جواب کی جگہ گوگل کے ذریعہ محدود ہے۔ بہتر تعاون کے لیے، براہ کرم لکھیں:</string>
     <string name="open_source_licenses">اوپن سورس لائسنس</string>
     <string name="not_available_on_your_system">آپ کے سسٹم پر دستیاب نہیں ہے۔</string>
-    <string name="more">مزید</string>
     <string name="disclaimer_text_1" />
     <string name="disclaimer_text_2">بائٹ سکلپٹر سافٹ ویئر اس ایپلیکیشن کے حقوق کا مالک ہے اور کسی بھی وقت تبدیلیاں کی جا سکتی ہیں۔
         اس ایپ کو دستی طور پر اور خود بخود اصلی اور ایمولیٹڈ ڈیوائسز پر بگز، غلطیوں اور استحکام کے لیے ٹیسٹ کیا گیا ہے۔
@@ -112,13 +118,8 @@
     <string name="in_app_purchases">درون ایپ خریداریاں</string>
     <string name="your_purchases">آپ کی خریداریاں</string>
     <string name="buy">خریدنے</string>
-    <string name="debug_price_not_found">N /A</string>
     <string name="ad_free">اشتہار سے پاک</string>
     <string name="pro_version">پرو ورژن</string>
-    <string name="coffee">کافی</string>
-    <string name="purchase_price_not_found">N/A</string>
-    <string name="purchase_title_not_found">SKU نہیں ملا</string>
-    <string name="purchase_completed">خریداری مکمل ہو گئی۔</string>
     <string name="description_not_found">تفصیل نہیں ملی</string>
     <string name="message_thank_you">بہت بہت شکریہ!</string>
     <string name="error_unable_to_make_purchase">خریداری کرنے سے قاصر۔</string>
@@ -131,12 +132,21 @@
     <string name="pref_remove_ads_72h">72 گھنٹے کے لیے اشتہارات ہٹا دیں۔</string>
     <string name="no_ad_in_area">فی الحال آپ کے علاقے میں کوئی اشتہار دستیاب نہیں ہے۔</string>
     <string name="bss_free_app">%s ایک مفت ایپ ہے اور اسے استعمال کرنے کے لیے کسی ادائیگی کی ضرورت نہیں ہے۔ ایک بار کی ادائیگی کے ساتھ اشتہارات کو مستقل طور پر ہٹا دیں۔ آپ کی حمایت کا شکریہ!</string>
-    <string name="support_bss_development">یہ ایک مفت ایپ ہے جو کسی بھی حساس ڈیٹا یا اجازت کی درخواست نہیں کرتی ہے۔ اگر آپ کو ایپ پسند ہے، اور آپ ڈویلپر کی مدد کرنا چاہتے ہیں، تو آپ اسے کافی خرید سکتے ہیں۔</string>
-    <string name="iap_coffee_unlock_adfree">ہر کافی اشتہار سے پاک ورژن کو کھول دیتی ہے۔ آپ کی حمایت کا شکریہ!</string>
-    <string name="upgrade_to_pro">پرو میں اپ گریڈ کریں۔</string>
-    <string name="iap_restore_purchases">خریداریوں کو بحال کریں۔</string>
     <string name="onboarding_consent_privacy">اس ایپ کو استعمال کرکے، آپ ہماری رازداری کی پالیسی کو اپنی رضامندی دیتے ہیں۔</string>
     <string name="onboarding_consent_privacy_and_disclaimer">اس ایپ کو استعمال کرکے، آپ ہماری پرائیویسی پالیسی اور ڈس کلیمر کو اپنی رضامندی دیتے ہیں۔</string>
     <string name="onboarding_agree">اتفاق کریں اور ایپ شروع کریں۔</string>
     <string name="onboarding_monetize">ہم اشتہارات کے ذریعے اس ایپ کی ترقی کو منیٹائز کرتے ہیں۔ اگر آپ مزید ترقی کو سپورٹ کرنا چاہتے ہیں اور اشتہار سے پاک تجربہ حاصل کرنا چاہتے ہیں تو درون ایپ خریداریوں کو دیکھیں۔</string>
+    <string name="debug_price_not_found">N/A</string>
+    <string name="coffee">کافی</string>
+    <string name="purchase_price_not_found">N/A</string>
+    <string name="purchase_title_not_found">SKU نہیں ملا</string>
+    <string name="purchase_completed">خریداری مکمل ہو گئی۔</string>
+    <string name="support_bss_development">یہ ایک مفت ایپ ہے جو کسی بھی حساس ڈیٹا یا اجازت کی درخواست نہیں کرتی ہے۔ اگر آپ کو ایپ پسند ہے، اور آپ ڈویلپر کی مدد کرنا چاہتے ہیں، تو آپ اسے کافی خرید سکتے ہیں۔</string>
+    <string name="iap_coffee_unlock_adfree">ہر کافی اشتہار سے پاک ورژن کو کھول دیتی ہے۔ آپ کی حمایت کا شکریہ!</string>
+    <string name="upgrade_to_pro">پرو میں اپ گریڈ کریں۔</string>
+    <string name="iap_billing_unavailable">درون ایپ بلنگ دستیاب نہیں ہے۔ ممکنہ وجوہات: \n- Play Store ایپ پرانی ہے \n- آپ ایک غیر تعاون یافتہ ملک میں ہیں \n- آپ ایک انٹرپرائز صارف ہیں اور انٹرپرائز کے منتظم نے صارفین کو خریداری کرنے سے روک دیا ہے \n- Google Play چارج کرنے سے قاصر ہے آپ کی ادائیگی کا طریقہ۔</string>
+    <string name="iap_restore_purchases">خریداریوں کو بحال کریں۔</string>
+    <string name="iap_feature_not_supported">درخواست کردہ فیچر موجودہ ڈیوائس پر Play Store کے ذریعے تعاون یافتہ نہیں ہے۔</string>
+    <string name="iap_item_unavailable">درخواست کردہ پروڈکٹ خریداری کے لیے دستیاب نہیں ہے۔</string>
+    <string name="more">مزید</string>
 </resources>

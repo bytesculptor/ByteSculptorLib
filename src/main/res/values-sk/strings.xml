@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?><!--
-  ~ Copyright (c) 2023 Byte Sculptor Software - All Rights Reserved
+  ~ Copyright 2023 Byte Sculptor Software
   ~
-  ~ All information contained herein is and remains the property of Byte Sculptor Software.
-  ~ Unauthorized copying of this file, via any medium, is strictly prohibited unless prior
-  ~ written permission is obtained from Byte Sculptor Software.
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
   ~
-  ~ Romeo Rondinelli - bytesculptor@gmail.com
+  ~ http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  ~
   ~
   -->
 
@@ -86,7 +93,6 @@
         priestor na odpovede vývojára je obmedzený spoločnosťou Google. Pre lepšiu podporu napíšte na:</string>
     <string name="open_source_licenses">Licencie s otvoreným zdrojom</string>
     <string name="not_available_on_your_system">Nie je k dispozícii vo vašom systéme</string>
-    <string name="more">Viac</string>
     <string name="disclaimer_text_1" />
     <string name="disclaimer_text_2">Byte Sculptor Software vlastní práva na túto aplikáciu a zmeny môžu byť vykonané kedykoľvek.
         Táto aplikácia bola testovaná manuálne a automaticky na skutočných a emulovaných zariadeniach na chyby, chyby a stabilitu.
@@ -112,13 +118,8 @@
     <string name="in_app_purchases">Nákupy v aplikácii</string>
     <string name="your_purchases">Vaše nákupy</string>
     <string name="buy">Kúpiť</string>
-    <string name="debug_price_not_found">N/A</string>
     <string name="ad_free">Bez reklám</string>
     <string name="pro_version">Verzia Pro</string>
-    <string name="coffee">Káva</string>
-    <string name="purchase_price_not_found">N/A</string>
-    <string name="purchase_title_not_found">SKU sa nenašlo</string>
-    <string name="purchase_completed">Nákup dokončený.</string>
     <string name="description_not_found">Popis sa nenašiel</string>
     <string name="message_thank_you">Ďakujem mnohokrát!</string>
     <string name="error_unable_to_make_purchase">Nie je možné uskutočniť nákup.</string>
@@ -131,12 +132,21 @@
     <string name="pref_remove_ads_72h">Odstráňte reklamy na 72 hodín</string>
     <string name="no_ad_in_area">Vo vašej oblasti momentálne nie sú dostupné žiadne reklamy</string>
     <string name="bss_free_app">%s je bezplatná aplikácia a za jej používanie nie sú potrebné žiadne platby. Natrvalo odstráňte reklamy pomocou jednorazovej platby. Ďakujem za tvoju podporu!</string>
-    <string name="support_bss_development">Toto je bezplatná aplikácia, ktorá nevyžaduje žiadne citlivé údaje ani povolenia. Ak sa vám aplikácia páči a chceli by ste vývojára podporiť, môžete mu kúpiť kávu.</string>
-    <string name="iap_coffee_unlock_adfree">Každá káva odomkne verziu bez reklám. Ďakujem za tvoju podporu!</string>
-    <string name="upgrade_to_pro">Inovujte na Pro</string>
-    <string name="iap_restore_purchases">Obnoviť nákupy</string>
     <string name="onboarding_consent_privacy">Používaním tejto aplikácie vyjadrujete súhlas s našimi zásadami ochrany osobných údajov.</string>
     <string name="onboarding_consent_privacy_and_disclaimer">Používaním tejto aplikácie vyjadrujete svoj súhlas s našimi zásadami ochrany osobných údajov a vylúčením zodpovednosti.</string>
     <string name="onboarding_agree">Súhlaste a spustite aplikáciu</string>
     <string name="onboarding_monetize">Vývoj tejto aplikácie speňažujeme prostredníctvom reklamy. Ak chcete podporiť ďalší vývoj a máte zážitok bez reklám, pozrite si nákupy v aplikácii.</string>
+    <string name="debug_price_not_found">N/A</string>
+    <string name="coffee">Káva</string>
+    <string name="purchase_price_not_found">N/A</string>
+    <string name="purchase_title_not_found">SKU sa nenašlo</string>
+    <string name="purchase_completed">Nákup dokončený.</string>
+    <string name="support_bss_development">Toto je bezplatná aplikácia, ktorá nevyžaduje žiadne citlivé údaje ani povolenia. Ak sa vám aplikácia páči a chceli by ste vývojára podporiť, môžete mu kúpiť kávu.</string>
+    <string name="iap_coffee_unlock_adfree">Každá káva odomkne verziu bez reklám. Ďakujem za tvoju podporu!</string>
+    <string name="upgrade_to_pro">Inovujte na Pro</string>
+    <string name="iap_billing_unavailable">Fakturácia v aplikácii nie je k dispozícii. Možné dôvody: \n– Aplikácia Obchod Play je zastaraná \n– Nachádzate sa v nepodporovanej krajine \n– Ste podnikový používateľ a podnikový správca zakázal používateľom nakupovať \n– Služba Google Play nedokáže účtovať poplatky váš spôsob platby.</string>
+    <string name="iap_restore_purchases">Obnoviť nákupy</string>
+    <string name="iap_feature_not_supported">Obchod Play na aktuálnom zariadení požadovanú funkciu nepodporuje.</string>
+    <string name="iap_item_unavailable">Požadovaný produkt nie je možné zakúpiť.</string>
+    <string name="more">Viac</string>
 </resources>

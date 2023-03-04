@@ -127,7 +127,6 @@
     <string name="rewarded_description">Тук можете да гледате рекламна заставка с награда, за да премахнете всички реклами от приложението за 72 часа. Тези реклами са малко по-дълги от обикновените реклами. Трябва да гледате рекламата до края, за да получите наградата.</string>
     <string name="no_ad_in_area">В момента няма налични реклами във вашия район</string>
     <string name="delete_all">изтриване на всички</string>
-    <string name="more">Повече</string>
     <string name="bss_free_app">%s е безплатно приложение и не изисква плащане, за да го използвате. Премахване на реклами за постоянно с еднократно плащане. Благодарим ви за вашата подкрепа!</string>
     <string name="message_thank_you">Благодаря ти много!</string>
     <string name="thank_you_for_your_support">Благодарим за подкрепата!</string>
@@ -135,4 +134,17 @@
     <string name="onboarding_consent_privacy_and_disclaimer">Използвайки това приложение, вие давате съгласието си с нашата политика за поверителност и отказ от отговорност.</string>
     <string name="onboarding_agree">Съгласете се и стартирайте приложението</string>
     <string name="onboarding_monetize">Осигуряваме приходи от разработването на това приложение чрез реклама. Ако искате да подкрепите по-нататъшното развитие и да имате изживяване без реклами, разгледайте покупките в приложението.</string>
+    <string name="debug_price_not_found">N/A</string>
+    <string name="coffee">кафе</string>
+    <string name="purchase_price_not_found">N/A</string>
+    <string name="purchase_title_not_found">SKU не е намерен</string>
+    <string name="purchase_completed">Покупката е завършена.</string>
+    <string name="support_bss_development">Това е безплатно приложение, което не изисква чувствителни данни или разрешения. Ако харесвате приложението и искате да подкрепите разработчика, можете да го почерпите с кафе.</string>
+    <string name="iap_coffee_unlock_adfree">Всяко кафе отключва версията без реклами. Благодарим ви за вашата подкрепа!</string>
+    <string name="upgrade_to_pro">Надстройте до Pro</string>
+    <string name="iap_billing_unavailable">Таксуването в приложението не е налично. Възможни причини: \n- Приложението Play Store е остаряло \n- Вие сте в неподдържана държава \n- Вие сте корпоративен потребител и корпоративният администратор е деактивирал потребителите да правят покупки \n- Google Play не може да таксува вашия начин на плащане.</string>
+    <string name="iap_restore_purchases">Възстановяване на покупките</string>
+    <string name="iap_feature_not_supported">Исканата функция не се поддържа от Play Store на текущото устройство.</string>
+    <string name="iap_item_unavailable">Исканият продукт не е наличен за покупка.</string>
+    <string name="more">Повече</string>
 </resources>

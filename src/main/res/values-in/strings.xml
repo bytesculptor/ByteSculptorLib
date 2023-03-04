@@ -127,4 +127,17 @@
     <string name="onboarding_consent_privacy_and_disclaimer">Dengan menggunakan aplikasi ini, Anda menyetujui kebijakan privasi dan penafian kami.</string>
     <string name="onboarding_agree">Setuju dan mulai aplikasi</string>
     <string name="onboarding_monetize">Kami memonetisasi pengembangan aplikasi ini melalui iklan. Jika Anda ingin mendukung pengembangan lebih lanjut dan memiliki pengalaman bebas iklan, lihat pembelian dalam aplikasi.</string>
+    <string name="debug_price_not_found">T/A</string>
+    <string name="coffee">Kopi</string>
+    <string name="purchase_price_not_found">T/A</string>
+    <string name="purchase_title_not_found">SKU tidak ditemukan</string>
+    <string name="purchase_completed">Pembelian selesai.</string>
+    <string name="support_bss_development">Ini adalah aplikasi gratis yang tidak meminta data atau izin sensitif apa pun. Jika Anda menyukai aplikasinya, dan ingin mendukung pengembangnya, Anda dapat membelikannya kopi.</string>
+    <string name="iap_coffee_unlock_adfree">Setiap kopi membuka kunci versi Bebas Iklan. Terima kasih atas dukungan Anda!</string>
+    <string name="upgrade_to_pro">Upgrade ke yang lebih baik</string>
+    <string name="iap_billing_unavailable">Penagihan dalam aplikasi tidak tersedia. Kemungkinan alasan: \n- Aplikasi Play Store sudah usang \n- Anda berada di negara yang tidak didukung \n- Anda adalah pengguna perusahaan dan admin perusahaan telah menonaktifkan pengguna untuk melakukan pembelian \n- Google Play tidak dapat membebankan biaya metode pembayaran Anda.</string>
+    <string name="iap_restore_purchases">Mengembalikan pembelian</string>
+    <string name="iap_feature_not_supported">Fitur yang diminta tidak didukung oleh Play Store di perangkat saat ini.</string>
+    <string name="iap_item_unavailable">Produk yang diminta tidak tersedia untuk dibeli.</string>
+    <string name="more">Lagi</string>
 </resources>

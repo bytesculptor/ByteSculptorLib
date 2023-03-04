@@ -127,4 +127,17 @@
     <string name="onboarding_consent_privacy_and_disclaimer">Korzystając z tej aplikacji, wyrażasz zgodę na naszą politykę prywatności i wyłączenie odpowiedzialności.</string>
     <string name="onboarding_agree">Zgadzam się i uruchom aplikację</string>
     <string name="onboarding_monetize">Zarabiamy na rozwoju tej aplikacji poprzez reklamy. Jeśli chcesz wspierać dalszy rozwój i cieszyć się doświadczeniem bez reklam, sprawdź zakupy w aplikacji.</string>
+    <string name="debug_price_not_found">Nie dotyczy</string>
+    <string name="coffee">Kawa</string>
+    <string name="purchase_price_not_found">Nie dotyczy</string>
+    <string name="purchase_title_not_found">Nie znaleziono jednostki SKU</string>
+    <string name="purchase_completed">Zakup zakończony.</string>
+    <string name="support_bss_development">Jest to bezpłatna aplikacja, która nie wymaga żadnych wrażliwych danych ani uprawnień. Jeśli podoba Ci się aplikacja i chciałbyś wesprzeć dewelopera, możesz postawić mu kawę.</string>
+    <string name="iap_coffee_unlock_adfree">Każda kawa odblokowuje wersję bez reklam. Dziękuję za Twoje wsparcie!</string>
+    <string name="upgrade_to_pro">Przejść na wersje Pro</string>
+    <string name="iap_billing_unavailable">Rozliczenia w aplikacji nie są dostępne. Możliwe przyczyny: \n- Aplikacja Sklep Play jest nieaktualna \n- Znajdujesz się w nieobsługiwanym kraju \n- Jesteś użytkownikiem firmowym, a administrator firmy uniemożliwił użytkownikom dokonywanie zakupów \n- Google Play nie może pobierać opłat Twoja metoda płatności.</string>
+    <string name="iap_restore_purchases">Przywróć zakupy</string>
+    <string name="iap_feature_not_supported">Żądana funkcja nie jest obsługiwana przez Sklep Play na bieżącym urządzeniu.</string>
+    <string name="iap_item_unavailable">Żądany produkt nie jest dostępny w sprzedaży.</string>
+    <string name="more">Więcej</string>
 </resources>

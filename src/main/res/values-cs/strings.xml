@@ -127,4 +127,17 @@
     <string name="onboarding_consent_privacy_and_disclaimer">Používáním této aplikace dáváte svůj souhlas s našimi zásadami ochrany osobních údajů a vyloučením odpovědnosti.</string>
     <string name="onboarding_agree">Souhlaste a spusťte aplikaci</string>
     <string name="onboarding_monetize">Vývoj této aplikace zpeněžujeme prostřednictvím reklamy. Pokud chcete podpořit další vývoj a máte zážitek bez reklam, podívejte se na nákupy v aplikaci.</string>
+    <string name="debug_price_not_found">N/A</string>
+    <string name="coffee">Káva</string>
+    <string name="purchase_price_not_found">N/A</string>
+    <string name="purchase_title_not_found">SKU nenalezeno</string>
+    <string name="purchase_completed">Nákup dokončen.</string>
+    <string name="support_bss_development">Toto je bezplatná aplikace, která nevyžaduje žádná citlivá data ani oprávnění. Pokud se vám aplikace líbí a chtěli byste vývojáře podpořit, můžete mu koupit kávu.</string>
+    <string name="iap_coffee_unlock_adfree">Každá káva odemkne verzi bez reklam. Děkuji za vaší podporu!</string>
+    <string name="upgrade_to_pro">Upgradujte na Pro</string>
+    <string name="iap_billing_unavailable">Fakturace v aplikaci není k dispozici. Možné důvody: \n– Aplikace Obchod Play je zastaralá \n– Nacházíte se v nepodporované zemi \n– Jste podnikový uživatel a podnikový administrátor zakázal uživatelům nakupovat \n– Google Play nemůže účtovat vaší platební metodě.</string>
+    <string name="iap_restore_purchases">Obnovit nákupy</string>
+    <string name="iap_feature_not_supported">Požadovanou funkci Obchod Play na aktuálním zařízení nepodporuje.</string>
+    <string name="iap_item_unavailable">Požadovaný produkt není možné zakoupit.</string>
+    <string name="more">Více</string>
 </resources>

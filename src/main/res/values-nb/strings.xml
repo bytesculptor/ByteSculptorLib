@@ -127,4 +127,17 @@
     <string name="onboarding_consent_privacy_and_disclaimer">Ved å bruke denne appen gir du ditt samtykke til vår personvernerklæring og ansvarsfraskrivelse.</string>
     <string name="onboarding_agree">Enig og start appen</string>
     <string name="onboarding_monetize">Vi tjener penger på utviklingen av denne appen gjennom annonsering. Hvis du liker å støtte videre utvikling og ha en annonsefri opplevelse, sjekk ut kjøpene i appen.</string>
+    <string name="debug_price_not_found">N/A</string>
+    <string name="coffee">Kaffe</string>
+    <string name="purchase_price_not_found">N/A</string>
+    <string name="purchase_title_not_found">SKU ikke funnet</string>
+    <string name="purchase_completed">Kjøp fullført.</string>
+    <string name="support_bss_development">Dette er en gratis app som ikke ber om noen sensitive data eller tillatelser. Hvis du liker appen, og ønsker å støtte utvikleren, kan du kjøpe en kaffe til ham.</string>
+    <string name="iap_coffee_unlock_adfree">Hver kaffe låser opp annonsefri versjon. Takk for støtten!</string>
+    <string name="upgrade_to_pro">Oppgrader til Pro</string>
+    <string name="iap_billing_unavailable">Fakturering i appen er ikke tilgjengelig. Mulige årsaker: \n- Play Butikk-appen er utdatert \n- Du er i et land som ikke støttes \n- Du er en bedriftsbruker og bedriftsadministratoren har deaktivert brukere fra å foreta kjøp \n- Google Play kan ikke belaste betalingsmåten din.</string>
+    <string name="iap_restore_purchases">Gjenopprette kjøp</string>
+    <string name="iap_feature_not_supported">Den forespurte funksjonen støttes ikke av Play-butikken på gjeldende enhet.</string>
+    <string name="iap_item_unavailable">Det forespurte produktet er ikke tilgjengelig for kjøp.</string>
+    <string name="more">Mer</string>
 </resources>

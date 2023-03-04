@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?><!--
-  ~ Copyright (c) 2023 Byte Sculptor Software - All Rights Reserved
+  ~ Copyright 2023 Byte Sculptor Software
   ~
-  ~ All information contained herein is and remains the property of Byte Sculptor Software.
-  ~ Unauthorized copying of this file, via any medium, is strictly prohibited unless prior
-  ~ written permission is obtained from Byte Sculptor Software.
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
   ~
-  ~ Romeo Rondinelli - bytesculptor@gmail.com
+  ~ http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  ~
   ~
   -->
 
@@ -86,7 +93,6 @@
         พื้นที่คำตอบของนักพัฒนาซอฟต์แวร์ถูกจำกัดโดย Google เพื่อการสนับสนุนที่ดีขึ้น โปรดเขียนถึง:</string>
     <string name="open_source_licenses">ใบอนุญาตโอเพ่นซอร์ส</string>
     <string name="not_available_on_your_system">ไม่มีในระบบของคุณ</string>
-    <string name="more">มากกว่า</string>
     <string name="disclaimer_text_1" />
     <string name="disclaimer_text_2">Byte Sculptor Software เป็นเจ้าของสิทธิ์ในแอปพลิเคชันนี้และสามารถทำการเปลี่ยนแปลงได้ตลอดเวลา
         แอปนี้ได้รับการทดสอบด้วยตนเองและโดยอัตโนมัติบนอุปกรณ์จริงและจำลองเพื่อหาจุดบกพร่อง ข้อผิดพลาด และความเสถียร
@@ -112,13 +118,8 @@
     <string name="in_app_purchases">การซื้อในแอป</string>
     <string name="your_purchases">การซื้อของคุณ</string>
     <string name="buy">ซื้อ</string>
-    <string name="debug_price_not_found">ไม่มีข้อมูล</string>
     <string name="ad_free">ไม่มีโฆษณา</string>
     <string name="pro_version">รุ่นโปร</string>
-    <string name="coffee">กาแฟ</string>
-    <string name="purchase_price_not_found">ไม่มีข้อมูล</string>
-    <string name="purchase_title_not_found">ไม่พบ SKU</string>
-    <string name="purchase_completed">ซื้อเสร็จแล้ว</string>
     <string name="description_not_found">ไม่พบคำอธิบาย</string>
     <string name="message_thank_you">ขอบคุณมาก!</string>
     <string name="error_unable_to_make_purchase">ไม่สามารถทำการซื้อได้</string>
@@ -131,12 +132,21 @@
     <string name="pref_remove_ads_72h">ลบโฆษณาเป็นเวลา 72 ชั่วโมง</string>
     <string name="no_ad_in_area">ขณะนี้ไม่มีโฆษณาในพื้นที่ของคุณ</string>
     <string name="bss_free_app">%s เป็นแอปฟรีและไม่ต้องชำระเงินเพื่อใช้งาน ลบโฆษณาอย่างถาวรด้วยการชำระเงินครั้งเดียว ขอบคุณสำหรับการสนับสนุนของคุณ!</string>
-    <string name="support_bss_development">นี่เป็นแอพฟรีที่ไม่ขอข้อมูลหรือสิทธิ์ที่ละเอียดอ่อน หากคุณชอบแอปนี้และต้องการสนับสนุนนักพัฒนา คุณสามารถซื้อกาแฟให้เขาได้</string>
-    <string name="iap_coffee_unlock_adfree">กาแฟแต่ละตัวจะปลดล็อกเวอร์ชันที่ไม่มีโฆษณา ขอบคุณสำหรับการสนับสนุนของคุณ!</string>
-    <string name="upgrade_to_pro">อัปเกรดเป็น Pro</string>
-    <string name="iap_restore_purchases">เรียกคืนการซื้อสินค้า</string>
     <string name="onboarding_consent_privacy">การใช้แอพนี้แสดงว่าคุณยินยอมต่อนโยบายความเป็นส่วนตัวของเรา</string>
     <string name="onboarding_consent_privacy_and_disclaimer">การใช้แอพนี้แสดงว่าคุณยินยอมต่อนโยบายความเป็นส่วนตัวและข้อจำกัดความรับผิดชอบของเรา</string>
     <string name="onboarding_agree">ตกลงและเริ่มแอพ</string>
     <string name="onboarding_monetize">เราสร้างรายได้จากการพัฒนาแอปนี้ผ่านการโฆษณา หากคุณต้องการสนับสนุนการพัฒนาเพิ่มเติมและมีประสบการณ์แบบไม่มีโฆษณา ลองดูการซื้อในแอป</string>
+    <string name="debug_price_not_found">ไม่มีข้อมูล</string>
+    <string name="coffee">กาแฟ</string>
+    <string name="purchase_price_not_found">ไม่มีข้อมูล</string>
+    <string name="purchase_title_not_found">ไม่พบ SKU</string>
+    <string name="purchase_completed">ซื้อเสร็จแล้ว</string>
+    <string name="support_bss_development">นี่เป็นแอพฟรีที่ไม่ขอข้อมูลหรือสิทธิ์ที่ละเอียดอ่อน หากคุณชอบแอปนี้และต้องการสนับสนุนนักพัฒนา คุณสามารถซื้อกาแฟให้เขาได้</string>
+    <string name="iap_coffee_unlock_adfree">กาแฟแต่ละตัวจะปลดล็อกเวอร์ชันที่ไม่มีโฆษณา ขอบคุณสำหรับการสนับสนุนของคุณ!</string>
+    <string name="upgrade_to_pro">อัปเกรดเป็น Pro</string>
+    <string name="iap_billing_unavailable">ไม่มีการเรียกเก็บเงินในแอป สาเหตุที่เป็นไปได้: \n- แอป Play Store ล้าสมัย \n- คุณอยู่ในประเทศที่ไม่รองรับ \n- คุณเป็นผู้ใช้ระดับองค์กรและผู้ดูแลระบบขององค์กรได้ปิดไม่ให้ผู้ใช้ทำการซื้อ \n- Google Play ไม่สามารถเรียกเก็บเงินได้ วิธีการชำระเงินของคุณ</string>
+    <string name="iap_restore_purchases">เรียกคืนการซื้อสินค้า</string>
+    <string name="iap_feature_not_supported">ฟีเจอร์ที่ร้องขอไม่ได้รับการสนับสนุนโดย Play Store บนอุปกรณ์ปัจจุบัน</string>
+    <string name="iap_item_unavailable">ผลิตภัณฑ์ที่ร้องขอไม่สามารถซื้อได้</string>
+    <string name="more">มากกว่า</string>
 </resources>

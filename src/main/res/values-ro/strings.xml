@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?><!--
-  ~ Copyright (c) 2023 Byte Sculptor Software - All Rights Reserved
+  ~ Copyright 2023 Byte Sculptor Software
   ~
-  ~ All information contained herein is and remains the property of Byte Sculptor Software.
-  ~ Unauthorized copying of this file, via any medium, is strictly prohibited unless prior
-  ~ written permission is obtained from Byte Sculptor Software.
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
   ~
-  ~ Romeo Rondinelli - bytesculptor@gmail.com
+  ~ http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  ~
   ~
   -->
 
@@ -86,7 +93,6 @@
         Spațiul de răspuns al dezvoltatorului este limitat de Google. Pentru asistență mai bună, vă rugăm să scrieți la:</string>
     <string name="open_source_licenses">Licențe open source</string>
     <string name="not_available_on_your_system">Nu este disponibil pe sistemul dvs</string>
-    <string name="more">Mai mult</string>
     <string name="disclaimer_text_1" />
     <string name="disclaimer_text_2">Byte Sculptor Software deține drepturile asupra acestei aplicații și pot fi făcute modificări în orice moment.
         Această aplicație a fost testată manual și automat pe dispozitive reale și emulate pentru erori, erori și stabilitate.
@@ -112,13 +118,8 @@
     <string name="in_app_purchases">Achiziții în aplicație</string>
     <string name="your_purchases">Achizițiile dvs</string>
     <string name="buy">Cumpără</string>
-    <string name="debug_price_not_found">N /A</string>
     <string name="ad_free">Fără reclame</string>
     <string name="pro_version">Versiunea Pro</string>
-    <string name="coffee">Cafea</string>
-    <string name="purchase_price_not_found">N /A</string>
-    <string name="purchase_title_not_found">SKU nu a fost găsit</string>
-    <string name="purchase_completed">Achiziție finalizată.</string>
     <string name="description_not_found">Descrierea nu a fost găsită</string>
     <string name="message_thank_you">Mulțumesc foarte mult!</string>
     <string name="error_unable_to_make_purchase">Nu se poate face achiziția.</string>
@@ -131,12 +132,21 @@
     <string name="pref_remove_ads_72h">Eliminați reclamele timp de 72 de ore</string>
     <string name="no_ad_in_area">Momentan nu există anunțuri disponibile în zona dvs</string>
     <string name="bss_free_app">%s este o aplicație gratuită și nu necesită nicio plată pentru ao folosi. Eliminați definitiv anunțurile cu o plată unică. Iti multumesc pentru sprijin!</string>
-    <string name="support_bss_development">Aceasta este o aplicație gratuită care nu solicită date sensibile sau permisiuni. Dacă vă place aplicația și doriți să sprijiniți dezvoltatorul, îi puteți cumpăra o cafea.</string>
-    <string name="iap_coffee_unlock_adfree">Fiecare cafea deblochează versiunea fără reclame. Iti multumesc pentru sprijin!</string>
-    <string name="upgrade_to_pro">Upgrade la Pro</string>
-    <string name="iap_restore_purchases">Restabiliți achizițiile</string>
     <string name="onboarding_consent_privacy">Prin utilizarea acestei aplicații, vă dați acordul cu privire la politica noastră de confidențialitate.</string>
     <string name="onboarding_consent_privacy_and_disclaimer">Prin utilizarea acestei aplicații, vă dați consimțământul pentru politica noastră de confidențialitate și declinarea răspunderii.</string>
     <string name="onboarding_agree">De acord și porniți aplicația</string>
     <string name="onboarding_monetize">Monetizăm dezvoltarea acestei aplicații prin publicitate. Dacă doriți să susțineți dezvoltarea ulterioară și să aveți o experiență fără reclame, verificați achizițiile în aplicație.</string>
+    <string name="debug_price_not_found">N/A</string>
+    <string name="coffee">Cafea</string>
+    <string name="purchase_price_not_found">N/A</string>
+    <string name="purchase_title_not_found">SKU nu a fost găsit</string>
+    <string name="purchase_completed">Achiziție finalizată.</string>
+    <string name="support_bss_development">Aceasta este o aplicație gratuită care nu solicită date sensibile sau permisiuni. Dacă vă place aplicația și doriți să sprijiniți dezvoltatorul, îi puteți cumpăra o cafea.</string>
+    <string name="iap_coffee_unlock_adfree">Fiecare cafea deblochează versiunea fără reclame. Iti multumesc pentru sprijin!</string>
+    <string name="upgrade_to_pro">Upgrade la Pro</string>
+    <string name="iap_billing_unavailable">Facturarea în aplicație nu este disponibilă. Motive posibile: \n- Aplicația Magazin Play este învechită \n- Vă aflați într-o țară neacceptată \n- Sunteți un utilizator de întreprindere, iar administratorul întreprinderii a dezactivat utilizatorilor să facă achiziții \n- Google Play nu poate debita metoda dvs. de plată.</string>
+    <string name="iap_restore_purchases">Restabiliți achizițiile</string>
+    <string name="iap_feature_not_supported">Funcția solicitată nu este acceptată de Magazinul Play pe dispozitivul actual.</string>
+    <string name="iap_item_unavailable">Produsul solicitat nu este disponibil pentru cumpărare.</string>
+    <string name="more">Mai mult</string>
 </resources>

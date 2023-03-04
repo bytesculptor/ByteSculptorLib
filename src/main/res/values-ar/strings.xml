@@ -113,7 +113,6 @@
     <string name="rewarded_description">يمكنك هنا مشاهدة إعلان بيني بمكافأة لإزالة جميع الإعلانات من التطبيق لمدة 72 ساعة. هذه الإعلانات أطول قليلاً من الإعلانات العادية. يجب عليك مشاهدة الإعلان حتى النهاية لتلقي المكافأة.</string>
     <string name="no_ad_in_area">حاليا لا توجد إعلانات متاحة في منطقتك</string>
     <string name="delete_all">حذف الكل</string>
-    <string name="more">أكثر</string>
     <string name="bss_free_app">%s هو تطبيق مجاني ولا يتطلب أي مدفوعات لاستخدامه. إزالة الإعلانات نهائيًا بدفع دفعة واحدة. شكرا لدعمكم!</string>
     <string name="message_thank_you">شكراً جزيلاً!</string>
     <string name="thank_you_for_your_support">شكرا لدعمكم!</string>
@@ -121,4 +120,17 @@
     <string name="onboarding_consent_privacy_and_disclaimer">باستخدام هذا التطبيق ، فإنك تمنح موافقتك على سياسة الخصوصية وإخلاء المسؤولية.</string>
     <string name="onboarding_agree">وافق وابدأ التطبيق</string>
     <string name="onboarding_monetize">نحن نستثمر تطوير هذا التطبيق من خلال الإعلانات. إذا كنت ترغب في دعم المزيد من التطوير ولديك تجربة خالية من الإعلانات ، فتحقق من عمليات الشراء داخل التطبيق.</string>
+    <string name="debug_price_not_found">غير متاح</string>
+    <string name="coffee">قهوة</string>
+    <string name="purchase_price_not_found">غير متاح</string>
+    <string name="purchase_title_not_found">SKU غير موجود</string>
+    <string name="purchase_completed">اكتمل الشراء.</string>
+    <string name="support_bss_development">هذا تطبيق مجاني لا يطلب أي بيانات أو أذونات حساسة. إذا أعجبك التطبيق ، وترغب في دعم المطور ، يمكنك شراء قهوة له.</string>
+    <string name="iap_coffee_unlock_adfree">كل قهوة تفتح النسخة الخالية من الإعلانات. شكرا لدعمكم!</string>
+    <string name="upgrade_to_pro">التطور للاحترافية</string>
+    <string name="iap_billing_unavailable">الفواتير داخل التطبيق غير متوفرة. الأسباب المحتملة: \n- تطبيق Play Store قديم  \n- أنت في بلد غير مدعوم \n- أنت مستخدم مؤسسة وقام مسؤول المؤسسة بتعطيل المستخدمين من إجراء عمليات شراء \n- يتعذر على Google Play تحصيل الرسوم طريقة الدفع الخاصة بك.</string>
+    <string name="iap_restore_purchases">استعادة المشتريات</string>
+    <string name="iap_feature_not_supported">الميزة المطلوبة غير مدعومة من متجر Play على الجهاز الحالي.</string>
+    <string name="iap_item_unavailable">المنتج المطلوب غير متوفر للشراء.</string>
+    <string name="more">أكثر</string>
 </resources>

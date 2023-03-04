@@ -127,4 +127,17 @@
     <string name="onboarding_consent_privacy_and_disclaimer">Käyttämällä tätä sovellusta annat suostumuksesi tietosuojakäytäntöömme ja vastuuvapauslausekkeellemme.</string>
     <string name="onboarding_agree">Hyväksy ja käynnistä sovellus</string>
     <string name="onboarding_monetize">Rahastamme tämän sovelluksen kehityksen mainonnan kautta. Jos haluat tukea jatkokehitystä ja sinulla on mainokseton kokemus, tutustu sovelluksen sisäisiin ostoihin.</string>
+    <string name="debug_price_not_found">Ei käytössä</string>
+    <string name="coffee">Kahvi</string>
+    <string name="purchase_price_not_found">Ei käytössä</string>
+    <string name="purchase_title_not_found">SKU:ta ei löydy</string>
+    <string name="purchase_completed">Osto suoritettu.</string>
+    <string name="support_bss_development">Tämä on ilmainen sovellus, joka ei vaadi arkaluonteisia tietoja tai käyttöoikeuksia. Jos pidät sovelluksesta ja haluat tukea kehittäjää, voit ostaa hänelle kahvin.</string>
+    <string name="iap_coffee_unlock_adfree">Jokainen kahvi avaa mainoksettoman version. Kiitos tuestasi!</string>
+    <string name="upgrade_to_pro">Päivittää Pro: hon</string>
+    <string name="iap_billing_unavailable">Sovelluksen sisäinen laskutus ei ole käytettävissä. Mahdollisia syitä: \n- Play Kauppa -sovellus on vanhentunut \n- Olet maassa, jota ei tueta \n- Olet yrityskäyttäjä ja yrityksen järjestelmänvalvoja on estänyt käyttäjiä tekemästä ostoksia \n- Google Play ei voi veloittaa maksutapasi.</string>
+    <string name="iap_restore_purchases">Palauttaa ostot</string>
+    <string name="iap_feature_not_supported">Play Kauppa ei tue pyydettyä ominaisuutta nykyisellä laitteella.</string>
+    <string name="iap_item_unavailable">Pyydettyä tuotetta ei ole ostettavissa.</string>
+    <string name="more">Lisää</string>
 </resources>

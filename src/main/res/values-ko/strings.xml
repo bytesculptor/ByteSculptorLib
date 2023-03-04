@@ -127,4 +127,17 @@
     <string name="onboarding_consent_privacy_and_disclaimer">이 앱을 사용하면 개인 정보 보호 정책 및 면책 조항에 동의하는 것입니다.</string>
     <string name="onboarding_agree">동의하고 앱 시작</string>
     <string name="onboarding_monetize">우리는 광고를 통해 이 앱의 개발로 수익을 창출합니다. 추가 개발을 지원하고 광고 없는 경험을 원한다면 인앱 구매를 확인하세요.</string>
+    <string name="debug_price_not_found">해당 없음</string>
+    <string name="coffee">커피</string>
+    <string name="purchase_price_not_found">해당 없음</string>
+    <string name="purchase_title_not_found">SKU를 찾을 수 없음</string>
+    <string name="purchase_completed">구매가 완료되었습니다.</string>
+    <string name="support_bss_development">민감한 데이터나 권한을 요청하지 않는 무료 앱입니다. 앱이 마음에 들고 개발자를 지원하고 싶다면 그에게 커피를 사줄 수 있습니다.</string>
+    <string name="iap_coffee_unlock_adfree">각 커피는 광고 없는 버전의 잠금을 해제합니다. 당신의 지원에 감사드립니다!</string>
+    <string name="upgrade_to_pro">프로로 업그레이드</string>
+    <string name="iap_billing_unavailable">인앱 결제를 사용할 수 없습니다. 가능한 이유는 다음과 같습니다. \n- Play 스토어 앱이 최신 버전이 아닙니다. \n- 지원되지 않는 국가에 있습니다. \n- 기업 사용자이고 기업 관리자가 사용자의 구매를 중지했습니다. \n- Google Play에서 요금을 청구할 수 없습니다. 귀하의 지불 방법.</string>
+    <string name="iap_restore_purchases">구매를 복원</string>
+    <string name="iap_feature_not_supported">요청하신 기능은 현재 기기의 Play 스토어에서 지원되지 않습니다.</string>
+    <string name="iap_item_unavailable">요청하신 상품은 구매가 불가합니다.</string>
+    <string name="more">더</string>
 </resources>

@@ -127,4 +127,17 @@
     <string name="onboarding_consent_privacy_and_disclaimer">Dengan menggunakan aplikasi ini, anda memberikan persetujuan anda kepada dasar privasi dan penafian kami.</string>
     <string name="onboarding_agree">Setuju dan mulakan aplikasi</string>
     <string name="onboarding_monetize">Kami mengewangkan pembangunan aplikasi ini melalui pengiklanan. Jika anda ingin menyokong pembangunan selanjutnya dan mempunyai pengalaman tanpa iklan, lihat pembelian dalam apl.</string>
+    <string name="debug_price_not_found">T/A</string>
+    <string name="coffee">kopi</string>
+    <string name="purchase_price_not_found">T/A</string>
+    <string name="purchase_title_not_found">SKU tidak Ditemui</string>
+    <string name="purchase_completed">Pembelian selesai.</string>
+    <string name="support_bss_development">Ini adalah aplikasi percuma yang tidak meminta sebarang data atau kebenaran sensitif. Jika anda menyukai apl itu, dan ingin menyokong pembangun, anda boleh membelikannya kopi.</string>
+    <string name="iap_coffee_unlock_adfree">Setiap kopi membuka kunci versi Bebas Iklan. Terima kasih atas sokongan anda!</string>
+    <string name="upgrade_to_pro">Naik taraf kepada Pro</string>
+    <string name="iap_billing_unavailable">Pengebilan dalam apl tidak tersedia. Sebab yang mungkin: \n- Apl Gedung Play sudah lapuk \n- Anda berada di negara yang tidak disokong \n- Anda adalah pengguna perusahaan dan pentadbir perusahaan telah melumpuhkan pengguna daripada membuat pembelian \n- Google Play tidak dapat mengecaj kaedah pembayaran anda.</string>
+    <string name="iap_restore_purchases">Pulihkan pembelian</string>
+    <string name="iap_feature_not_supported">Ciri yang diminta tidak disokong oleh Gedung Play pada peranti semasa.</string>
+    <string name="iap_item_unavailable">Produk yang diminta tidak tersedia untuk pembelian.</string>
+    <string name="more">Lagi</string>
 </resources>

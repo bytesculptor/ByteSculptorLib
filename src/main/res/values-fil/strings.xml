@@ -127,4 +127,17 @@
     <string name="onboarding_consent_privacy_and_disclaimer">Sa pamamagitan ng paggamit ng app na ito, binibigyan mo ang iyong pahintulot sa aming patakaran sa privacy at disclaimer.</string>
     <string name="onboarding_agree">Sumang-ayon at simulan ang app</string>
     <string name="onboarding_monetize">Pinagkakakitaan namin ang pagbuo ng app na ito sa pamamagitan ng advertising. Kung gusto mong suportahan ang karagdagang pag-unlad at magkaroon ng karanasang walang ad, tingnan ang mga in-app na pagbili.</string>
+    <string name="debug_price_not_found">N/A</string>
+    <string name="coffee">kape</string>
+    <string name="purchase_price_not_found">N/A</string>
+    <string name="purchase_title_not_found">Hindi Natagpuan ang SKU</string>
+    <string name="purchase_completed">Nakumpleto ang pagbili.</string>
+    <string name="support_bss_development">Ito ay isang libreng app na hindi humihiling ng anumang sensitibong data o mga pahintulot. Kung gusto mo ang app, at gusto mong suportahan ang developer, maaari mo siyang bilhan ng kape.</string>
+    <string name="iap_coffee_unlock_adfree">Binubuksan ng bawat kape ang Ad-Free na bersyon. Salamat sa iyong suporta!</string>
+    <string name="upgrade_to_pro">Mag-upgrade sa Pro</string>
+    <string name="iap_billing_unavailable">Hindi available ang in-app na pagsingil. Mga posibleng dahilan: \n- Ang Play Store app ay luma na \n- Ikaw ay nasa isang hindi sinusuportahang bansa \n- Isa kang user ng enterprise at hindi pinagana ng admin ng enterprise ang mga user sa pagbili \n- Hindi makasingil ang Google Play iyong paraan ng pagbabayad.</string>
+    <string name="iap_restore_purchases">Ibalik ang mga binili</string>
+    <string name="iap_feature_not_supported">Ang hiniling na feature ay hindi sinusuportahan ng Play Store sa kasalukuyang device.</string>
+    <string name="iap_item_unavailable">Ang hiniling na produkto ay hindi magagamit para sa pagbili.</string>
+    <string name="more">Higit pa</string>
 </resources>

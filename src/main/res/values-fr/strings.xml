@@ -123,7 +123,6 @@
     <string name="rewarded_description">Vous pouvez regarder ici une publicité récompensée pour supprimer toutes les publicités de l\'application pendant 72 heures. Ces publicités sont un peu plus longues que les publicités normales.\nVous devez regarder la publicités jusqu\'à la fin pour recevoir la récompense.</string>
     <string name="delete_all">Supprimer tout</string>
     <string name="about_summary">Version, confidentialité et plus</string>
-    <string name="more">Suite</string>
     <string name="bss_free_app">%s est une application gratuite et ne nécessite aucun paiement pour l\'utiliser. Supprimez définitivement les publicités avec un paiement unique. Merci pour votre soutien!</string>
     <string name="message_thank_you">Merci beaucoup!</string>
     <string name="thank_you_for_your_support">Merci pour votre soutien!</string>
@@ -131,4 +130,17 @@
     <string name="onboarding_consent_privacy_and_disclaimer">En utilisant cette application, vous consentez à notre politique de confidentialité et à notre clause de non-responsabilité.</string>
     <string name="onboarding_agree">Accepter et démarrer l\'application</string>
     <string name="onboarding_monetize">Nous monétisons le développement de cette application grâce à la publicité. Si vous souhaitez soutenir le développement ultérieur et profiter d\'une expérience sans publicité, consultez les achats intégrés.</string>
+    <string name="debug_price_not_found">N/A</string>
+    <string name="coffee">Café</string>
+    <string name="purchase_price_not_found">N/A</string>
+    <string name="purchase_title_not_found">SKU introuvable</string>
+    <string name="purchase_completed">Achat terminé.</string>
+    <string name="support_bss_development">Il s\'agit d\'une application gratuite qui ne demande aucune donnée ou autorisation sensible. Si vous aimez l\'application et souhaitez soutenir le développeur, vous pouvez lui acheter un café.</string>
+    <string name="iap_coffee_unlock_adfree">Chaque café déverrouille la version sans publicité. Merci pour votre soutien!</string>
+    <string name="upgrade_to_pro">Passer à Pro</string>
+    <string name="iap_billing_unavailable">La facturation intégrée à l\'application n\'est pas disponible. Raisons possibles: \n- L\'application Play Store est obsolète \n- Vous vous trouvez dans un pays non pris en charge \n- Vous êtes un utilisateur d\'entreprise et l\'administrateur de l\'entreprise a interdit aux utilisateurs d\'effectuer des achats \n- Google Play ne peut pas facturer votre méthode de paiement.</string>
+    <string name="iap_restore_purchases">Restaurer les achats</string>
+    <string name="iap_feature_not_supported">La fonctionnalité demandée n\'est pas prise en charge par le Play Store sur l\'appareil actuel.</string>
+    <string name="iap_item_unavailable">Le produit demandé n\'est pas disponible à l\'achat.</string>
+    <string name="more">Plus</string>
 </resources>
