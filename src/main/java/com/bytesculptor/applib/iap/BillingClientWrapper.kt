@@ -22,23 +22,8 @@ import android.content.Context
 import android.util.Log
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
-import com.android.billingclient.api.AcknowledgePurchaseParams
-import com.android.billingclient.api.BillingClient
-import com.android.billingclient.api.BillingClientStateListener
-import com.android.billingclient.api.BillingFlowParams
-import com.android.billingclient.api.BillingResult
-import com.android.billingclient.api.ConsumeParams
-import com.android.billingclient.api.ProductDetails
-import com.android.billingclient.api.ProductDetailsResponseListener
-import com.android.billingclient.api.Purchase
-import com.android.billingclient.api.PurchasesUpdatedListener
-import com.android.billingclient.api.QueryProductDetailsParams
-import com.android.billingclient.api.QueryPurchaseHistoryParams
-import com.android.billingclient.api.QueryPurchasesParams
-import com.android.billingclient.api.consumePurchase
-import kotlinx.coroutines.CoroutineScope
-import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.launch
+import com.android.billingclient.api.*
+import kotlinx.coroutines.*
 
 /**
  * The [BillingClientWrapper] isolates the Google Play Billing's [BillingClient] methods needed
@@ -151,14 +136,16 @@ class BillingClientWrapper(
     }
 
     // Query Google Play Billing for products available to sell and present them in the UI
-    fun queryProductDetails(prodId: String) {
-        val productList =
-            listOf(
+    fun queryProductDetails(prodId: List<String>) {
+        val productList: MutableList<QueryProductDetailsParams.Product> = mutableListOf()
+        for (item in prodId) {
+            productList.add(
                 QueryProductDetailsParams.Product.newBuilder()
-                    .setProductId(prodId)
+                    .setProductId(item)
                     .setProductType(BillingClient.ProductType.INAPP)
                     .build()
             )
+        }
 
         val params = QueryProductDetailsParams.newBuilder().setProductList(productList)
 

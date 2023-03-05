@@ -19,14 +19,8 @@ package com.bytesculptor.applib.compose
 
 import android.content.res.Configuration
 import androidx.compose.foundation.BorderStroke
-import androidx.compose.foundation.layout.Column
-import androidx.compose.foundation.layout.Row
-import androidx.compose.foundation.layout.Spacer
-import androidx.compose.foundation.layout.fillMaxWidth
-import androidx.compose.foundation.layout.height
-import androidx.compose.material.ButtonDefaults
-import androidx.compose.material.OutlinedButton
-import androidx.compose.material.Text
+import androidx.compose.foundation.layout.*
+import androidx.compose.material.*
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -46,36 +40,39 @@ fun ButtonGroup(
     buttonColor: Int,
     buttonBorderColor: Int,
 ) {
-    Row(
+    Column(
         modifier = Modifier
             .fillMaxWidth()
+            .wrapContentHeight()
     ) {
         for (buttonModel in buttonModels) {
-            OutlinedButton(
-                modifier = modifier.weight(1f),
-                onClick = buttonModel.onClick,
-                elevation = ButtonDefaults.elevation(
-                    defaultElevation = 20.dp,
-                    pressedElevation = 15.dp,
-                    disabledElevation = 0.dp,
-                    hoveredElevation = 15.dp,
-                    focusedElevation = 10.dp
-                ),
-                border = BorderStroke(1.dp, colorResource(id = buttonBorderColor)),
-                colors = ButtonDefaults.buttonColors(
-                    backgroundColor = colorResource(id = buttonColor),
-                    contentColor = Color.White,
-                )
-            ) {
-                Column(modifier = Modifier.fillMaxWidth()) {
-                    Text(text = buttonModel.name, fontSize = 22.sp, textAlign = TextAlign.Start)
-                    Text(text = buttonModel.description, textAlign = TextAlign.Start)
-                    Text(
-                        modifier = Modifier.align(Alignment.End),
-                        text = buttonModel.price ?: "---",
-                        textAlign = TextAlign.End,
-                        fontSize = 22.sp,
+            Row {
+                OutlinedButton(
+                    modifier = modifier.weight(1f),
+                    onClick = buttonModel.onClick,
+                    elevation = ButtonDefaults.elevation(
+                        defaultElevation = 20.dp,
+                        pressedElevation = 15.dp,
+                        disabledElevation = 0.dp,
+                        hoveredElevation = 15.dp,
+                        focusedElevation = 10.dp
+                    ),
+                    border = BorderStroke(1.dp, colorResource(id = buttonBorderColor)),
+                    colors = ButtonDefaults.buttonColors(
+                        backgroundColor = colorResource(id = buttonColor),
+                        contentColor = Color.White,
                     )
+                ) {
+                    Column(modifier = Modifier.fillMaxWidth()) {
+                        Text(text = buttonModel.name, fontSize = 22.sp, textAlign = TextAlign.Start)
+                        Text(text = buttonModel.description, textAlign = TextAlign.Start)
+                        Text(
+                            modifier = Modifier.align(Alignment.End),
+                            text = buttonModel.price ?: "---",
+                            textAlign = TextAlign.End,
+                            fontSize = 22.sp,
+                        )
+                    }
                 }
             }
             Spacer(modifier = Modifier.height(dimensionResource(id = com.bytesculptor.applib.R.dimen.spacer_height)))
