@@ -38,36 +38,44 @@ import com.android.billingclient.api.BillingClient.BillingResponseCode.FEATURE_N
 import com.android.billingclient.api.BillingClient.BillingResponseCode.ITEM_UNAVAILABLE
 import com.android.billingclient.api.BillingClient.BillingResponseCode.OK
 import com.android.billingclient.api.BillingClient.BillingResponseCode.SERVICE_DISCONNECTED
+import com.bytesculptor.applib.R
 import com.bytesculptor.applib.compose.helpers.CenteredSurfaceColumn
 import com.bytesculptor.applib.compose.theme.BssMaterialTheme
 
 @Composable
-fun LoadingScreen(show: Boolean, billingConnectionResponseCode: Int, progressIndicatorColor: Int) {
+fun LoadingScreen(
+    show: Boolean,
+    billingConnectionResponseCode: Int,
+    progressIndicatorColor: Int,
+    backgroundColor: Int
+) {
     if (show) {
-        CenteredSurfaceColumn {
-            CircularProgressIndicator(
-                modifier = Modifier
-                    .width(dimensionResource(id = com.bytesculptor.applib.R.dimen.circular_loading_size))
-                    .height(dimensionResource(id = com.bytesculptor.applib.R.dimen.circular_loading_size)),
-                color = colorResource(progressIndicatorColor)
-            )
-            Text(
-                modifier = Modifier.padding(24.dp),
-                text = getConnectionStateString(billingConnectionResponseCode),
-                style = MaterialTheme.typography.subtitle1,
-                textAlign = TextAlign.Start,
-                color = colorResource(id = com.bytesculptor.applib.R.color.std_font)
-            )
-            Text(
-                modifier = Modifier.padding(horizontal = 24.dp),
-                text = if (billingConnectionResponseCode != 0) "Error code $billingConnectionResponseCode" else "",
-                style = MaterialTheme.typography.subtitle2,
-                textAlign = TextAlign.Start,
-                color = colorResource(id = com.bytesculptor.applib.R.color.std_font)
-            )
-        }
+        CenteredSurfaceColumn(
+            backgroundColor = backgroundColor,
+            content = {
+                CircularProgressIndicator(
+                    modifier = Modifier
+                        .width(dimensionResource(id = com.bytesculptor.applib.R.dimen.circular_loading_size))
+                        .height(dimensionResource(id = com.bytesculptor.applib.R.dimen.circular_loading_size)),
+                    color = colorResource(progressIndicatorColor)
+                )
+                Text(
+                    modifier = Modifier.padding(24.dp),
+                    text = getConnectionStateString(billingConnectionResponseCode),
+                    style = MaterialTheme.typography.subtitle1,
+                    textAlign = TextAlign.Start,
+                    color = colorResource(id = com.bytesculptor.applib.R.color.std_font)
+                )
+                Text(
+                    modifier = Modifier.padding(horizontal = 24.dp),
+                    text = if (billingConnectionResponseCode != 0) "Error code $billingConnectionResponseCode" else "",
+                    style = MaterialTheme.typography.subtitle2,
+                    textAlign = TextAlign.Start,
+                    color = colorResource(id = com.bytesculptor.applib.R.color.std_font)
+                )
+            })
     } else {
-        CenteredSurfaceColumn {}
+        CenteredSurfaceColumn(backgroundColor = backgroundColor, content = {})
     }
 }
 
@@ -100,6 +108,6 @@ private fun getConnectionStateString(billingConnectionResponseCode: Int): String
 @Preview(showBackground = true, uiMode = Configuration.UI_MODE_NIGHT_YES)
 fun LoadingScreenPreview() {
     BssMaterialTheme {
-        LoadingScreen(true, 3, android.R.color.holo_blue_dark)
+        LoadingScreen(true, 3, android.R.color.holo_blue_dark, R.color.color_main_background)
     }
 }

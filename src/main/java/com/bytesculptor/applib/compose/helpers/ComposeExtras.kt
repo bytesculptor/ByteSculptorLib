@@ -59,13 +59,14 @@ fun ComposeBottomSheetNotch(modifier: Modifier) {
 
 @Composable
 fun CenteredSurfaceColumn(
+    backgroundColor: Int,
     content: @Composable ColumnScope.() -> Unit
 ) {
     Surface {
         Column(
             modifier = Modifier
                 .fillMaxSize()
-                .background(colorResource(id = R.color.color_main_background)),
+                .background(colorResource(id = backgroundColor)),
             verticalArrangement = Arrangement.Center,
             horizontalAlignment = Alignment.CenterHorizontally,
         ) {
