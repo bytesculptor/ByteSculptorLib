@@ -133,4 +133,5 @@
     <string name="iap_feature_not_supported">الميزة المطلوبة غير مدعومة من متجر Play على الجهاز الحالي.</string>
     <string name="iap_item_unavailable">المنتج المطلوب غير متوفر للشراء.</string>
     <string name="more">أكثر</string>
+    <string name="remove_ads_permanently">إزالة الإعلانات بشكل دائم</string>
 </resources>

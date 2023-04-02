@@ -149,4 +149,5 @@
     <string name="iap_feature_not_supported">Funcția solicitată nu este acceptată de Magazinul Play pe dispozitivul actual.</string>
     <string name="iap_item_unavailable">Produsul solicitat nu este disponibil pentru cumpărare.</string>
     <string name="more">Mai mult</string>
+    <string name="remove_ads_permanently">Eliminați reclamele definitiv</string>
 </resources>

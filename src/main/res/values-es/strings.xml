@@ -143,4 +143,5 @@
     <string name="iap_feature_not_supported">La función solicitada no es compatible con Play Store en el dispositivo actual.</string>
     <string name="iap_item_unavailable">El producto solicitado no está disponible para su compra.</string>
     <string name="more">Más</string>
+    <string name="remove_ads_permanently">Eliminar anuncios de forma permanente</string>
 </resources>

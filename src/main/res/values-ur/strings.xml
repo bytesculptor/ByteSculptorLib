@@ -149,4 +149,5 @@
     <string name="iap_feature_not_supported">درخواست کردہ فیچر موجودہ ڈیوائس پر Play Store کے ذریعے تعاون یافتہ نہیں ہے۔</string>
     <string name="iap_item_unavailable">درخواست کردہ پروڈکٹ خریداری کے لیے دستیاب نہیں ہے۔</string>
     <string name="more">مزید</string>
+    <string name="remove_ads_permanently">اشتہارات کو مستقل طور پر ہٹا دیں۔</string>
 </resources>

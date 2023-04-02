@@ -140,4 +140,5 @@
     <string name="iap_feature_not_supported">Požadovanou funkci Obchod Play na aktuálním zařízení nepodporuje.</string>
     <string name="iap_item_unavailable">Požadovaný produkt není možné zakoupit.</string>
     <string name="more">Více</string>
+    <string name="remove_ads_permanently">Odstraňte reklamy trvale</string>
 </resources>

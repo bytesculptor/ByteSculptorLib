@@ -143,4 +143,5 @@
     <string name="iap_feature_not_supported">अनुरोधित सुविधा वर्तमान डिवाइस पर Play Store द्वारा समर्थित नहीं है।</string>
     <string name="iap_item_unavailable">अनुरोधित उत्पाद खरीद के लिए उपलब्ध नहीं है।</string>
     <string name="more">अधिक</string>
+    <string name="remove_ads_permanently">विज्ञापनों को स्थायी रूप से हटाएं</string>
 </resources>

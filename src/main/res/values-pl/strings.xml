@@ -140,4 +140,5 @@
     <string name="iap_feature_not_supported">Żądana funkcja nie jest obsługiwana przez Sklep Play na bieżącym urządzeniu.</string>
     <string name="iap_item_unavailable">Żądany produkt nie jest dostępny w sprzedaży.</string>
     <string name="more">Więcej</string>
+    <string name="remove_ads_permanently">Usuń reklamy na stałe</string>
 </resources>

@@ -140,4 +140,5 @@
     <string name="iap_feature_not_supported">요청하신 기능은 현재 기기의 Play 스토어에서 지원되지 않습니다.</string>
     <string name="iap_item_unavailable">요청하신 상품은 구매가 불가합니다.</string>
     <string name="more">더</string>
+    <string name="remove_ads_permanently">광고를 영구적으로 제거</string>
 </resources>

@@ -143,4 +143,5 @@
     <string name="iap_feature_not_supported">La fonctionnalité demandée n\'est pas prise en charge par le Play Store sur l\'appareil actuel.</string>
     <string name="iap_item_unavailable">Le produit demandé n\'est pas disponible à l\'achat.</string>
     <string name="more">Plus</string>
+    <string name="remove_ads_permanently">Supprimer définitivement les publicités</string>
 </resources>

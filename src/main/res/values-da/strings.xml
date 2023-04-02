@@ -140,4 +140,5 @@
     <string name="iap_feature_not_supported">Den ønskede funktion understøttes ikke af Play Butik på den aktuelle enhed.</string>
     <string name="iap_item_unavailable">Det ønskede produkt kan ikke købes.</string>
     <string name="more">Mere</string>
+    <string name="remove_ads_permanently">Fjern annoncer permanent</string>
 </resources>

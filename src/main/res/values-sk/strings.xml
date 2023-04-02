@@ -149,4 +149,5 @@
     <string name="iap_feature_not_supported">Obchod Play na aktuálnom zariadení požadovanú funkciu nepodporuje.</string>
     <string name="iap_item_unavailable">Požadovaný produkt nie je možné zakúpiť.</string>
     <string name="more">Viac</string>
+    <string name="remove_ads_permanently">Odstrániť reklamy natrvalo</string>
 </resources>

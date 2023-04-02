@@ -141,4 +141,5 @@
     <string name="iap_feature_not_supported">リクエストされた機能は、現在のデバイスの Play ストアではサポートされていません。</string>
     <string name="iap_item_unavailable">要求された製品は購入できません。</string>
     <string name="more">もっと</string>
+    <string name="remove_ads_permanently">広告を完全に削除する</string>
 </resources>

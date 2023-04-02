@@ -140,4 +140,5 @@
     <string name="iap_feature_not_supported">Ang hiniling na feature ay hindi sinusuportahan ng Play Store sa kasalukuyang device.</string>
     <string name="iap_item_unavailable">Ang hiniling na produkto ay hindi magagamit para sa pagbili.</string>
     <string name="more">Higit pa</string>
+    <string name="remove_ads_permanently">Alisin ang mga ad nang permanente</string>
 </resources>
