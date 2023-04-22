@@ -23,6 +23,7 @@ import androidx.compose.foundation.layout.*
 import androidx.compose.material3.*
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.style.TextOverflow
@@ -56,7 +57,7 @@ fun ComposePreferenceWithIcon(
                     .height(24.dp),
                 painter = if (icon != null) painterResource(icon) else painterResource(R.drawable.ic_empty_icon),
                 contentDescription = null,
-                tint = colorResource(id = R.color.std_font),
+                tint = if (icon == R.drawable.ic_proicon) Color.Unspecified else colorResource(id = R.color.std_font),
             )
         }
         Column(
