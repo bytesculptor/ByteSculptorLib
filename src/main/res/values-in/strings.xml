@@ -141,4 +141,6 @@
     <string name="iap_item_unavailable">Produk yang diminta tidak tersedia untuk dibeli.</string>
     <string name="more">Lagi</string>
     <string name="remove_ads_permanently">Hapus iklan secara permanen</string>
+    <string name="action_continue">Melanjutkan</string>
+    <string name="contact_us_by_email_description">Saat mengirimkan email kepada kami terkait masalah dengan aplikasi, harap tambahkan versi aplikasi dan versi Android ponsel Anda.\n\nTerima kasih!</string>
 </resources>

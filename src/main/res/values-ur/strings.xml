@@ -150,4 +150,6 @@
     <string name="iap_item_unavailable">درخواست کردہ پروڈکٹ خریداری کے لیے دستیاب نہیں ہے۔</string>
     <string name="more">مزید</string>
     <string name="remove_ads_permanently">اشتہارات کو مستقل طور پر ہٹا دیں۔</string>
+    <string name="action_continue">جاری رہے</string>
+    <string name="contact_us_by_email_description">ایپ میں کسی مسئلے کے بارے میں ہمیں ای میل بھیجتے وقت، براہ کرم ایپ کا ورژن اور اپنے فون کا Android ورژن شامل کریں۔\n\n  آپ کا شکریہ!</string>
 </resources>

@@ -141,4 +141,6 @@
     <string name="iap_item_unavailable">Det forespurte produktet er ikke tilgjengelig for kjøp.</string>
     <string name="more">Mer</string>
     <string name="remove_ads_permanently">Fjern annonser permanent</string>
+    <string name="action_continue">Fortsette</string>
+    <string name="contact_us_by_email_description">Når du sender en e-post til oss angående et problem med appen, vennligst legg til appversjonen og telefonens Android-versjon.\n\nTakk!</string>
 </resources>

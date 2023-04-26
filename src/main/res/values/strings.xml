@@ -67,6 +67,7 @@
     <string name="update">Update</string>
     <string name="collapse_view">collapse view</string>
     <string name="duplicate">Duplicate</string>
+    <string name="action_continue">Continue</string>
 
     <!-- time -->
     <string name="today">today</string>
@@ -105,6 +106,7 @@
     <string name="help_and_about">Help &amp; About</string>
     <string name="about_summary">Version, Disclaimer, Privacy and more</string>
     <string name="contact_us_by_email">Contact us (Email)</string>
+    <string name="contact_us_by_email_description">When sending an email to us regarding a problem with the app, please add the app version and your phone\'s Android version.\n\nThank you!</string>
     <string name="app_version">App Version</string>
     <string name="more_bss_apps">Byte Sculptor Apps</string>
     <string name="contact">Contact</string>

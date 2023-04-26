@@ -141,4 +141,6 @@
     <string name="iap_item_unavailable">Den efterfrågade produkten går inte att köpa.</string>
     <string name="more">Mer</string>
     <string name="remove_ads_permanently">Ta bort annonser permanent</string>
+    <string name="action_continue">Fortsätta</string>
+    <string name="contact_us_by_email_description">När du skickar ett e-postmeddelande till oss angående ett problem med appen, lägg till appversionen och din telefons Android-version.\n\nTack!</string>
 </resources>
