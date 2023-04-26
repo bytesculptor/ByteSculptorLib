@@ -144,4 +144,6 @@
     <string name="iap_item_unavailable">अनुरोधित उत्पाद खरीद के लिए उपलब्ध नहीं है।</string>
     <string name="more">अधिक</string>
     <string name="remove_ads_permanently">विज्ञापनों को स्थायी रूप से हटाएं</string>
+    <string name="action_continue">जारी रखना</string>
+    <string name="contact_us_by_email_description">ऐप के साथ किसी समस्या के संबंध में हमें एक ईमेल भेजते समय, कृपया ऐप संस्करण और अपने फ़ोन का Android संस्करण जोड़ें।\n\nधन्यवाद!</string>
 </resources>

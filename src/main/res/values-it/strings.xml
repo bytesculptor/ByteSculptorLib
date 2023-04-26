@@ -144,4 +144,6 @@
     <string name="iap_item_unavailable">Il prodotto richiesto non è disponibile per l\'acquisto.</string>
     <string name="more">Di più</string>
     <string name="remove_ads_permanently">Rimuovi gli annunci in modo permanente</string>
+    <string name="action_continue">Continua</string>
+    <string name="contact_us_by_email_description">Quando ci invii un\'e-mail relativa a un problema con l\'app, aggiungi la versione dell\'app e la versione Android del tuo telefono.\n\nGrazie!</string>
 </resources>

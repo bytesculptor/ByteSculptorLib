@@ -150,4 +150,6 @@
     <string name="iap_item_unavailable">ผลิตภัณฑ์ที่ร้องขอไม่สามารถซื้อได้</string>
     <string name="more">มากกว่า</string>
     <string name="remove_ads_permanently">ลบโฆษณาอย่างถาวร</string>
+    <string name="action_continue">ดำเนินการต่อ</string>
+    <string name="contact_us_by_email_description">เมื่อส่งอีเมลถึงเราเกี่ยวกับปัญหาของแอป โปรดเพิ่มเวอร์ชันของแอปและเวอร์ชัน Android ของโทรศัพท์\n\nขอบคุณ!</string>
 </resources>

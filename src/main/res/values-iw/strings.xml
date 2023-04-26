@@ -106,7 +106,7 @@
     <string name="description_not_found">התיאור לא נמצא</string>
     <string name="error_unable_to_make_purchase">לא ניתן לבצע רכישה.</string>
     <string name="available_purchases">רכישות זמינות</string>
-    <string name="rewarded_description">תוכל לצפות כאן במודעה מתוגמלת להסרת כל המודעות מהאפליקציה למשך 72 שעות. המודעות האלה קצת יותר ארוכות מהמודעות הרגילות. \N עליך לצפות במודעה עד הסוף כדי לקבל את הפרס.</string>
+    <string name="rewarded_description">תוכל לצפות כאן במודעה מתוגמלת להסרת כל המודעות מהאפליקציה למשך 72 שעות. המודעות האלה קצת יותר ארוכות מהמודעות הרגילות. \n עליך לצפות במודעה עד הסוף כדי לקבל את הפרס.</string>
     <string name="left_rewarded_hours">נותרו לך %1$s שעות מהחוויה ללא מודעות</string>
     <string name="left_rewarded_days">נותרו לך %1$s ימים מהחוויה ללא מודעות</string>
     <string name="no_ad_in_area">כרגע אין מודעות זמינות באזור שלך</string>
@@ -123,15 +123,17 @@
     <string name="debug_price_not_found">לא</string>
     <string name="coffee">קפה</string>
     <string name="purchase_price_not_found">לא</string>
-    <string name="purchase_title_not_found">מק&amp;quot;ט לא נמצא</string>
+    <string name="purchase_title_not_found">מק&amp;ט לא נמצא</string>
     <string name="purchase_completed">הרכישה הושלמה.</string>
     <string name="support_bss_development">זוהי אפליקציה חינמית שאינה מבקשת נתונים או הרשאות רגישות. אם אתה אוהב את האפליקציה, ותרצה לתמוך במפתח, אתה יכול לקנות לו קפה.</string>
     <string name="iap_coffee_unlock_adfree">כל קפה פותח את הגרסה ללא מודעות. תודה על תמיכתך!</string>
     <string name="upgrade_to_pro">שדרוג לפרו</string>
-    <string name="iap_billing_unavailable">חיוב בתוך האפליקציה אינו זמין. סיבות אפשריות: \n- האפליקציה של חנות Play לא מעודכנת \n- אתה נמצא במדינה שאינה נתמכת \n- אתה משתמש ארגוני ומנהל המערכת של הארגון השבית את המשתמשים מלבצע רכישות \n- Google Play לא יכול לחייב אמצעי התשלום שלך.</string>
+    <string name="iap_billing_unavailable">חיוב בתוך האפליקציה אינו זמין. סיבות אפשריות: \n- האפליקציה של חנות Play לא מעודכנת \n- אתה נמצא במדינה שאינה נתמכת \n- אתה משתמש ארגוני ומנהל המערכת של הארגון השבית את המשתמשים מלבצע רכישות n\  .Google Play- לא יכול לחייב אמצעי התשלום שלך.</string>
     <string name="iap_restore_purchases">לשחזר רכישות</string>
     <string name="iap_feature_not_supported">התכונה המבוקשת אינה נתמכת על ידי חנות Play במכשיר הנוכחי.</string>
     <string name="iap_item_unavailable">המוצר המבוקש אינו זמין לרכישה.</string>
     <string name="more">יותר</string>
     <string name="remove_ads_permanently">הסר מודעות לצמיתות</string>
+    <string name="action_continue">לְהַמשִׁיך</string>
+    <string name="contact_us_by_email_description">בעת שליחת אימייל אלינו בנוגע לבעיה באפליקציה, אנא הוסף את גרסת האפליקציה ואת גרסת האנדרואיד של הטלפון שלך.\n\nתודה!</string>
 </resources>
