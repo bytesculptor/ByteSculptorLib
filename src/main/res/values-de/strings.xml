@@ -138,7 +138,7 @@
     <string name="support_bss_development">Dies ist eine kostenlose App, die keine sensiblen Daten oder Berechtigungen anfordert. Wenn Ihnen die App gefällt und Sie den Entwickler unterstützen möchten, können Sie ihm einen Kaffee spendieren.</string>
     <string name="iap_coffee_unlock_adfree">Jeder Kaffee schaltet die werbefreie Version frei. Danke für Ihre Unterstützung!</string>
     <string name="upgrade_to_pro">Auf Pro upgraden</string>
-    <string name="iap_billing_unavailable">In-App-Abrechnung ist nicht verfügbar. Mögliche Gründe: \n- Die Play Store App ist veraltet \n- Sie befinden sich in einem nicht unterstützten Land \n- Sie sind ein Unternehmensnutzer und der Unternehmensadministrator hat Benutzer daran gehindert, Käufe zu tätigen \n- Google Play kann keine Gebühren erheben mit Ihrer Zahlungsmethode.</string>
+    <string name="iap_billing_unavailable">In-App-Käufe nicht verfügbar. Mögliche Gründe: \n- Die Play Store App ist veraltet \n- Sie befinden sich in einem nicht unterstützten Land \n- Sie sind ein Unternehmensnutzer und der Unternehmensadministrator hat Benutzer daran gehindert, Käufe zu tätigen \n- Google Play kann keine Gebühren erheben mit Ihrer Zahlungsmethode.</string>
     <string name="iap_restore_purchases">Einkäufe wiederherstellen</string>
     <string name="iap_feature_not_supported">Die angeforderte Funktion wird vom Play Store auf dem aktuellen Gerät nicht unterstützt.</string>
     <string name="iap_item_unavailable">Das angeforderte Produkt ist nicht zum Kauf verfügbar.</string>

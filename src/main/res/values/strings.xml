@@ -158,7 +158,7 @@
 
     <!-- In App Purchases -->
     <string name="in_app_purchases">In-App Purchases</string>
-    <string name="your_purchases">Your purchases</string>
+    <string name="your_purchases">Your purchase(s)</string>
     <string name="buy">Buy</string>
     <string name="debug_price_not_found">N/A</string>
     <string name="ad_free">Ad-Free</string>
