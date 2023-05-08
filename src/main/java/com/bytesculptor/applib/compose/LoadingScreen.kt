@@ -18,17 +18,14 @@
 package com.bytesculptor.applib.compose
 
 import android.content.res.Configuration
-import androidx.compose.foundation.layout.height
-import androidx.compose.foundation.layout.padding
-import androidx.compose.foundation.layout.width
-import androidx.compose.material.CircularProgressIndicator
-import androidx.compose.material.MaterialTheme
-import androidx.compose.material.Text
+import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.verticalScroll
+import androidx.compose.material.*
 import androidx.compose.runtime.Composable
+import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.res.colorResource
-import androidx.compose.ui.res.dimensionResource
-import androidx.compose.ui.res.stringResource
+import androidx.compose.ui.res.*
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
@@ -39,22 +36,28 @@ import com.android.billingclient.api.BillingClient.BillingResponseCode.ITEM_UNAV
 import com.android.billingclient.api.BillingClient.BillingResponseCode.OK
 import com.android.billingclient.api.BillingClient.BillingResponseCode.SERVICE_DISCONNECTED
 import com.bytesculptor.applib.R
-import com.bytesculptor.applib.compose.helpers.CenteredSurfaceColumn
 import com.bytesculptor.applib.compose.theme.BssMaterialTheme
 
 @Composable
 fun LoadingScreen(
-    show: Boolean,
+    showErrorMessage: Boolean,
     billingConnectionResponseCode: Int,
     progressIndicatorColor: Int,
     backgroundColor: Int
 ) {
-    if (show) {
-        CenteredSurfaceColumn(
-            backgroundColor = backgroundColor,
-            content = {
+    Scaffold(backgroundColor = colorResource(id = backgroundColor))
+    { contentPadding ->
+        if (showErrorMessage) {
+            Column(
+                modifier = Modifier
+                    .padding(contentPadding)
+                    .fillMaxWidth()
+                    .verticalScroll(rememberScrollState())
+            ) {
                 CircularProgressIndicator(
                     modifier = Modifier
+                        .padding(top = 32.dp)
+                        .align(alignment = Alignment.CenterHorizontally)
                         .width(dimensionResource(id = com.bytesculptor.applib.R.dimen.circular_loading_size))
                         .height(dimensionResource(id = com.bytesculptor.applib.R.dimen.circular_loading_size)),
                     color = colorResource(progressIndicatorColor)
@@ -67,15 +70,31 @@ fun LoadingScreen(
                     color = colorResource(id = com.bytesculptor.applib.R.color.std_font)
                 )
                 Text(
-                    modifier = Modifier.padding(horizontal = 24.dp),
+                    modifier = Modifier
+                        .padding(horizontal = 24.dp)
+                        .align(alignment = Alignment.CenterHorizontally),
                     text = if (billingConnectionResponseCode != 0) "Error code $billingConnectionResponseCode" else "",
                     style = MaterialTheme.typography.subtitle2,
                     textAlign = TextAlign.Start,
                     color = colorResource(id = com.bytesculptor.applib.R.color.std_font)
                 )
-            })
-    } else {
-        CenteredSurfaceColumn(backgroundColor = backgroundColor, content = {})
+            }
+        } else {
+            Column(
+                modifier = Modifier
+                    .fillMaxSize()
+                    .padding(contentPadding),
+                verticalArrangement = Arrangement.Center,
+                horizontalAlignment = Alignment.CenterHorizontally,
+            ) {
+                CircularProgressIndicator(
+                    modifier = Modifier
+                        .width(dimensionResource(id = com.bytesculptor.applib.R.dimen.circular_loading_size))
+                        .height(dimensionResource(id = com.bytesculptor.applib.R.dimen.circular_loading_size)),
+                    color = colorResource(progressIndicatorColor),
+                )
+            }
+        }
     }
 }
 
