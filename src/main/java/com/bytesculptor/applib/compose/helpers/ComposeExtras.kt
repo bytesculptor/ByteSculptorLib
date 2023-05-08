@@ -21,13 +21,7 @@ import android.app.Activity
 import android.content.Context
 import android.content.ContextWrapper
 import androidx.compose.foundation.background
-import androidx.compose.foundation.layout.Arrangement
-import androidx.compose.foundation.layout.Column
-import androidx.compose.foundation.layout.ColumnScope
-import androidx.compose.foundation.layout.fillMaxSize
-import androidx.compose.foundation.layout.height
-import androidx.compose.foundation.layout.padding
-import androidx.compose.foundation.layout.width
+import androidx.compose.foundation.layout.*
 import androidx.compose.material.Surface
 import androidx.compose.material3.Divider
 import androidx.compose.runtime.Composable
@@ -59,12 +53,13 @@ fun ComposeBottomSheetNotch(modifier: Modifier) {
 
 @Composable
 fun CenteredSurfaceColumn(
+    modifier: Modifier = Modifier,
     backgroundColor: Int,
     content: @Composable ColumnScope.() -> Unit
 ) {
     Surface {
         Column(
-            modifier = Modifier
+            modifier = modifier
                 .fillMaxSize()
                 .background(colorResource(id = backgroundColor)),
             verticalArrangement = Arrangement.Center,
@@ -86,6 +81,3 @@ fun Context.findActivity(): Activity {
     }
     throw IllegalStateException("Permissions should be called in the context of an Activity")
 }
-
-
-
