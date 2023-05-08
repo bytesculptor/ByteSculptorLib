@@ -124,7 +124,7 @@
     <string name="rewarded_description">Potete guardare qui una pubblicità con premio per rimuovere tutta la pubblicità dall\'app per 72 ore. Questa pubblicità é un po\' più lungho degla pubblicità normale.\nDevete guardare la pubblicità fino alla fine per ricevere il premio.</string>
     <string name="delete_all">Cancella tutto</string>
     <string name="about_summary">Versione, privacy e altro</string>
-    <string name="bss_free_app">%s è un\'app gratuita e non richiede alcun pagamento per utilizzarla. Rimuovi definitivamente gli annunci con un pagamento una tantum. Grazie per il vostro sostegno!</string>
+    <string name="bss_free_app">%s è un\'app gratuita e non richiede alcun pagamento per utilizzarla. Rimuovi definitivamente la pubblicità con un pagamento una tantum. Grazie per il vostro sostegno!</string>
     <string name="thank_you_for_your_support">Grazie per il vostro sostegno!</string>
     <string name="onboarding_consent_privacy">Utilizzando questa app, date il vostro consenso alla nostra politica sulla privacy.</string>
     <string name="onboarding_consent_privacy_and_disclaimer">Utilizzando questa app, dai il tuo consenso alla nostra politica sulla privacy e al disclaimer.</string>
@@ -143,7 +143,7 @@
     <string name="iap_feature_not_supported">La funzione richiesta non è supportata dal Play Store sul dispositivo corrente.</string>
     <string name="iap_item_unavailable">Il prodotto richiesto non è disponibile per l\'acquisto.</string>
     <string name="more">Di più</string>
-    <string name="remove_ads_permanently">Rimuovi gli annunci in modo permanente</string>
+    <string name="remove_ads_permanently">Rimuovi la pubblicità in modo permanente</string>
     <string name="action_continue">Continua</string>
     <string name="contact_us_by_email_description">Quando ci invii un\'e-mail relativa a un problema con l\'app, aggiungi la versione dell\'app e la versione Android del tuo telefono.\n\nGrazie!</string>
 </resources>

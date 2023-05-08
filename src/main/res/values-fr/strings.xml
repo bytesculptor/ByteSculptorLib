@@ -26,7 +26,7 @@
     <string name="help_and_about">Aide &amp; À propos</string>
     <string name="contact">Contact</string>
     <string name="app_version">Version</string>
-    <string name="contact_us_by_email">Contactez-nous (Courriel)</string>
+    <string name="contact_us_by_email">Contactez-nous (e-mail)</string>
     <string name="no_thanks">Non, merci</string>
     <string name="hint">Note</string>
     <string name="history">Histoire</string>
@@ -78,7 +78,7 @@
     <string name="Friday">Vendredi</string>
     <string name="Saturday">Samedi</string>
     <string name="Sunday">Dimanche</string>
-    <string name="website">site Internet</string>
+    <string name="website">Site internet</string>
     <string name="oss_licenses_header">Cette application utilise actuellement le logiciel open source suivant:</string>
     <string name="open_source_licenses">Licenses open source</string>
     <string name="more_licenses">plus de licences</string>
