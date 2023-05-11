@@ -66,7 +66,8 @@
             android:text="@string/dev_email"
             android:textColor="@android:color/holo_blue_dark"
             android:textIsSelectable="true"
-            android:textSize="28sp" />
+            android:textSize="28sp"
+            android:visibility="gone" />
 
     </LinearLayout>
 
