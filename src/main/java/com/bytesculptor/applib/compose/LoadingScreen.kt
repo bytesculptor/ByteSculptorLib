@@ -18,15 +18,27 @@
 package com.bytesculptor.applib.compose
 
 import android.content.res.Configuration
-import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
-import androidx.compose.material.*
+import androidx.compose.material.CircularProgressIndicator
+import androidx.compose.material.MaterialTheme
+import androidx.compose.material.Scaffold
+import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.res.*
+import androidx.compose.ui.res.colorResource
+import androidx.compose.ui.res.dimensionResource
+import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.style.TextAlign
+import androidx.compose.ui.tooling.preview.Devices
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.android.billingclient.api.BillingClient.BillingResponseCode.BILLING_UNAVAILABLE
@@ -52,7 +64,11 @@ fun LoadingScreen(
                 modifier = Modifier
                     .padding(contentPadding)
                     .fillMaxWidth()
-                    .verticalScroll(rememberScrollState())
+                    .verticalScroll(
+                        rememberScrollState()
+                    ),
+                verticalArrangement = Arrangement.Center,
+                horizontalAlignment = Alignment.CenterHorizontally
             ) {
                 CircularProgressIndicator(
                     modifier = Modifier
@@ -124,8 +140,20 @@ private fun getConnectionStateString(billingConnectionResponseCode: Int): String
 }
 
 @Composable
-@Preview(showBackground = true, uiMode = Configuration.UI_MODE_NIGHT_YES)
+@Preview(
+    showBackground = true,
+    uiMode = Configuration.UI_MODE_NIGHT_YES,
+    device = Devices.PIXEL_4_XL
+)
 fun LoadingScreenPreview() {
+    BssMaterialTheme {
+        LoadingScreen(true, 3, android.R.color.holo_blue_dark, R.color.color_main_background)
+    }
+}
+
+@Preview(device = Devices.PIXEL_C)
+@Composable
+fun LoadingScreenPreviewTablet() {
     BssMaterialTheme {
         LoadingScreen(true, 3, android.R.color.holo_blue_dark, R.color.color_main_background)
     }
