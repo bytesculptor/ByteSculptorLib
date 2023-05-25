@@ -151,6 +151,18 @@ fun LoadingScreenPreview() {
     }
 }
 
+@Composable
+@Preview(
+    showBackground = true,
+    uiMode = Configuration.UI_MODE_NIGHT_NO,
+    device = Devices.PIXEL_4_XL
+)
+fun LoadingScreenSpinnerPreview() {
+    BssMaterialTheme {
+        LoadingScreen(false, 0, android.R.color.holo_blue_dark, R.color.color_main_background)
+    }
+}
+
 @Preview(device = Devices.PIXEL_C)
 @Composable
 fun LoadingScreenPreviewTablet() {

@@ -19,8 +19,15 @@ package com.bytesculptor.applib.compose
 
 import android.content.res.Configuration
 import androidx.compose.foundation.BorderStroke
-import androidx.compose.foundation.layout.*
-import androidx.compose.material.*
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.wrapContentHeight
+import androidx.compose.material.ButtonDefaults
+import androidx.compose.material.OutlinedButton
+import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -97,7 +104,11 @@ fun ButtonPreviewSingle() {
 @Preview
 fun ButtonPreviewDouble() {
     BssMaterialTheme {
-        val buttonModel = ButtonModel("Title", "Description", "£1.50") {}
+        val buttonModel = ButtonModel(
+            "Title",
+            "This is a very long description text to test multiline preview",
+            "£1.50"
+        ) {}
         ButtonGroup(
             buttonModels = listOf(buttonModel, buttonModel),
             buttonBorderColor = android.R.color.holo_blue_dark,
@@ -123,5 +134,5 @@ data class ButtonModel(
     val name: String,
     val description: String,
     val price: String?,
-    val onClick: () -> Unit
+    val onClick: () -> Unit,
 )
