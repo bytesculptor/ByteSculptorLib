@@ -152,4 +152,5 @@
     <string name="remove_ads_permanently">Odstrániť reklamy natrvalo</string>
     <string name="action_continue">ďalej</string>
     <string name="contact_us_by_email_description">Keď nám posielate e-mail týkajúci sa problému s aplikáciou, pridajte verziu aplikácie a verziu Androidu vášho telefónu.\n\nĎakujeme!</string>
+    <string name="translate">Preložiť pomocou Google</string>
 </resources>

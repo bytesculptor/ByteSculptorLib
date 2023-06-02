@@ -143,4 +143,5 @@
     <string name="remove_ads_permanently">Usuń reklamy na stałe</string>
     <string name="action_continue">Kontynuować</string>
     <string name="contact_us_by_email_description">Wysyłając do nas wiadomość e-mail dotyczącą problemu z aplikacją, dodaj wersję aplikacji i wersję Androida swojego telefonu.\n\nDziękujemy!</string>
+    <string name="translate">Tłumacz z Google</string>
 </resources>

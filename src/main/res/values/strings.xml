@@ -198,5 +198,6 @@
     <string name="pref_remove_ads_72h">Remove ads for 72 hours</string>
     <string name="no_ad_in_area">Currently no ads available in your area</string>
     <string name="remove_ads_permanently">Remove ads permanently</string>
+    <string name="translate">Translate with Google</string>
 
 </resources>

@@ -152,4 +152,5 @@
     <string name="remove_ads_permanently">স্থায়ীভাবে বিজ্ঞাপন সরান</string>
     <string name="action_continue">চালিয়ে যান</string>
     <string name="contact_us_by_email_description">অ্যাপের সমস্যা সম্পর্কে আমাদের কাছে একটি ইমেল পাঠানোর সময়, অনুগ্রহ করে অ্যাপের সংস্করণ এবং আপনার ফোনের অ্যান্ড্রয়েড সংস্করণ যোগ করুন।\n\nধন্যবাদ!</string>
+    <string name="translate">Google দিয়ে অনুবাদ করুন</string>
 </resources>

@@ -146,4 +146,5 @@
     <string name="remove_ads_permanently">Eliminar anuncios de forma permanente</string>
     <string name="action_continue">Continuar</string>
     <string name="contact_us_by_email_description">Cuando nos envíe un correo electrónico sobre un problema con la aplicación, agregue la versión de la aplicación y la versión de Android de su teléfono.\n\n¡Gracias!</string>
+    <string name="translate">Traducir con Google</string>
 </resources>

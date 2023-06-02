@@ -152,4 +152,5 @@
     <string name="remove_ads_permanently">Eliminați reclamele definitiv</string>
     <string name="action_continue">Continua</string>
     <string name="contact_us_by_email_description">Când ne trimiteți un e-mail cu privire la o problemă cu aplicația, vă rugăm să adăugați versiunea aplicației și versiunea Android a telefonului dvs.\n\nVă mulțumim!</string>
+    <string name="translate">Traduceți cu Google</string>
 </resources>
