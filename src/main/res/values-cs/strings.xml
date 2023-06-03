@@ -144,4 +144,5 @@
     <string name="action_continue">Pokračovat</string>
     <string name="contact_us_by_email_description">Když nám posíláte e-mail ohledně problému s aplikací, přidejte verzi aplikace a verzi Androidu vašeho telefonu.\n\nDěkujeme!</string>
     <string name="translate">Přeložte pomocí Googlu</string>
+    <string name="no_translation_app_found">Nebyla nalezena žádná aplikace pro překlad</string>
 </resources>

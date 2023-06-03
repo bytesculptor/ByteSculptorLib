@@ -147,4 +147,5 @@
     <string name="action_continue">जारी रखना</string>
     <string name="contact_us_by_email_description">ऐप के साथ किसी समस्या के संबंध में हमें एक ईमेल भेजते समय, कृपया ऐप संस्करण और अपने फ़ोन का Android संस्करण जोड़ें।\n\nधन्यवाद!</string>
     <string name="translate">Google के साथ अनुवाद करें</string>
+    <string name="no_translation_app_found">कोई अनुवाद ऐप्लिकेशन नहीं मिला</string>
 </resources>

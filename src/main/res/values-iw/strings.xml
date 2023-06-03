@@ -137,4 +137,5 @@
     <string name="action_continue">לְהַמשִׁיך</string>
     <string name="contact_us_by_email_description">בעת שליחת אימייל אלינו בנוגע לבעיה באפליקציה, אנא הוסף את גרסת האפליקציה ואת גרסת האנדרואיד של הטלפון שלך.\n\nתודה!</string>
     <string name="translate">תרגם עם גוגל</string>
+    <string name="no_translation_app_found">לא נמצאה אפליקציית תרגום</string>
 </resources>

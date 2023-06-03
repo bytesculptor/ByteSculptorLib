@@ -144,4 +144,5 @@
     <string name="action_continue">Fortsette</string>
     <string name="contact_us_by_email_description">Når du sender en e-post til oss angående et problem med appen, vennligst legg til appversjonen og telefonens Android-versjon.\n\nTakk!</string>
     <string name="translate">Oversett med Google</string>
+    <string name="no_translation_app_found">Ingen oversettelsesapp funnet</string>
 </resources>

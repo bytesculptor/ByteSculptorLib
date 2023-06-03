@@ -157,6 +157,8 @@
     <string name="start_ad">Start Ad</string>
     <string name="no_email_app_found">No E-Mail app found</string>
     <string name="roadmap">Roadmap</string>
+    <string name="translate">Translate with Google</string>
+    <string name="no_translation_app_found">No translation app found</string>
 
     <!-- In App Purchases -->
     <string name="in_app_purchases">In-App Purchases</string>
@@ -198,6 +200,5 @@
     <string name="pref_remove_ads_72h">Remove ads for 72 hours</string>
     <string name="no_ad_in_area">Currently no ads available in your area</string>
     <string name="remove_ads_permanently">Remove ads permanently</string>
-    <string name="translate">Translate with Google</string>
 
 </resources>

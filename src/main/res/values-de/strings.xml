@@ -147,4 +147,5 @@
     <string name="action_continue">Weiter</string>
     <string name="contact_us_by_email_description">Wenn Sie uns eine E-Mail bezüglich eines Problems mit der App senden, fügen Sie bitte die App-Version und die Android-Version Ihres Telefons hinzu.\n\nVielen Dank!</string>
     <string name="translate">Übersetzen mit Google</string>
+    <string name="no_translation_app_found">Keine Übersetzungs-App gefunden</string>
 </resources>

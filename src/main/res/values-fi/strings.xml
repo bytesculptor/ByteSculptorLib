@@ -144,4 +144,5 @@
     <string name="action_continue">Jatkaa</string>
     <string name="contact_us_by_email_description">Kun lähetät meille sähköpostia sovelluksen ongelmasta, lisää sovelluksen versio ja puhelimesi Android-versio.\n\nKiitos!</string>
     <string name="translate">Käännä Googlen avulla</string>
+    <string name="no_translation_app_found">Käännössovellusta ei löytynyt</string>
 </resources>
