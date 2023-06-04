@@ -146,4 +146,6 @@
     <string name="remove_ads_permanently">Rimuovi la pubblicità in modo permanente</string>
     <string name="action_continue">Continua</string>
     <string name="contact_us_by_email_description">Quando ci invii un\'e-mail relativa a un problema con l\'app, aggiungi la versione dell\'app e la versione Android del tuo telefono.\n\nGrazie!</string>
+    <string name="translate">Traduci con Google</string>
+    <string name="no_translation_app_found">Nessuna app di traduzione trovata</string>
 </resources>

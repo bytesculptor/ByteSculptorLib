@@ -143,4 +143,6 @@
     <string name="remove_ads_permanently">Alisin ang mga ad nang permanente</string>
     <string name="action_continue">Magpatuloy</string>
     <string name="contact_us_by_email_description">Kapag nagpapadala ng email sa amin patungkol sa isang problema sa app, mangyaring idagdag ang bersyon ng app at ang bersyon ng Android ng iyong telepono.\n\nSalamat!</string>
+    <string name="translate">Isalin gamit ang Google</string>
+    <string name="no_translation_app_found">Walang nahanap na app sa pagsasalin</string>
 </resources>

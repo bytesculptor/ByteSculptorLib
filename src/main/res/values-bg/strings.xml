@@ -150,4 +150,6 @@
     <string name="remove_ads_permanently">Премахнете рекламите за постоянно</string>
     <string name="action_continue">продължи</string>
     <string name="contact_us_by_email_description">Когато ни изпращате имейл относно проблем с приложението, моля, добавете версията на приложението и версията на Android на вашия телефон.\n\nБлагодарим ви!</string>
+    <string name="translate">Превеждайте с Google</string>
+    <string name="no_translation_app_found">Не е намерено приложение за превод</string>
 </resources>

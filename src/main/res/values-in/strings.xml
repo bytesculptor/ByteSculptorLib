@@ -143,4 +143,6 @@
     <string name="remove_ads_permanently">Hapus iklan secara permanen</string>
     <string name="action_continue">Melanjutkan</string>
     <string name="contact_us_by_email_description">Saat mengirimkan email kepada kami terkait masalah dengan aplikasi, harap tambahkan versi aplikasi dan versi Android ponsel Anda.\n\nTerima kasih!</string>
+    <string name="translate">Terjemahkan dengan Google</string>
+    <string name="no_translation_app_found">Tidak ada aplikasi terjemahan yang ditemukan</string>
 </resources>

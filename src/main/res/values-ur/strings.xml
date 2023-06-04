@@ -152,4 +152,6 @@
     <string name="remove_ads_permanently">اشتہارات کو مستقل طور پر ہٹا دیں۔</string>
     <string name="action_continue">جاری رہے</string>
     <string name="contact_us_by_email_description">ایپ میں کسی مسئلے کے بارے میں ہمیں ای میل بھیجتے وقت، براہ کرم ایپ کا ورژن اور اپنے فون کا Android ورژن شامل کریں۔\n\n  آپ کا شکریہ!</string>
+    <string name="translate">گوگل کے ساتھ ترجمہ کریں۔</string>
+    <string name="no_translation_app_found">کوئی ترجمہ ایپ نہیں ملی</string>
 </resources>

@@ -144,4 +144,6 @@
     <string name="remove_ads_permanently">広告を完全に削除する</string>
     <string name="action_continue">続く</string>
     <string name="contact_us_by_email_description">アプリの問題についてメールを送信する際は、アプリのバージョンと携帯電話の Android バージョンを追加してください。\n\nありがとうございます!</string>
+    <string name="translate">Google で翻訳する</string>
+    <string name="no_translation_app_found">翻訳アプリが見つかりませんでした</string>
 </resources>
