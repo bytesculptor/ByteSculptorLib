@@ -147,7 +147,12 @@ private fun getConnectionStateString(billingConnectionResponseCode: Int): String
 )
 fun LoadingScreenPreview() {
     BssMaterialTheme {
-        LoadingScreen(true, 3, android.R.color.holo_blue_dark, R.color.color_main_background)
+        LoadingScreen(
+            showErrorMessage = true,
+            billingConnectionResponseCode = 3,
+            progressIndicatorColor = android.R.color.holo_blue_dark,
+            backgroundColor = R.color.color_main_background
+        )
     }
 }
 
@@ -159,7 +164,12 @@ fun LoadingScreenPreview() {
 )
 fun LoadingScreenSpinnerPreview() {
     BssMaterialTheme {
-        LoadingScreen(false, 0, android.R.color.holo_blue_dark, R.color.color_main_background)
+        LoadingScreen(
+            showErrorMessage = false,
+            billingConnectionResponseCode = 0,
+            progressIndicatorColor = android.R.color.holo_blue_dark,
+            backgroundColor = R.color.color_main_background
+        )
     }
 }
 
@@ -167,6 +177,11 @@ fun LoadingScreenSpinnerPreview() {
 @Composable
 fun LoadingScreenPreviewTablet() {
     BssMaterialTheme {
-        LoadingScreen(true, 3, android.R.color.holo_blue_dark, R.color.color_main_background)
+        LoadingScreen(
+            showErrorMessage = true,
+            billingConnectionResponseCode = 3,
+            progressIndicatorColor = android.R.color.holo_blue_dark,
+            backgroundColor = R.color.color_main_background
+        )
     }
 }
