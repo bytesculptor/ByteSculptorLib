@@ -24,6 +24,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
+import com.bytesculptor.applib.compose.theme.preferencePaddingEnd
 import com.bytesculptor.applib.compose.theme.preferencePaddingStart
 
 @Composable
@@ -32,7 +33,12 @@ fun ComposePreferenceHeader(
     color: Color
 ) {
     Text(
-        modifier = Modifier.padding(start = preferencePaddingStart, bottom = 4.dp, top = 24.dp),
+        modifier = Modifier.padding(
+            start = preferencePaddingStart,
+            end = preferencePaddingEnd,
+            bottom = 4.dp,
+            top = 24.dp
+        ),
         text = header,
         color = color,
         style = MaterialTheme.typography.titleMedium

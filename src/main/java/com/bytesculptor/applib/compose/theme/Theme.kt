@@ -25,6 +25,7 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
 
 val preferencePaddingStart = 24.dp
+val preferencePaddingEnd = 24.dp
 
 private val DarkColorScheme = darkColorScheme(
     primary = AccentDark,

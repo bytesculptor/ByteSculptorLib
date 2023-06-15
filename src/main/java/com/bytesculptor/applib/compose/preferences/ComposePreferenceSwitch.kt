@@ -48,8 +48,8 @@ fun ComposePreferenceSwitch(
 
         Column(
             modifier = Modifier
-                .padding(start = preferencePaddingStart, end = 8.dp)
-                .weight(fill = true, weight = 0.5f)
+                .padding(start = preferencePaddingStart, end = 4.dp)
+                .weight(fill = true, weight = 1.0f)
         ) {
             Text(
                 modifier = Modifier.padding(top = 16.dp),
@@ -67,7 +67,6 @@ fun ComposePreferenceSwitch(
 
         Column(
             modifier = Modifier
-                .weight(0.12f)
                 .padding(16.dp)
                 .align(Alignment.CenterVertically)
         ) {
