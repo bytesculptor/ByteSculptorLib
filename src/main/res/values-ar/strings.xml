@@ -1,21 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><!--
-  ~ Copyright 2022 Byte Sculptor Software
-  ~
-  ~ Licensed under the Apache License, Version 2.0 (the "License");
-  ~ you may not use this file except in compliance with the License.
-  ~ You may obtain a copy of the License at
-  ~
-  ~ http://www.apache.org/licenses/LICENSE-2.0
-  ~
-  ~ Unless required by applicable law or agreed to in writing, software
-  ~ distributed under the License is distributed on an "AS IS" BASIS,
-  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-  ~ See the License for the specific language governing permissions and
-  ~ limitations under the License.
-  ~
-  ~
-  -->
-
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
     <string name="privacy_policy">سياسة خاصة</string>
     <string name="cancel">إلغاء</string>
@@ -138,4 +121,5 @@
     <string name="contact_us_by_email_description">عند إرسال بريد إلكتروني إلينا بخصوص مشكلة في التطبيق ، يرجى إضافة إصدار التطبيق وإصدار Android الخاص بهاتفك. \n\n شكرًا لك!</string>
     <string name="translate">ترجمة مع جوجل</string>
     <string name="no_translation_app_found">لم يتم العثور على تطبيق ترجمة</string>
+    <string name="help_page">صفحة المساعدة</string>
 </resources>

@@ -1,21 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><!--
-  ~ Copyright 2020 Byte Sculptor Software
-  ~
-  ~ Licensed under the Apache License, Version 2.0 (the "License");
-  ~ you may not use this file except in compliance with the License.
-  ~ You may obtain a copy of the License at
-  ~
-  ~ http://www.apache.org/licenses/LICENSE-2.0
-  ~
-  ~ Unless required by applicable law or agreed to in writing, software
-  ~ distributed under the License is distributed on an "AS IS" BASIS,
-  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-  ~ See the License for the specific language governing permissions and
-  ~ limitations under the License.
-  ~
-  ~
-  -->
-
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
     <string name="settings">설정</string>
     <string name="about_summary">버전, 고지 사항, 개인 정보 보호 등</string>
@@ -145,4 +128,5 @@
     <string name="contact_us_by_email_description">앱 문제와 관련하여 이메일을 보낼 때 앱 버전과 휴대전화의 Android 버전을 추가하세요.\n\n감사합니다!</string>
     <string name="translate">Google로 번역</string>
     <string name="no_translation_app_found">번역 앱이 없습니다.</string>
+    <string name="help_page">도움말 페이지</string>
 </resources>

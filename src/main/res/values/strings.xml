@@ -28,6 +28,7 @@
     <!-- general terms -->
     <string name="dev_email" translatable="false">bytesculptor@gmail.com</string>
     <string name="settings">Settings</string>
+    <string name="notification">Notification</string>
     <string name="notifications">Notifications</string>
     <string name="notif_setting">Notification settings</string>
     <string name="set_notif_settings">Set visibility, sound and vibration</string>
@@ -101,6 +102,7 @@
 
     <!-- help -->
     <string name="help">Help</string>
+    <string name="help_page">Help page</string>
     <string name="introduction">Introduction</string>
     <string name="about">About</string>
     <string name="help_and_about">Help &amp; About</string>

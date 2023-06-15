@@ -1,25 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><!--
-  ~ Copyright 2020 Byte Sculptor Software
-  ~
-  ~ Licensed under the Apache License, Version 2.0 (the "License");
-  ~ you may not use this file except in compliance with the License.
-  ~ You may obtain a copy of the License at
-  ~
-  ~ http://www.apache.org/licenses/LICENSE-2.0
-  ~
-  ~ Unless required by applicable law or agreed to in writing, software
-  ~ distributed under the License is distributed on an "AS IS" BASIS,
-  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-  ~ See the License for the specific language governing permissions and
-  ~ limitations under the License.
-  ~
-  ~
-  -->
-
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
     <string name="settings">Configuraciones</string>
     <string name="yes">si</string>
     <string name="no">no</string>
+    <string name="notification">Notificacion</string>
     <string name="notifications">Notificaciones</string>
     <string name="rate_this_app">Valora esta aplicación</string>
     <string name="about">Sobre</string>
@@ -148,4 +132,5 @@
     <string name="contact_us_by_email_description">Cuando nos envíe un correo electrónico sobre un problema con la aplicación, agregue la versión de la aplicación y la versión de Android de su teléfono.\n\n¡Gracias!</string>
     <string name="translate">Traducir con Google</string>
     <string name="no_translation_app_found">No se encontró ninguna aplicación de traducción</string>
+    <string name="help_page">Página ayuda</string>
 </resources>
