@@ -29,15 +29,16 @@ import com.bytesculptor.applib.compose.theme.preferencePaddingStart
 
 @Composable
 fun ComposePreferenceHeader(
+    modifier: Modifier = Modifier,
     header: String,
     color: Color
 ) {
     Text(
-        modifier = Modifier.padding(
+        modifier = modifier.padding(
             start = preferencePaddingStart,
             end = preferencePaddingEnd,
             bottom = 4.dp,
-            top = 24.dp
+            top = 0.dp
         ),
         text = header,
         color = color,
