@@ -66,12 +66,19 @@
     <string name="off">off</string>
     <string name="on">on</string>
     <string name="update">Update</string>
-    <string name="collapse_view">collapse view</string>
+    <string name="collapse_view">Collapse view</string>
     <string name="duplicate">Duplicate</string>
     <string name="action_continue">Continue</string>
+    <string name="view_collapsed">View collapsed</string>
+    <string name="expand_view">Expand view</string>
+    <string name="view_expanded">View expanded</string>
+    <string name="move_to_previous_page">Move to previous page</string>
+    <string name="move_to_next_page">Move to next page</string>
+    <string name="configure">Configure</string>
 
     <!-- time -->
-    <string name="today">today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="today">Today</string>
     <string name="later">later</string>
     <string name="next">next</string>
     <string name="abbreviation_monday">Mon</string>
@@ -161,6 +168,7 @@
     <string name="roadmap">Roadmap</string>
     <string name="translate">Translate with Google</string>
     <string name="no_translation_app_found">No translation app found</string>
+    <string name="all">All</string>
 
     <!-- In App Purchases -->
     <string name="in_app_purchases">In-App Purchases</string>

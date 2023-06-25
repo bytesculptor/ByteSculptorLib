@@ -70,7 +70,6 @@
     <string name="faq">FAQ</string>
     <string name="errorOpeningExternalLink">Errore durante l\'apertura del collegamento esterno</string>
     <string name="okay">OK</string>
-    <string name="today">oggi</string>
     <string name="tutorial">Tutorial</string>
     <string name="error_connect_server">Errore durante la connessione al server</string>
     <string name="loading">Caricando</string>
@@ -92,7 +91,6 @@
     <string name="pro_version">Versione Pro</string>
     <string name="no_email_app_found">Nessuna app di email trovata</string>
     <string name="update">Aggiorna</string>
-    <string name="collapse_view">Comprimi vista</string>
     <string name="duplicate">Duplica</string>
     <string name="roadmap">Tabella di marcia</string>
     <string name="ad_free">Senza pubblicità</string>
@@ -133,4 +131,14 @@
     <string name="translate">Traduci con Google</string>
     <string name="no_translation_app_found">Nessuna app di traduzione trovata</string>
     <string name="help_page">Pagina aiuto</string>
+    <string name="collapse_view">Comprimi vista</string>
+    <string name="view_collapsed">Vista compressa</string>
+    <string name="expand_view">Espandi vista</string>
+    <string name="view_expanded">Vista espansa</string>
+    <string name="today">Oggi</string>
+    <string name="yesterday">Ieri</string>
+    <string name="all">Tutti</string>
+    <string name="configure">Configura</string>
+    <string name="move_to_previous_page">Passa alla pagina precedente</string>
+    <string name="move_to_next_page">Passa alla pagina successiva</string>
 </resources>

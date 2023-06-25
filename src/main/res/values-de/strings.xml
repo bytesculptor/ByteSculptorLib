@@ -72,7 +72,6 @@
     <string name="okay">OK</string>
     <string name="saved">Gespeichert</string>
     <string name="edit">Editieren</string>
-    <string name="today">heute</string>
     <string name="tutorial">Tutorial</string>
     <string name="error_connect_server">Fehler beim Verbinden mit dem Server</string>
     <string name="loading">Laden</string>
@@ -93,7 +92,6 @@
     <string name="no_email_app_found">Keine E-Mail-App gefunden</string>
     <string name="duplicate">Duplizieren</string>
     <string name="update">Aktualisieren</string>
-    <string name="collapse_view">Ansicht minimieren</string>
     <string name="roadmap">Roadmap</string>
     <string name="ad_free">Werbefrei</string>
     <string name="description_not_found">Beschreibung nicht gefunden</string>
@@ -133,4 +131,14 @@
     <string name="translate">Übersetzen mit Google</string>
     <string name="no_translation_app_found">Keine Übersetzungs-App gefunden</string>
     <string name="help_page">Hilfeseite</string>
+    <string name="collapse_view">Ansicht minimieren</string>
+    <string name="view_collapsed">Ansicht minimiert</string>
+    <string name="expand_view">Ansicht erweitern</string>
+    <string name="view_expanded">Ansicht erweitert</string>
+    <string name="move_to_previous_page">Zur vorherigen Seite</string>
+    <string name="move_to_next_page">Zur nächsten Seite</string>
+    <string name="today">Heute</string>
+    <string name="yesterday">Gestern</string>
+    <string name="configure">Konfigurieren</string>
+    <string name="all">Alle</string>
 </resources>

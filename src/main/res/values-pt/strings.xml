@@ -74,7 +74,6 @@
     <string name="sort_asc">crescente</string>
     <string name="sort_desc">decrescente</string>
     <string name="added">adicionado</string>
-    <string name="today">hoje</string>
     <string name="later">mais tarde</string>
     <string name="next">próximo</string>
     <string name="Monday">Segunda-feira </string>
@@ -90,7 +89,6 @@
     <string name="pro_version">Versão Pro</string>
     <string name="no_email_app_found">Nenhum aplicativo de e-mail encontrado</string>
     <string name="update">Atualizar</string>
-    <string name="collapse_view">recolher visualização</string>
     <string name="duplicate">Duplicar</string>
     <string name="roadmap">Roteiro</string>
     <string name="ad_free">Sem anúncios</string>
@@ -130,4 +128,14 @@
     <string name="translate">Traduzir com o Google</string>
     <string name="no_translation_app_found">Nenhum aplicativo de tradução encontrado</string>
     <string name="help_page">Página ajuda</string>
+    <string name="collapse_view">Recolher visualização</string>
+    <string name="view_collapsed">Ver recolhido</string>
+    <string name="expand_view">Expandir visualização</string>
+    <string name="view_expanded">Ver expandido</string>
+    <string name="all">Todos</string>
+    <string name="today">Hoje</string>
+    <string name="yesterday">Ontem</string>
+    <string name="move_to_previous_page">Mover para a página anterior</string>
+    <string name="move_to_next_page">Mover para a próxima página</string>
+    <string name="configure">configurar</string>
 </resources>
