@@ -100,7 +100,9 @@
     <string name="left_rewarded_days">Je hebt nog %1$s dagen advertentievrije ervaring</string>
     <string name="less_one_hour_left_rewarded">Je hebt minder dan 1 uur advertentievrije ervaring</string>
     <string name="pref_remove_ads_72h">Advertenties 72 uur verwijderen</string>
-    <string name="rewarded_description">U kunt hier een beloonde advertentie bekijken om 72 uur lang alle advertenties uit de app te verwijderen. Deze advertenties zijn iets langer dan de normale advertenties.\nJe moet de advertentie tot het einde bekijken om de beloning te ontvangen.</string>
+    <string name="pref_remove_ads_24h">Advertenties 24 uur verwijderen</string>
+    <string name="rewarded_description_72h">U kunt hier een beloonde advertentie bekijken om 72 uur lang alle advertenties uit de app te verwijderen. Deze advertenties zijn iets langer dan de normale advertenties.\nJe moet de advertentie tot het einde bekijken om de beloning te ontvangen.</string>
+    <string name="rewarded_description_24h">U kunt hier een beloonde advertentie bekijken om 24 uur lang alle advertenties uit de app te verwijderen. Deze advertenties zijn iets langer dan de normale advertenties.\nJe moet de advertentie tot het einde bekijken om de beloning te ontvangen.</string>
     <string name="no_ad_in_area">Momenteel geen advertenties beschikbaar in uw regio</string>
     <string name="delete_all">Verwijder alles</string>
     <string name="bss_free_app">%s is een gratis app en vereist geen betaling om deze te gebruiken. Advertenties definitief verwijderen met een eenmalige betaling. Bedankt voor je ondersteuning!</string>

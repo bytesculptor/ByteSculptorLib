@@ -103,7 +103,9 @@
     <string name="no_ad_in_area">Derzeit sind keine Werbe-Anzeigen in Ihrer Nähe verfügbar</string>
     <string name="less_one_hour_left_rewarded">Sie haben weniger als 1 Stunde werbefreie Zeit</string>
     <string name="pref_remove_ads_72h">Werbung 72 Stunden entfernen</string>
-    <string name="rewarded_description">Sie können sich hier eine Werbe-Anzeige mit Prämie ansehen, um 72 Stunden lang alle Werbung aus der App zu entfernen. Diese Werbung ist etwas länger als die normale Werbung.\nSie müssen die Werbung bis zum Ende ansehen, um die Prämie zu erhalten.</string>
+    <string name="pref_remove_ads_24h">Werbung 24 Stunden entfernen</string>
+    <string name="rewarded_description_72h">Sie können sich hier eine Werbe-Anzeige mit Prämie ansehen, um 72 Stunden lang alle Werbung aus der App zu entfernen. Diese Werbung ist etwas länger als die normale Werbung.\nSie müssen die Werbung bis zum Ende ansehen, um die Prämie zu erhalten.</string>
+    <string name="rewarded_description_24h">Sie können sich hier eine Werbe-Anzeige mit Prämie ansehen, um 24 Stunden lang alle Werbung aus der App zu entfernen. Diese Werbung ist etwas länger als die normale Werbung.\nSie müssen die Werbung bis zum Ende ansehen, um die Prämie zu erhalten.</string>
     <string name="delete_all">Alle Löschen</string>
     <string name="about_summary">Version, Datenschutz und mehr</string>
     <string name="bss_free_app">%s ist eine kostenlose App, für deren Nutzung keine Zahlung erforderlich ist. Entfernen Sie Werbung dauerhaft mit einer einmaligen Zahlung. Danke für Ihre Unterstützung!</string>

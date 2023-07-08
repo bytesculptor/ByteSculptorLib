@@ -89,12 +89,14 @@
     <string name="description_not_found">התיאור לא נמצא</string>
     <string name="error_unable_to_make_purchase">לא ניתן לבצע רכישה.</string>
     <string name="available_purchases">רכישות זמינות</string>
-    <string name="rewarded_description">תוכל לצפות כאן במודעה מתוגמלת להסרת כל המודעות מהאפליקציה למשך 72 שעות. המודעות האלה קצת יותר ארוכות מהמודעות הרגילות. \n עליך לצפות במודעה עד הסוף כדי לקבל את הפרס.</string>
+    <string name="rewarded_description_72h">תוכל לצפות כאן במודעה מתוגמלת להסרת כל המודעות מהאפליקציה למשך 72 שעות. המודעות האלה קצת יותר ארוכות מהמודעות הרגילות. \n עליך לצפות במודעה עד הסוף כדי לקבל את הפרס.</string>
+    <string name="rewarded_description_24h">תוכל לצפות כאן במודעה מתוגמלת להסרת כל המודעות מהאפליקציה למשך 24 שעות. המודעות האלה קצת יותר ארוכות מהמודעות הרגילות. \n עליך לצפות במודעה עד הסוף כדי לקבל את הפרס.</string>
     <string name="left_rewarded_hours">נותרו לך %1$s שעות מהחוויה ללא מודעות</string>
     <string name="left_rewarded_days">נותרו לך %1$s ימים מהחוויה ללא מודעות</string>
     <string name="no_ad_in_area">כרגע אין מודעות זמינות באזור שלך</string>
     <string name="less_one_hour_left_rewarded">נותרה לך פחות משעה</string>
     <string name="pref_remove_ads_72h">הסר מודעות למשך 72 שעות</string>
+    <string name="pref_remove_ads_24h">הסר מודעות למשך 24 שעות</string>
     <string name="delete_all">מחק הכל</string>
     <string name="bss_free_app">%s היא אפליקציה חינמית ואינה דורשת תשלום כלשהו כדי להשתמש בה. הסר מודעות לצמיתות עם תשלום חד פעמי. תודה על תמיכתך!</string>
     <string name="message_thank_you">תודה רבה לך!</string>

@@ -102,11 +102,13 @@
     <string name="error_unable_to_make_purchase">खरीदारी नहीं हो पा रही है।</string>
     <string name="available_purchases">उपलब्ध खरीदारी</string>
     <string name="thank_you_for_your_support">आपके समर्थन के लिए धन्यवाद!</string>
-    <string name="rewarded_description">आप 72 घंटों के लिए ऐप से सभी विज्ञापनों को हटाने के लिए यहां एक पुरस्कृत विज्ञापन देख सकते हैं। ये विज्ञापन सामान्य विज्ञापनों से थोड़े लंबे हैं।\nइनाम पाने के लिए आपको विज्ञापन को अंत तक देखना होगा।</string>
+    <string name="rewarded_description_72h">आप 72 घंटों के लिए ऐप से सभी विज्ञापनों को हटाने के लिए यहां एक पुरस्कृत विज्ञापन देख सकते हैं। ये विज्ञापन सामान्य विज्ञापनों से थोड़े लंबे हैं।\nइनाम पाने के लिए आपको विज्ञापन को अंत तक देखना होगा।</string>
+    <string name="rewarded_description_24h">आप 24 घंटों के लिए ऐप से सभी विज्ञापनों को हटाने के लिए यहां एक पुरस्कृत विज्ञापन देख सकते हैं। ये विज्ञापन सामान्य विज्ञापनों से थोड़े लंबे हैं।\nइनाम पाने के लिए आपको विज्ञापन को अंत तक देखना होगा।</string>
     <string name="left_rewarded_hours">आपके पास विज्ञापन मुक्त अनुभव के %1$s घंटे शेष हैं</string>
     <string name="left_rewarded_days">आपके पास विज्ञापन मुक्त अनुभव के %1$s दिन शेष हैं</string>
     <string name="less_one_hour_left_rewarded">आपके पास 1 घंटे से भी कम समय बचा है</string>
     <string name="pref_remove_ads_72h">72 घंटे के लिए विज्ञापन हटाएं</string>
+    <string name="pref_remove_ads_24h">24 घंटे के लिए विज्ञापन हटाएं</string>
     <string name="no_ad_in_area">वर्तमान में आपके क्षेत्र में कोई विज्ञापन उपलब्ध नहीं है</string>
     <string name="bss_free_app">%s एक निःशुल्क ऐप है और इसका उपयोग करने के लिए किसी भुगतान की आवश्यकता नहीं है। एकमुश्त भुगतान के साथ विज्ञापनों को स्थायी रूप से हटा दें। आपके समर्थन के लिए धन्यवाद!</string>
     <string name="onboarding_consent_privacy">इस ऐप का उपयोग करके आप हमारी गोपनीयता नीति को अपनी सहमति देते हैं।</string>

@@ -100,8 +100,10 @@
     <string name="left_rewarded_days">Pozostało %1$s dni korzystania z reklam bez reklam</string>
     <string name="less_one_hour_left_rewarded">Pozostała Ci mniej niż 1 godzina korzystania z reklam bez reklam</string>
     <string name="pref_remove_ads_72h">Usuń reklamy na 72 godziny</string>
+    <string name="pref_remove_ads_24h">Usuń reklamy na 24 godziny</string>
     <string name="no_ad_in_area">Obecnie w Twojej okolicy nie są dostępne żadne reklamy</string>
-    <string name="rewarded_description">Tutaj możesz obejrzeć reklamę pełnoekranową z nagrodą, aby usunąć wszystkie reklamy z aplikacji na 72 godziny. Reklamy te są nieco dłuższe niż zwykłe reklamy. Musisz obejrzeć reklamę do końca, aby otrzymać nagrodę.</string>
+    <string name="rewarded_description_72h">Tutaj możesz obejrzeć reklamę pełnoekranową z nagrodą, aby usunąć wszystkie reklamy z aplikacji na 72 godziny. Reklamy te są nieco dłuższe niż zwykłe reklamy. Musisz obejrzeć reklamę do końca, aby otrzymać nagrodę.</string>
+    <string name="rewarded_description_24h">Tutaj możesz obejrzeć reklamę pełnoekranową z nagrodą, aby usunąć wszystkie reklamy z aplikacji na 24 godziny. Reklamy te są nieco dłuższe niż zwykłe reklamy. Musisz obejrzeć reklamę do końca, aby otrzymać nagrodę.</string>
     <string name="delete_all">Usuń wszystko</string>
     <string name="bss_free_app">%s to darmowa aplikacja i nie wymaga żadnych opłat, aby z niej korzystać. Trwałe usuwanie reklam za jednorazową opłatą. Dziękuję za Twoje wsparcie!</string>
     <string name="message_thank_you">Dziękuję bardzo!</string>

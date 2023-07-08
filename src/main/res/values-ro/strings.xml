@@ -108,11 +108,13 @@
     <string name="error_unable_to_make_purchase">Nu se poate face achiziția.</string>
     <string name="available_purchases">Achiziții disponibile</string>
     <string name="thank_you_for_your_support">Iti multumesc pentru sprijin!</string>
-    <string name="rewarded_description">Puteți viziona aici un anunț cu recompensă pentru a elimina toate anunțurile din aplicație timp de 72 de ore. Aceste anunțuri sunt puțin mai lungi decât anunțurile normale.\nTrebuie să urmărești anunțul până la sfârșit pentru a primi recompensa.</string>
+    <string name="rewarded_description_72h">Puteți viziona aici un anunț cu recompensă pentru a elimina toate anunțurile din aplicație timp de 72 de ore. Aceste anunțuri sunt puțin mai lungi decât anunțurile normale.\nTrebuie să urmărești anunțul până la sfârșit pentru a primi recompensa.</string>
+    <string name="rewarded_description_24h">Puteți viziona aici un anunț cu recompensă pentru a elimina toate anunțurile din aplicație timp de 24 de ore. Aceste anunțuri sunt puțin mai lungi decât anunțurile normale.\nTrebuie să urmărești anunțul până la sfârșit pentru a primi recompensa.</string>
     <string name="left_rewarded_hours">Mai aveți %1$s ore de experiență fără anunțuri</string>
     <string name="left_rewarded_days">Mai aveți %1$s zile de experiență fără anunțuri</string>
     <string name="less_one_hour_left_rewarded">Mai ai mai puțin de 1 oră</string>
     <string name="pref_remove_ads_72h">Eliminați reclamele timp de 72 de ore</string>
+    <string name="pref_remove_ads_24h">Eliminați reclamele timp de 24 de ore</string>
     <string name="no_ad_in_area">Momentan nu există anunțuri disponibile în zona dvs</string>
     <string name="bss_free_app">%s este o aplicație gratuită și nu necesită nicio plată pentru ao folosi. Eliminați definitiv anunțurile cu o plată unică. Iti multumesc pentru sprijin!</string>
     <string name="onboarding_consent_privacy">Prin utilizarea acestei aplicații, vă dați acordul cu privire la politica noastră de confidențialitate.</string>

@@ -99,8 +99,10 @@
     <string name="left_rewarded_days">Você tem %1$s dias restantes de experiência sem anúncios</string>
     <string name="less_one_hour_left_rewarded">Você tem menos de 1 hora restante de experiência sem anúncios</string>
     <string name="pref_remove_ads_72h">Remover anúncios por 72 horas</string>
+    <string name="pref_remove_ads_24h">Remover anúncios por 24 horas</string>
     <string name="no_ad_in_area">Atualmente não há anúncios disponíveis em sua área</string>
-    <string name="rewarded_description">Você pode assistir aqui um anúncio premiado para remover todos os anúncios do aplicativo por 72 horas. Esses anúncios são um pouco mais longos do que os anúncios normais.\nVocê tem que assistir o anúncio até o fim para receber a recompensa.</string>
+    <string name="rewarded_description_72h">Você pode assistir aqui um anúncio premiado para remover todos os anúncios do aplicativo por 72 horas. Esses anúncios são um pouco mais longos do que os anúncios normais.\nVocê tem que assistir o anúncio até o fim para receber a recompensa.</string>
+    <string name="rewarded_description_24h">Você pode assistir aqui um anúncio premiado para remover todos os anúncios do aplicativo por 24 horas. Esses anúncios são um pouco mais longos do que os anúncios normais.\nVocê tem que assistir o anúncio até o fim para receber a recompensa.</string>
     <string name="delete_all">Deletar tudo</string>
     <string name="bss_free_app">%s é um aplicativo gratuito e não requer nenhum pagamento para usá-lo. Remova permanentemente os anúncios com um pagamento único. Obrigado pelo seu apoio!</string>
     <string name="message_thank_you">Muito obrigado!</string>

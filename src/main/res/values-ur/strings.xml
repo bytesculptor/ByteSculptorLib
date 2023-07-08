@@ -108,11 +108,13 @@
     <string name="error_unable_to_make_purchase">خریداری کرنے سے قاصر۔</string>
     <string name="available_purchases">دستیاب خریداریاں</string>
     <string name="thank_you_for_your_support">آپ کی حمایت کا شکریہ!</string>
-    <string name="rewarded_description">آپ ایپ سے تمام اشتہارات کو 72 گھنٹے تک ہٹانے کے لیے یہاں ایک انعام یافتہ اشتہار دیکھ سکتے ہیں۔ یہ اشتہار عام اشتہارات سے کچھ لمبے ہوتے ہیں۔\nآپ کو انعام حاصل کرنے کے لیے اشتہار کو آخر تک دیکھنا ہوگا۔</string>
+    <string name="rewarded_description_72h">آپ ایپ سے تمام اشتہارات کو 72 گھنٹے تک ہٹانے کے لیے یہاں ایک انعام یافتہ اشتہار دیکھ سکتے ہیں۔ یہ اشتہار عام اشتہارات سے کچھ لمبے ہوتے ہیں۔\nآپ کو انعام حاصل کرنے کے لیے اشتہار کو آخر تک دیکھنا ہوگا۔</string>
+    <string name="rewarded_description_24h">آپ ایپ سے تمام اشتہارات کو 24 گھنٹے تک ہٹانے کے لیے یہاں ایک انعام یافتہ اشتہار دیکھ سکتے ہیں۔ یہ اشتہار عام اشتہارات سے کچھ لمبے ہوتے ہیں۔\nآپ کو انعام حاصل کرنے کے لیے اشتہار کو آخر تک دیکھنا ہوگا۔</string>
     <string name="left_rewarded_hours">آپ کے پاس اشتہار سے پاک تجربہ کے %1$s گھنٹے باقی ہیں۔</string>
     <string name="left_rewarded_days">آپ کے پاس اشتہار سے پاک تجربہ کے %1$s دن باقی ہیں۔</string>
     <string name="less_one_hour_left_rewarded">آپ کے پاس 1 گھنٹے سے بھی کم وقت باقی ہے۔</string>
     <string name="pref_remove_ads_72h">72 گھنٹے کے لیے اشتہارات ہٹا دیں۔</string>
+    <string name="pref_remove_ads_24h">24 گھنٹے کے لیے اشتہارات ہٹا دیں۔</string>
     <string name="no_ad_in_area">فی الحال آپ کے علاقے میں کوئی اشتہار دستیاب نہیں ہے۔</string>
     <string name="bss_free_app">%s ایک مفت ایپ ہے اور اسے استعمال کرنے کے لیے کسی ادائیگی کی ضرورت نہیں ہے۔ ایک بار کی ادائیگی کے ساتھ اشتہارات کو مستقل طور پر ہٹا دیں۔ آپ کی حمایت کا شکریہ!</string>
     <string name="onboarding_consent_privacy">اس ایپ کو استعمال کرکے، آپ ہماری رازداری کی پالیسی کو اپنی رضامندی دیتے ہیں۔</string>

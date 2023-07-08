@@ -203,11 +203,13 @@
     <string name="iap_item_unavailable">The requested product is not available for purchase.</string>
 
     <!-- rewarded ad -->
-    <string name="rewarded_description">You can watch here a rewarded ad to remove all ads from the app for 72 hours. These ads are a bit longer than the normal ads.\nYou have to watch the ad until the end to receive the reward.</string>
+    <string name="rewarded_description_72h">You can watch here a rewarded ad to remove all ads from the app for 72 hours. These ads are a bit longer than the normal ads.\nYou have to watch the ad until the end to receive the reward.</string>
+    <string name="rewarded_description_24h">You can watch here a rewarded ad to remove all ads from the app for 24 hours. These ads are a bit longer than the normal ads.\nYou have to watch the ad until the end to receive the reward.</string>
     <string name="left_rewarded_hours">You have %1$s hours left of ad free experience</string>
     <string name="left_rewarded_days">You have %1$s days left of ad free experience</string>
     <string name="less_one_hour_left_rewarded">You have less than 1 hour left</string>
     <string name="pref_remove_ads_72h">Remove ads for 72 hours</string>
+    <string name="pref_remove_ads_24h">Remove ads for 24 hours</string>
     <string name="no_ad_in_area">Currently no ads available in your area</string>
     <string name="remove_ads_permanently">Remove ads permanently</string>
 

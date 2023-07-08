@@ -108,11 +108,13 @@
     <string name="error_unable_to_make_purchase">ไม่สามารถทำการซื้อได้</string>
     <string name="available_purchases">ซื้อที่มีอยู่</string>
     <string name="thank_you_for_your_support">ขอบคุณสำหรับการสนับสนุนของคุณ!</string>
-    <string name="rewarded_description">คุณสามารถดูโฆษณาที่มีการให้รางวัลที่นี่เพื่อลบโฆษณาทั้งหมดออกจากแอปเป็นเวลา 72 ชั่วโมง โฆษณาเหล่านี้ยาวกว่าโฆษณาปกติเล็กน้อย\nคุณต้องดูโฆษณาจนจบเพื่อรับรางวัล</string>
+    <string name="rewarded_description_72h">คุณสามารถดูโฆษณาที่มีการให้รางวัลที่นี่เพื่อลบโฆษณาทั้งหมดออกจากแอปเป็นเวลา 72 ชั่วโมง โฆษณาเหล่านี้ยาวกว่าโฆษณาปกติเล็กน้อย\nคุณต้องดูโฆษณาจนจบเพื่อรับรางวัล</string>
+    <string name="rewarded_description_24h">คุณสามารถดูโฆษณาที่มีการให้รางวัลที่นี่เพื่อลบโฆษณาทั้งหมดออกจากแอปเป็นเวลา 24 ชั่วโมง โฆษณาเหล่านี้ยาวกว่าโฆษณาปกติเล็กน้อย\nคุณต้องดูโฆษณาจนจบเพื่อรับรางวัล</string>
     <string name="left_rewarded_hours">คุณเหลือเวลาอีก %1$s ชั่วโมงสำหรับประสบการณ์ใช้งานแบบไม่มีโฆษณา</string>
     <string name="left_rewarded_days">คุณเหลือเวลาอีก %1$s วันสำหรับประสบการณ์ใช้งานแบบไม่มีโฆษณา</string>
     <string name="less_one_hour_left_rewarded">คุณเหลือเวลาอีกไม่ถึง 1 ชั่วโมง</string>
     <string name="pref_remove_ads_72h">ลบโฆษณาเป็นเวลา 72 ชั่วโมง</string>
+    <string name="pref_remove_ads_24h">ลบโฆษณาเป็นเวลา 24 ชั่วโมง</string>
     <string name="no_ad_in_area">ขณะนี้ไม่มีโฆษณาในพื้นที่ของคุณ</string>
     <string name="bss_free_app">%s เป็นแอปฟรีและไม่ต้องชำระเงินเพื่อใช้งาน ลบโฆษณาอย่างถาวรด้วยการชำระเงินครั้งเดียว ขอบคุณสำหรับการสนับสนุนของคุณ!</string>
     <string name="onboarding_consent_privacy">การใช้แอพนี้แสดงว่าคุณยินยอมต่อนโยบายความเป็นส่วนตัวของเรา</string>

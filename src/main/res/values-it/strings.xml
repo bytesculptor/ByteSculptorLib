@@ -102,8 +102,10 @@
     <string name="left_rewarded_days">Vi restano %1$s giorni di esperienza senza pubblicità</string>
     <string name="less_one_hour_left_rewarded">Vi rimane meno di 1 ora di esperienza senza pubblicità</string>
     <string name="pref_remove_ads_72h">Rimuova pubblicità per 72 ore</string>
+    <string name="pref_remove_ads_24h">Rimuova pubblicità per 24 ore</string>
     <string name="no_ad_in_area">Al momento nessun annuncio disponibile nella tua zona</string>
-    <string name="rewarded_description">Potete guardare qui una pubblicità con premio per rimuovere tutta la pubblicità dall\'app per 72 ore. Questa pubblicità é un po\' più lungho degla pubblicità normale.\nDevete guardare la pubblicità fino alla fine per ricevere il premio.</string>
+    <string name="rewarded_description_72h">Potete guardare qui una pubblicità con premio per rimuovere tutta la pubblicità dall\'app per 72 ore. Questa pubblicità é un po\' più lungho degla pubblicità normale.\nDevete guardare la pubblicità fino alla fine per ricevere il premio.</string>
+    <string name="rewarded_description_24h">Potete guardare qui una pubblicità con premio per rimuovere tutta la pubblicità dall\'app per 24 ore. Questa pubblicità é un po\' più lungho degla pubblicità normale.\nDevete guardare la pubblicità fino alla fine per ricevere il premio.</string>
     <string name="delete_all">Cancella tutto</string>
     <string name="about_summary">Versione, privacy e altro</string>
     <string name="bss_free_app">%s è un\'app gratuita e non richiede alcun pagamento per utilizzarla. Rimuovi definitivamente la pubblicità con un pagamento una tantum. Grazie per il vostro sostegno!</string>

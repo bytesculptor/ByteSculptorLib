@@ -108,11 +108,13 @@
     <string name="error_unable_to_make_purchase">Nie je možné uskutočniť nákup.</string>
     <string name="available_purchases">Dostupné nákupy</string>
     <string name="thank_you_for_your_support">Ďakujem za tvoju podporu!</string>
-    <string name="rewarded_description">Tu si môžete pozrieť reklamu s odmenou na odstránenie všetkých reklám z aplikácie na 72 hodín. Tieto reklamy sú o niečo dlhšie ako bežné reklamy.\nAk chcete získať odmenu, musíte si reklamu pozrieť až do konca.</string>
+    <string name="rewarded_description_72h">Tu si môžete pozrieť reklamu s odmenou na odstránenie všetkých reklám z aplikácie na 72 hodín. Tieto reklamy sú o niečo dlhšie ako bežné reklamy.\nAk chcete získať odmenu, musíte si reklamu pozrieť až do konca.</string>
+    <string name="rewarded_description_24h">Tu si môžete pozrieť reklamu s odmenou na odstránenie všetkých reklám z aplikácie na 24 hodín. Tieto reklamy sú o niečo dlhšie ako bežné reklamy.\nAk chcete získať odmenu, musíte si reklamu pozrieť až do konca.</string>
     <string name="left_rewarded_hours">Zostáva vám %1$s hodín bez reklám</string>
     <string name="left_rewarded_days">Zostáva vám %1$s dní bez reklám</string>
     <string name="less_one_hour_left_rewarded">Zostáva vám menej ako 1 hodina</string>
     <string name="pref_remove_ads_72h">Odstráňte reklamy na 72 hodín</string>
+    <string name="pref_remove_ads_24h">Odstráňte reklamy na 24 hodín</string>
     <string name="no_ad_in_area">Vo vašej oblasti momentálne nie sú dostupné žiadne reklamy</string>
     <string name="bss_free_app">%s je bezplatná aplikácia a za jej používanie nie sú potrebné žiadne platby. Natrvalo odstráňte reklamy pomocou jednorazovej platby. Ďakujem za tvoju podporu!</string>
     <string name="onboarding_consent_privacy">Používaním tejto aplikácie vyjadrujete súhlas s našimi zásadami ochrany osobných údajov.</string>

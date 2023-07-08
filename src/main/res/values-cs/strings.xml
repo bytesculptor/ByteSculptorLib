@@ -100,8 +100,10 @@
     <string name="left_rewarded_days">Zbylo vám %1$s dnů bez reklam</string>
     <string name="less_one_hour_left_rewarded">Zbývá vám méně než 1 hodina bez reklam</string>
     <string name="pref_remove_ads_72h">Odstraňte reklamy na 72 hodin</string>
+    <string name="pref_remove_ads_24h">Odstraňte reklamy na 24 hodin</string>
     <string name="no_ad_in_area">Momentálně nejsou ve vaší oblasti dostupné žádné reklamy</string>
-    <string name="rewarded_description">Zde můžete sledovat vsunutou reklamu s nabídkou odměny, abyste z aplikace odstranili všechny reklamy po dobu 72 hodin. Tyto reklamy jsou o něco delší než běžné reklamy. Chcete-li získat odměnu, musíte reklamu sledovat až do konce.</string>
+    <string name="rewarded_description_72h">Zde můžete sledovat vsunutou reklamu s nabídkou odměny, abyste z aplikace odstranili všechny reklamy po dobu 72 hodin. Tyto reklamy jsou o něco delší než běžné reklamy. Chcete-li získat odměnu, musíte reklamu sledovat až do konce.</string>
+    <string name="rewarded_description_24h">Zde můžete sledovat vsunutou reklamu s nabídkou odměny, abyste z aplikace odstranili všechny reklamy po dobu 24 hodin. Tyto reklamy jsou o něco delší než běžné reklamy. Chcete-li získat odměnu, musíte reklamu sledovat až do konce.</string>
     <string name="delete_all">Smazat všechny</string>
     <string name="bss_free_app">%s je bezplatná aplikace a její používání nevyžaduje žádné platby. Trvale odstraňte reklamy pomocí jednorázové platby. Děkuji za vaší podporu!</string>
     <string name="message_thank_you">Děkuji mnohokrát!</string>

@@ -101,7 +101,9 @@
     <string name="no_ad_in_area">Saat ini tidak ada iklan yang tersedia di wilayah Anda</string>
     <string name="less_one_hour_left_rewarded">Anda memiliki pengalaman bebas iklan kurang dari 1 jam</string>
     <string name="pref_remove_ads_72h">Hapus iklan selama 72 jam</string>
-    <string name="rewarded_description">Anda dapat menonton di sini iklan berhadiah untuk menghapus semua iklan dari aplikasi selama 72 jam. Iklan ini sedikit lebih panjang dari iklan biasa.\nAnda harus menonton iklan sampai akhir untuk menerima hadiah.</string>
+    <string name="pref_remove_ads_24h">Hapus iklan selama 24 jam</string>
+    <string name="rewarded_description_72h">Anda dapat menonton di sini iklan berhadiah untuk menghapus semua iklan dari aplikasi selama 72 jam. Iklan ini sedikit lebih panjang dari iklan biasa.\nAnda harus menonton iklan sampai akhir untuk menerima hadiah.</string>
+    <string name="rewarded_description_24h">Anda dapat menonton di sini iklan berhadiah untuk menghapus semua iklan dari aplikasi selama 24 jam. Iklan ini sedikit lebih panjang dari iklan biasa.\nAnda harus menonton iklan sampai akhir untuk menerima hadiah.</string>
     <string name="delete_all">Hapus semua</string>
     <string name="bss_free_app">%s adalah aplikasi gratis dan tidak memerlukan pembayaran apa pun untuk menggunakannya. Hapus iklan secara permanen dengan pembayaran satu kali. Terima kasih atas dukungan Anda!</string>
     <string name="message_thank_you">Terima kasih banyak!</string>

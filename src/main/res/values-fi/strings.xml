@@ -101,7 +101,9 @@
     <string name="less_one_hour_left_rewarded">Sinulla on alle tunti jäljellä</string>
     <string name="no_ad_in_area">Tällä hetkellä alueellasi ei ole saatavilla mainoksia</string>
     <string name="pref_remove_ads_72h">Poista mainoksia 72 tunniksi</string>
-    <string name="rewarded_description">Voit katsella täällä palkittua välimainosta ja poistaa kaikki mainokset sovelluksesta 72 tunniksi. Nämä mainokset ovat hieman pidempiä kuin tavalliset mainokset. Palkinnon saamiseksi sinun on katsottava mainosta loppuun asti.</string>
+    <string name="pref_remove_ads_24h">Poista mainoksia 24 tunniksi</string>
+    <string name="rewarded_description_72h">Voit katsella täällä palkittua välimainosta ja poistaa kaikki mainokset sovelluksesta 72 tunniksi. Nämä mainokset ovat hieman pidempiä kuin tavalliset mainokset. Palkinnon saamiseksi sinun on katsottava mainosta loppuun asti.</string>
+    <string name="rewarded_description_24h">Voit katsella täällä palkittua välimainosta ja poistaa kaikki mainokset sovelluksesta 24 tunniksi. Nämä mainokset ovat hieman pidempiä kuin tavalliset mainokset. Palkinnon saamiseksi sinun on katsottava mainosta loppuun asti.</string>
     <string name="delete_all">Poista kaikki</string>
     <string name="bss_free_app">%s on ilmainen sovellus, jonka käyttäminen ei vaadi maksua. Poista mainokset pysyvästi kertamaksulla. Kiitos tuestasi!</string>
     <string name="message_thank_you">Kiitos paljon!</string>
