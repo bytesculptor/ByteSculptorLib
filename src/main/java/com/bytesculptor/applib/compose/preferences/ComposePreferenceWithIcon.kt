@@ -26,6 +26,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.res.painterResource
+import androidx.compose.ui.semantics.clearAndSetSemantics
+import androidx.compose.ui.semantics.contentDescription
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
@@ -41,12 +43,16 @@ fun ComposePreferenceWithIcon(
     onClick: () -> Unit,
     enabled: Boolean = true,
     icon: Int? = null,
+    contentDescriptionText: String,
 ) {
     Row(
         modifier = modifier
             .padding(vertical = 4.dp)
             .fillMaxWidth()
             .clickable(onClick = onClick, enabled = enabled)
+            .clearAndSetSemantics {
+                contentDescription = contentDescriptionText
+            }
     ) {
 
         Column(modifier = Modifier.padding(top = 18.dp), verticalArrangement = Arrangement.Center) {
@@ -96,6 +102,7 @@ fun ComposePreferenceWithIconDay() {
                 onClick = {},
                 enabled = true,
                 icon = R.drawable.ic_notification,
+                contentDescriptionText = "",
             )
             ComposePreferenceWithIcon(
                 header = "Battery Temperature Warning",
@@ -103,6 +110,7 @@ fun ComposePreferenceWithIconDay() {
                 onClick = {},
                 enabled = false,
                 icon = null,
+                contentDescriptionText = "",
             )
         }
     }
@@ -119,6 +127,7 @@ fun ComposePreferenceWithIconNight() {
                 onClick = {},
                 enabled = true,
                 icon = R.drawable.ic_notification,
+                contentDescriptionText = "",
             )
             ComposePreferenceWithIcon(
                 header = "Battery Temperature Warning",
@@ -126,6 +135,7 @@ fun ComposePreferenceWithIconNight() {
                 onClick = {},
                 enabled = false,
                 icon = null,
+                contentDescriptionText = "",
             )
         }
     }
