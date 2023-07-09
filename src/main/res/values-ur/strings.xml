@@ -140,4 +140,14 @@
     <string name="translate">گوگل کے ساتھ ترجمہ کریں۔</string>
     <string name="no_translation_app_found">کوئی ترجمہ ایپ نہیں ملی</string>
     <string name="help_page">مدد کا صفحہ</string>
+    <string name="help_bottomsheet">مدد کے اشارے کے ساتھ دیکھیں۔</string>
+    <string name="view_collapsed">منظر کو سکیڑ دیا گیا۔</string>
+    <string name="expand_view">منظر کو پھیلائیں۔</string>
+    <string name="view_expanded">دیکھیں توسیع شدہ</string>
+    <string name="move_to_previous_page">پچھلے صفحے پر جائیں۔</string>
+    <string name="move_to_next_page">اگلے صفحے پر جائیں۔</string>
+    <string name="configure">ترتیب دیں۔</string>
+    <string name="notification">اطلاع</string>
+    <string name="yesterday">کل</string>
+    <string name="all">تمام</string>
 </resources>

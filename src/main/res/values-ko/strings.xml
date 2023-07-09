@@ -131,4 +131,14 @@
     <string name="translate">Google로 번역</string>
     <string name="no_translation_app_found">번역 앱이 없습니다.</string>
     <string name="help_page">도움말 페이지</string>
+    <string name="help_bottomsheet">도움말 힌트와 함께 봅니다.</string>
+    <string name="view_collapsed">축소된 보기</string>
+    <string name="expand_view">전개도</string>
+    <string name="view_expanded">펼친 보기</string>
+    <string name="move_to_previous_page">이전 페이지로 이동</string>
+    <string name="move_to_next_page">다음 페이지로 이동</string>
+    <string name="configure">구성</string>
+    <string name="notification">공고</string>
+    <string name="yesterday">어제</string>
+    <string name="all">모두</string>
 </resources>

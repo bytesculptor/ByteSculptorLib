@@ -131,4 +131,14 @@
     <string name="translate">Isalin gamit ang Google</string>
     <string name="no_translation_app_found">Walang nahanap na app sa pagsasalin</string>
     <string name="help_page">Pahina ng tulong</string>
+    <string name="help_bottomsheet">Tingnan na may pahiwatig ng tulong.</string>
+    <string name="view_collapsed">Na-collapse ang view</string>
+    <string name="expand_view">Palawakin ang view</string>
+    <string name="view_expanded">Pinalawak ang view</string>
+    <string name="move_to_previous_page">Lumipat sa nakaraang pahina</string>
+    <string name="move_to_next_page">Ilipat sa susunod na pahina</string>
+    <string name="configure">I-configure</string>
+    <string name="notification">Abiso</string>
+    <string name="yesterday">Kahapon</string>
+    <string name="all">Lahat</string>
 </resources>

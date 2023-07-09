@@ -131,4 +131,14 @@
     <string name="translate">Terjemah dengan Google</string>
     <string name="no_translation_app_found">Tiada apl terjemahan ditemui</string>
     <string name="help_page">Halaman bantuan</string>
+    <string name="help_bottomsheet">Lihat dengan petunjuk bantuan.</string>
+    <string name="view_collapsed">Pandangan runtuh</string>
+    <string name="expand_view">Kembangkan paparan</string>
+    <string name="view_expanded">Paparan dikembangkan</string>
+    <string name="move_to_previous_page">Beralih ke halaman sebelumnya</string>
+    <string name="move_to_next_page">Beralih ke halaman seterusnya</string>
+    <string name="configure">Konfigurasikan</string>
+    <string name="notification">Pemberitahuan</string>
+    <string name="yesterday">Semalam</string>
+    <string name="all">Semua</string>
 </resources>

@@ -131,4 +131,14 @@
     <string name="translate">Tłumacz z Google</string>
     <string name="no_translation_app_found">Nie znaleziono aplikacji do tłumaczenia</string>
     <string name="help_page">Strona pomocy</string>
+    <string name="help_bottomsheet">Zobacz z podpowiedzią.</string>
+    <string name="view_collapsed">Widok zwinięty</string>
+    <string name="expand_view">Rozwiń widok</string>
+    <string name="view_expanded">Widok rozwinięty</string>
+    <string name="move_to_previous_page">Przejdź do poprzedniej strony</string>
+    <string name="move_to_next_page">Przejdź do następnej strony</string>
+    <string name="configure">Skonfiguruj</string>
+    <string name="notification">Powiadomienie</string>
+    <string name="yesterday">Wczoraj</string>
+    <string name="all">Wszystko</string>
 </resources>

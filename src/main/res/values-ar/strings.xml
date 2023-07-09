@@ -124,4 +124,14 @@
     <string name="translate">ترجمة مع جوجل</string>
     <string name="no_translation_app_found">لم يتم العثور على تطبيق ترجمة</string>
     <string name="help_page">صفحة المساعدة</string>
+    <string name="help_bottomsheet">عرض مع تلميح المساعدة.</string>
+    <string name="view_collapsed">عرض مطوي</string>
+    <string name="expand_view">توسيع العرض</string>
+    <string name="view_expanded">عرض الموسعة</string>
+    <string name="move_to_previous_page">انتقل إلى الصفحة السابقة</string>
+    <string name="move_to_next_page">انتقل إلى الصفحة التالية</string>
+    <string name="configure">تهيئة</string>
+    <string name="notification">إشعار</string>
+    <string name="yesterday">أمس</string>
+    <string name="all">الجميع</string>
 </resources>

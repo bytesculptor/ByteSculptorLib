@@ -125,6 +125,7 @@
     <string name="open_source_licenses">Open source licenses</string>
     <string name="not_available_on_your_system">Not available on your system</string>
     <string name="more">More</string>
+    <string name="help_bottomsheet">View with a help hint.</string>
 
     <string name="disclaimer_text_1"></string>
     <string name="disclaimer_text_2">

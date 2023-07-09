@@ -3,7 +3,7 @@
     <string name="settings">Configuraciones</string>
     <string name="yes">si</string>
     <string name="no">no</string>
-    <string name="notification">Notificacion</string>
+    <string name="notification">Notificación</string>
     <string name="notifications">Notificaciones</string>
     <string name="rate_this_app">Valora esta aplicación</string>
     <string name="about">Sobre</string>
@@ -143,4 +143,5 @@
     <string name="yesterday">Ayer</string>
     <string name="configure">Configurar</string>
     <string name="all">Todos</string>
+    <string name="help_bottomsheet">Ver con una sugerencia de ayuda.</string>
 </resources>

@@ -140,4 +140,14 @@
     <string name="translate">Google দিয়ে অনুবাদ করুন</string>
     <string name="no_translation_app_found">কোনো অনুবাদ অ্যাপ পাওয়া যায়নি</string>
     <string name="help_page">সাহায্য পৃষ্ঠা</string>
+    <string name="help_bottomsheet">একটি সাহায্য ইঙ্গিত সঙ্গে দেখুন.</string>
+    <string name="view_collapsed">ভিউ সঙ্কুচিত হয়েছে</string>
+    <string name="expand_view">দৃশ্য প্রসারিত করুন</string>
+    <string name="view_expanded">দেখুন প্রসারিত</string>
+    <string name="move_to_previous_page">আগের পৃষ্ঠায় যান</string>
+    <string name="move_to_next_page">পরবর্তী পৃষ্ঠায় যান</string>
+    <string name="configure">সজ্জিত করা</string>
+    <string name="notification">বিজ্ঞপ্তি</string>
+    <string name="yesterday">গতকাল</string>
+    <string name="all">সব</string>
 </resources>

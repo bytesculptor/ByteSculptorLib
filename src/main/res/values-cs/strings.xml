@@ -131,4 +131,14 @@
     <string name="translate">Přeložte pomocí Googlu</string>
     <string name="no_translation_app_found">Nebyla nalezena žádná aplikace pro překlad</string>
     <string name="help_page">stránka nápovědy</string>
+    <string name="help_bottomsheet">Zobrazit s nápovědou.</string>
+    <string name="view_collapsed">Pohled se sbalil</string>
+    <string name="expand_view">Rozbalit pohled</string>
+    <string name="view_expanded">Zobrazit rozbaleno</string>
+    <string name="move_to_previous_page">Přejít na předchozí stránku</string>
+    <string name="move_to_next_page">Přejít na další stránku</string>
+    <string name="configure">Konfigurovat</string>
+    <string name="notification">Oznámení</string>
+    <string name="yesterday">Včera</string>
+    <string name="all">Všechno</string>
 </resources>

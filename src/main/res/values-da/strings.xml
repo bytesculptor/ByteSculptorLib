@@ -131,4 +131,14 @@
     <string name="translate">Oversæt med Google</string>
     <string name="no_translation_app_found">Ingen oversættelsesapp fundet</string>
     <string name="help_page">Hjælp side</string>
+    <string name="help_bottomsheet">Se med et hjælpetip.</string>
+    <string name="view_collapsed">Udsigten er kollapset</string>
+    <string name="expand_view">Udvid visningen</string>
+    <string name="view_expanded">Visning udvidet</string>
+    <string name="move_to_previous_page">Flyt til forrige side</string>
+    <string name="move_to_next_page">Flyt til næste side</string>
+    <string name="configure">Konfigurer</string>
+    <string name="notification">Notifikation</string>
+    <string name="yesterday">I går</string>
+    <string name="all">Alle</string>
 </resources>

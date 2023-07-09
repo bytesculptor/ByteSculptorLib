@@ -131,4 +131,14 @@
     <string name="translate">Käännä Googlen avulla</string>
     <string name="no_translation_app_found">Käännössovellusta ei löytynyt</string>
     <string name="help_page">Ohje-sivu</string>
+    <string name="help_bottomsheet">Katso ohjevihjeellä.</string>
+    <string name="view_collapsed">Näkymä kutistettu</string>
+    <string name="expand_view">Laajenna näkymää</string>
+    <string name="view_expanded">Näkymä laajennettu</string>
+    <string name="move_to_previous_page">Siirry edelliselle sivulle</string>
+    <string name="move_to_next_page">Siirry seuraavalle sivulle</string>
+    <string name="configure">Määritä</string>
+    <string name="notification">Ilmoitus</string>
+    <string name="yesterday">Eilen</string>
+    <string name="all">Kaikki</string>
 </resources>

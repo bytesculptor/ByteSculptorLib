@@ -138,4 +138,14 @@
     <string name="translate">Превеждайте с Google</string>
     <string name="no_translation_app_found">Не е намерено приложение за превод</string>
     <string name="help_page">Помощна страница</string>
+    <string name="help_bottomsheet">Преглед със съвет за помощ.</string>
+    <string name="view_collapsed">Изгледът е свит</string>
+    <string name="expand_view">Разширете изгледа</string>
+    <string name="view_expanded">Изгледът е разширен</string>
+    <string name="move_to_previous_page">Преминаване към предишната страница</string>
+    <string name="move_to_next_page">Преминаване към следващата страница</string>
+    <string name="configure">Конфигуриране</string>
+    <string name="notification">уведомление</string>
+    <string name="yesterday">Вчера</string>
+    <string name="all">всичко</string>
 </resources>

@@ -140,4 +140,14 @@
     <string name="translate">แปลภาษาด้วย Google</string>
     <string name="no_translation_app_found">ไม่พบแอปแปลภาษา</string>
     <string name="help_page">หน้าความช่วยเหลือ</string>
+    <string name="help_bottomsheet">ดูพร้อมคำใบ้ช่วยเหลือ</string>
+    <string name="view_collapsed">ดูยุบ</string>
+    <string name="expand_view">ขยายมุมมอง</string>
+    <string name="view_expanded">ดูแบบขยาย</string>
+    <string name="move_to_previous_page">ย้ายไปหน้าก่อนหน้า</string>
+    <string name="move_to_next_page">ย้ายไปหน้าถัดไป</string>
+    <string name="configure">กำหนดค่า</string>
+    <string name="notification">การแจ้งเตือน</string>
+    <string name="yesterday">เมื่อวาน</string>
+    <string name="all">ทั้งหมด</string>
 </resources>

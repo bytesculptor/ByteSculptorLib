@@ -132,4 +132,14 @@
     <string name="translate">Google で翻訳する</string>
     <string name="no_translation_app_found">翻訳アプリが見つかりませんでした</string>
     <string name="help_page">ヘルプページ</string>
+    <string name="help_bottomsheet">ヘルプヒントを使用して表示します。</string>
+    <string name="view_collapsed">折りたたまれたビュー</string>
+    <string name="expand_view">ビューを拡大する</string>
+    <string name="view_expanded">拡大表示</string>
+    <string name="move_to_previous_page">前のページに移動</string>
+    <string name="move_to_next_page">次のページに移動</string>
+    <string name="configure">構成、設定</string>
+    <string name="notification">通知</string>
+    <string name="yesterday">昨日</string>
+    <string name="all">全て</string>
 </resources>

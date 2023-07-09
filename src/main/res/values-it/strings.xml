@@ -143,4 +143,5 @@
     <string name="configure">Configura</string>
     <string name="move_to_previous_page">Passa alla pagina precedente</string>
     <string name="move_to_next_page">Passa alla pagina successiva</string>
+    <string name="help_bottomsheet">Pagina con un suggerimento di aiuto.</string>
 </resources>

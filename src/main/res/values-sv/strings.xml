@@ -131,4 +131,14 @@
     <string name="translate">Översätt med Google</string>
     <string name="no_translation_app_found">Ingen översättningsapp hittades</string>
     <string name="help_page">Hjälpsida</string>
+    <string name="help_bottomsheet">Visa med hjälptips.</string>
+    <string name="view_collapsed">Vyn kollapsade</string>
+    <string name="expand_view">Utöka vyn</string>
+    <string name="view_expanded">Visa utökad</string>
+    <string name="move_to_previous_page">Flytta till föregående sida</string>
+    <string name="move_to_next_page">Flytta till nästa sida</string>
+    <string name="configure">Konfigurera</string>
+    <string name="notification">Underrättelse</string>
+    <string name="yesterday">I går</string>
+    <string name="all">Allt</string>
 </resources>

@@ -137,10 +137,11 @@
     <string name="view_collapsed">Ansicht minimiert</string>
     <string name="expand_view">Ansicht erweitern</string>
     <string name="view_expanded">Ansicht erweitert</string>
-    <string name="move_to_previous_page">Zur vorherigen Seite</string>
-    <string name="move_to_next_page">Zur nächsten Seite</string>
+    <string name="move_to_previous_page">Zur vorherigen Seite wechseln</string>
+    <string name="move_to_next_page">Zur nächsten Seite wechseln</string>
     <string name="today">Heute</string>
     <string name="yesterday">Gestern</string>
     <string name="configure">Konfigurieren</string>
     <string name="all">Alle</string>
+    <string name="help_bottomsheet">Ansicht mit Hilfe-Hinweis.</string>
 </resources>

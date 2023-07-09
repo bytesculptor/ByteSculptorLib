@@ -124,4 +124,14 @@
     <string name="translate">תרגם עם גוגל</string>
     <string name="no_translation_app_found">לא נמצאה אפליקציית תרגום</string>
     <string name="help_page">דף עזרה</string>
+    <string name="help_bottomsheet">הצג עם רמז לעזרה.</string>
+    <string name="view_collapsed">התצוגה התמוטטה</string>
+    <string name="expand_view">הרחב את התצוגה</string>
+    <string name="view_expanded">התצוגה מורחבת</string>
+    <string name="move_to_previous_page">עבור לעמוד הקודם</string>
+    <string name="move_to_next_page">עבור לעמוד הבא</string>
+    <string name="configure">הגדר</string>
+    <string name="notification">הוֹדָעָה</string>
+    <string name="yesterday">אתמול</string>
+    <string name="all">את כל</string>
 </resources>

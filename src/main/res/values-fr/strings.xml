@@ -143,4 +143,5 @@
     <string name="move_to_next_page">Passer à la page suivante</string>
     <string name="today">Aujourd\'hui</string>
     <string name="yesterday">Hier</string>
+    <string name="help_bottomsheet">Vue avec un indice d\'aide.</string>
 </resources>

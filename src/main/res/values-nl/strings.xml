@@ -131,4 +131,14 @@
     <string name="translate">Vertalen met Google</string>
     <string name="no_translation_app_found">Geen vertaal-app gevonden</string>
     <string name="help_page">Help-pagina</string>
+    <string name="help_bottomsheet">Bekijk met een hulphint.</string>
+    <string name="view_collapsed">Weergave samengevouwen</string>
+    <string name="expand_view">Weergave uitvouwen</string>
+    <string name="view_expanded">Uitgebreid bekijken</string>
+    <string name="move_to_previous_page">Ga naar de vorige pagina</string>
+    <string name="move_to_next_page">Ga naar de volgende pagina</string>
+    <string name="configure">Configureren</string>
+    <string name="notification">Kennisgeving</string>
+    <string name="yesterday">Gisteren</string>
+    <string name="all">Alle</string>
 </resources>

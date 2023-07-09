@@ -140,4 +140,14 @@
     <string name="translate">Traduceți cu Google</string>
     <string name="no_translation_app_found">Nu a fost găsită nicio aplicație de traducere</string>
     <string name="help_page">Pagina ajutor</string>
+    <string name="help_bottomsheet">Vizualizați cu un indiciu de ajutor.</string>
+    <string name="view_collapsed">Vizualizare restrânsă</string>
+    <string name="expand_view">Extindeți vizualizarea</string>
+    <string name="view_expanded">Vizualizare extinsă</string>
+    <string name="move_to_previous_page">Treceți la pagina anterioară</string>
+    <string name="move_to_next_page">Treceți la pagina următoare</string>
+    <string name="configure">Configurați</string>
+    <string name="notification">Notificare</string>
+    <string name="yesterday">Ieri</string>
+    <string name="all">Toate</string>
 </resources>

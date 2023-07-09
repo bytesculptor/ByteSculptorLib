@@ -140,4 +140,14 @@
     <string name="translate">Preložiť pomocou Google</string>
     <string name="no_translation_app_found">Nenašla sa žiadna prekladateľská aplikácia</string>
     <string name="help_page">Stránka pomocníka</string>
+    <string name="help_bottomsheet">Zobraziť s nápovedou.</string>
+    <string name="view_collapsed">Zobrazenie bolo zbalené</string>
+    <string name="expand_view">Rozbaliť zobrazenie</string>
+    <string name="view_expanded">Zobraziť rozbalené</string>
+    <string name="move_to_previous_page">Prejsť na predchádzajúcu stránku</string>
+    <string name="move_to_next_page">Prejsť na ďalšiu stránku</string>
+    <string name="configure">Konfigurovať</string>
+    <string name="notification">Oznámenie</string>
+    <string name="yesterday">včera</string>
+    <string name="all">Všetky</string>
 </resources>
