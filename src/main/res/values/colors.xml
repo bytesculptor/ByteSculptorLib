@@ -27,4 +27,8 @@
     <color name="color_bottom_nav_background">#FBFBFB</color>
     <color name="color_button">#121212</color>
     <color name="color_elevation">#F9F9F9</color>
+
+    <color name="white">#F9F9F9</color>
+    <color name="black">#000000</color>
+
 </resources>
