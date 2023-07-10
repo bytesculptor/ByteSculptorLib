@@ -86,10 +86,12 @@ public class ExternalLinksHelper {
                 Intent.FLAG_ACTIVITY_MULTIPLE_TASK | FLAG_ACTIVITY_NEW_TASK);
         try {
             context.startActivity(goToAppStore);
-        } catch (
-                ActivityNotFoundException e) {
-            context.startActivity(new Intent(Intent.ACTION_VIEW,
-                    Uri.parse("https://play.google.com/store/apps/details?id=" + packageName)));
+        } catch (ActivityNotFoundException e) {
+            openLinkInBrowser(
+                    context,
+                    "https://play.google.com/store/apps/details?id=" + packageName,
+                    context.getString(com.bytesculptor.applib.R.string.errorOpeningExternalLink)
+            );
         }
     }
 
