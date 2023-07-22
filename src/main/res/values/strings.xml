@@ -128,14 +128,7 @@
     <string name="help_bottomsheet">View with a help hint.</string>
 
     <string name="disclaimer_text_1"></string>
-    <string name="disclaimer_text_2">
-        Byte Sculptor Software owns the rights to this application and changes could be made at any time.
-        This app has been tested manually and automatically on real and emulated devices for bugs, errors and stability.
-        However, this does not mean that the software is completely free from errors.
-        The Android OS is used on many different devices and is often heavily modified by the device manufacturer. It is possible that this app may not run as expected on such devices.
-        \n\nBy using this software you agree that Byte Sculptor Software is not responsible for any damage done to your device. You use this app completely at your own risk.
-        \nIf you encounter any problems please let us know by sending an email with details on the issue, your device model and Android version. Thank you!
-    </string>
+    <string name="disclaimer_text_2">Byte Sculptor Software owns the rights to this application and changes could be made at any time. This app has been tested manually and automatically on real and emulated devices for bugs, errors, and stability. However, this does not mean that the software is completely free from errors. The Android OS is used on many different devices and is often heavily modified by the device manufacturer. It is possible that this app may not run as expected on such devices.\n\nBy using this software you agree that Byte Sculptor Software is not responsible for any damage done to your device. You use this app completely at your own risk.\nIf you encounter any problems please let us know by sending an email with details on the issue, your device model, and Android version. Thank you!</string>
     <string name="disclaimer_text_3"></string>
 
     <!-- on boarding -->
