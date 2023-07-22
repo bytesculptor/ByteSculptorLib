@@ -39,6 +39,7 @@ import com.bytesculptor.applib.compose.theme.BssMaterialTheme
 @Composable
 fun HelpHintBottomSheet(
     titleText: String = "",
+    titleSubText: String = "",
     hintText: String,
     backgroundColor: Int,
     onClose: () -> Unit,
@@ -77,6 +78,17 @@ fun HelpHintBottomSheet(
                     .background(color = colorResource(id = backgroundColor)),
                 text = titleText,
                 color = MaterialTheme.colorScheme.onPrimary,
+                style = MaterialTheme.typography.titleLarge,
+            )
+        }
+
+        if (titleSubText.isNotEmpty()) {
+            Text(
+                modifier = Modifier
+                    .padding(start = 16.dp, end = 16.dp, top = 4.dp, bottom = 4.dp)
+                    .background(color = colorResource(id = backgroundColor)),
+                text = titleSubText,
+                color = MaterialTheme.colorScheme.onPrimary,
                 style = MaterialTheme.typography.titleMedium,
             )
         }
@@ -98,6 +110,7 @@ fun HelpHintBottomSheetPreview() {
     BssMaterialTheme {
         HelpHintBottomSheet(
             titleText = "Title",
+            titleSubText = "Sub Title",
             backgroundColor = R.color.white,
             hintText = "This is a preview text.",
             onClose = {},
