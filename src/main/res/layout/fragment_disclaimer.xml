@@ -56,19 +56,6 @@
             android:textIsSelectable="false"
             android:textSize="18sp" />
 
-        <TextView
-            android:id="@+id/tvFeedbackMailLink"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="8dp"
-            android:layout_marginBottom="24dp"
-            android:paddingBottom="8dp"
-            android:text="@string/dev_email"
-            android:textColor="@android:color/holo_blue_dark"
-            android:textIsSelectable="true"
-            android:textSize="28sp"
-            android:visibility="gone" />
-
     </LinearLayout>
 
 </ScrollView>
