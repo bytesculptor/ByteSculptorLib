@@ -18,7 +18,7 @@
     <string name="no_do_cancel">Nein, abbrechen</string>
     <string name="off">aus</string>
     <string name="on">ein</string>
-    <string name="close">schließen</string>
+    <string name="close">Schließen</string>
     <string name="rate_now">Bewerten</string>
     <string name="remind_me">Erinnere mich</string>
     <string name="introduction">Einführung</string>
@@ -34,7 +34,7 @@
     <string name="error_on_open_privacy_policy_link">Fehler. Besuchen Sie den App Store für die Datenschutzerklärung.</string>
     <string name="later">später</string>
     <string name="share_app">App teilen</string>
-    <string name="cancel">abbrechen</string>
+    <string name="cancel">Abbrechen</string>
     <string name="welcome">Willkommen!</string>
     <string name="notif_setting">Benachrichtigungs-Einstellungen</string>
     <string name="set_notif_settings">Sichtbarkeit, Ton und Vibration</string>
@@ -82,12 +82,12 @@
     <string name="good">Gut</string>
     <string name="statistics">Statistik</string>
     <string name="delete">Löschen</string>
-    <string name="reset">zurücksetzen</string>
-    <string name="sort">sortieren</string>
+    <string name="reset">Zurücksetzen</string>
+    <string name="sort">Sortieren</string>
     <string name="next">nächste</string>
     <string name="sort_asc">aufsteigend</string>
     <string name="sort_desc">absteigend</string>
-    <string name="added">hinzugefügt</string>
+    <string name="added">Hinzugefügt</string>
     <string name="pro_version">Pro Version</string>
     <string name="no_email_app_found">Keine E-Mail-App gefunden</string>
     <string name="duplicate">Duplizieren</string>

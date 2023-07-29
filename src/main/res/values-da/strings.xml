@@ -30,7 +30,7 @@
     <string name="errorOpeningExternalLink">Fejl ved åbning af eksternt link</string>
     <string name="website">Internet side</string>
     <string name="more_licenses">flere licenser</string>
-    <string name="save">gemme</string>
+    <string name="save">Gemme</string>
     <string name="tutorial">Vejledning</string>
     <string name="error_connect_server">Fejl under forbindelse til server</string>
     <string name="loading">Indlæser</string>
@@ -60,7 +60,7 @@
     <string name="edit">Redigere</string>
     <string name="delete">Slet</string>
     <string name="reset">Nulstil</string>
-    <string name="sort">sortere</string>
+    <string name="sort">Sortere</string>
     <string name="sort_asc">stigende</string>
     <string name="sort_desc">aftagende</string>
     <string name="added">tilføjet</string>

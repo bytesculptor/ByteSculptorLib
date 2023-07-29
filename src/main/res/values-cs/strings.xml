@@ -59,8 +59,8 @@
     <string name="saved">Uložené</string>
     <string name="edit">Upravit</string>
     <string name="delete">Vymazat</string>
-    <string name="reset">resetovat</string>
-    <string name="sort">třídit</string>
+    <string name="reset">Resetovat</string>
+    <string name="sort">Třídit</string>
     <string name="sort_asc">vzestupně</string>
     <string name="sort_desc">klesající</string>
     <string name="added">přidané</string>

@@ -31,7 +31,7 @@
     <string name="errorOpeningExternalLink">Błąd podczas otwierania zewnętrznego linku</string>
     <string name="website">Stronie internetowej</string>
     <string name="more_licenses">więcej licencji</string>
-    <string name="save">zapisać</string>
+    <string name="save">Zapisać</string>
     <string name="tutorial">Instruktaż</string>
     <string name="error_connect_server">Błąd podczas łączenia się z serwerem</string>
     <string name="loading">Ładowanie</string>
