@@ -54,16 +54,23 @@ fun ComposePreferenceWithIcon(
                 contentDescription = contentDescriptionText
             }
     ) {
-
         Column(modifier = Modifier.padding(top = 18.dp), verticalArrangement = Arrangement.Center) {
             Icon(
                 modifier = Modifier
                     .padding(start = 16.dp)
                     .width(24.dp)
                     .height(24.dp),
-                painter = if (icon != null) painterResource(icon) else painterResource(R.drawable.ic_empty_icon),
+                painter = if (icon != null) {
+                    painterResource(icon)
+                } else {
+                    painterResource(R.drawable.ic_empty_icon)
+                },
                 contentDescription = null,
-                tint = if (icon == R.drawable.ic_proicon) Color.Unspecified else colorResource(id = R.color.std_font),
+                tint = if (icon == R.drawable.ic_proicon) {
+                    Color.Unspecified
+                } else {
+                    colorResource(id = R.color.std_font)
+                },
             )
         }
         Column(

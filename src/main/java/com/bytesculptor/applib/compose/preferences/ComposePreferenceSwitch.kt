@@ -45,7 +45,6 @@ fun ComposePreferenceSwitch(
             .padding(vertical = 4.dp)
             .fillMaxWidth()
     ) {
-
         Column(
             modifier = Modifier
                 .padding(start = preferencePaddingStart, end = 4.dp)

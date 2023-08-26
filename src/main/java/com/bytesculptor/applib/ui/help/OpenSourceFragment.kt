@@ -15,7 +15,6 @@
  *
  */
 
-
 package com.bytesculptor.applib.ui.help
 
 import android.os.Bundle

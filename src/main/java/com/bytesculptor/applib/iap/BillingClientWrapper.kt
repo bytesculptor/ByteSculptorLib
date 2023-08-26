@@ -62,7 +62,6 @@ class BillingClientWrapper(
 
     // Establish a connection to Google Play.
     fun startBillingConnection(billingConnectionState: MutableLiveData<Boolean>) {
-
         billingClient.startConnection(object : BillingClientStateListener {
             override fun onBillingSetupFinished(billingResult: BillingResult) {
                 billingConnectionResponseCode = billingResult.responseCode
@@ -174,9 +173,9 @@ class BillingClientWrapper(
                     Log.e(
                         TAG,
                         "IAP onProductDetailsResponse: " +
-                                "Found null or empty ProductDetails. " +
-                                "Check to see if the Products you requested are correctly " +
-                                "published in the Google Play Console."
+                            "Found null or empty ProductDetails. " +
+                            "Check to see if the Products you requested are correctly " +
+                            "published in the Google Play Console."
                     )
                 } else {
                     newMap = productDetailsList.associateBy {

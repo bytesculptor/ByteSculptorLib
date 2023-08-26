@@ -33,7 +33,6 @@ val MainFontDark = Color(0xFFF1F1F1)
 val SmallFontDark = Color(0xFFC6C6C6)
 val DisabledFontDark = Color(0x59E9E9E9)
 
-
 // various helper colors
 val IndicatingGood = Color(0xFF0ae745)
 val IndicatingWarning = Color(0xFFFFBD00)

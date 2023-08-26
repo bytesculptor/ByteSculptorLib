@@ -56,7 +56,6 @@ fun ComposePreferenceSwitchWithIcon(
     onSwitchChanged: (Boolean) -> Unit,
     icon: Int? = null,
 ) {
-
     val switchOn = remember { mutableStateOf(switchState) }
 
     Row(
@@ -64,14 +63,19 @@ fun ComposePreferenceSwitchWithIcon(
             .padding(vertical = 4.dp)
             .fillMaxWidth()
     ) {
-
         Column(modifier = Modifier.padding(top = 18.dp), verticalArrangement = Arrangement.Center) {
             Icon(
                 modifier = Modifier
                     .padding(start = 16.dp)
                     .width(24.dp)
                     .height(24.dp),
-                painter = if (icon != null) painterResource(icon) else painterResource(R.drawable.ic_empty_icon),
+                painter = if (icon != null) {
+                    painterResource(
+                        icon
+                    )
+                } else {
+                    painterResource(R.drawable.ic_empty_icon)
+                },
                 contentDescription = null,
                 tint = colorResource(id = R.color.std_font),
             )
@@ -112,7 +116,6 @@ fun ComposePreferenceSwitchWithIcon(
                 },
                 colors = SwitchDefaults.colors(checkedThumbColor = Color.White)
             )
-
         }
     }
 }

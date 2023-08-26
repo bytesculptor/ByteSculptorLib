@@ -57,8 +57,7 @@ fun LoadingScreen(
     progressIndicatorColor: Int,
     backgroundColor: Int
 ) {
-    Scaffold(backgroundColor = colorResource(id = backgroundColor))
-    { contentPadding ->
+    Scaffold(backgroundColor = colorResource(id = backgroundColor)) { contentPadding ->
         if (showErrorMessage) {
             Column(
                 modifier = Modifier
@@ -74,8 +73,16 @@ fun LoadingScreen(
                     modifier = Modifier
                         .padding(top = 32.dp)
                         .align(alignment = Alignment.CenterHorizontally)
-                        .width(dimensionResource(id = com.bytesculptor.applib.R.dimen.circular_loading_size))
-                        .height(dimensionResource(id = com.bytesculptor.applib.R.dimen.circular_loading_size)),
+                        .width(
+                            dimensionResource(
+                                id = com.bytesculptor.applib.R.dimen.circular_loading_size
+                            )
+                        )
+                        .height(
+                            dimensionResource(
+                                id = com.bytesculptor.applib.R.dimen.circular_loading_size
+                            )
+                        ),
                     color = colorResource(progressIndicatorColor)
                 )
                 Text(
@@ -105,8 +112,16 @@ fun LoadingScreen(
             ) {
                 CircularProgressIndicator(
                     modifier = Modifier
-                        .width(dimensionResource(id = com.bytesculptor.applib.R.dimen.circular_loading_size))
-                        .height(dimensionResource(id = com.bytesculptor.applib.R.dimen.circular_loading_size)),
+                        .width(
+                            dimensionResource(
+                                id = com.bytesculptor.applib.R.dimen.circular_loading_size
+                            )
+                        )
+                        .height(
+                            dimensionResource(
+                                id = com.bytesculptor.applib.R.dimen.circular_loading_size
+                            )
+                        ),
                     color = colorResource(progressIndicatorColor),
                 )
             }

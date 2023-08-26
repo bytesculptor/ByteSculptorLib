@@ -15,7 +15,6 @@
  *
  */
 
-
 package com.bytesculptor.applib.utilities
 
 object ByteSculptorConstants {

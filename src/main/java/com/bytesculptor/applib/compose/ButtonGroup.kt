@@ -75,7 +75,11 @@ fun ButtonGroup(
                     }
                 }
             }
-            Spacer(modifier = Modifier.height(dimensionResource(id = com.bytesculptor.applib.R.dimen.spacer_height)))
+            Spacer(
+                modifier = Modifier.height(
+                    dimensionResource(id = com.bytesculptor.applib.R.dimen.spacer_height)
+                )
+            )
         }
     }
 }
