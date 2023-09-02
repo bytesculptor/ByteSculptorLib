@@ -59,21 +59,21 @@ fun PurchaseItem(
                 text = purchase.gpa,
                 style = MaterialTheme.typography.subtitle1,
                 textAlign = TextAlign.Center,
-                color = colorResource(id = com.bytesculptor.applib.R.color.std_font)
+                color = colorResource(id = com.bytesculptor.applib.R.color.std_font),
             )
             Text(
                 modifier = Modifier.padding(horizontal = 16.dp, vertical = 3.dp),
                 text = purchase.itemName,
                 style = MaterialTheme.typography.subtitle2,
                 textAlign = TextAlign.Center,
-                color = colorResource(id = com.bytesculptor.applib.R.color.std_font)
+                color = colorResource(id = com.bytesculptor.applib.R.color.std_font),
             )
             Text(
                 modifier = Modifier.padding(horizontal = 16.dp, vertical = 3.dp),
                 text = purchase.date,
                 style = MaterialTheme.typography.subtitle2,
                 textAlign = TextAlign.Center,
-                color = colorResource(id = com.bytesculptor.applib.R.color.std_font)
+                color = colorResource(id = com.bytesculptor.applib.R.color.std_font),
             )
             Spacer(modifier = Modifier.height(8.dp))
         }
@@ -84,7 +84,7 @@ fun PurchaseItem(
 fun PurchaseView(modifier: Modifier, purchases: List<PurchaseDataItem>) {
     LazyColumn(
         modifier = modifier,
-        contentPadding = PaddingValues(10.dp, 8.dp, 10.dp, 8.dp)
+        contentPadding = PaddingValues(10.dp, 8.dp, 10.dp, 8.dp),
     ) {
         items(purchases) { purch ->
             PurchaseItem(Modifier, purch)
@@ -99,7 +99,7 @@ fun PurchaseItemPreview() {
         val purchase = PurchaseDataItem(
             gpa = "GPA.1234-5678-9000-12345",
             date = "01/01/2022 - 12.15pm",
-            itemName = "pro_v1"
+            itemName = "pro_v1",
         )
         PurchaseView(Modifier, listOf(purchase, purchase))
     }
@@ -112,7 +112,7 @@ fun PurchaseItemDarkPreview() {
         val purchase = PurchaseDataItem(
             gpa = "GPA.2324-5253-2240-12345",
             date = "01/01/2022 - 12.15pm",
-            itemName = "pro_v1"
+            itemName = "pro_v1",
         )
         PurchaseView(Modifier, listOf(purchase, purchase))
     }

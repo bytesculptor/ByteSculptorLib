@@ -21,8 +21,17 @@ import android.app.Activity
 import android.content.Context
 import android.content.ContextWrapper
 import androidx.compose.foundation.background
-import androidx.compose.foundation.layout.*
-import androidx.compose.material.*
+import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.ColumnScope
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.size
+import androidx.compose.foundation.layout.width
+import androidx.compose.material.Icon
+import androidx.compose.material.IconButton
+import androidx.compose.material.Surface
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Close
 import androidx.compose.material3.Divider
@@ -40,7 +49,7 @@ fun ComposeDivider(modifier: Modifier = Modifier) {
         modifier = modifier
             .padding(vertical = 8.dp)
             .height(1.dp),
-        color = colorResource(id = R.color.dark_font)
+        color = colorResource(id = R.color.dark_font),
     )
 }
 
@@ -50,7 +59,7 @@ fun ComposeBottomSheetNotch(modifier: Modifier) {
         modifier = modifier
             .padding(vertical = 12.dp)
             .width(32.dp),
-        thickness = 4.dp
+        thickness = 4.dp,
     )
 }
 
@@ -72,7 +81,7 @@ fun ComposeCloseButton(modifier: Modifier, onClick: () -> Unit) {
 fun CenteredSurfaceColumn(
     modifier: Modifier = Modifier,
     backgroundColor: Int,
-    content: @Composable ColumnScope.() -> Unit
+    content: @Composable ColumnScope.() -> Unit,
 ) {
     Surface {
         Column(

@@ -44,12 +44,12 @@ fun RestorePurchaseButton(onPurchaseRestoreClick: () -> Unit, backgroundColor: I
         onClick = onPurchaseRestoreClick,
         border = BorderStroke(
             1.dp,
-            colorResource(id = R.color.std_font)
+            colorResource(id = R.color.std_font),
         ),
         colors = ButtonDefaults.buttonColors(
             backgroundColor = colorResource(id = backgroundColor),
             contentColor = Color.White,
-        )
+        ),
     ) {
         Text(
             text = stringResource(id = R.string.iap_restore_purchases),

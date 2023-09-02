@@ -19,8 +19,16 @@ package com.bytesculptor.applib.compose.preferences
 
 import android.content.res.Configuration.UI_MODE_NIGHT_NO
 import androidx.compose.foundation.clickable
-import androidx.compose.foundation.layout.*
-import androidx.compose.material3.*
+import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.width
+import androidx.compose.material.Icon
+import androidx.compose.material.Text
+import androidx.compose.material3.MaterialTheme
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
@@ -52,7 +60,7 @@ fun ComposePreferenceWithIcon(
             .clickable(onClick = onClick, enabled = enabled)
             .clearAndSetSemantics {
                 contentDescription = contentDescriptionText
-            }
+            },
     ) {
         Column(modifier = Modifier.padding(top = 18.dp), verticalArrangement = Arrangement.Center) {
             Icon(
@@ -76,7 +84,7 @@ fun ComposePreferenceWithIcon(
         Column(
             modifier = Modifier
                 .padding(start = preferencePaddingStart, end = 16.dp)
-                .weight(fill = true, weight = 0.5f)
+                .weight(fill = true, weight = 0.5f),
         ) {
             Text(
                 modifier = Modifier.padding(top = 16.dp),
@@ -92,7 +100,7 @@ fun ComposePreferenceWithIcon(
                 maxLines = 2,
                 overflow = TextOverflow.Ellipsis,
                 color = if (enabled) MaterialTheme.colorScheme.onSecondary else MaterialTheme.colorScheme.onTertiary,
-                style = MaterialTheme.typography.bodyMedium
+                style = MaterialTheme.typography.bodyMedium,
             )
         }
     }

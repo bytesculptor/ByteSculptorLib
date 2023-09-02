@@ -19,14 +19,19 @@ package com.bytesculptor.applib.compose.preferences
 
 import android.content.res.Configuration.UI_MODE_NIGHT_NO
 import androidx.compose.foundation.clickable
-import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.bytesculptor.applib.compose.theme.*
+import com.bytesculptor.applib.compose.theme.BssMaterialTheme
+import com.bytesculptor.applib.compose.theme.preferencePaddingEnd
+import com.bytesculptor.applib.compose.theme.preferencePaddingStart
 
 @Composable
 fun ComposePreference(
@@ -40,12 +45,12 @@ fun ComposePreference(
         modifier = modifier
             .padding(vertical = 4.dp)
             .fillMaxWidth()
-            .clickable(onClick = onClick, enabled = enabled)
+            .clickable(onClick = onClick, enabled = enabled),
     ) {
         Column(
             modifier = Modifier
                 .padding(start = preferencePaddingStart, end = preferencePaddingEnd)
-                .weight(fill = true, weight = 0.5f)
+                .weight(fill = true, weight = 0.5f),
         ) {
             Text(
                 modifier = Modifier.padding(top = 16.dp),
@@ -57,7 +62,7 @@ fun ComposePreference(
                 modifier = Modifier.padding(top = 4.dp, bottom = 16.dp),
                 text = description,
                 color = if (enabled) MaterialTheme.colorScheme.onSecondary else MaterialTheme.colorScheme.onTertiary,
-                style = MaterialTheme.typography.bodyMedium
+                style = MaterialTheme.typography.bodyMedium,
             )
         }
     }
@@ -72,13 +77,13 @@ fun ComposePreferenceDay() {
                 header = "Battery Temperature Warning",
                 description = "Get a notification if the battery temperature exceeds a limit",
                 onClick = {},
-                enabled = true
+                enabled = true,
             )
             ComposePreference(
                 header = "Battery Temperature Warning",
                 description = "Get a notification if the battery temperature exceeds a limit",
                 onClick = {},
-                enabled = false
+                enabled = false,
             )
         }
     }
@@ -93,13 +98,13 @@ fun ComposePreferenceNight() {
                 header = "Battery Temperature Warning",
                 description = "Get a notification if the temperature exceeds a limit",
                 onClick = {},
-                enabled = true
+                enabled = true,
             )
             ComposePreference(
                 header = "Battery Temperature Warning",
                 description = "Get a notification if the temperature exceeds a limit",
                 onClick = {},
-                enabled = false
+                enabled = false,
             )
         }
     }

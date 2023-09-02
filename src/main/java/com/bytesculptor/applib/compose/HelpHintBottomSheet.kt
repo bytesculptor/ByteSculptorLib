@@ -18,9 +18,14 @@
 package com.bytesculptor.applib.compose
 
 import android.content.res.Configuration
-import androidx.compose.foundation.*
-import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.ScrollState
+import androidx.compose.foundation.background
+import androidx.compose.foundation.focusable
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.foundation.verticalScroll
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
@@ -51,12 +56,12 @@ fun HelpHintBottomSheet(
             .verticalScroll(ScrollState(0))
             .background(
                 color = colorResource(id = backgroundColor),
-                shape = RoundedCornerShape(topStart = 20.dp, topEnd = 20.dp)
+                shape = RoundedCornerShape(topStart = 20.dp, topEnd = 20.dp),
             )
             .fillMaxSize()
             .semantics {
                 contentDescription = bottomSheetContentDescription
-            }
+            },
 
     ) {
         val contentCloseButton = stringResource(R.string.help)
@@ -68,7 +73,7 @@ fun HelpHintBottomSheet(
                 .semantics {
                     contentDescription = contentCloseButton
                 },
-            onClick = onClose
+            onClick = onClose,
         )
 
         if (titleText.isNotEmpty()) {

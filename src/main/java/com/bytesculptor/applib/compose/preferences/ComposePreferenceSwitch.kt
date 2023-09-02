@@ -19,8 +19,14 @@ package com.bytesculptor.applib.compose.preferences
 
 import android.content.res.Configuration.UI_MODE_NIGHT_NO
 import android.content.res.Configuration.UI_MODE_NIGHT_YES
-import androidx.compose.foundation.layout.*
-import androidx.compose.material3.*
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.padding
+import androidx.compose.material.Switch
+import androidx.compose.material.SwitchDefaults
+import androidx.compose.material.Text
+import androidx.compose.material3.MaterialTheme
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -38,42 +44,42 @@ fun ComposePreferenceSwitch(
     switchState: Boolean,
     switchEnabled: Boolean,
     enabled: Boolean,
-    onSwitchChanged: (Boolean) -> Unit
+    onSwitchChanged: (Boolean) -> Unit,
 ) {
     Row(
         modifier = modifier
             .padding(vertical = 4.dp)
-            .fillMaxWidth()
+            .fillMaxWidth(),
     ) {
         Column(
             modifier = Modifier
                 .padding(start = preferencePaddingStart, end = 4.dp)
-                .weight(fill = true, weight = 1.0f)
+                .weight(fill = true, weight = 1.0f),
         ) {
             Text(
                 modifier = Modifier.padding(top = 16.dp),
                 text = header,
                 color = if (enabled) MaterialTheme.colorScheme.onPrimary else MaterialTheme.colorScheme.onTertiary,
-                style = MaterialTheme.typography.bodyLarge
+                style = MaterialTheme.typography.bodyLarge,
             )
             Text(
                 modifier = Modifier.padding(top = 4.dp, bottom = 16.dp),
                 text = description,
                 color = if (enabled) MaterialTheme.colorScheme.onSecondary else MaterialTheme.colorScheme.onTertiary,
-                style = MaterialTheme.typography.bodyMedium
+                style = MaterialTheme.typography.bodyMedium,
             )
         }
 
         Column(
             modifier = Modifier
                 .padding(16.dp)
-                .align(Alignment.CenterVertically)
+                .align(Alignment.CenterVertically),
         ) {
             Switch(
                 checked = switchState,
                 enabled = switchEnabled,
                 onCheckedChange = { onSwitchChanged(it) },
-                colors = SwitchDefaults.colors(checkedThumbColor = Color.White)
+                colors = SwitchDefaults.colors(checkedThumbColor = Color.White),
             )
         }
     }

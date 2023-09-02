@@ -19,8 +19,15 @@ package com.bytesculptor.applib.compose
 
 import android.content.res.Configuration
 import androidx.compose.foundation.BorderStroke
-import androidx.compose.foundation.layout.*
-import androidx.compose.material.*
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.wrapContentHeight
+import androidx.compose.material.ButtonDefaults
+import androidx.compose.material.OutlinedButton
+import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -43,7 +50,7 @@ fun ButtonGroup(
     Column(
         modifier = Modifier
             .fillMaxWidth()
-            .wrapContentHeight()
+            .wrapContentHeight(),
     ) {
         for (buttonModel in buttonModels) {
             Row {
@@ -55,13 +62,13 @@ fun ButtonGroup(
                         pressedElevation = 15.dp,
                         disabledElevation = 0.dp,
                         hoveredElevation = 15.dp,
-                        focusedElevation = 10.dp
+                        focusedElevation = 10.dp,
                     ),
                     border = BorderStroke(1.dp, colorResource(id = buttonBorderColor)),
                     colors = ButtonDefaults.buttonColors(
                         backgroundColor = colorResource(id = buttonColor),
                         contentColor = Color.White,
-                    )
+                    ),
                 ) {
                     Column(modifier = Modifier.fillMaxWidth()) {
                         Text(text = buttonModel.name, fontSize = 22.sp, textAlign = TextAlign.Start)
@@ -77,8 +84,8 @@ fun ButtonGroup(
             }
             Spacer(
                 modifier = Modifier.height(
-                    dimensionResource(id = com.bytesculptor.applib.R.dimen.spacer_height)
-                )
+                    dimensionResource(id = com.bytesculptor.applib.R.dimen.spacer_height),
+                ),
             )
         }
     }
@@ -92,7 +99,7 @@ fun ButtonPreviewSingle() {
         ButtonGroup(
             buttonModels = listOf(buttonModel),
             buttonBorderColor = android.R.color.holo_blue_dark,
-            buttonColor = android.R.color.background_dark
+            buttonColor = android.R.color.background_dark,
         )
     }
 }
@@ -104,17 +111,17 @@ fun ButtonPreviewDouble() {
         val buttonModel1 = ButtonModel(
             "Title",
             "This is a very long description text to test multiline preview",
-            "£1.50"
+            "£1.50",
         ) {}
         val buttonModel2 = ButtonModel(
             "Title without description",
             "",
-            "£1.50"
+            "£1.50",
         ) {}
         ButtonGroup(
             buttonModels = listOf(buttonModel1, buttonModel2),
             buttonBorderColor = android.R.color.holo_blue_dark,
-            buttonColor = android.R.color.background_dark
+            buttonColor = android.R.color.background_dark,
         )
     }
 }
@@ -127,7 +134,7 @@ fun ButtonDarkPreview() {
         ButtonGroup(
             buttonModels = listOf(buttonModel, buttonModel, buttonModel),
             buttonBorderColor = android.R.color.holo_blue_dark,
-            buttonColor = android.R.color.background_dark
+            buttonColor = android.R.color.background_dark,
         )
     }
 }

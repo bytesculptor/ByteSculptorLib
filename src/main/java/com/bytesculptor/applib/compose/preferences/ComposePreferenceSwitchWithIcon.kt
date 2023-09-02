@@ -61,7 +61,7 @@ fun ComposePreferenceSwitchWithIcon(
     Row(
         modifier = modifier
             .padding(vertical = 4.dp)
-            .fillMaxWidth()
+            .fillMaxWidth(),
     ) {
         Column(modifier = Modifier.padding(top = 18.dp), verticalArrangement = Arrangement.Center) {
             Icon(
@@ -71,7 +71,7 @@ fun ComposePreferenceSwitchWithIcon(
                     .height(24.dp),
                 painter = if (icon != null) {
                     painterResource(
-                        icon
+                        icon,
                     )
                 } else {
                     painterResource(R.drawable.ic_empty_icon)
@@ -84,19 +84,19 @@ fun ComposePreferenceSwitchWithIcon(
         Column(
             modifier = Modifier
                 .padding(start = preferencePaddingStart, end = 8.dp)
-                .weight(fill = true, weight = 0.5f)
+                .weight(fill = true, weight = 0.5f),
         ) {
             Text(
                 modifier = Modifier.padding(top = 16.dp),
                 text = header,
                 color = if (enabled) MaterialTheme.colorScheme.onPrimary else MaterialTheme.colorScheme.onTertiary,
-                style = MaterialTheme.typography.bodyLarge
+                style = MaterialTheme.typography.bodyLarge,
             )
             Text(
                 modifier = Modifier.padding(top = 4.dp, bottom = 16.dp),
                 text = description,
                 color = if (enabled) MaterialTheme.colorScheme.onSecondary else MaterialTheme.colorScheme.onTertiary,
-                style = MaterialTheme.typography.bodyMedium
+                style = MaterialTheme.typography.bodyMedium,
             )
         }
 
@@ -104,7 +104,7 @@ fun ComposePreferenceSwitchWithIcon(
             modifier = Modifier
                 .weight(0.12f)
                 .padding(16.dp)
-                .align(Alignment.CenterVertically)
+                .align(Alignment.CenterVertically),
         ) {
             Switch(
                 modifier = Modifier.padding(end = 4.dp),
@@ -114,7 +114,7 @@ fun ComposePreferenceSwitchWithIcon(
                     switchOn.value = !switchOn.value
                     onSwitchChanged(it)
                 },
-                colors = SwitchDefaults.colors(checkedThumbColor = Color.White)
+                colors = SwitchDefaults.colors(checkedThumbColor = Color.White),
             )
         }
     }

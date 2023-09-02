@@ -55,7 +55,7 @@ fun LoadingScreen(
     showErrorMessage: Boolean,
     billingConnectionResponseCode: Int,
     progressIndicatorColor: Int,
-    backgroundColor: Int
+    backgroundColor: Int,
 ) {
     Scaffold(backgroundColor = colorResource(id = backgroundColor)) { contentPadding ->
         if (showErrorMessage) {
@@ -64,10 +64,10 @@ fun LoadingScreen(
                     .padding(contentPadding)
                     .fillMaxWidth()
                     .verticalScroll(
-                        rememberScrollState()
+                        rememberScrollState(),
                     ),
                 verticalArrangement = Arrangement.Center,
-                horizontalAlignment = Alignment.CenterHorizontally
+                horizontalAlignment = Alignment.CenterHorizontally,
             ) {
                 CircularProgressIndicator(
                     modifier = Modifier
@@ -75,22 +75,22 @@ fun LoadingScreen(
                         .align(alignment = Alignment.CenterHorizontally)
                         .width(
                             dimensionResource(
-                                id = com.bytesculptor.applib.R.dimen.circular_loading_size
-                            )
+                                id = com.bytesculptor.applib.R.dimen.circular_loading_size,
+                            ),
                         )
                         .height(
                             dimensionResource(
-                                id = com.bytesculptor.applib.R.dimen.circular_loading_size
-                            )
+                                id = com.bytesculptor.applib.R.dimen.circular_loading_size,
+                            ),
                         ),
-                    color = colorResource(progressIndicatorColor)
+                    color = colorResource(progressIndicatorColor),
                 )
                 Text(
                     modifier = Modifier.padding(24.dp),
                     text = getConnectionStateString(billingConnectionResponseCode),
                     style = MaterialTheme.typography.subtitle1,
                     textAlign = TextAlign.Start,
-                    color = colorResource(id = com.bytesculptor.applib.R.color.std_font)
+                    color = colorResource(id = com.bytesculptor.applib.R.color.std_font),
                 )
                 Text(
                     modifier = Modifier
@@ -99,7 +99,7 @@ fun LoadingScreen(
                     text = if (billingConnectionResponseCode != 0) "Error code $billingConnectionResponseCode" else "",
                     style = MaterialTheme.typography.subtitle2,
                     textAlign = TextAlign.Start,
-                    color = colorResource(id = com.bytesculptor.applib.R.color.std_font)
+                    color = colorResource(id = com.bytesculptor.applib.R.color.std_font),
                 )
             }
         } else {
@@ -114,13 +114,13 @@ fun LoadingScreen(
                     modifier = Modifier
                         .width(
                             dimensionResource(
-                                id = com.bytesculptor.applib.R.dimen.circular_loading_size
-                            )
+                                id = com.bytesculptor.applib.R.dimen.circular_loading_size,
+                            ),
                         )
                         .height(
                             dimensionResource(
-                                id = com.bytesculptor.applib.R.dimen.circular_loading_size
-                            )
+                                id = com.bytesculptor.applib.R.dimen.circular_loading_size,
+                            ),
                         ),
                     color = colorResource(progressIndicatorColor),
                 )
@@ -158,7 +158,7 @@ private fun getConnectionStateString(billingConnectionResponseCode: Int): String
 @Preview(
     showBackground = true,
     uiMode = Configuration.UI_MODE_NIGHT_YES,
-    device = Devices.PIXEL_4_XL
+    device = Devices.PIXEL_4_XL,
 )
 fun LoadingScreenPreview() {
     BssMaterialTheme {
@@ -166,7 +166,7 @@ fun LoadingScreenPreview() {
             showErrorMessage = true,
             billingConnectionResponseCode = 3,
             progressIndicatorColor = android.R.color.holo_blue_dark,
-            backgroundColor = R.color.color_main_background
+            backgroundColor = R.color.color_main_background,
         )
     }
 }
@@ -175,7 +175,7 @@ fun LoadingScreenPreview() {
 @Preview(
     showBackground = true,
     uiMode = Configuration.UI_MODE_NIGHT_NO,
-    device = Devices.PIXEL_4_XL
+    device = Devices.PIXEL_4_XL,
 )
 fun LoadingScreenSpinnerPreview() {
     BssMaterialTheme {
@@ -183,7 +183,7 @@ fun LoadingScreenSpinnerPreview() {
             showErrorMessage = false,
             billingConnectionResponseCode = 0,
             progressIndicatorColor = android.R.color.holo_blue_dark,
-            backgroundColor = R.color.color_main_background
+            backgroundColor = R.color.color_main_background,
         )
     }
 }
@@ -196,7 +196,7 @@ fun LoadingScreenPreviewTablet() {
             showErrorMessage = true,
             billingConnectionResponseCode = 3,
             progressIndicatorColor = android.R.color.holo_blue_dark,
-            backgroundColor = R.color.color_main_background
+            backgroundColor = R.color.color_main_background,
         )
     }
 }
