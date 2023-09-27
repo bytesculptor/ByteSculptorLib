@@ -140,6 +140,6 @@
     <string name="yesterday">Ontem</string>
     <string name="move_to_previous_page">Mover para a página anterior</string>
     <string name="move_to_next_page">Mover para a próxima página</string>
-    <string name="configure">configurar</string>
+    <string name="configure">Configurar</string>
     <string name="help_bottomsheet">Ver com uma dica de ajuda.</string>
 </resources>
