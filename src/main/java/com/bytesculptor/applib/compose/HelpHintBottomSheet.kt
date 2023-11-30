@@ -79,7 +79,7 @@ fun HelpHintBottomSheet(
         if (titleText.isNotEmpty()) {
             Text(
                 modifier = Modifier
-                    .padding(start = 16.dp, end = 16.dp, top = 0.dp, bottom = 4.dp)
+                    .padding(start = 16.dp, end = 16.dp, top = 0.dp, bottom = 8.dp)
                     .background(color = colorResource(id = backgroundColor)),
                 text = titleText,
                 color = MaterialTheme.colorScheme.onPrimary,
@@ -90,7 +90,7 @@ fun HelpHintBottomSheet(
         if (titleSubText.isNotEmpty()) {
             Text(
                 modifier = Modifier
-                    .padding(start = 16.dp, end = 16.dp, top = 4.dp, bottom = 4.dp)
+                    .padding(start = 16.dp, end = 16.dp, top = 4.dp, bottom = 8.dp)
                     .background(color = colorResource(id = backgroundColor)),
                 text = titleSubText,
                 color = MaterialTheme.colorScheme.onPrimary,
