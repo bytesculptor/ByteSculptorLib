@@ -30,7 +30,6 @@ import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
@@ -58,75 +57,65 @@ fun LoadingScreen(
     progressIndicatorColor: Int,
     backgroundColor: Int,
 ) {
-    Scaffold { contentPadding ->
-        if (showErrorMessage) {
-            Column(
+    if (showErrorMessage) {
+        Column(
+            modifier = Modifier
+                .background(colorResource(id = backgroundColor))
+                .fillMaxWidth()
+                .verticalScroll(
+                    rememberScrollState(),
+                ),
+            verticalArrangement = Arrangement.Center,
+            horizontalAlignment = Alignment.CenterHorizontally,
+        ) {
+            CircularProgressIndicator(
                 modifier = Modifier
-                    .background(colorResource(id = backgroundColor))
-                    .padding(contentPadding)
-                    .fillMaxWidth()
-                    .verticalScroll(
-                        rememberScrollState(),
+                    .padding(top = 32.dp)
+                    .align(alignment = Alignment.CenterHorizontally)
+                    .width(
+                        dimensionResource(
+                            id = com.bytesculptor.applib.R.dimen.circular_loading_size,
+                        ),
+                    )
+                    .height(
+                        dimensionResource(
+                            id = com.bytesculptor.applib.R.dimen.circular_loading_size,
+                        ),
                     ),
-                verticalArrangement = Arrangement.Center,
-                horizontalAlignment = Alignment.CenterHorizontally,
-            ) {
-                CircularProgressIndicator(
-                    modifier = Modifier
-                        .padding(top = 32.dp)
-                        .align(alignment = Alignment.CenterHorizontally)
-                        .width(
-                            dimensionResource(
-                                id = com.bytesculptor.applib.R.dimen.circular_loading_size,
-                            ),
-                        )
-                        .height(
-                            dimensionResource(
-                                id = com.bytesculptor.applib.R.dimen.circular_loading_size,
-                            ),
-                        ),
-                    color = colorResource(progressIndicatorColor),
-                )
-                Text(
-                    modifier = Modifier.padding(24.dp),
-                    text = getConnectionStateString(billingConnectionResponseCode),
-                    style = MaterialTheme.typography.bodyMedium,
-                    textAlign = TextAlign.Start,
-                    color = colorResource(id = R.color.std_font),
-                )
-                Text(
-                    modifier = Modifier
-                        .padding(horizontal = 24.dp)
-                        .align(alignment = Alignment.CenterHorizontally),
-                    text = if (billingConnectionResponseCode != 0) "Error code $billingConnectionResponseCode" else "",
-                    style = MaterialTheme.typography.bodyMedium,
-                    textAlign = TextAlign.Start,
-                    color = colorResource(id = R.color.std_font),
-                )
-            }
-        } else {
-            Column(
+                color = colorResource(progressIndicatorColor),
+            )
+            Text(
+                modifier = Modifier.padding(24.dp),
+                text = getConnectionStateString(billingConnectionResponseCode),
+                style = MaterialTheme.typography.bodyMedium,
+                textAlign = TextAlign.Start,
+                color = colorResource(id = R.color.std_font),
+            )
+            Text(
                 modifier = Modifier
-                    .fillMaxSize()
-                    .padding(contentPadding),
-                verticalArrangement = Arrangement.Center,
-                horizontalAlignment = Alignment.CenterHorizontally,
-            ) {
-                CircularProgressIndicator(
-                    modifier = Modifier
-                        .width(
-                            dimensionResource(
-                                id = com.bytesculptor.applib.R.dimen.circular_loading_size,
-                            ),
-                        )
-                        .height(
-                            dimensionResource(
-                                id = com.bytesculptor.applib.R.dimen.circular_loading_size,
-                            ),
-                        ),
-                    color = colorResource(progressIndicatorColor),
-                )
-            }
+                    .padding(horizontal = 24.dp)
+                    .align(alignment = Alignment.CenterHorizontally)
+                    .padding(top = 32.dp, bottom = 64.dp),
+                text = if (billingConnectionResponseCode != 0) "Error code $billingConnectionResponseCode" else "",
+                style = MaterialTheme.typography.bodyMedium,
+                textAlign = TextAlign.Start,
+                color = colorResource(id = R.color.std_font),
+            )
+        }
+    } else {
+        Column(
+            modifier = Modifier
+                .fillMaxSize()
+                .background(colorResource(id = backgroundColor)),
+            verticalArrangement = Arrangement.Center,
+            horizontalAlignment = Alignment.CenterHorizontally,
+        ) {
+            CircularProgressIndicator(
+                modifier = Modifier
+                    .width(dimensionResource(id = com.bytesculptor.applib.R.dimen.circular_loading_size))
+                    .height(dimensionResource(id = com.bytesculptor.applib.R.dimen.circular_loading_size)),
+                color = colorResource(progressIndicatorColor),
+            )
         }
     }
 }
