@@ -25,9 +25,10 @@ import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.wrapContentHeight
-import androidx.compose.material.ButtonDefaults
-import androidx.compose.material.OutlinedButton
-import androidx.compose.material.Text
+import androidx.compose.material3.ButtonDefaults
+import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.OutlinedButton
+import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -57,7 +58,7 @@ fun ButtonGroup(
                 OutlinedButton(
                     modifier = modifier.weight(1f),
                     onClick = buttonModel.onClick,
-                    elevation = ButtonDefaults.elevation(
+                    elevation = ButtonDefaults.buttonElevation(
                         defaultElevation = 20.dp,
                         pressedElevation = 15.dp,
                         disabledElevation = 0.dp,
@@ -65,8 +66,9 @@ fun ButtonGroup(
                         focusedElevation = 10.dp,
                     ),
                     border = BorderStroke(1.dp, colorResource(id = buttonBorderColor)),
+                    shape = MaterialTheme.shapes.medium,
                     colors = ButtonDefaults.buttonColors(
-                        backgroundColor = colorResource(id = buttonColor),
+                        containerColor = colorResource(id = buttonColor),
                         contentColor = Color.White,
                     ),
                 ) {

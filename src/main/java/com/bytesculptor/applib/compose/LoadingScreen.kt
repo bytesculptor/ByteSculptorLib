@@ -18,6 +18,7 @@
 package com.bytesculptor.applib.compose
 
 import android.content.res.Configuration
+import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
@@ -27,10 +28,10 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
-import androidx.compose.material.CircularProgressIndicator
-import androidx.compose.material.MaterialTheme
-import androidx.compose.material.Scaffold
-import androidx.compose.material.Text
+import androidx.compose.material3.CircularProgressIndicator
+import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Scaffold
+import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -57,10 +58,11 @@ fun LoadingScreen(
     progressIndicatorColor: Int,
     backgroundColor: Int,
 ) {
-    Scaffold(backgroundColor = colorResource(id = backgroundColor)) { contentPadding ->
+    Scaffold { contentPadding ->
         if (showErrorMessage) {
             Column(
                 modifier = Modifier
+                    .background(colorResource(id = backgroundColor))
                     .padding(contentPadding)
                     .fillMaxWidth()
                     .verticalScroll(
@@ -88,18 +90,18 @@ fun LoadingScreen(
                 Text(
                     modifier = Modifier.padding(24.dp),
                     text = getConnectionStateString(billingConnectionResponseCode),
-                    style = MaterialTheme.typography.subtitle1,
+                    style = MaterialTheme.typography.bodyMedium,
                     textAlign = TextAlign.Start,
-                    color = colorResource(id = com.bytesculptor.applib.R.color.std_font),
+                    color = colorResource(id = R.color.std_font),
                 )
                 Text(
                     modifier = Modifier
                         .padding(horizontal = 24.dp)
                         .align(alignment = Alignment.CenterHorizontally),
                     text = if (billingConnectionResponseCode != 0) "Error code $billingConnectionResponseCode" else "",
-                    style = MaterialTheme.typography.subtitle2,
+                    style = MaterialTheme.typography.bodyMedium,
                     textAlign = TextAlign.Start,
-                    color = colorResource(id = com.bytesculptor.applib.R.color.std_font),
+                    color = colorResource(id = R.color.std_font),
                 )
             }
         } else {
