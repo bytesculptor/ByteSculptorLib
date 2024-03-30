@@ -65,7 +65,7 @@ fun LoadingScreen(
                 .verticalScroll(
                     rememberScrollState(),
                 ),
-            verticalArrangement = Arrangement.Center,
+            verticalArrangement = Arrangement.Top,
             horizontalAlignment = Alignment.CenterHorizontally,
         ) {
             CircularProgressIndicator(
@@ -107,7 +107,7 @@ fun LoadingScreen(
             modifier = Modifier
                 .fillMaxSize()
                 .background(colorResource(id = backgroundColor)),
-            verticalArrangement = Arrangement.Center,
+            verticalArrangement = Arrangement.Top,
             horizontalAlignment = Alignment.CenterHorizontally,
         ) {
             CircularProgressIndicator(
