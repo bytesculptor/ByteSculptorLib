@@ -15,7 +15,7 @@
  *
  */
 
-package com.bytesculptor.applib.compose
+package com.bytesculptor.applib.compose.iap
 
 import android.content.res.Configuration
 import androidx.compose.foundation.background
