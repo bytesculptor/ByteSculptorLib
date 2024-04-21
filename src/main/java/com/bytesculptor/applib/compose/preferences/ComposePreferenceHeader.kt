@@ -23,7 +23,9 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
+import com.bytesculptor.applib.compose.theme.BssMaterialTheme
 import com.bytesculptor.applib.compose.theme.preferencePaddingEnd
 import com.bytesculptor.applib.compose.theme.preferencePaddingStart
 
@@ -44,4 +46,12 @@ fun ComposePreferenceHeader(
         color = color,
         style = MaterialTheme.typography.titleMedium,
     )
+}
+
+@Preview (showBackground = true)
+@Composable
+fun ComposePreferenceHeaderPreview() {
+    BssMaterialTheme {
+        ComposePreferenceHeader(header = "Header", color = MaterialTheme.colorScheme.onPrimary)
+    }
 }
