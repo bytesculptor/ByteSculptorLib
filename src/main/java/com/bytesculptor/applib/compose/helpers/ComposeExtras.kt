@@ -30,7 +30,6 @@ import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Close
-import androidx.compose.material3.Divider
 import androidx.compose.material3.HorizontalDivider
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
@@ -53,7 +52,7 @@ fun ComposeDivider(modifier: Modifier = Modifier) {
 
 @Composable
 fun ComposeBottomSheetNotch(modifier: Modifier) {
-    Divider(
+    HorizontalDivider(
         modifier = modifier
             .padding(vertical = 12.dp)
             .width(32.dp),
