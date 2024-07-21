@@ -85,8 +85,8 @@
     <string name="reset">Zurücksetzen</string>
     <string name="sort">Sortieren</string>
     <string name="next">nächste</string>
-    <string name="sort_asc">aufsteigend</string>
-    <string name="sort_desc">absteigend</string>
+    <string name="sort_asc">Aufsteigend</string>
+    <string name="sort_desc">Absteigend</string>
     <string name="added">Hinzugefügt</string>
     <string name="pro_version">Pro Version</string>
     <string name="no_email_app_found">Keine E-Mail-App gefunden</string>

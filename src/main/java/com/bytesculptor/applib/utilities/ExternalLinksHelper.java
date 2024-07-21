@@ -46,7 +46,7 @@ public class ExternalLinksHelper {
             intent.addFlags(FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_REORDER_TO_FRONT);
             context.startActivity(Intent.createChooser(intent, "sendEmail"));
         } catch (Exception e) {
-            if (toastMessageIfFails.trim().length() > 0) {
+            if (!toastMessageIfFails.trim().isEmpty()) {
                 Toast.makeText(context, toastMessageIfFails, Toast.LENGTH_LONG).show();
             }
         }
@@ -64,7 +64,7 @@ public class ExternalLinksHelper {
         try {
             context.startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(url)));
         } catch (Exception e) {
-            if (toastMessageIfFails.trim().length() > 0) {
+            if (!toastMessageIfFails.trim().isEmpty()) {
                 Toast.makeText(context, toastMessageIfFails, Toast.LENGTH_LONG).show();
             }
         }
