@@ -34,6 +34,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.res.dimensionResource
 import androidx.compose.ui.res.stringResource
@@ -52,15 +53,16 @@ import com.bytesculptor.applib.compose.theme.BssMaterialTheme
 
 @Composable
 fun LoadingScreen(
+    modifier: Modifier = Modifier,
     showErrorMessage: Boolean,
     billingConnectionResponseCode: Int,
     progressIndicatorColor: Int,
-    backgroundColor: Int,
+    backgroundColor: Color,
 ) {
     if (showErrorMessage) {
         Column(
-            modifier = Modifier
-                .background(colorResource(id = backgroundColor))
+            modifier = modifier
+                .background(backgroundColor)
                 .fillMaxWidth()
                 .verticalScroll(
                     rememberScrollState(),
@@ -104,9 +106,9 @@ fun LoadingScreen(
         }
     } else {
         Column(
-            modifier = Modifier
+            modifier = modifier
                 .fillMaxSize()
-                .background(colorResource(id = backgroundColor)),
+                .background(backgroundColor),
             verticalArrangement = Arrangement.Top,
             horizontalAlignment = Alignment.CenterHorizontally,
         ) {
@@ -157,7 +159,7 @@ fun LoadingScreenPreview() {
             showErrorMessage = true,
             billingConnectionResponseCode = 3,
             progressIndicatorColor = android.R.color.holo_blue_dark,
-            backgroundColor = R.color.color_main_background,
+            backgroundColor = Color.Black,
         )
     }
 }
@@ -174,7 +176,7 @@ fun LoadingScreenSpinnerPreview() {
             showErrorMessage = false,
             billingConnectionResponseCode = 0,
             progressIndicatorColor = android.R.color.holo_blue_dark,
-            backgroundColor = R.color.color_main_background,
+            backgroundColor = Color.Black,
         )
     }
 }
@@ -187,7 +189,7 @@ fun LoadingScreenPreviewTablet() {
             showErrorMessage = true,
             billingConnectionResponseCode = 3,
             progressIndicatorColor = android.R.color.holo_blue_dark,
-            backgroundColor = R.color.color_main_background,
+            backgroundColor = Color.Black,
         )
     }
 }
