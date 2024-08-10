@@ -68,9 +68,8 @@ fun HelpHintBottomSheet(
         val contentCloseButton = stringResource(R.string.help)
         ComposeCloseButton(
             modifier = Modifier
-                .padding(start = 8.dp, end = 8.dp, top = 4.dp, bottom = 0.dp)
                 .focusable(true)
-                .align(Alignment.End)
+                .align(Alignment.CenterHorizontally)
                 .semantics {
                     contentDescription = contentCloseButton
                 },
