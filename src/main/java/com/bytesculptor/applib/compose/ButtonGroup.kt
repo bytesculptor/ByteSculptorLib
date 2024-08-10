@@ -58,13 +58,6 @@ fun ButtonGroup(
                 OutlinedButton(
                     modifier = modifier.weight(1f),
                     onClick = buttonModel.onClick,
-                    elevation = ButtonDefaults.buttonElevation(
-                        defaultElevation = 20.dp,
-                        pressedElevation = 15.dp,
-                        disabledElevation = 0.dp,
-                        hoveredElevation = 15.dp,
-                        focusedElevation = 10.dp,
-                    ),
                     border = BorderStroke(1.dp, colorResource(id = buttonBorderColor)),
                     shape = MaterialTheme.shapes.medium,
                     colors = ButtonDefaults.buttonColors(

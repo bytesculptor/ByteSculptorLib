@@ -18,6 +18,7 @@
 package com.bytesculptor.applib.compose.iap
 
 import android.content.res.Configuration
+import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.Spacer
@@ -28,6 +29,7 @@ import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.Card
+import androidx.compose.material3.CardColors
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
@@ -36,6 +38,7 @@ import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
+import com.bytesculptor.applib.R
 import com.bytesculptor.applib.compose.theme.BssMaterialTheme
 import com.bytesculptor.applib.iap.PurchaseDataItem
 
@@ -43,14 +46,23 @@ import com.bytesculptor.applib.iap.PurchaseDataItem
 fun PurchaseItem(
     modifier: Modifier,
     purchase: PurchaseDataItem,
+    backgroundColor: Int = R.color.color_main_background,
+    strokeColor: Int = R.color.color_main_background,
 ) {
     Card(
         modifier = modifier
             .padding(vertical = 8.dp)
             .fillMaxWidth(),
-        shape = RoundedCornerShape(6.dp),
+        shape = RoundedCornerShape(12.dp),
+        border = BorderStroke(1.dp, colorResource(id = strokeColor)),
+        colors = CardColors(
+            containerColor = colorResource(id = backgroundColor),
+            contentColor = colorResource(id = R.color.std_font),
+            disabledContainerColor = colorResource(id = backgroundColor),
+            disabledContentColor = colorResource(id = R.color.std_font),
+        ),
     ) {
-        Column {
+        Column(modifier = Modifier.padding(3.dp)) {
             Spacer(modifier = Modifier.height(8.dp))
             Text(
                 modifier = Modifier.padding(horizontal = 16.dp, vertical = 3.dp),
@@ -79,7 +91,7 @@ fun PurchaseItem(
 }
 
 @Composable
-fun PurchaseView(modifier: Modifier, purchases: List<PurchaseDataItem>) {
+private fun PurchaseView(modifier: Modifier, purchases: List<PurchaseDataItem>) {
     LazyColumn(
         modifier = modifier,
         contentPadding = PaddingValues(10.dp, 8.dp, 10.dp, 8.dp),
