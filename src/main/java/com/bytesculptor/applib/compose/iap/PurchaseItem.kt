@@ -48,6 +48,7 @@ fun PurchaseItem(
     purchase: PurchaseDataItem,
     backgroundColor: Int = R.color.color_main_background,
     strokeColor: Int = R.color.color_main_background,
+    textColor: Int = R.color.std_font,
 ) {
     Card(
         modifier = modifier
@@ -57,9 +58,9 @@ fun PurchaseItem(
         border = BorderStroke(1.dp, colorResource(id = strokeColor)),
         colors = CardColors(
             containerColor = colorResource(id = backgroundColor),
-            contentColor = colorResource(id = R.color.std_font),
+            contentColor = colorResource(id = textColor),
             disabledContainerColor = colorResource(id = backgroundColor),
-            disabledContentColor = colorResource(id = R.color.std_font),
+            disabledContentColor = colorResource(id = textColor),
         ),
     ) {
         Column(modifier = Modifier.padding(3.dp)) {
@@ -69,21 +70,21 @@ fun PurchaseItem(
                 text = purchase.gpa,
                 style = MaterialTheme.typography.bodyMedium,
                 textAlign = TextAlign.Center,
-                color = colorResource(id = com.bytesculptor.applib.R.color.std_font),
+                color = colorResource(id = textColor),
             )
             Text(
                 modifier = Modifier.padding(horizontal = 16.dp, vertical = 3.dp),
                 text = purchase.itemName,
                 style = MaterialTheme.typography.bodyMedium,
                 textAlign = TextAlign.Center,
-                color = colorResource(id = com.bytesculptor.applib.R.color.std_font),
+                color = colorResource(id = textColor),
             )
             Text(
                 modifier = Modifier.padding(horizontal = 16.dp, vertical = 3.dp),
                 text = purchase.date,
                 style = MaterialTheme.typography.bodyMedium,
                 textAlign = TextAlign.Center,
-                color = colorResource(id = com.bytesculptor.applib.R.color.std_font),
+                color = colorResource(id = textColor),
             )
             Spacer(modifier = Modifier.height(8.dp))
         }
@@ -96,8 +97,8 @@ private fun PurchaseView(modifier: Modifier, purchases: List<PurchaseDataItem>) 
         modifier = modifier,
         contentPadding = PaddingValues(10.dp, 8.dp, 10.dp, 8.dp),
     ) {
-        items(purchases) { purch ->
-            PurchaseItem(Modifier, purch)
+        items(purchases) { item ->
+            PurchaseItem(Modifier, item)
         }
     }
 }
