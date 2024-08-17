@@ -90,7 +90,7 @@ fun ComposePreferenceSwitchWithIcon(
                 modifier = Modifier.padding(top = 16.dp),
                 text = header,
                 color = if (enabled) MaterialTheme.colorScheme.onPrimary else MaterialTheme.colorScheme.onTertiary,
-                style = MaterialTheme.typography.bodyLarge,
+                style = MaterialTheme.typography.titleMedium,
             )
             Text(
                 modifier = Modifier.padding(top = 4.dp, bottom = 16.dp),

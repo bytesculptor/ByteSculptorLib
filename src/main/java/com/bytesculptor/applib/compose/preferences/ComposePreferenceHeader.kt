@@ -44,7 +44,7 @@ fun ComposePreferenceHeader(
         ),
         text = header,
         color = color,
-        style = MaterialTheme.typography.titleMedium,
+        style = MaterialTheme.typography.titleLarge,
     )
 }
 
