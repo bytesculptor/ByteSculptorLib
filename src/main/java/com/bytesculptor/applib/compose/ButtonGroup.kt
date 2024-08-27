@@ -66,7 +66,13 @@ fun ButtonGroup(
                     ),
                 ) {
                     Column(modifier = Modifier.fillMaxWidth()) {
-                        Text(text = buttonModel.name, fontSize = 22.sp, textAlign = TextAlign.Start)
+                        if (buttonModel.name.isNotEmpty()) {
+                            Text(
+                                text = buttonModel.name,
+                                fontSize = 22.sp,
+                                textAlign = TextAlign.Start
+                            )
+                        }
                         Text(text = buttonModel.description, textAlign = TextAlign.Start)
                         Text(
                             modifier = Modifier.align(Alignment.End),
@@ -113,8 +119,13 @@ fun ButtonPreviewDouble() {
             "",
             "£1.50",
         ) {}
+        val buttonModel3 = ButtonModel(
+            "",
+            "Description without title",
+            "£1.50",
+        ) {}
         ButtonGroup(
-            buttonModels = listOf(buttonModel1, buttonModel2),
+            buttonModels = listOf(buttonModel1, buttonModel2, buttonModel3),
             buttonBorderColor = android.R.color.holo_blue_dark,
             buttonColor = android.R.color.background_dark,
         )
