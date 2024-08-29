@@ -24,6 +24,7 @@ import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.wrapContentHeight
 import androidx.compose.material3.ButtonDefaults
 import androidx.compose.material3.MaterialTheme
@@ -75,7 +76,9 @@ fun ButtonGroup(
                         }
                         Text(text = buttonModel.description, textAlign = TextAlign.Start)
                         Text(
-                            modifier = Modifier.align(Alignment.End),
+                            modifier = Modifier
+                                .padding(top = 4.dp)
+                                .align(Alignment.End),
                             text = buttonModel.price ?: "---",
                             textAlign = TextAlign.End,
                             fontSize = 22.sp,
